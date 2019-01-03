@@ -1,6 +1,6 @@
 {
     "45a22f3e19f900e64bf110f421a06a1e21ba9813": {
-        "en": "University of\n        Luxembourg"
+        "en": "University of Luxembourg"
     }, 
     "4d7b81b9d84f73b7537421f0375ade3c817ef7be": {
         "en": "RESTENA Staff", 
@@ -13,5 +13,8 @@
     "e31f1aa675a784c40a6f4fab02ea9b5853883e08": {
         "en": "RESTENA Users", 
         "fr": "RESTENA Utilisateurs"
+    }, 
+    "ff57646bf746581a4be30b0b31e4af4f8e61ceb6": {
+        "en": "University of Luxembourg - Production"
     }
 }

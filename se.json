@@ -1,8 +1,4 @@
 {
-    "04d972280af1a3c0ba4530c1108ea9fa21e4ce01": {
-        "en": "Swedish Defence University", 
-        "sv": "F\u00f6rsvarsh\u00f6gskolan"
-    }, 
     "0b7a7de98e2a44c51b6ebb28a94e108b4e9945c3": {
         "en": "Kristianstad University Sweden", 
         "sv": "H\u00f6gskolan Kristianstad"
@@ -24,8 +20,12 @@
         "sv": "Linn\u00e9universitetet"
     }, 
     "25ef03993c91e51df46fe3cfca76ff3f95794258": {
-        "en": "Stockholm School of Theology", 
-        "sv": "Teologiska h\u00f6gskolan Stockholm"
+        "en": "University College Stockholm", 
+        "sv": "Enskilda H\u00f6gskolan Stockholm"
+    }, 
+    "2b9df1b70d0187d3713c29884ff14039274fc0b9": {
+        "en": "Swedish Defence University", 
+        "sv": "F\u00f6rsvarsh\u00f6gskolan"
     }, 
     "2f260e8b792a91db581bb3833731ade6773c56e9": {
         "en": "SUNET Employees", 
@@ -51,10 +51,6 @@
         "en": "Halmstad University", 
         "sv": "H\u00f6gskolan i Halmstad"
     }, 
-    "3e855916baf8adab548cbf38129416a993238784": {
-        "en": "Ume\u00e5 University", 
-        "sv": "Ume\u00e5 universitet"
-    }, 
     "589378517675f3d08a8f08e6bbe60428cba6d89d": {
         "en": "University of Sk\u00f6vde", 
         "sv": "H\u00f6gskolan i Sk\u00f6vde"
@@ -76,16 +72,12 @@
         "sv": "Ersta Sk\u00f6ndal H\u00f6gskola"
     }, 
     "7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c": {
-        "en": "Ume\u00e5 University (ADFS)", 
-        "sv": "Ume\u00e5 universitet (ADFS)"
+        "en": "Ume\u00e5 University", 
+        "sv": "Ume\u00e5 universitet"
     }, 
     "8af9cc7876688e5ed6cf9e91248edb95c798adc1": {
         "en": "Mid Sweden University", 
         "sv": "Mittuniversitetet"
-    }, 
-    "957ff4e597a0df45b3f2061c0c9ffa99b1be8e04": {
-        "en": "University West", 
-        "sv": "H\u00f6gskolan V\u00e4st"
     }, 
     "a4fdcec05e1332f67fbd004873f8f7f7ab84ba1e": {
         "en": "Swedish University of Agricultural Science", 
@@ -109,7 +101,11 @@
     }, 
     "ace817495ed71099080555611b61dc71892fb89c": {
         "en": "Malm\u00f6 University", 
-        "sv": "Malm\u00f6 h\u00f6gskola"
+        "sv": "Malm\u00f6 universitet"
+    }, 
+    "af0106685475a3434bc4f580e9d75830e1853b1f": {
+        "en": "Swedish Museum of Natural History", 
+        "sv": "Naturhistoriska riksmuseet"
     }, 
     "b330d17272594bb14f3780073eeb77e832873039": {
         "en": "eduID", 
@@ -131,12 +127,8 @@
         "en": "NORDUnet", 
         "sv": "NORDUnet"
     }, 
-    "c7692f211a792bf662ff82c4e79be7290f366cac": {
-        "en": "Stockholm University of the Arts", 
-        "sv": "Stockholms konstn\u00e4rliga h\u00f6gskola"
-    }, 
     "cba2999348463bba47fd6a5d86632a06b4c24c49": {
-        "en": "R\u00f6da Korsets H\u00f6gskola", 
+        "en": "Swedish Red Cross University College", 
         "sv": "R\u00f6da Korsets H\u00f6gskola"
     }, 
     "cebcc3d101637d5d8f97a99c554b02a91a71effd": {
@@ -146,6 +138,10 @@
     "d3f167be21a5aede5077dfdc380620a69aae8be9": {
         "en": "Royal Institute of Art", 
         "sv": "Kungl. Konsth\u00f6gskolan"
+    }, 
+    "d4e02dc5334ec0f8abd6f5a4ba9d1fe3d123033b": {
+        "en": "University West new", 
+        "sv": "H\u00f6gskolan V\u00e4st ny"
     }, 
     "d7ccfccd6e0c36959010c46643b9352c246c2995": {
         "en": "Uppsala University", 

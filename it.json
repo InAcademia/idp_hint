@@ -3,6 +3,10 @@
         "en": "IRCCS Associazione Oasi Maria SS. Onlus", 
         "it": "IRCCS Associazione Oasi Maria SS. Onlus"
     }, 
+    "01a9c87f37eaa793824204faf485ab9801406624": {
+        "en": "IRCCS ISMETT - Palermo", 
+        "it": "IRCCS ISMETT - Palermo"
+    }, 
     "03877bbb06eef028f1b216d8c234ecf175d198e3": {
         "en": "University of Padova", 
         "it": "Universit\u00e0 degli Studi di Padova"
@@ -64,6 +68,10 @@
         "en": "University of Rome Tor Vergata", 
         "it": "Universit\u00e0 degli Studi di Roma Tor Vergata"
     }, 
+    "1dadf7683b7fd2c813875d9636a4e90fe0c794ce": {
+        "en": "University of Udine", 
+        "it": "Universit\u00e0 degli Studi di Udine"
+    }, 
     "21652dc4ff59dd2527539241746a1960029aa92a": {
         "en": "IRCCS Istituto Tumori \"Giovanni Paolo II\" - Bari", 
         "it": "IRCCS Istituto Tumori \"Giovanni Paolo II\" - Bari"
@@ -92,13 +100,13 @@
         "en": "IRCCS IOV Istituto Oncologico Veneto", 
         "it": "IRCCS IOV Istituto Oncologico Veneto"
     }, 
+    "30af3e7e84da64c94936ad091a36e3f748cc5a48": {
+        "en": "University of Sannio", 
+        "it": "Universit\u00e0 degli Studi del Sannio"
+    }, 
     "311bc922f1501fc5dc4da458fcdd3a1fc6f2687b": {
         "en": "Mediterranea University of Reggio Calabria", 
         "it": "Universit\u00e0 degli Studi Mediterranea di Reggio Calabria"
-    }, 
-    "31b16b9c826ea5cbce5813c858ab182793e58587": {
-        "en": "University of Salerno", 
-        "it": "Universit\u00e0 di Salerno"
     }, 
     "3274a5be46ac4e383ba5926c0b3c213786a7861e": {
         "en": "IRCCS Auxologico - Milano", 
@@ -144,6 +152,10 @@
         "en": "University of Pavia", 
         "it": "Universit\u00e0 degli Studi di Pavia"
     }, 
+    "5e2ef83667d7fe46b63d222beaab5d104b061334": {
+        "en": "IRCCS FBF - Brescia", 
+        "it": "IRCCS FBF - Brescia"
+    }, 
     "5fcecd94f8773d7465c7e4c21206196a17199882": {
         "en": "IMT Lucca - Identity Provider", 
         "it": "IMT Lucca - Identity Provider"
@@ -155,6 +167,10 @@
     "68cd67c4007814b29aea57b54a38c58bdc30ffbc": {
         "en": "University of Bari Aldo Moro", 
         "it": "Universit\u00e0 degli Studi di Bari Aldo Moro"
+    }, 
+    "6e24d902e1609811571e6a506280de1ef17ac583": {
+        "en": "IRCCS IEO - Milano", 
+        "it": "IRCCS IEO - Milano"
     }, 
     "6e6cdfa8466d214215bb9782889f9779d9eac9ac": {
         "en": "University of Trento", 
@@ -169,12 +185,16 @@
         "it": "Universit\u00e0 di Ferrara"
     }, 
     "71ee00555ae37014a9a2837ac5ecc71cec921c26": {
-        "en": "IRCCS SDN, Istituto di Ricerca Diagnostica e Nucleare - Napoli", 
-        "it": "IRCCS SDN, Istituto di Ricerca Diagnostica e Nucleare - Napoli"
+        "en": "IRCCS SDN - Napoli", 
+        "it": "IRCCS SDN - Napoli"
     }, 
     "757add4a3342bcea8e48edee423eb10b3691279c": {
         "en": "IIT - Istituto Italiano di Tecnologia", 
         "it": "IIT - Istituto Italiano di Tecnologia"
+    }, 
+    "7b7d0efcf91dd42ffa716798d8e677e45171ce30": {
+        "en": "European Gravitational Observatory", 
+        "it": "European Gravitational Observatory"
     }, 
     "80100c3420ee37e16d73393c806efbce885a9759": {
         "en": "National Research Council (CNR)", 
@@ -209,16 +229,16 @@
         "it": "IRCCS Fondazione Stella Maris"
     }, 
     "8dc6712452bd990ff5537f365dc2d85d3a0bde6f": {
-        "en": "SSCOL - Soprintendenza Speciale per il Colosseo", 
-        "it": "SSCOL - Soprintendenza Speciale per il Colosseo"
+        "en": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma", 
+        "it": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma"
     }, 
     "8e78b6c1852f3a783a65f3d24601304db73c70d5": {
         "en": "University of Naples Federico II", 
         "it": "Universit\u00e0 degli Studi di Napoli Federico II"
     }, 
     "90856be637dc1846019bdb569a7a1fa31aa81671": {
-        "en": "University of Camerino (new)", 
-        "it": "Universit\u00e0 di Camerino (nuovo)"
+        "en": "University of Camerino", 
+        "it": "Universit\u00e0 di Camerino"
     }, 
     "91e0ebbeb83ffedce955520a82d5476bd3b429f3": {
         "en": "IRCCS ICS Maugeri - Pavia", 
@@ -228,6 +248,10 @@
         "de": "EURAC", 
         "en": "https://idp.eurac.edu/idp/shibboleth", 
         "it": "EURAC"
+    }, 
+    "9af4700f1f43e449f18df3f26554bd69f6abaaa8": {
+        "en": "IRCCS Burlo Garofolo - Trieste", 
+        "it": "IRCCS Burlo Garofolo - Trieste"
     }, 
     "9dadbf6351f8b6b4e6e341bd5c44a73905322089": {
         "en": "IZS del Mezzogiorno", 
@@ -244,10 +268,6 @@
     "abcb8e1dcca4348d7905a5d6de7af693085068cf": {
         "en": "University of Macerata.", 
         "it": "Universita' di Macerata"
-    }, 
-    "af553bc2e878ec35cd91279ac6d96b539e76cea1": {
-        "en": "Universita' Studi della Tuscia", 
-        "it": "Universita' Studi della Tuscia"
     }, 
     "b0fdc375b76daca9f54414e95d63f70d72723b68": {
         "en": "National Institute of Oceanography and Experimental Geophysics", 
@@ -277,8 +297,8 @@
         "it": "Universit\u00e0 degli studi di Bergamo"
     }, 
     "c26af72456b44ada8f263c8bf943d8437e24b90c": {
-        "en": "Consortium GARR Identity Provider", 
-        "it": "Consortium GARR Identity Provider"
+        "en": "Consortium GARR", 
+        "it": "Consortium GARR"
     }, 
     "c2d7a157648aba90c1eb12a5d9645eb579ac185d": {
         "en": "University of Perugia", 
@@ -295,6 +315,10 @@
     "c9fa4f3509ea5a64a0f09b6b355ace8e50e22777": {
         "en": "University of Cassino - IDP", 
         "it": "Universit\u00e0 degli Studi di Cassino e del Lazio Meridionale"
+    }, 
+    "cc907a8c610e9858089ae0abfb707b3d1de202e2": {
+        "en": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)", 
+        "it": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)"
     }, 
     "d064a8067d6a9af5c15d0966eb09fb96d863040c": {
         "en": "Universit\u00e0 di Napoli Parthenope", 
@@ -327,6 +351,10 @@
     "e6c3dc3fa6b722f5dd4831d5f88b918a6d911e63": {
         "en": "IRCCS INRCA - Ancona", 
         "it": "IRCCS INRCA - Ancona"
+    }, 
+    "ea2e2f2de2cb74aaf941f13f14efe5d084b3c862": {
+        "en": "University of Salerno", 
+        "it": "Universit\u00e0 degli Studi di Salerno"
     }, 
     "efbb7b3a2ec5f8507d8b83d40daf27cfcad434a9": {
         "en": "University of Parma", 

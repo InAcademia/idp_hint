@@ -1,4 +1,8 @@
 {
+    "039c8845a644f6e13f2bf20843dd9e8fa7174fab": {
+        "en": "National Institute of Chemistry Slovenia", 
+        "sl": "Kemijski in\u0161titut"
+    }, 
     "059912fe2bf6d8083de94e69c4bf34d89f57486f": {
         "en": "ARNES", 
         "sl": "Arnes"
@@ -10,6 +14,10 @@
     "0c8e89aba4071d945541670ad28f59082e28a703": {
         "en": "Alma Mater Europaea ECM", 
         "sl": "Alma Mater Europaea ECM"
+    }, 
+    "2458d8127925b22c2bc3973412cc97c1c6c25ef8": {
+        "en": "NIB", 
+        "sl": "NIB"
     }, 
     "24a1bbc88954a8ca80019012070b32a7f59dfe5e": {
         "en": "University of Maribor", 
@@ -34,10 +42,6 @@
     "a74edeaf38afc774789ef62b189b01047c80cb29": {
         "en": "University of Nova Gorica", 
         "sl": "Univerza v Novi Gorici"
-    }, 
-    "c8958e088ba697aad85d669b770aa70db4c5d2e8": {
-        "en": "Gymnasium Piran", 
-        "sl": "Gimnazija, elektro in pomorska \u0161ola Piran"
     }, 
     "d15d36318d95e8fd2740c94950cc108e35cc2d4c": {
         "en": "University of Ljubljana, Faculty of Medicine", 

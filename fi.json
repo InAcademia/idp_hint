@@ -1,0 +1,109 @@
+{
+    "00c8e5bfe1552b6f5986802c07d8342acc6f2fe8": {
+        "en": "\u00c5bo Akademi University", 
+        "fi": "\u00c5bo Akademi"
+    }, 
+    "05c26b7b059bcc01e63430d9441fe4ecf4e7ed33": {
+        "en": "University of Jyv\u00e4skyl\u00e4", 
+        "fi": "Jyv\u00e4skyl\u00e4n yliopisto"
+    }, 
+    "0a0ece8fcd1c85add765f00bc566b01a2e22c7be": {
+        "en": "University of Eastern Finland", 
+        "fi": "It\u00e4-Suomen yliopisto"
+    }, 
+    "0dbea670f99f22248d5f6b6aded43a79421c3df4": {
+        "en": "https://haka.saimia.fi/idp/shibboleth", 
+        "fi": "Saimaan ammattikorkeakoulu", 
+        "sv": "Yrkeh\u00f6gskola Saimaa"
+    }, 
+    "1370118bc520c5e034154eb709fce2eed035af1a": {
+        "en": "Turku University of Applied Sciences", 
+        "sv": "\u00c5bo yrkesh\u00f6gskola"
+    }, 
+    "21a6aa9eeb9e195974daf93af0634beab8040a69": {
+        "en": "https://tullbommen.arcada.fi/simplesaml/", 
+        "fi": "Arcada", 
+        "sv": "Arcada"
+    }, 
+    "2bc368862d7a1a5c01a378772afb5f34d197f08e": {
+        "en": "University of Turku", 
+        "sv": "\u00c5bo universitet"
+    }, 
+    "310f86a35affa32a4db17ca838a448d6c7131530": {
+        "en": "University of the Arts Helsinki", 
+        "fi": "Taideyliopisto"
+    }, 
+    "3d683fa556a285150fd9b0c6b22afb352ce51513": {
+        "en": "University of Helsinki", 
+        "sv": "Helsingfors universitet"
+    }, 
+    "4671dbc5c5c0b28551925eded3155a21ea9ca928": {
+        "en": "Lahti University of Applied Sciences", 
+        "fi": "Lahden ammattikorkeakoulu"
+    }, 
+    "5b88784d0fbf530d98b964d4c97eb36033692e0b": {
+        "en": "https://login.uwasa.fi/idp/shibboleth", 
+        "fi": "Vaasan yliopisto", 
+        "sv": "Vasa Universitet"
+    }, 
+    "60480c332d588959e238c2273d989abfd8431427": {
+        "en": "Metropolia University of Applied Sciences", 
+        "fi": "Metropolia Ammattikorkeakoulu"
+    }, 
+    "8518078e3febd0b655646b4e339540f4950cd454": {
+        "en": "Lappeenranta University of Technology", 
+        "sv": "Lappeenranta Tekniska H\u00f6gskolan"
+    }, 
+    "8d25686ea0ff20596371f073335663a330e541cf": {
+        "en": "Tampere University of Applied Sciences", 
+        "sv": "Tampereen ammattikorkeakoulu"
+    }, 
+    "8f4e9cf0e541d277845a190462cc946098cfc1cf": {
+        "en": "Savonia University of Applied Sciences", 
+        "fi": "Savonia-ammattikorkeakoulu"
+    }, 
+    "935a4bc67df39138bfacf9b9b9dfa5a24ddff2e7": {
+        "en": "https://shibboleth.uta.fi/idp/shibboleth", 
+        "fi": "Tampereen yliopisto", 
+        "sv": "Tammerfors universitet"
+    }, 
+    "9e1a7233a730388fa2ae9af5e9612bcfcfab6261": {
+        "en": "https://login.oulu.fi/idp/shibboleth", 
+        "fi": "Oulun yliopisto", 
+        "sv": "Ule\u00e5borgs universitet"
+    }, 
+    "9e9490530cc8a35ff82209d8720b51c2475b7557": {
+        "en": "https://idp.shh.fi/idp/shibboleth", 
+        "fi": "Hanken Svenska handelsh\u00f6gskolan", 
+        "sv": "Hanken Svenska handelsh\u00f6gskolan"
+    }, 
+    "a26be58d6d9a3f89f0f2bed57549a2bb4d1ff36d": {
+        "en": "Tampere Universities", 
+        "sv": "Tampere Universities"
+    }, 
+    "b84f837071807cffbb858548c761f5a936963d18": {
+        "en": "University of Lapland", 
+        "fi": "Lapin yliopisto"
+    }, 
+    "c2690ff4998ca4320f0f5e725420769a88aa15fd": {
+        "en": "National Institute for Health and Welfare", 
+        "fi": "Terveyden ja hyvinvoinnin laitos"
+    }, 
+    "d8f0491fcae6c4b096e46547bedf9f25635e8521": {
+        "en": "https://idp.aalto.fi/idp/shibboleth", 
+        "fi": "Aalto-yliopisto", 
+        "sv": "Aalto-universitetet"
+    }, 
+    "e76fda2e06c1d98523c7258c00e4df0931ca359b": {
+        "en": "Finnish Meteorological Institute", 
+        "fi": "Ilmatieteen laitos"
+    }, 
+    "ed1f4beef2d81b5bebd2725c7bab8c067a578efb": {
+        "en": "CSC - IT Center for Science Ltd.", 
+        "fi": "CSC - Tieteen tietotekniikan keskus Oy"
+    }, 
+    "f77a7d0a58f7b169a250d2eb2f64aa630e79453c": {
+        "en": "Tampere University of Technology", 
+        "fi": "Tampereen teknillinen yliopisto"
+    }
+}

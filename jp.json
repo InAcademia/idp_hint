@@ -1,19 +1,55 @@
 {
+    "0007717d0f32bb96e0486fb50917ba76abfb0b12": {
+        "en": "Tokyo University of Agriculture and Technology", 
+        "ja": "\u6771\u4eac\u8fb2\u5de5\u5927\u5b66"
+    }, 
     "0dc25327aeecd7afd3eb264df014db487175928a": {
         "en": "National Institute of Informatics", 
         "ja": "\u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240"
+    }, 
+    "20ce136325d4574e5a5f157e6e486c8e706a5f7b": {
+        "en": "Tokyo Denki University", 
+        "ja": "\u6771\u4eac\u96fb\u6a5f\u5927\u5b66"
+    }, 
+    "3386e9cf4e106596e23f3b3f5adf58a3c33fca58": {
+        "en": "Chiba Institute of Technology", 
+        "ja": "\u5343\u8449\u5de5\u696d\u5927\u5b66"
     }, 
     "49b9da81fd5fa408e3b0dd941933b064c6f2827b": {
         "en": "GakuNin IdP", 
         "ja": "\u5b66\u8a8dIdP"
     }, 
+    "599c1b30ee71f662364ed261121bf116233494b2": {
+        "en": "Keio University", 
+        "ja": "\u6176\u61c9\u7fa9\u587e\u5927\u5b66"
+    }, 
+    "5a9528ece0b26a3cd459662aa1b9345c28b2ffde": {
+        "en": "Tokyo University of Pharmacy and Life Sciences", 
+        "ja": "\u6771\u4eac\u85ac\u79d1\u5927\u5b66"
+    }, 
     "5d65ec82724b38eb27de02ad8f4b1cf584b26ad8": {
         "en": "Kyushu Institute of Technology", 
         "ja": "\u4e5d\u5dde\u5de5\u696d\u5927\u5b66"
     }, 
+    "680dc7bc32f1c7c65f261380c48e79d8b0793ce4": {
+        "en": "Ibaraki University", 
+        "ja": "\u8328\u57ce\u5927\u5b66"
+    }, 
+    "6c08e8a92eb34a329139a0d6ace7327f999d89e1": {
+        "en": "Shibaura Institute of Technology", 
+        "ja": "\u829d\u6d66\u5de5\u696d\u5927\u5b66"
+    }, 
+    "8efb45794264eb67e723a593f5b0d608f9c1008c": {
+        "en": "Kanazawa University", 
+        "ja": "\u91d1\u6ca2\u5927\u5b66"
+    }, 
     "9fa3faace0ecb65eee49afad29fa63c9eec306aa": {
         "en": "Kyoto Institute of Technology", 
         "ja": "\u4eac\u90fd\u5de5\u82b8\u7e4a\u7dad\u5927\u5b66"
+    }, 
+    "a16615b2f238e27e693ad7664cd4575f0da24b88": {
+        "en": "The University of Electro-Communications", 
+        "ja": "\u96fb\u6c17\u901a\u4fe1\u5927\u5b66"
     }, 
     "aee2411925142e26ebaedf4d9ce85446ff06be1a": {
         "en": "Yamagata University", 

@@ -1,4 +1,8 @@
 {
+    "041f33db760c9da567d2646357daab956865c90e": {
+        "en": "UAB - Universitat Aut\u00f2noma de Barcelona", 
+        "es": "UAB - Universitat Aut\u00f2noma de Barcelona"
+    }, 
     "0481acf05beb795a45f5bbb1b41676ed36b76e43": {
         "en": "URV - Rovira i Virgili University", 
         "es": "URV - Universidad Rovira i Virgili"
@@ -7,9 +11,33 @@
         "en": "CIC bioGune", 
         "es": "CIC bioGune"
     }, 
+    "06bb9ee43af5361267fec67c1c1d3f1ab881a634": {
+        "en": "ANECA - Agencia Nacional de Evaluaci\u00f3n de la Calidad y Acreditaci\u00f3n", 
+        "es": "ANECA - Agencia Nacional de Evaluaci\u00f3n de la Calidad y Acreditaci\u00f3n"
+    }, 
+    "10f2bca857be1b38849d9f3f3b63f1f3010bbc0c": {
+        "en": "UPO - University Pablo Olavide", 
+        "es": "UPO - Universidad Pablo Olavide"
+    }, 
+    "16531aff3e51033aeca66ecda68a8c423fa04800": {
+        "en": "UNICAN - University of Cantabria", 
+        "es": "UNICAN - Universidad de Cantabria"
+    }, 
     "1b956c1400bcd68b7836b696eda12eedf08afcaf": {
         "en": "IAC - Instituto Astrof\u00edsico de Canarias", 
         "es": "IAC - Instituto Astrof\u00edsico de Canarias"
+    }, 
+    "1d58ce86166132a6e7be8239f9ac81c756b70cb4": {
+        "en": "UMH - Universidad Miguel Hern\u00e1ndez de Elche", 
+        "es": "UMH - Universidad Miguel Hern\u00e1ndez de Elche"
+    }, 
+    "2014c1c8a4ae114d5037423f89d23dbcfa77c184": {
+        "en": "UNIOVI - Universidad de Oviedo", 
+        "es": "UNIOVI - Universidad de Oviedo"
+    }, 
+    "2089ec1c6973a94d8f962c0c847305f7f2870809": {
+        "en": "CENIEH - Centro Nacional de Investigaci\u00f3n sobre la Evoluci\u00f3n Humana", 
+        "es": "CENIEH - Centro Nacional de Investigaci\u00f3n sobre la Evoluci\u00f3n Humana"
     }, 
     "2338fce3c580d18c5e076acdba350b760e0505d3": {
         "en": "CSIC - Consejo Superior de Investigaciones Cientificas", 
@@ -19,9 +47,21 @@
         "en": "USJ - Universidad San Jorge", 
         "es": "USJ - Universidad San Jorge"
     }, 
+    "2ba3fabeacf723170edea8d4c972bc3bf4d7464f": {
+        "en": "ICFO - Instituto de Ciencias Fot\u00f3nicas", 
+        "es": "ICFO - Instituto de Ciencias Fot\u00f3nicas"
+    }, 
     "2c2b11fc38f9037aeb1926afc8de55b20d33b1af": {
         "en": "UAM - Universidad Aut\u00f3noma de Madrid", 
         "es": "UAM - Universidad Aut\u00f3noma de Madrid"
+    }, 
+    "2e136e99110c7e7fae46554ec3945e25b50f3496": {
+        "en": "CITA - Centro de Investigaci\u00f3n y Tecnolog\u00eda Agroalimentaria de Arag\u00f3n", 
+        "es": "CITA - Centro de Investigaci\u00f3n y Tecnolog\u00eda Agroalimentaria de Arag\u00f3n"
+    }, 
+    "31d2844c0115cf4cef221f54cca5b0234a627a71": {
+        "en": "UBU - Universidad de Burgos", 
+        "es": "UBU - Universidad de Burgos"
     }, 
     "320c118ba6efc61aebe6ad7a91b81f7fa40ad4b0": {
         "en": "UNIR - International University of La Rioja", 
@@ -31,6 +71,14 @@
         "en": "CESGA - Centro de Supercomputacion de Galicia", 
         "es": "CESGA - Centro de Supercomputacion de Galicia"
     }, 
+    "3bcab4483d3ecc50b2c9ecd3cd8c67e2078bf42e": {
+        "en": "UCA - University of Cadiz", 
+        "es": "UCA - Universidad de C\u00e1diz"
+    }, 
+    "4672331d1930ed7a0a0cf21797456d30c216209f": {
+        "en": "UPF - Universitat Pompeu Fabra", 
+        "es": "UPF - Universitat Pompeu Fabra"
+    }, 
     "4803b5d785277724b91b6bbd2474ccf5beb80c64": {
         "en": "UOC - Universitat Oberta de Catalunya", 
         "es": "UOC - Universitat Oberta de Catalunya"
@@ -39,13 +87,25 @@
         "en": "USC - Universidade de Santiago de Compostela", 
         "es": "USC -Universidade de Santiago de Compostela"
     }, 
-    "4b98826339035d6e3f6b8601007b3e23f6f76582": {
-        "en": "RedIRIS - Spanish Research and Academic Network (v\u00eda SIR2)", 
-        "es": "RedIRIS - Red acad\u00e9mica y de investigaci\u00f3n espa\u00f1ola (v\u00eda SIR2)"
+    "4eab5d89423478c30bbad2322f052fcde416c316": {
+        "en": "USAL - Universidad de Salamanca", 
+        "es": "USAL - Universidad de Salamanca"
+    }, 
+    "53dfc492b56fc0505051ad73116ccb4ca0b04058": {
+        "en": "URJC - Universidad Rey Juan Carlos", 
+        "es": "URJC - Universidad Rey Juan Carlos"
     }, 
     "53edfcfac69508231254baedec1209a9a58ef4aa": {
         "en": "UB - University of Barcelona", 
         "es": "UB - Universidad de Barcelona"
+    }, 
+    "54a615461c12632963b2ecfef0f0903f8fb72765": {
+        "en": "DEUSTO - Universidad de Deusto", 
+        "es": "DEUSTO - Universidad de Deusto"
+    }, 
+    "55caa6ff84e89a2eeec4073a07fd6c7605c92787": {
+        "en": "UNILEON - Universidad de Le\u00f3n", 
+        "es": "UNILEON - Universidad de Le\u00f3n"
     }, 
     "573116c096bd85296da6c0fd921b9f36dc4c3805": {
         "en": "UM - University of Murcia", 
@@ -55,17 +115,33 @@
         "en": "UCM - Complutense University of Madrid", 
         "es": "UCM - Universidad Complutense de Madrid"
     }, 
+    "5d2918ec7f8c93976ea8d28aeb7d22b9e110bcfd": {
+        "en": "UVIC - Universitat de Vic - Universitat Central de Catalunya", 
+        "es": "UVIC - Universitat de Vic - Universitat Central de Catalunya"
+    }, 
     "65041fb411526e025f75e08e334cfe183bc301f6": {
         "en": "CRG - Centre for Genomic Regulation", 
         "es": "CRG - Centre for Genomic Regulation"
+    }, 
+    "687fcf460111f47ca846a616820a6ef4d3b635fa": {
+        "en": "edunav - Consejer\u00eda de educaci\u00f3n, Gobierno de Navarra", 
+        "es": "edunav - Consejer\u00eda de educaci\u00f3n, Gobierno de Navarra"
     }, 
     "68f5309b1a3a08b448d794bf48238a99bf7d7e09": {
         "en": "UMA - University of Malaga", 
         "es": "UMA - Universidad de M\u00e1laga"
     }, 
+    "6fe8413811fb4264c70d50b9e524424ab7e32103": {
+        "en": "CELLS - Laboratorio de Luz Sincotr\u00f3n", 
+        "es": "CELLS - Laboratorio de Luz Sincotr\u00f3n"
+    }, 
     "7b6c7121ae8c088ac9ab560ad1ac3402aff4b610": {
         "en": "EHU - University of the Basque Country", 
         "es": "EHU - Universidad del Pa\u00eds Vasco"
+    }, 
+    "7c128b2f64c261924855279c8af8c596c22ed4bb": {
+        "en": "ESS - Consorcio ESS Bilbao", 
+        "es": "ESS - Consorcio ESS Bilbao"
     }, 
     "7c45aae0232a17a353dc7615e27a64db19a2f1c5": {
         "en": "DIPC - Donostia International Physics Center", 
@@ -75,9 +151,17 @@
         "en": "UC3M - University Carlos III of Madrid", 
         "es": "UC3M - Universidad Carlos III de Madrid"
     }, 
+    "869c03a264d5c24487a941ed87240a8548de80b8": {
+        "en": "UDL - Universitat de Lleida", 
+        "es": "UDL - Universitat de Lleida"
+    }, 
     "94d6276df4bea8e3c8e22250c1b9c2773f1b0596": {
         "en": "ESADE - Escuela Superior de Administraci\u00f3n y Direcci\u00f3n de Empresas", 
         "es": "ESADE - Escuela Superior de Administraci\u00f3n y Direcci\u00f3n de Empresas"
+    }, 
+    "9582425308d42ae4bb661e39a0632c9e5a1d7ff3": {
+        "en": "UNAV - University of Navarra", 
+        "es": "UNAV - Universidad de Navarra"
     }, 
     "991b71866f6f6175f6bd2b286bd7024af0c12aa7": {
         "en": "CARTIF", 
@@ -114,6 +198,10 @@
         "en": "UPM - Polytechnic University of Madrid", 
         "es": "UPM - Universidad Polit\u00e9cnica de Madrid"
     }, 
+    "c1069294661d4c2124da029ec19169f8aa9e497a": {
+        "en": "UHU - University of Huelva", 
+        "es": "UHU - Universidad de Huelva"
+    }, 
     "c568fc60d8880daf1d4b1fe66d1efe461c0a5ac8": {
         "en": "UNED - National Distance Education University", 
         "es": "UNED - Universidad Nacional de Educaci\u00f3n a Distancia"
@@ -122,13 +210,45 @@
         "en": "UNIA - Universidad Internacional de Andalucia", 
         "es": "UNIA - Universidad Internacional de Andalucia"
     }, 
+    "ca06b5073db1fd26b9cf5bd69289569d6f4d9536": {
+        "en": "UPNA - niversidad P\u00fablica de Navarra", 
+        "es": "UPNA - niversidad P\u00fablica de Navarra"
+    }, 
+    "cb198b0bffe22792687e46a82e5cf8d587f7396b": {
+        "en": "CSUC - Consorci de Serveis Universitaris de Catalunya", 
+        "es": "CSUC - Consorci de Serveis Universitaris de Catalunya"
+    }, 
+    "cc0c8eb3746615a3d4c1e5ab7a0ab86a6cf13e79": {
+        "en": "ZLC - Zaragoza Logistics Center", 
+        "es": "ZLC - Zaragoza Logistics Center"
+    }, 
     "cca406681c1fd5df5cd73329f891b6197f681f58": {
         "en": "CIEMAT", 
         "es": "CIEMAT"
     }, 
+    "d3d792e653aa7809529a621a51e9d34e449659ae": {
+        "en": "UCLM - University of Castilla La Mancha", 
+        "es": "UCLM - Universidad de Castilla La Mancha"
+    }, 
     "da2a5b686008a0a5242a9eb7d6a477be0ac86df7": {
         "en": "UV - Universitat de Valencia", 
         "es": "UV - Universitat de Valencia"
+    }, 
+    "db0749267c5051d0c6d444d7d77c2c8766675abb": {
+        "en": "RAE - Real Academia Espa\u00f1ola", 
+        "es": "RAE - Real Academia Espa\u00f1ola"
+    }, 
+    "dd4f8d89f353b1e2793b00055e802ef186904e1a": {
+        "en": "CICA - Science computer center of Andaluc\u00eda", 
+        "es": "CICA - Centro Inform\u00e1tico Cient\u00edfico de Andaluc\u00eda"
+    }, 
+    "dd7319768727721904e6878382f2ca1881eb71bf": {
+        "en": "UDIMA - Universidad a Distancia de Madrid", 
+        "es": "UDIMA - Universidad a Distancia de Madrid"
+    }, 
+    "e143d363211da051280ddda659701f7a4fd532ef": {
+        "en": "UGR - University of Granada", 
+        "es": "UGR - Universidad de Granada"
     }, 
     "eb55ba1e48fa3886b3dc9ffc6a94717ba1fbd5f1": {
         "en": "RedIRIS - Spanish Research and Academic Network", 
@@ -145,5 +265,13 @@
     "f9f18d064d5b6c2a155dd26a48e50b0cd14b0a63": {
         "en": "UAH - University of Alcal\u00e1", 
         "es": "UAH - Universidad de Alcal\u00e1"
+    }, 
+    "fb13b8f83d74dc029803889acbe550f44d019394": {
+        "en": "I2BASQUE - Red Acad\u00e9mica I2BASQUE", 
+        "es": "I2BASQUE - Red Acad\u00e9mica I2BASQUE"
+    }, 
+    "fe8bc49abbaaaf188b01b5d0bc1b9513d8d41884": {
+        "en": "UJI - University Jaume I", 
+        "es": "UJI - Universitat Jaume I"
     }
 }

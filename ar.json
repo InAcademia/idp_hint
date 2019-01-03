@@ -1,11 +1,19 @@
 {
+    "30ad4233e6f87514d8945805eda02c0f367d64a3": {
+        "en": "UBA IdP", 
+        "es": "IdP UBA"
+    }, 
     "43dbd1341fdf0ad8be656003b6f026a153fc0524": {
-        "en": "Innovared IdP", 
-        "es": "IdP Identidad de InnovaRed"
+        "en": "Innovared Test IdP", 
+        "es": "IdP Test de InnovaRed"
     }, 
     "b85f5d61106a949feafd7bb5e9987f13253ffe7c": {
         "en": "UNSL IdP", 
         "es": "IdP - UNSL"
+    }, 
+    "c36d403e50ceb7927169ca439148f0e1361ef6c2": {
+        "en": "Innovared IdP", 
+        "es": "IdP Identidad de InnovaRed"
     }, 
     "dd835bb971643f25b3dd7a0d4a80cc723833686e": {
         "en": "UNQ IdP", 

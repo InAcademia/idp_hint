@@ -1,19 +1,11 @@
 {
     "0bcbbe777c55bd9627c3a052a1fd0ede7201e5e5": {
-        "da": "University College Nordjylland", 
-        "en": "University College of Northern Denmark (UCN)"
-    }, 
-    "0bde3a97baa4240128af838c7b56ee89197275bf": {
-        "da": "Social- og Sundhedsskolen i Silkeborg", 
-        "en": "Basic Health Care College Silkeborg"
-    }, 
-    "12750c22ce31763366a0101c4fe6835518a20433": {
-        "da": "K\u00f8benhavn Nord", 
-        "en": "Koebenhavn Nord"
+        "da": "Professionsh\u00f8jskolen UCN", 
+        "en": "UCN"
     }, 
     "138efa9d194557679cdf7be6cb115d9570fcd6de": {
-        "da": "Cphbusiness", 
-        "en": "Cphbusiness"
+        "da": "Cphbusiness [OLD]", 
+        "en": "Cphbusiness [OLD]"
     }, 
     "15c0d3cf29586b484d7eaf15245f4ad521eab163": {
         "da": "Erhvervsakademi Dania", 
@@ -21,23 +13,35 @@
     }, 
     "2ac3a0f801e349c172716ab2532373260cb84dfc": {
         "da": "Rungsted Gymnasium", 
-        "en": "Rungsted High School"
+        "en": "Rungsted Gymnasium"
     }, 
-    "2d0160cbfd0137c6b08451d25197ed1b3e4d1db7": {
-        "da": "University College Sj\u00e6lland", 
-        "en": "University College Zealand"
+    "2d6e18a11a236789549f6023ba1e02a64213ad85": {
+        "da": "ZBC \u2013 Zealand Business College", 
+        "en": "ZBC \u2013 Zealand Business College"
     }, 
     "32ebf67483121297a36ed019ba1de7785c739123": {
         "da": "MR-Forskningssektionen (DRCMR)", 
         "en": "Danish Research Centre for Magnetic Resonance"
     }, 
     "35a243ae4efec96a55992ba512136f9a4a63d6f6": {
-        "da": "University College Lilleb\u00e6lt", 
-        "en": "University College Lillebaelt"
+        "da": "UCL Erhvervsakademi og Professionsh\u00f8jskole", 
+        "en": "UCL University College"
+    }, 
+    "35aa7d87dbbd1b09eda39fc8e35751cbf7977bb6": {
+        "da": "Cphbusiness", 
+        "en": "Cphbusiness"
+    }, 
+    "3d5be1abb40cc6e63dff8786a7bf5d8f2a64da10": {
+        "da": "Danmarks Medie- og Journalisth\u00f8jskole [TEST]", 
+        "en": "Danish School of Media and Journalism [TEST]"
     }, 
     "3d783567a92983c0b95a229efe58b3fd522da4ec": {
         "da": "Erhvervsakademi SydVest", 
         "en": "Business Academy SouthWest (EASV)"
+    }, 
+    "3e43037066e7e294794b1938aae5323646897294": {
+        "da": "Paderup Gymnasium", 
+        "en": "Paderup Gymnasium"
     }, 
     "409dd0f19a5a4188b3005c3e41fc83b6f542e488": {
         "da": "Det Kongelige Bibliotek \u2013 ansatte", 
@@ -55,9 +59,13 @@
         "da": "Fredericia Maskinmesterskole", 
         "en": "Fredericia Maskinmesterskole"
     }, 
-    "490e99634a683d95b276706a3e714f79620f1f97": {
-        "da": "Zealand Business College", 
-        "en": "Zealand Business College"
+    "46447217852f04b3ff7955130889ea9117f678d3": {
+        "da": "Roskilde Universitet (RUC)", 
+        "en": "Roskilde University (RUC)"
+    }, 
+    "46bf3a3f0b814529edc62386ad996155932701f3": {
+        "da": "Energimuseet", 
+        "en": "Danish Museum of Energy"
     }, 
     "4afe607a294460b1180ca336557a3ca04b924070": {
         "da": "K\u00f8benhavns Professionsh\u00f8jskole (tidligere Professionsh\u00f8jskolen Metropol)", 
@@ -68,24 +76,12 @@
         "en": "Design School Kolding"
     }, 
     "4ece490318a017bc2cc24674f5ad049ad562f7b2": {
-        "da": "ITS (IT-Supportcentret)", 
-        "en": "ITS (IT Support Centre)"
-    }, 
-    "54377247eeb84075385fe82b4b799a9cdd7a86c4": {
-        "da": "Marselisborg Gymnasium", 
-        "en": "Marselisborg Gymnasium"
+        "da": "IT-Supportcentret (ITS)", 
+        "en": "IT-Supportcentret (ITS)"
     }, 
     "55160767d334c80049399b65f9de4a1ba37bdee2": {
         "da": "Frederikssund Gymnasium", 
         "en": "Frederikssund Gymnasium"
-    }, 
-    "55e7745b323f9d3123de9d9071c2a27945cddc52": {
-        "da": "\u00c5rhus Social- og Sundhedsskole", 
-        "en": "Aarhus Basic Health Care College"
-    }, 
-    "5cd5497407f7ca1214ecc919d7869ad741f2fefd": {
-        "da": "Vordingborg Gymnasium & HF", 
-        "en": "Vordingborg Gymnasium and Higher Prep Exam"
     }, 
     "62332d3305a60e2b2c4369c0dc7a89c05d7220f6": {
         "da": "Uddannelsesministeriets It", 
@@ -131,13 +127,17 @@
         "da": "Professionsh\u00f8jskolen Absalon", 
         "en": "Absalon University College"
     }, 
+    "8249ec5ee2f5f1744762f49da6899c3e00811781": {
+        "da": "Knord", 
+        "en": "Knord Business College"
+    }, 
     "86225082f343c966c7049d0dd5faaf5ef78a0bc9": {
         "da": "Forsvarets Bibliotekscenter", 
         "en": "Danish Defence Library Center"
     }, 
     "88ffda576070896fdfba5a104edb2388ba6cc3d7": {
-        "da": "Statsbiblioteket - ansatte", 
-        "en": "State and University Library - employees"
+        "da": "Statsbiblioteket \u2013 ansatte", 
+        "en": "State and University Library \u2013 employees"
     }, 
     "8cbd9ea458dbc8a43ad2e63302c1938304341dab": {
         "da": "IT-Universitetet i K\u00f8benhavn", 
@@ -149,15 +149,11 @@
     }, 
     "9714b001434216a68bfde39aa8e25cb8afb7f68d": {
         "da": "Statens Museum for Kunst \u2013 SMK", 
-        "en": "Statens Museum for Kunst \u2013 SMK"
-    }, 
-    "9a79e02b39220d5c2ac601a0269b1092f5547cc9": {
-        "da": "IT-Supportcentret", 
-        "en": "IT-Supportcentret"
+        "en": "National Gallery of Denmark \u2013 SMK"
     }, 
     "9ab9fe713cc667d95a11efbddfd67d06a2cea820": {
-        "da": "Kunstakademiets Arkitekt, Design og Konservatorskoler", 
-        "en": "Schools of Architecture, Design and Conservation"
+        "da": "Kunstakademiets skoler for Arkitektur, Design og Konservering", 
+        "en": "The Royal Danish Academy of Fine Arts Schools of Architecture, Design and Conservation"
     }, 
     "a415673ace85bf283fbbd2af58ba0890d890ebdb": {
         "da": "Erhvervsakademiet Lilleb\u00e6lt", 
@@ -170,10 +166,6 @@
     "b06510fd14db86244ee9e309c33c3909053f3343": {
         "da": "Hotel- og Restaurantskolen", 
         "en": "Copenhagen Hospitality College"
-    }, 
-    "b1b5c0fe85d275dfa5a72afe571dc8c45cfbefe8": {
-        "da": "Grenaa Gymnasium", 
-        "en": "Grenaa Gymnasium"
     }, 
     "b84f1f22bc39582db7ef29683a7ff215a1a2b069": {
         "da": "UC SYD", 
@@ -191,25 +183,41 @@
         "da": "Pharmakon", 
         "en": "Pharmakon"
     }, 
-    "c977574c8bb28fbb9d0e8f8d75146ff12469017d": {
-        "da": "Roskilde Universitet", 
-        "en": "Roskilde University"
-    }, 
     "ccfff7160d570163fbefcc72e008b31a3be09636": {
-        "da": "K\u00f8benhavns Erhvervsakademi", 
+        "da": "KEA \u2013 K\u00f8benhavns Erhvervsakademi", 
         "en": "KEA \u2013 Copenhagen School of Design and Technology"
+    }, 
+    "cf2fbc488be18a4b37d7fcd38b25f1c5e703a25e": {
+        "da": "Vordingborg Gymnasium & HF", 
+        "en": "Vordingborg Gymnasium & HF"
+    }, 
+    "cfd75fc465be31dc0b0f206e12da682594514708": {
+        "da": "International Business College [TEST]", 
+        "en": "International Business College [TEST]"
     }, 
     "d4d3ac8eb1a7c2b98932d7311a7dee8e641f2139": {
         "da": "Copenhagen Business School", 
         "en": "Copenhagen Business School"
     }, 
+    "d6374b46e1b20899dff32715ed57eb6f69e51ce4": {
+        "da": "Frederikssund Gymnasium [TEST]", 
+        "en": "Frederikssund Gymnasium [TEST]"
+    }, 
     "d73e5fcf5329fcf4929a6d1af51830580c98281c": {
         "da": "SIMAC", 
         "en": "SIMAC"
     }, 
+    "d8e84d692d03ee1ff4a5c6bbb3804a6915c24f7d": {
+        "da": "College360", 
+        "en": "College360"
+    }, 
     "dc61568f280319dd4f4d6336bd9fb5400c786acc": {
         "da": "Syddansk Erhvervsskole", 
-        "en": "Syddansk Erhvervsskole"
+        "en": "SDE College"
+    }, 
+    "dc7c1ae1d34167a23d68412bbde06f529ad5e5bf": {
+        "da": "WAYF Orphanage [for udviklere]", 
+        "en": "WAYF Orphanage [for developers]"
     }, 
     "dfc38b59d38786df9a4f9980c21bdc936612cbdf": {
         "da": "Erhvervsakademi Aarhus", 
@@ -219,24 +227,36 @@
         "da": "IBA Erhvervsakademi Kolding", 
         "en": "IBA International Business Academy"
     }, 
+    "e46bc4d3b9bf324f7d6ade049b7ae0d1b45f7fad": {
+        "da": "SOSU \u00d8stjylland", 
+        "en": "Basic Health Care College Eastern Jutland"
+    }, 
+    "e4970a159f83a83b9cf00facb219de78a4f46c36": {
+        "da": "Grenaa Gymnasium", 
+        "en": "Grenaa Gymnasium"
+    }, 
     "e4a120bb9d35e2c03d890d16e41290af303e152c": {
-        "da": "VIA University College", 
-        "en": "VIA University College"
+        "da": "VIA University College [GL]", 
+        "en": "VIA University College [OLD]"
     }, 
     "e645ec802465fe2006b023d7025802c1f69ee748": {
         "da": "Frederikshavn Gymnasium & HF-kursus", 
-        "en": "Frederikshavn upper secondary school and HF-Course"
+        "en": "Frederikshavn Gymnasium & HF-kursus"
+    }, 
+    "e962eddcd81f6b3952a528739848f81589c17458": {
+        "da": "Erhvervsakademi Aarhus [TEST]", 
+        "en": "Business Academy Aarhus [TEST]"
     }, 
     "eec8b6edb7561881516f97b00461cdb78c9de6ac": {
         "da": "Erhvervsakademi MidtVest", 
         "en": "Erhvervsakademi MidtVest"
     }, 
+    "f199c865a38b7a96b492409dd525790a4ba6d4a1": {
+        "da": "VIA University College", 
+        "en": "VIA University College"
+    }, 
     "f41160f312ff3e68c5553a328a7cfd5129089d5a": {
         "da": "Aalborg Universitet", 
         "en": "Aalborg University"
-    }, 
-    "fc8a00392c9d82561a6ffe4ae8fff810debcd658": {
-        "da": "Silkeborg Business College", 
-        "en": "Silkeborg Business College"
     }
 }

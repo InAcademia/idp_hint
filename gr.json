@@ -1,4 +1,8 @@
 {
+    "00d565943be4bdcb74938af04832e8e9ff2d7909": {
+        "el": "HEAL-Link", 
+        "en": "HEAL-Link"
+    }, 
     "0197436d46fe2667df45c6ae2617a79077a447e3": {
         "el": "\u0399\u03cc\u03bd\u03b9\u03bf \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf", 
         "en": "Ionian University"
@@ -44,7 +48,8 @@
         "en": "Technological Educational Institute of Epirus"
     }, 
     "47b024ffc402ef57fd085f643e2e6472de9b5e00": {
-        "en": "https://idp.teikoz.gr/idp/shibboleth"
+        "el": "\u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2", 
+        "en": "Western Macedonia University of Applied Sciences (TEI of Western Macedonia)"
     }, 
     "5316009e5b1f30d293aff17d4aec6dd74c7b3a99": {
         "el": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2", 
@@ -62,6 +67,10 @@
         "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u0388\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2.", 
         "en": "Centre for Research and Technology Hellas."
     }, 
+    "6de8529356527b65eb3f5d6d4cbc67a1dcaf2f12": {
+        "el": "\u039a\u03a0\u0399\u03a3\u039d", 
+        "en": "SNFCC"
+    }, 
     "74e1270c87237bdbf135c40f92ca12193dd6e0c3": {
         "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u0394\u03af\u03ba\u03c4\u03c5\u03bf \u0388\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 - \u0395\u0394\u0395\u03a4", 
         "en": "Greek Research and Technology Network - GRNET"
@@ -74,6 +83,10 @@
         "el": "\u03a0\u03bf\u03bb\u03c5\u03c4\u03b5\u03c7\u03bd\u03b5\u03af\u03bf \u039a\u03c1\u03ae\u03c4\u03b7\u03c2", 
         "en": "Technical University of Crete"
     }, 
+    "780c302de5a01ded20784bdc7e18e9dc2a3d2847": {
+        "el": "\u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2", 
+        "en": "University of West Attica"
+    }, 
     "785ca3d5f499542e350e2b7590213723898224bd": {
         "el": "\u0395\u03b9\u03ba\u03bf\u03bd\u03b9\u03ba\u03cc\u03c2 \u039f\u03b9\u03ba\u03b5\u03af\u03bf\u03c2 \u03a6\u03bf\u03c1\u03ad\u03b1\u03c2 (VHO) \u03c4\u03bf\u03c5 \u0395\u0394\u0395\u03a4 \u03b3\u03b9\u03b1 \u03c4\u03bf G\u00c9ANT", 
         "en": "GRNET Virtual Home Organization (VHO) for G\u00c9ANT"
@@ -85,6 +98,10 @@
     "80a442b02267c4e285d7377c15b8717adcb1b8b2": {
         "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a4\u03b5\u03ba\u03bc\u03b7\u03c1\u03af\u03c9\u03c3\u03b7\u03c2", 
         "en": "National Documentation Centre"
+    }, 
+    "8d603b14540d27e5425ef23d1c3b81756532ad94": {
+        "el": "\u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u03a0\u03b1\u03c4\u03c1\u03ce\u03bd", 
+        "en": "University of Patras"
     }, 
     "9249b0c7f2f7cb73f06f776b84181daf22688047": {
         "el": "\u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2", 
@@ -106,7 +123,8 @@
         "en": "IGTF Certificate Proxy"
     }, 
     "a3570d7b83e12a81d28e333d9a7b084ba6dd4e3b": {
-        "en": "https://idp.aua.gr/idp/shibboleth"
+        "el": "\u0393\u03b5\u03c9\u03c0\u03bf\u03bd\u03b9\u03ba\u03cc \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd", 
+        "en": "Agricultural University of Athens"
     }, 
     "b3e66d6ba6df415b1efcf6ad5bc8ce780e09dcc3": {
         "el": "\u0399\u03bd\u03c3\u03c4\u03b9\u03c4\u03bf\u03cd\u03c4\u03bf \u0395\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03b9\u03ba\u03ce\u03bd \u03a3\u03c5\u03c3\u03c4\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ce\u03bd - \u0399\u0395\u03a3\u0395", 
@@ -159,6 +177,10 @@
     "fa9584c0d02c52d8f3cabc9dce71c441e2686d57": {
         "el": "\u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2", 
         "en": "University of Thessaly"
+    }, 
+    "fad38aa9c19639c4a5981ef13cfeac9bad226c85": {
+        "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ce\u03bd \u0395\u03c1\u03b5\u03c5\u03bd\u03ce\u03bd", 
+        "en": "National Center for Social Research"
     }, 
     "fe0d30baa0c30ced9526a81c98b2f919fdbaf77e": {
         "el": "\u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0388\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2", 

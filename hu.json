@@ -4,8 +4,8 @@
         "hu": "Sz\u00e9chenyi Istv\u00e1n Egyetem"
     }, 
     "1ce465181b866fa5b5d005db229f0463bbb7ea5a": {
-        "en": "NIIF Programme / KIFU", 
-        "hu": "NIIF Program / KIF\u00dc"
+        "en": "Governmental Information Technology Development Agency (KIF\u00dc), Hungary", 
+        "hu": "Korm\u00e1nyzati Informatikai Fejleszt\u00e9si \u00dcgyn\u00f6ks\u00e9g (KIF\u00dc)"
     }, 
     "24edae40596648fd5c9e5ed7a46648c400c8cbad": {
         "en": "Budapest University of Technology and Economics", 
@@ -19,6 +19,10 @@
         "en": "Kaposv\u00e1r University", 
         "hu": "Kaposv\u00e1ri Egyetem"
     }, 
+    "593642e335faa9b2f2fc94ae16fe2138eb9fab40": {
+        "en": "John von Neumann University", 
+        "hu": "Neumann J\u00e1nos Egyetem"
+    }, 
     "6799746ebab584ddeae9a6adce306bc4ed891654": {
         "en": "MTA Research Centre for  Natural Sciences", 
         "hu": "MTA Term\u00e9szettudom\u00e1nyi Kutat\u00f3k\u00f6zpont"
@@ -26,6 +30,10 @@
     "70067e5de93aa968af68ae0d68366d05b457dd95": {
         "en": "The University of West Hungary (Sopron), Hungary", 
         "hu": "Soproni Egyetem"
+    }, 
+    "8459f507908b2fb1d359ca9f28f4ac9f0407a28b": {
+        "en": "Research Centre for Astronomy and Earth Sciences", 
+        "hu": "MTA Csillag\u00e1szati \u00e9s F\u00f6ldtudom\u00e1nyi Kutat\u00f3k\u00f6zpont"
     }, 
     "8529ce7362e38a99ba71685ea6153716663cb3a3": {
         "en": "Hungarian Academy Database (AAT)", 
@@ -66,5 +74,9 @@
     "f96cd8fb4c12a60e88abbb6cb0c8cba20c57b450": {
         "en": "University of Pannonia", 
         "hu": "Pannon Egyetem"
+    }, 
+    "fe8e2ce4b003f00c2c03abe5f53d127587e51914": {
+        "en": "University of Debrecen", 
+        "hu": "Debreceni Egyetem"
     }
 }

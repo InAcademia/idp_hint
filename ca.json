@@ -1,6 +1,6 @@
 {
     "07d7692ab706d4d06eade803c4437bc0ef33c66b": {
-        "en": "University of Toronto"
+        "en": "deprecated IdPv2 University of Toronto"
     }, 
     "0e08c7c5d1dfb781c8ab40d00784c0414ed9f294": {
         "en": "University of Prince Edward Island"
@@ -10,9 +10,6 @@
     }, 
     "102b02e4984a85ebb04c11a6b590ca5e218068b3": {
         "en": "Holland College"
-    }, 
-    "1337e17375fe05f124d710eec159281847655411": {
-        "en": "University of Quebec at Trois Rivieres"
     }, 
     "181f47988f5019b0c16be80a3f03a3558f2f26da": {
         "en": "Thompson Rivers University"
@@ -38,6 +35,9 @@
     }, 
     "3572780a6580908187fecb276f89f5706cf64008": {
         "en": "University of New Brunswick"
+    }, 
+    "38af542868d0d7fc06d5d76b0253a9c5228b8229": {
+        "en": "Carleton University"
     }, 
     "3f6b3ebf100d127736e8fe5c695351f5f540f306": {
         "en": "University of British Columbia"
@@ -92,6 +92,10 @@
     "6abebce79248467087cfd3e4405da6f8aa2f6b8e": {
         "en": "University of Ottawa"
     }, 
+    "726a17714ab6e4aa5e1d4cec415569ad6d69f665": {
+        "en": "University of Quebec at Trois-Rivieres", 
+        "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res"
+    }, 
     "7413a8bc311ba96ec7e693ae4b698828660b8a34": {
         "en": "La Cit\u00e9", 
         "fr": "La Cit\u00e9"
@@ -103,11 +107,19 @@
         "en": "McGill University", 
         "fr": "Universit\u00e9 McGill"
     }, 
+    "8c8415d92678fa250621b59ebce0da58bd744654": {
+        "en": "Universit\u00e9 du Qu\u00e9bec en Outaouais", 
+        "fr": "Universit\u00e9 du Qu\u00e9bec en Outaouais"
+    }, 
     "91864a0c16b8073e41d1d7f521285e1869d3d2b7": {
         "en": "ACORN NS"
     }, 
     "939a44ba0311473b62fef6b9b47d9b03f5027b03": {
         "en": "University of Alberta"
+    }, 
+    "93da6cd50ccae3c96074dd004f8592e49075db42": {
+        "en": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi", 
+        "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi"
     }, 
     "9a4c6e5fe29fb69cb19dc2576d11fb60e46a6544": {
         "en": "University of Waterloo"
@@ -132,6 +144,12 @@
     "ba455295f742b59aed66233087a1a95531d63130": {
         "en": "Trent University"
     }, 
+    "bdd3fcf4a4af3d5cb5dc8a8e9e75f7409a968c34": {
+        "en": "Concordia University"
+    }, 
+    "bed5c1fd1c55a9ab15fbf2d0fd9efb5ba246b450": {
+        "en": "University of Toronto"
+    }, 
     "bee7d1ae3b02c6ff22a3c844122032541f097323": {
         "en": "University of Saskatchewan"
     }, 
@@ -140,7 +158,11 @@
         "fr": "UQAM | Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
     }, 
     "bfe967e88f7860dffe758f108fa0e3c3451ba822": {
-        "en": "Compute Canada Staff"
+        "en": "Compute Canada", 
+        "fr": "Calcul Canada"
+    }, 
+    "cc962b4b2c133f367945e7d58cf9a380dc58c4b8": {
+        "en": "Laurentian University"
     }, 
     "dce9e25faab0e27d4d83fe4c4e17fc1335b04aab": {
         "en": "Maritime College of Forest Technology", 
@@ -148,6 +170,10 @@
     }, 
     "e0059a4ecccbd6a2a41b743cb0231f334777e9de": {
         "en": "Ryerson University"
+    }, 
+    "e134e55981a86fbdb9ff1803b3b0774e00f5cd0f": {
+        "en": "HEC Montr\u00e9al", 
+        "fr": "HEC Montr\u00e9al"
     }, 
     "e1e893233dec5dcfc1b1897e69ae2549a70e8f78": {
         "en": "McMaster University"
@@ -169,6 +195,16 @@
     "edc8cdbc7e345f4fe9d0a10f3dbd65eb905bb4e7": {
         "en": "Universit\u00e9 de Montr\u00e9al", 
         "fr": "Universit\u00e9 de Montr\u00e9al"
+    }, 
+    "f0934a66e81a659583d4497a19d7602834c008b4": {
+        "en": "\u00c9cole de technologie sup\u00e9rieure", 
+        "fr": "\u00c9cole de technologie sup\u00e9rieure"
+    }, 
+    "f3a3954defde26a103157276bda5335467ba28c9": {
+        "en": "zzzTest-UOttawa"
+    }, 
+    "f5f420ac81d9d8e1d38a2b783e0bfdd95d9d3ed7": {
+        "en": "BCNET"
     }, 
     "fb510f3f8957a2f1740bb6626ff0f64e011e6e96": {
         "en": "Camosun College"

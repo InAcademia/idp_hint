@@ -11,6 +11,10 @@
         "en": "Lithuanian Academy of Music and Theatre", 
         "lt": "Lietuvos muzikos ir teatro akademija"
     }, 
+    "12905f5c791e44ab5495474f82d20fd6a5d2b6c6": {
+        "en": "Alytus University of Applied Sciences", 
+        "lt": "Alytaus kolegija"
+    }, 
     "1ed59d4dd978c5043174b7079d7e04bcc67b2b74": {
         "en": "Kaunas University of Technology", 
         "lt": "Kauno technologijos universitetas"
@@ -32,8 +36,8 @@
         "lt": "Aleksandro Stulginskio universitetas"
     }, 
     "851de90c411cce8666e59c12ee9b015c034a20c4": {
-        "en": "Vilnius University", 
-        "lt": "Vilniaus universitetas"
+        "en": "Vilnius University (old system)", 
+        "lt": "Vilniaus universitetas (sena sistema)"
     }, 
     "89c0d7983368fc92fc79d0943d1714783c2840b0": {
         "en": "ISM University of Management and Economics", 
@@ -43,9 +47,25 @@
         "en": "Vytautas Magnus University", 
         "lt": "Vytauto Did\u017eiojo universitetas"
     }, 
+    "8f5f8f54836d68864753fc0446c8cf29277b7cd9": {
+        "en": "European Humanities University", 
+        "lt": "Europos humanitarinis universitetas"
+    }, 
+    "d27e0905e5ddda20720b2c2717dc8fb39f47f639": {
+        "en": "Marijampole College", 
+        "lt": "Marijampol\u0117s kolegija"
+    }, 
     "d343979606604486c79e05c02f7484601fd3e77b": {
         "en": "Lithuanian Maritime Academy", 
         "lt": "Lietuvos auk\u0161toji j\u016breivyst\u0117s mokykla"
+    }, 
+    "d810df7c82f34eb79ae7d1a6fcd1ae8d4f10659a": {
+        "en": "Lithuanian University of Health Sciences", 
+        "lt": "Lietuvos sveikatos moksl\u0173 universitetas"
+    }, 
+    "de0c6556025a39b2972a722a591a644a29dd8cba": {
+        "en": "Vilnius University", 
+        "lt": "Vilniaus universitetas"
     }, 
     "e12cffeb5059ff38900c99affd0980bf11bb21df": {
         "en": "Klaipeda University", 

@@ -24,14 +24,14 @@
         "en": "Galway-Mayo Institute of Technology", 
         "ga": "Instit\u00faid Teicneola\u00edochta na Gaillimhe-Maigh Eo"
     }, 
+    "57c3eaf90c6dac354a1858ed5c49b7f9b0b0d0f6": {
+        "en": "Royal Irish Academy"
+    }, 
     "5c2da6729bba03c9eedaeae57e3e80dce558754c": {
         "en": "Dublin Business School"
     }, 
     "612ddf323fb06ad4872f9e1c68574bf7d7540003": {
         "en": "Dublin Institute for Advanced Studies"
-    }, 
-    "6b3a27a19d1ee28938b5945f7e2c0073b0d53f96": {
-        "en": "Educampus Services"
     }, 
     "765dd6f432559f71d127222c96ef20926b72ec04": {
         "en": "Waterford Institute of Technology", 
@@ -49,7 +49,8 @@
         "ga": "Col\u00e1iste na hOllscoile Corcaigh"
     }, 
     "9454b4963fd8a71064a4e61d475bb4c8de480607": {
-        "en": "Institute of Technology Tallaght"
+        "en": "TU Dublin -Tallaght Campus", 
+        "ga": "OT Baile \u00c1tha Cliath - Campas Tamhlacht"
     }, 
     "96cbc65474b6c7889ca2e45597bc2d1c9032346d": {
         "en": "Griffith College"
@@ -83,8 +84,8 @@
         "en": "Limerick Institute of Technology"
     }, 
     "b2f77c4f58a97f4114865634e3a16b1c99f9eed9": {
-        "en": "Dublin Institute of Technology", 
-        "ga": "Institi\u00faid Teicneola\u00edochta Bhaile Atha Cliath"
+        "en": "TU Dublin", 
+        "ga": "OT Baile \u00c1tha Cliath"
     }, 
     "bbe867fef86c5575db21557e2b9ae1a1e86e497c": {
         "en": "Institute of Technology Carlow"
@@ -104,7 +105,8 @@
         "en": "HEAnet Staff"
     }, 
     "e08877b7a6032ec723126905a45da4d5e0feae7a": {
-        "en": "Institute of Technology Blanchardstown"
+        "en": "TU Dublin - Blanchardstown Campus", 
+        "ga": "OT Baile \u00c1tha Cliath -  Campas Baile Bhlains\u00e9ir"
     }, 
     "fd43f812815911b3fe1831e87378533450a2c80e": {
         "en": "Athlone Institute of Technology", 
