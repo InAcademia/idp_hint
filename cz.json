@@ -131,10 +131,6 @@
         "cs": "Biofyzik\u00e1ln\u00ed \u00fastav AV \u010cR", 
         "en": "Institute of Biophysics AS CR"
     }, 
-    "445fe28a2b3f46bd8ddf11145e1ebf5cbc96adc0": {
-        "cs": "Vysok\u00e1 \u0161kola um\u011bleckopr\u016fmyslov\u00e1 v Praze", 
-        "en": "Academy of Arts, Architecture and Design in Prague"
-    }, 
     "4aa3904d09ae8092ea846cba9efef9da34a37fb4": {
         "cs": "M\u011bstsk\u00e1 knihovna Znojmo", 
         "en": "Municipal library in Znojmo"
@@ -338,6 +334,10 @@
     "bfc56284508928164b55b1bb6e9adbf808c70456": {
         "cs": "Masaryk\u016fv \u00fastav a archiv AV \u010cR", 
         "en": "Masaryk Institute and Archives of the CAS"
+    }, 
+    "c4d574d750ffe4ba2d572ebdf4ae553b5c8945ca": {
+        "cs": "M\u011bstsk\u00e1 knihovna Hodon\u00edn", 
+        "en": "Municipal Library in Hodonin"
     }, 
     "d0b6de02ac7a5b166038a7f654510b13d8552910": {
         "cs": "\u00dastav fyzik\u00e1ln\u00ed chemie J. Heyrovsk\u00e9ho AV \u010cR, v.v.i.", 

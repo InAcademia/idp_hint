@@ -1,8 +1,4 @@
 {
-    "00be6c36063ea4aeb82a60a4c0f31cd3d472e67a": {
-        "en": "ENSICAEN", 
-        "fr": "ENSICAEN"
-    }, 
     "00d535ed38877e778338a33de7b4a8ae8e7c2f38": {
         "en": "Universit\u00e9 de Montpellier 3", 
         "fr": "Universit\u00e9 de Montpellier 3"
@@ -14,10 +10,6 @@
     "03ebc1c58f860a7643e375984cef49260fda2738": {
         "en": "Agropolis International", 
         "fr": "Agropolis International"
-    }, 
-    "04688cbc8df4f8750b97dded344d32185917a56a": {
-        "en": "Rectorat Limoges shib", 
-        "fr": "Rectorat Limoges shib"
     }, 
     "053ce25d6102eb8beaf5260684bff52470c7143b": {
         "en": "IRSTEA - National Research Institute of Science and Technology for Environment and Agriculture", 
@@ -94,10 +86,6 @@
     "114d6bc0eeefacac471a5f54aa385e3dca3047d4": {
         "en": "IRD - French National Research Institute for Sustainable Development", 
         "fr": "IRD - Institut de Recherche pour le D\u00e9veloppement"
-    }, 
-    "116651a5a70f4feb030b070c48adb4803100d9e1": {
-        "en": "Institut Mines Telecom Business School & Telecom SudParis", 
-        "fr": "Institut Mines Telecom Business School & Telecom SudParis"
     }, 
     "116fc5daa9edc0c10dcec15727524608aa88d863": {
         "en": "Synchrotron SOLEIL", 
@@ -187,14 +175,6 @@
         "en": "CNRS", 
         "fr": "CNRS"
     }, 
-    "26ebb47fbfc5495bb5ba9213012625f8cec252d3": {
-        "en": "Rectorat Limoges Test shib3", 
-        "fr": "Rectorat Academie de  Limoges"
-    }, 
-    "285472dbb6def27000e77c5f1829c7470b7e0d09": {
-        "en": "ESEO GROUP", 
-        "fr": "Groupe ESEO"
-    }, 
     "288f53f74f5847031022cc0f6817741aa7b1ebfa": {
         "en": "ENIT Ecole Nationale Ing\u00e9nieurs Tarbes", 
         "fr": "ENIT Ecole Nationale Ing\u00e9nieurs Tarbes"
@@ -222,10 +202,6 @@
     "2f9030c886f022a234aeb74bb43b572a2735d57f": {
         "en": "Universit\u00e9 d'Aix Marseille", 
         "fr": "Universit\u00e9 d'Aix Marseille"
-    }, 
-    "2feec9a59772022b67474cbaeb01eff4a041e019": {
-        "en": "CROUS Orl\u00e9ans-Tours - Personnels", 
-        "fr": "CROUS Orl\u00e9ans-Tours - Personnels"
     }, 
     "3324733c7da7d2d02b9fba3df3352764d104d02a": {
         "en": "Telecom Lille", 
@@ -295,10 +271,6 @@
         "en": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie", 
         "fr": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie"
     }, 
-    "4b18c24f6df44c47598ada8f70320b84081e22dc": {
-        "en": "Sorbonne University - Test", 
-        "fr": "Sorbonne Universit\u00e9 - Test"
-    }, 
     "4b5c07c298fd46fdd9b7f6e6e8a4d845648fb175": {
         "en": "CROUS Normandie - Employees v3", 
         "fr": "CROUS Normandie - Personnels v3"
@@ -334,10 +306,6 @@
     "4ed665408c6dfa6896beda15b04010adb62574e2": {
         "en": "Ecole d'Architecture de la ville et des territoires \u00e0 Marne-la-Vall\u00e9e", 
         "fr": "Ecole d'Architecture de la ville et des territoires \u00e0 Marne-la-Vall\u00e9e"
-    }, 
-    "510d5948dad035b194ff2d6da54c0853d14da6bf": {
-        "en": "TELECOM Lille test", 
-        "fr": "TELECOM Lille test"
     }, 
     "51791b6a9bee6de43cd320d7619caff6eb618e97": {
         "en": "Universit\u00e9 de Poitiers", 
@@ -407,10 +375,6 @@
         "en": "CAMPUS CONDORCET", 
         "fr": "CAMPUS CONDORCET"
     }, 
-    "644e3233501c925bfd64925345b6dc5f47877c23": {
-        "en": "CROUS Strasbourg", 
-        "fr": "CROUS Strasbourg"
-    }, 
     "66418d75725317f8a298311e55a28dc1c982084e": {
         "en": "University Grenoble Alpes - UGA", 
         "fr": "Universit\u00e9 Grenoble Alpes - UGA"
@@ -438,10 +402,6 @@
     "6d4ada5f4057add807d16de6eaf1a9ef291be572": {
         "en": "Universit\u00e9 de Cergy Pontoise", 
         "fr": "Universit\u00e9 de Cergy Pontoise"
-    }, 
-    "6d6e5b96ec7f2a0c1fa3169a69398f6ef579aed4": {
-        "en": "UJM - TEST", 
-        "fr": "UJM - TEST"
     }, 
     "6d91b71c71c6f17846bcc07ccec68cfa4594c08d": {
         "en": "AMUE - Agence de Mutualisation des Universit\u00e9s et Etablissements", 
@@ -591,10 +551,6 @@
         "en": "CROUS Besan\u00e7on V3", 
         "fr": "CROUS Besan\u00e7on V3"
     }, 
-    "88b615efac57bf1b44797789a6e84932aae9739d": {
-        "en": "Universit\u00e9 de Lorraine (v3 test)", 
-        "fr": "Universit\u00e9 de Lorraine (v3 test)"
-    }, 
     "88f26cb4538069b4050e493be245c7a410e51b0b": {
         "en": "CROUS Clermont Auvergne V3", 
         "fr": "CROUS Clermont Auvergne V3"
@@ -638,10 +594,6 @@
     "90eb779645cddcfb79548a5fee10aa790abe5cdc": {
         "en": "CROUS Aix-Marseille", 
         "fr": "CROUS Aix-Marseille"
-    }, 
-    "90f4ded51660f4c1ff772e6ac8a59cd565268b9f": {
-        "en": "Universit\u00e9 de Paris IV - Sorbonne", 
-        "fr": "Universit\u00e9 de Paris IV - Sorbonne"
     }, 
     "9271b03a26b5b3c3e240462753b88d2b736d73e1": {
         "en": "Universit\u00e9 de Haute Alsace", 
@@ -708,8 +660,8 @@
         "fr": "Universit\u00e9 de Franche-Comt\u00e9"
     }, 
     "9c7fe87fecdef22e9c0db8d638037775696c6c88": {
-        "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis oldr3", 
-        "fr": "Institut Mines Telecom Business School & Telecom SudParis oldr3"
+        "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis", 
+        "fr": "Institut Mines Telecom Business School & Telecom SudParis"
     }, 
     "9d85e3fba7c9c43d6839d7973228e18348a44ab6": {
         "en": "Bordeaux Montaigne University", 
@@ -808,8 +760,8 @@
         "fr": "Universit\u00e9 de Lorraine"
     }, 
     "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
-        "en": "Universit\u00e9 de Lille - Sciences et Technologies", 
-        "fr": "Universit\u00e9 de Lille - Sciences et Technologies"
+        "en": "Universit\u00e9 Lille 1 - Sciences et Technologies", 
+        "fr": "Universit\u00e9 Lille 1 - Sciences et Technologies"
     }, 
     "b6a627a3a1dc53bc4663d414ce3a984bb825beaa": {
         "en": "Ecole des Mines de Saint-Etienne", 
@@ -1010,10 +962,6 @@
     "e8a95971c1fae44997768fec82ce1530847629c9": {
         "en": "Universit\u00e9 de Nimes", 
         "fr": "Universit\u00e9 de Nimes"
-    }, 
-    "e8cefb91a09b364d989de8181bebddf6706ae6a8": {
-        "en": "CEA - Test Silab IDPOC", 
-        "fr": "CEA - Test Silab IDPOC"
     }, 
     "eaa182778cb18432e82014177f23ab3f8396363e": {
         "en": "Universit\u00e9 de Lyon - UDL", 

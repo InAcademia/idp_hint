@@ -47,9 +47,6 @@
     "08b780c46849ad2ffa90757868a01510f44217fa": {
         "en": "University of California Hastings College of the Law"
     }, 
-    "09556fb48fc361a543fed17328413f588eb9c546": {
-        "en": "Texas A&M Transportation Institute"
-    }, 
     "09a946e3451a466489f42642ccd27e9fd715a6e3": {
         "en": "Thomas Jefferson National Accelerator Facility"
     }, 
@@ -926,6 +923,9 @@
     "9dcbc4a238c020a9ffe04417252d462356c5eeda": {
         "en": "Lock Haven University"
     }, 
+    "9e7a601f596039f962c9a7bedb07ed15cfa59373": {
+        "en": "Fairleigh Dickinson University"
+    }, 
     "9e884baf750f8880cec29a26a1896aae5d03a58d": {
         "en": "California Polytechnic State University-San Luis Obispo"
     }, 
@@ -1036,9 +1036,6 @@
     }, 
     "b10ac0fd5b18299274bc5531d45bd9e94225cadd": {
         "en": "East Carolina University"
-    }, 
-    "b1ba7a0511e42d6852233ca6e44865082d83322f": {
-        "en": "ztest_Medical University of South Carolina"
     }, 
     "b209d52f7fff4d48ef8653a1664a69c2af362b95": {
         "en": "University of Maryland Eastern Shore"

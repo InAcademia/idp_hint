@@ -7,6 +7,10 @@
         "en": "Rotterdam University of Applied Sciences", 
         "nl": "Hogeschool Rotterdam"
     }, 
+    "04b9ff27b8397d3e68c67011ace967f596eda404": {
+        "en": "Viaa Gereformeerde Hogeschool Zwolle", 
+        "nl": "Viaa Gereformeerde Hogeschool Zwolle"
+    }, 
     "04c0e9369575adb49867f1019948c9aaf05876b5": {
         "en": "ROC van Twente", 
         "nl": "ROC van Twente"
@@ -86,6 +90,9 @@
     "26d2dc47ba00a2fa2acb3203298aa02fdf5efc30": {
         "en": "Vrije Universiteit Amsterdam", 
         "nl": "Vrije Universiteit Amsterdam"
+    }, 
+    "2738bc1aa220cbd78c1ef19a7255364eca0e75ce": {
+        "en": "http://sclogin.koncon.nl/adfs/services/trust"
     }, 
     "2d0c4f653340bada20eeac6c35017b055d89d8d9": {
         "en": "Data Archiving and Networked Services (KNAW)", 
@@ -215,6 +222,10 @@
         "en": "VU medisch centrum", 
         "nl": "VU medisch centrum"
     }, 
+    "67a7ef3f60e8238eba02a42f819e7c378aaf839a": {
+        "en": "Utrecht School of the Arts", 
+        "nl": "Hogeschool voor de Kunsten Utrecht"
+    }, 
     "694121c5c3fbf1f36dad869acd457557e2e88b29": {
         "en": "Utrecht University", 
         "nl": "Universiteit Utrecht"
@@ -255,6 +266,10 @@
         "en": "Rijn IJssel", 
         "nl": "Rijn IJssel"
     }, 
+    "81bb795e603f0b3a1214a7aa354eb95d911c065d": {
+        "en": "Katholieke Pabo Zwolle", 
+        "nl": "Katholieke Pabo Zwolle"
+    }, 
     "8342ee08ddfb50a1951a24bfbade1c7a7d17ed67": {
         "en": "Antoni van Leeuwenhoek - Netherlands Cancer Institute", 
         "nl": "Antoni van Leeuwenhoek - Nederlands Kanker Instituut"
@@ -278,6 +293,10 @@
     "9399c60e2ce9b0800605ccb328525d95db914f30": {
         "en": "SURF", 
         "nl": "SURF"
+    }, 
+    "9601dd87ccbed673ad79e6efdd3266d9241c05af": {
+        "en": "Royal Academy of Art", 
+        "nl": "Koninklijke Academie van Beeldende Kunsten"
     }, 
     "965787526564644b0d52e650ff2efc461315691a": {
         "en": "Fryske Akademy (KNAW)", 
@@ -402,6 +421,10 @@
     "bd779b3f64abf21f3b0ea9ffb806e6828c87062e": {
         "en": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)", 
         "nl": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)"
+    }, 
+    "be1c81df5bf9310fe64f72c27039821973504039": {
+        "en": "mboRijnland", 
+        "nl": "mboRijnland"
     }, 
     "bf2b693246b35c0c15999bfcb96d7a58408bdfd7": {
         "en": "Friesland College", 

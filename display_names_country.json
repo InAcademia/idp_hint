@@ -187,6 +187,9 @@
         "d62acfb20790a9d9598646760427508071af0700": {
             "en": "Flinders University"
         }, 
+        "f3b8455372ee62f17206b9b96aa57ff3af4c2842": {
+            "en": "Swinburne University of Technology"
+        }, 
         "f4521144ef7ba9a27b0603d489ef08308d1de2cb": {
             "en": "AAF Virtual Home"
         }
@@ -723,6 +726,10 @@
             "en": "HCPA - Hospital de Clinicas de Porto Alegre", 
             "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
         }, 
+        "8283099aa274c0786c73df2711a90ae5a29f51ef": {
+            "en": "UNICSUL - Universidade Cruzeiro do Sul", 
+            "pt-br": "UNICSUL - Universidade Cruzeiro do Sul"
+        }, 
         "8285e699eadc3473b003c81ac2e3f6d726d90893": {
             "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior", 
             "pt-br": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior"
@@ -922,6 +929,10 @@
         "b4632036950e3d099fab0348c319513bd12ba549": {
             "en": "IEC - Instituto Evandro Chagas", 
             "pt-br": "IEC - Instituto Evandro Chagas"
+        }, 
+        "b56e34221df0a9535e274fb56397099c6c29eca3": {
+            "en": "UFRR - Universidade Federal de Roraima", 
+            "pt-br": "UFRR - Universidade Federal de Roraima"
         }, 
         "b699dca6e548b93d894c0d951712c9daae5f2939": {
             "en": "IFTM - Instituto Federal de Educacao, Ciencia e Tecnologia do Triangulo Mineiro", 
@@ -1206,9 +1217,6 @@
         }
     }, 
     "ca": {
-        "07d7692ab706d4d06eade803c4437bc0ef33c66b": {
-            "en": "deprecated IdPv2 University of Toronto"
-        }, 
         "0e08c7c5d1dfb781c8ab40d00784c0414ed9f294": {
             "en": "University of Prince Edward Island"
         }, 
@@ -1789,10 +1797,6 @@
             "cs": "Biofyzik\u00e1ln\u00ed \u00fastav AV \u010cR", 
             "en": "Institute of Biophysics AS CR"
         }, 
-        "445fe28a2b3f46bd8ddf11145e1ebf5cbc96adc0": {
-            "cs": "Vysok\u00e1 \u0161kola um\u011bleckopr\u016fmyslov\u00e1 v Praze", 
-            "en": "Academy of Arts, Architecture and Design in Prague"
-        }, 
         "4aa3904d09ae8092ea846cba9efef9da34a37fb4": {
             "cs": "M\u011bstsk\u00e1 knihovna Znojmo", 
             "en": "Municipal library in Znojmo"
@@ -1997,6 +2001,10 @@
             "cs": "Masaryk\u016fv \u00fastav a archiv AV \u010cR", 
             "en": "Masaryk Institute and Archives of the CAS"
         }, 
+        "c4d574d750ffe4ba2d572ebdf4ae553b5c8945ca": {
+            "cs": "M\u011bstsk\u00e1 knihovna Hodon\u00edn", 
+            "en": "Municipal Library in Hodonin"
+        }, 
         "d0b6de02ac7a5b166038a7f654510b13d8552910": {
             "cs": "\u00dastav fyzik\u00e1ln\u00ed chemie J. Heyrovsk\u00e9ho AV \u010cR, v.v.i.", 
             "en": "J. Heyrovsk\u00fd Institute of Physical Chemistry of the CAS, v.v.i"
@@ -2103,6 +2111,10 @@
             "de": "Hochschule Ruhr West", 
             "en": "Hochschule Ruhr West"
         }, 
+        "07978ae6982534e8deca8b362e38c061b0dd01c7": {
+            "de": "Wests\u00e4chsische Hochschule Zwickau", 
+            "en": "Wests\u00e4chsische Hochschule Zwickau"
+        }, 
         "07f14224cdb46291aeb2157df1b0b5d0b30086ae": {
             "de": "TU Bergakademie Freiberg", 
             "en": "TU Bergakademie Freiberg"
@@ -2134,6 +2146,10 @@
         "11ae91e82b83501ffb2f1d64e2820db70348b4c2": {
             "de": "Universit\u00e4t Koblenz-Landau", 
             "en": "University Koblenz-Landau"
+        }, 
+        "11b87973279ca92164671a8c0534a181c3a6427d": {
+            "de": "MPI fuer Biochemie", 
+            "en": "MPI of Biochemistry"
         }, 
         "136f6bb7bedeb0faae2f63d83437ad5fdcc192e0": {
             "de": "Hochschule Karlsruhe - Technik und Wirtschaft", 
@@ -2202,6 +2218,10 @@
         "2731090c506fedf7af76686662c5f98caab177e2": {
             "de": "DHBW Karlsruhe", 
             "en": "DHBW Karlsruhe"
+        }, 
+        "27645271ebcd0cb5b8f0b919da638cc3adf6759a": {
+            "de": "Universit\u00e4tsmedizin der JoGu Mainz (Test)", 
+            "en": "University Medical Center of the Johannes Gutenberg University Mainz (V3)"
         }, 
         "2b04ed51309abe620d6dd12824b44c4b4d5a3e26": {
             "de": "Hochschule Biberach", 
@@ -2563,10 +2583,6 @@
             "de": "Universit\u00e4t des Saarlandes", 
             "en": "Saarland University"
         }, 
-        "d4d86ee028ae4ff3f98ffd7e700a20709c026b12": {
-            "de": "Hochschule D\u00fcsseldorf", 
-            "en": "Hochschule D\u00fcsseldorf"
-        }, 
         "d88fe7722d496e6ce00645e8b2a7ff56c8b5e33f": {
             "de": "Hochschule f\u00fcr Musik Freiburg", 
             "en": "University of Music Freiburg"
@@ -2758,8 +2774,8 @@
             "en": "Aarhus School of Marine and Technical Engineering"
         }, 
         "6ae03bfa858a25c82740e86c59ac4f7dcae70184": {
-            "da": "Erhvervsakademi Sj\u00e6lland", 
-            "en": "Zealand Institute of Business and Technology"
+            "da": "Zealand \u2013 Sj\u00e6llands Erhvervsakademi", 
+            "en": "Zealand"
         }, 
         "6aeea31408bb431b208ced14bcc310ec4a4bf3a6": {
             "da": "Region Sj\u00e6lland", 
@@ -2872,10 +2888,6 @@
         "dc61568f280319dd4f4d6336bd9fb5400c786acc": {
             "da": "Syddansk Erhvervsskole", 
             "en": "SDE College"
-        }, 
-        "dc7c1ae1d34167a23d68412bbde06f529ad5e5bf": {
-            "da": "WAYF Orphanage [for udviklere]", 
-            "en": "WAYF Orphanage [for developers]"
         }, 
         "dfc38b59d38786df9a4f9980c21bdc936612cbdf": {
             "da": "Erhvervsakademi Aarhus", 
@@ -3298,7 +3310,7 @@
         }, 
         "8518078e3febd0b655646b4e339540f4950cd454": {
             "en": "Lappeenranta University of Technology", 
-            "sv": "Lappeenranta Tekniska H\u00f6gskolan"
+            "fi": "Lappeenrannan teknillinen yliopisto"
         }, 
         "8d25686ea0ff20596371f073335663a330e541cf": {
             "en": "Tampere University of Applied Sciences", 
@@ -3329,7 +3341,7 @@
         }, 
         "b84f837071807cffbb858548c761f5a936963d18": {
             "en": "University of Lapland", 
-            "fi": "Lapin yliopisto"
+            "sv": "Lapplands universitet"
         }, 
         "c2690ff4998ca4320f0f5e725420769a88aa15fd": {
             "en": "National Institute for Health and Welfare", 
@@ -3354,10 +3366,6 @@
         }
     }, 
     "fr": {
-        "00be6c36063ea4aeb82a60a4c0f31cd3d472e67a": {
-            "en": "ENSICAEN", 
-            "fr": "ENSICAEN"
-        }, 
         "00d535ed38877e778338a33de7b4a8ae8e7c2f38": {
             "en": "Universit\u00e9 de Montpellier 3", 
             "fr": "Universit\u00e9 de Montpellier 3"
@@ -3369,10 +3377,6 @@
         "03ebc1c58f860a7643e375984cef49260fda2738": {
             "en": "Agropolis International", 
             "fr": "Agropolis International"
-        }, 
-        "04688cbc8df4f8750b97dded344d32185917a56a": {
-            "en": "Rectorat Limoges shib", 
-            "fr": "Rectorat Limoges shib"
         }, 
         "053ce25d6102eb8beaf5260684bff52470c7143b": {
             "en": "IRSTEA - National Research Institute of Science and Technology for Environment and Agriculture", 
@@ -3449,10 +3453,6 @@
         "114d6bc0eeefacac471a5f54aa385e3dca3047d4": {
             "en": "IRD - French National Research Institute for Sustainable Development", 
             "fr": "IRD - Institut de Recherche pour le D\u00e9veloppement"
-        }, 
-        "116651a5a70f4feb030b070c48adb4803100d9e1": {
-            "en": "Institut Mines Telecom Business School & Telecom SudParis", 
-            "fr": "Institut Mines Telecom Business School & Telecom SudParis"
         }, 
         "116fc5daa9edc0c10dcec15727524608aa88d863": {
             "en": "Synchrotron SOLEIL", 
@@ -3542,14 +3542,6 @@
             "en": "CNRS", 
             "fr": "CNRS"
         }, 
-        "26ebb47fbfc5495bb5ba9213012625f8cec252d3": {
-            "en": "Rectorat Limoges Test shib3", 
-            "fr": "Rectorat Academie de  Limoges"
-        }, 
-        "285472dbb6def27000e77c5f1829c7470b7e0d09": {
-            "en": "ESEO GROUP", 
-            "fr": "Groupe ESEO"
-        }, 
         "288f53f74f5847031022cc0f6817741aa7b1ebfa": {
             "en": "ENIT Ecole Nationale Ing\u00e9nieurs Tarbes", 
             "fr": "ENIT Ecole Nationale Ing\u00e9nieurs Tarbes"
@@ -3577,10 +3569,6 @@
         "2f9030c886f022a234aeb74bb43b572a2735d57f": {
             "en": "Universit\u00e9 d'Aix Marseille", 
             "fr": "Universit\u00e9 d'Aix Marseille"
-        }, 
-        "2feec9a59772022b67474cbaeb01eff4a041e019": {
-            "en": "CROUS Orl\u00e9ans-Tours - Personnels", 
-            "fr": "CROUS Orl\u00e9ans-Tours - Personnels"
         }, 
         "3324733c7da7d2d02b9fba3df3352764d104d02a": {
             "en": "Telecom Lille", 
@@ -3650,10 +3638,6 @@
             "en": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie", 
             "fr": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie"
         }, 
-        "4b18c24f6df44c47598ada8f70320b84081e22dc": {
-            "en": "Sorbonne University - Test", 
-            "fr": "Sorbonne Universit\u00e9 - Test"
-        }, 
         "4b5c07c298fd46fdd9b7f6e6e8a4d845648fb175": {
             "en": "CROUS Normandie - Employees v3", 
             "fr": "CROUS Normandie - Personnels v3"
@@ -3689,10 +3673,6 @@
         "4ed665408c6dfa6896beda15b04010adb62574e2": {
             "en": "Ecole d'Architecture de la ville et des territoires \u00e0 Marne-la-Vall\u00e9e", 
             "fr": "Ecole d'Architecture de la ville et des territoires \u00e0 Marne-la-Vall\u00e9e"
-        }, 
-        "510d5948dad035b194ff2d6da54c0853d14da6bf": {
-            "en": "TELECOM Lille test", 
-            "fr": "TELECOM Lille test"
         }, 
         "51791b6a9bee6de43cd320d7619caff6eb618e97": {
             "en": "Universit\u00e9 de Poitiers", 
@@ -3762,10 +3742,6 @@
             "en": "CAMPUS CONDORCET", 
             "fr": "CAMPUS CONDORCET"
         }, 
-        "644e3233501c925bfd64925345b6dc5f47877c23": {
-            "en": "CROUS Strasbourg", 
-            "fr": "CROUS Strasbourg"
-        }, 
         "66418d75725317f8a298311e55a28dc1c982084e": {
             "en": "University Grenoble Alpes - UGA", 
             "fr": "Universit\u00e9 Grenoble Alpes - UGA"
@@ -3793,10 +3769,6 @@
         "6d4ada5f4057add807d16de6eaf1a9ef291be572": {
             "en": "Universit\u00e9 de Cergy Pontoise", 
             "fr": "Universit\u00e9 de Cergy Pontoise"
-        }, 
-        "6d6e5b96ec7f2a0c1fa3169a69398f6ef579aed4": {
-            "en": "UJM - TEST", 
-            "fr": "UJM - TEST"
         }, 
         "6d91b71c71c6f17846bcc07ccec68cfa4594c08d": {
             "en": "AMUE - Agence de Mutualisation des Universit\u00e9s et Etablissements", 
@@ -3946,10 +3918,6 @@
             "en": "CROUS Besan\u00e7on V3", 
             "fr": "CROUS Besan\u00e7on V3"
         }, 
-        "88b615efac57bf1b44797789a6e84932aae9739d": {
-            "en": "Universit\u00e9 de Lorraine (v3 test)", 
-            "fr": "Universit\u00e9 de Lorraine (v3 test)"
-        }, 
         "88f26cb4538069b4050e493be245c7a410e51b0b": {
             "en": "CROUS Clermont Auvergne V3", 
             "fr": "CROUS Clermont Auvergne V3"
@@ -3993,10 +3961,6 @@
         "90eb779645cddcfb79548a5fee10aa790abe5cdc": {
             "en": "CROUS Aix-Marseille", 
             "fr": "CROUS Aix-Marseille"
-        }, 
-        "90f4ded51660f4c1ff772e6ac8a59cd565268b9f": {
-            "en": "Universit\u00e9 de Paris IV - Sorbonne", 
-            "fr": "Universit\u00e9 de Paris IV - Sorbonne"
         }, 
         "9271b03a26b5b3c3e240462753b88d2b736d73e1": {
             "en": "Universit\u00e9 de Haute Alsace", 
@@ -4063,8 +4027,8 @@
             "fr": "Universit\u00e9 de Franche-Comt\u00e9"
         }, 
         "9c7fe87fecdef22e9c0db8d638037775696c6c88": {
-            "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis oldr3", 
-            "fr": "Institut Mines Telecom Business School & Telecom SudParis oldr3"
+            "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis", 
+            "fr": "Institut Mines Telecom Business School & Telecom SudParis"
         }, 
         "9d85e3fba7c9c43d6839d7973228e18348a44ab6": {
             "en": "Bordeaux Montaigne University", 
@@ -4163,8 +4127,8 @@
             "fr": "Universit\u00e9 de Lorraine"
         }, 
         "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
-            "en": "Universit\u00e9 de Lille - Sciences et Technologies", 
-            "fr": "Universit\u00e9 de Lille - Sciences et Technologies"
+            "en": "Universit\u00e9 Lille 1 - Sciences et Technologies", 
+            "fr": "Universit\u00e9 Lille 1 - Sciences et Technologies"
         }, 
         "b6a627a3a1dc53bc4663d414ce3a984bb825beaa": {
             "en": "Ecole des Mines de Saint-Etienne", 
@@ -4365,10 +4329,6 @@
         "e8a95971c1fae44997768fec82ce1530847629c9": {
             "en": "Universit\u00e9 de Nimes", 
             "fr": "Universit\u00e9 de Nimes"
-        }, 
-        "e8cefb91a09b364d989de8181bebddf6706ae6a8": {
-            "en": "CEA - Test Silab IDPOC", 
-            "fr": "CEA - Test Silab IDPOC"
         }, 
         "eaa182778cb18432e82014177f23ab3f8396363e": {
             "en": "Universit\u00e9 de Lyon - UDL", 
@@ -5515,8 +5475,8 @@
         }
     }, 
     "lu": {
-        "45a22f3e19f900e64bf110f421a06a1e21ba9813": {
-            "en": "University of Luxembourg"
+        "128c345f29cb276297feffcce682eed56db6b4d0": {
+            "en": "University of Luxembourg - Test"
         }, 
         "4d7b81b9d84f73b7537421f0375ade3c817ef7be": {
             "en": "RESTENA Staff", 
@@ -5648,6 +5608,10 @@
             "en": "Rotterdam University of Applied Sciences", 
             "nl": "Hogeschool Rotterdam"
         }, 
+        "04b9ff27b8397d3e68c67011ace967f596eda404": {
+            "en": "Viaa Gereformeerde Hogeschool Zwolle", 
+            "nl": "Viaa Gereformeerde Hogeschool Zwolle"
+        }, 
         "04c0e9369575adb49867f1019948c9aaf05876b5": {
             "en": "ROC van Twente", 
             "nl": "ROC van Twente"
@@ -5727,6 +5691,9 @@
         "26d2dc47ba00a2fa2acb3203298aa02fdf5efc30": {
             "en": "Vrije Universiteit Amsterdam", 
             "nl": "Vrije Universiteit Amsterdam"
+        }, 
+        "2738bc1aa220cbd78c1ef19a7255364eca0e75ce": {
+            "en": "http://sclogin.koncon.nl/adfs/services/trust"
         }, 
         "2d0c4f653340bada20eeac6c35017b055d89d8d9": {
             "en": "Data Archiving and Networked Services (KNAW)", 
@@ -5856,6 +5823,10 @@
             "en": "VU medisch centrum", 
             "nl": "VU medisch centrum"
         }, 
+        "67a7ef3f60e8238eba02a42f819e7c378aaf839a": {
+            "en": "Utrecht School of the Arts", 
+            "nl": "Hogeschool voor de Kunsten Utrecht"
+        }, 
         "694121c5c3fbf1f36dad869acd457557e2e88b29": {
             "en": "Utrecht University", 
             "nl": "Universiteit Utrecht"
@@ -5896,6 +5867,10 @@
             "en": "Rijn IJssel", 
             "nl": "Rijn IJssel"
         }, 
+        "81bb795e603f0b3a1214a7aa354eb95d911c065d": {
+            "en": "Katholieke Pabo Zwolle", 
+            "nl": "Katholieke Pabo Zwolle"
+        }, 
         "8342ee08ddfb50a1951a24bfbade1c7a7d17ed67": {
             "en": "Antoni van Leeuwenhoek - Netherlands Cancer Institute", 
             "nl": "Antoni van Leeuwenhoek - Nederlands Kanker Instituut"
@@ -5919,6 +5894,10 @@
         "9399c60e2ce9b0800605ccb328525d95db914f30": {
             "en": "SURF", 
             "nl": "SURF"
+        }, 
+        "9601dd87ccbed673ad79e6efdd3266d9241c05af": {
+            "en": "Royal Academy of Art", 
+            "nl": "Koninklijke Academie van Beeldende Kunsten"
         }, 
         "965787526564644b0d52e650ff2efc461315691a": {
             "en": "Fryske Akademy (KNAW)", 
@@ -6043,6 +6022,10 @@
         "bd779b3f64abf21f3b0ea9ffb806e6828c87062e": {
             "en": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)", 
             "nl": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)"
+        }, 
+        "be1c81df5bf9310fe64f72c27039821973504039": {
+            "en": "mboRijnland", 
+            "nl": "mboRijnland"
         }, 
         "bf2b693246b35c0c15999bfcb96d7a58408bdfd7": {
             "en": "Friesland College", 
@@ -6185,7 +6168,7 @@
     }, 
     "om": {
         "082e2986de899a0577b9b015468026b7d5008240": {
-            "en": "OMREN"
+            "en": "Oman Research and Education Network (OMREN)"
         }, 
         "35606163087d3bc6d25bb6141b7f710246825bdd": {
             "en": "University of Nizwa"
@@ -6204,9 +6187,6 @@
         }, 
         "7359c6dc834354462ab48db10881759455228981": {
             "en": "Modern College of Business and Science"
-        }, 
-        "7772ff143423107ed24cd345ec7073c46e487f72": {
-            "en": "The Research Council-test, Oman"
         }, 
         "788d57309ae93681d9e7e2247f5d7bfcbbf1769b": {
             "en": "University of Buraimi"
@@ -6228,6 +6208,9 @@
         }, 
         "c6b752ddc7c5fe0b49dfd75f335ccc4a33fd4604": {
             "en": "A\u2019Sharqiyah University"
+        }, 
+        "c86ffb1de8b899d5efeccc445fee7b04f30e5ff8": {
+            "en": "Sur University College"
         }, 
         "c95ac85545e45041791b926a77430c22f445c294": {
             "en": "Middle East College"
@@ -6380,6 +6363,14 @@
         }
     }, 
     "ru": {
+        "0740b5bc0fd95500d6b5a1644ae3073ebe1133af": {
+            "en": "Samara University", 
+            "ru": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"
+        }, 
+        "20528a4ea4dc376ccdb35829d3e22d7a9591d827": {
+            "en": "Kazan Federal University", 
+            "ru": "\u041a\u0430\u0437\u0430\u043d\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"
+        }, 
         "48f934070a0956fa0a40034845f5abf8f8bb1722": {
             "en": "Perm National Research Polytechnic University", 
             "ru": "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u043f\u043e\u043b\u0438\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"
@@ -6395,10 +6386,6 @@
         "7208cedaefedbcd13e007ee7d260ca3707b2f799": {
             "en": "Saint-Petersburg State University", 
             "ru": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"
-        }, 
-        "7f9ae589ac146783d79afaea8fabc9669912e58d": {
-            "en": "Kazan Federal University", 
-            "ru": "\u041a\u0430\u0437\u0430\u043d\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"
         }, 
         "81dd331c70a20c8edf6858aec18e5e883642dbb6": {
             "en": "Southern Federal University", 
@@ -6713,29 +6700,17 @@
         "00001353d57b7e30a508a725c0c03772a8656cb1": {
             "en": "Bangor University: Development"
         }, 
-        "000cd398ed36b4da6cc5d2badb9e1a4687948112": {
-            "en": "G\u00c9ANT Guest Identity Provider"
-        }, 
         "006cd57d858e9a4a5b154aa43261b91d2b7b927e": {
             "en": "South Tyneside College"
         }, 
         "01a00f63c5914706a81c71544c754baef49e6e95": {
             "en": "Croydon College"
         }, 
-        "01c99b35f4f3293061a5462c2382c4dca47894be": {
-            "en": "Coventry University (test)"
-        }, 
         "021034b76f0617dc80a6c3605dd06f56c2813d0b": {
             "en": "Doncaster College"
         }, 
         "0219ee2b19a72906c2b33c9df91adf030fe1f3d9": {
             "en": "North West Regional College"
-        }, 
-        "024582f1572f41a3b488463d54ba67fce60c076c": {
-            "en": "University of Essex test IdP"
-        }, 
-        "029bdf874b979cf210b9fbe0e8ec76ce63bfb8fa": {
-            "en": "University of Edinburgh v3 Development IdP (do not use!)"
         }, 
         "02a46dd105467c7d612e38309c1ff34764b4c5ce": {
             "en": "Southern Regional College"
@@ -6803,9 +6778,6 @@
         "0ad83cde44be51b22cee1aa221a7d14de1396bb7": {
             "en": "Weymouth College"
         }, 
-        "0ae1de46f5814587c1c4adcf3915fd66809beb96": {
-            "en": "University of Durham test (Do not use)"
-        }, 
         "0b08fba02ba36c03c37b82a41add9e36ecf64930": {
             "en": "Canterbury Christ Church University"
         }, 
@@ -6814,9 +6786,6 @@
         }, 
         "0b8306e58b3e1665b247f440b3376ea410e0fe9b": {
             "en": "London Business School"
-        }, 
-        "0c4bc4b66124f5b5f52d2f725cefd9f06f6c06ea": {
-            "en": "Furness College - test do not use"
         }, 
         "0c9008d6b4ec1574a6cf355a49d3495fa1402d01": {
             "en": "GitHub via eduTEAMS Identity Hub TEST"
@@ -6835,9 +6804,6 @@
         }, 
         "0dee1d4a5548f2787d1935c7d78f9e4d97bfd498": {
             "en": "Esher College"
-        }, 
-        "0e8390d6555b27648b31c9a3f4a6ad9126fe4386": {
-            "en": "University of Cambridge (test only)"
         }, 
         "0f564e17978baa6ac6cbd89e387c50b0800f1fb1": {
             "en": "Activate Learning Old"
@@ -6862,9 +6828,6 @@
         }, 
         "10b7365e31dbf6bbd8690569d272300fdff03c0d": {
             "en": "University of Sussex"
-        }, 
-        "10d6f86303768f4f67f75fd9ebd0e62cf6a5357c": {
-            "en": "Bath Spa University TEST - do not use"
         }, 
         "113849c35865a4004c164a8b2d52e0ce193d5c87": {
             "en": "Jisc: Digital Resources (Mimas IdP)"
@@ -6901,9 +6864,6 @@
         }, 
         "165a80913835e361cece02d625ee2de69f47ffbb": {
             "en": "University College London (Shib Dev)"
-        }, 
-        "16ff148eb56d51b6a58ecb0ab351f4c7fab9be59": {
-            "en": "University of York test service"
         }, 
         "17064c37ca0f8233424cd25ef6f27c17a552f85d": {
             "en": "Conservatoire for Dance and Drama"
@@ -7007,9 +6967,6 @@
         "22adccbacf1c33b7c7246c1c99017eba47f92130": {
             "en": "Dudley College"
         }, 
-        "22f2e2b5a11b816183166e2a814af8ff4f0f2c7c": {
-            "en": "European Molecular Biology Laboratory - EMBL-EBI TEST (do not use)"
-        }, 
         "236983dba70349cba6ea6d85e44d56813e9202bc": {
             "en": "Richard Huish College"
         }, 
@@ -7045,9 +7002,6 @@
         }, 
         "2a18c68c3c7860199e4d99f148b25b39b1e60a8f": {
             "en": "Grimsby Institute of Further and Higher Education (Athens)"
-        }, 
-        "2a32c91f7d115dda6b405cd11e64d382e3c4c728": {
-            "en": "London Business School TEST - do not use"
         }, 
         "2a5d38f1f9374472246f02bb241dedea9f26e0b0": {
             "en": "Royal College of Physicians of London"
@@ -7111,9 +7065,6 @@
         }, 
         "2f604e43b0b9c248cc61aa24e674eda5b8001b6d": {
             "en": "South Tyneside College (Legacy)"
-        }, 
-        "2fab6e85a6d2e9984865bc727f3fb4d309392e29": {
-            "en": "Canterbury Christ Church University (test)"
         }, 
         "2feb86fdc954a7024710e03dd56d068b6df5f524": {
             "en": "University of Central Lancashire"
@@ -7208,9 +7159,6 @@
         "3b3ecc4bdccc8d7c6df1f7b80869b86e6a8d68ec": {
             "en": "The Open University (UK)"
         }, 
-        "3b4add161ad46b0c51bdc08e75466ebabadc21c3": {
-            "en": "University of Reading (test)"
-        }, 
         "3b80e0993a995d4185eb4b9f5d7e0bcbf85186b0": {
             "en": "Research in Practice for Adults"
         }, 
@@ -7274,9 +7222,6 @@
         "3fb9592cccc09f98e24c58c1a9ffcc7b72007ebd": {
             "en": "Peterborough Regional College"
         }, 
-        "40018977f1283ffd245e06fa8eace5fc5dbb7a98": {
-            "en": "C2k Western Education Library Board (test site only)"
-        }, 
         "41610dc1fd9caa4a4151c8db045254b49b5a4d8c": {
             "en": "The Sixth Form College Farnborough"
         }, 
@@ -7333,9 +7278,6 @@
         }, 
         "4784119c6ddd8c6383d0865168dd18082b6f907c": {
             "en": "University of East Anglia (UEA)"
-        }, 
-        "47875b6613a9cc5b8e09522de7427c7fe9979516": {
-            "en": "University of the West of England (UWE) - OpenAthens test"
         }, 
         "47d9062a4fbfb843920ba0100fa6293c83452c92": {
             "en": "Buckinghamshire New University (Test Only)"
@@ -7394,9 +7336,6 @@
         "50f1d50ad96d826f0e5554f1051288aa4e8ff44b": {
             "en": "London School of Theology"
         }, 
-        "5166a9f30586f292a205a507fb869f39bfb7307f": {
-            "en": "University of Bath (test)"
-        }, 
         "51b8b2b3c1ab8a58a79f5b17926090b6b11131f8": {
             "en": "Surrey Libraries"
         }, 
@@ -7454,6 +7393,9 @@
         "593fcd012544d20938b5da8d77832e577de8c8cf": {
             "en": "Bournemouth Libraries"
         }, 
+        "595f46fc02c87cbe48d82be2feb3f361f8303d84": {
+            "en": "Bishop Grosseteste University"
+        }, 
         "59b517ea1413ef042a289cd295516e8a4ee4540d": {
             "en": "Lancaster University Library (Test)"
         }, 
@@ -7465,9 +7407,6 @@
         }, 
         "5a0c3fc4d286b17f4ce5685c6e8fb6efc523be64": {
             "en": "Westminster Kingsway College"
-        }, 
-        "5a78a0011c99561aae6ee7ad40db6086d829dd0d": {
-            "en": "Alexander Stuart test IdP (yin)"
         }, 
         "5b33e3e07293fdc72d4cd441d1623407645ec6c2": {
             "en": "University of Bradford"
@@ -7592,9 +7531,6 @@
         "659d5a6dbd0126726eed6e69163445846bd9e23b": {
             "en": "University of Oxford, Staging IdP"
         }, 
-        "65d3bb5074db3a3860c2ef32bfd7e430dde2c897": {
-            "en": "ProofID test Shibboleth identity provider"
-        }, 
         "65e99a0731aab33ec3f45af873a092b72b0eb095": {
             "en": "Ulster University"
         }, 
@@ -7679,9 +7615,6 @@
         "700d83e33ae70adef040d7263be1548c09994cd3": {
             "en": "New College Nottingham - Test"
         }, 
-        "701d1432f5e22696833e681cd2a6c7448f39d85e": {
-            "en": "University of Liverpool (TEST do not use)"
-        }, 
         "7026b526faabf506819102fbc9dc272528a0b8f9": {
             "en": "University of Dundee"
         }, 
@@ -7756,9 +7689,6 @@
         }, 
         "786a153391185682b051e3a8f754f69be527f333": {
             "en": "Stockton Riverside College"
-        }, 
-        "7893c8f4d1bc7d25422ee796e2d3112c0309c93a": {
-            "en": "Grimsby Institute of Further & Higher Education (Legacy: do not use)"
         }, 
         "78c8c8a06375f41b9500ec43d88b436fe7a7228e": {
             "en": "Edge Hill University"
@@ -7901,9 +7831,6 @@
         "89d2c56cdd08b517067028feffb180ceaf2aeccc": {
             "en": "Derby College"
         }, 
-        "8a808f14da28b32e1ac83028e54cbe9fea74272c": {
-            "en": "Nottingham Trent University (testidp1)"
-        }, 
         "8a9ae7ed9f9c53a8f3e47549af00a027e154a7ef": {
             "cy": "Llyfrgell Genedlaethol Cymru", 
             "en": "National Library of Wales"
@@ -7919,9 +7846,6 @@
         }, 
         "8bfc08cefafab91954538173a27bd63b0c382ec5": {
             "en": "Ruskin College"
-        }, 
-        "8c23d5b8795e53e7873ffbde8626d82afd52a594": {
-            "en": "Kingston University London (Temporary development IdP)"
         }, 
         "8c3f779c9dff67b104eaf71d113aa699161f0e2e": {
             "en": "University of the Highlands and Islands", 
@@ -8062,9 +7986,6 @@
         "9a672c653627c2374e6f9d71f780c4cb9f3f7995": {
             "en": "Newcastle University v3 Development IdP"
         }, 
-        "9aa1c69cba50d153e679d444c4c34f6c8f58a0bf": {
-            "en": "University of Dundee test 2.4 IDP"
-        }, 
         "9b2b592ad2b8197f61d01f7eedd7f0039d5d381a": {
             "en": "Cardiff University (Test - Preprod)"
         }, 
@@ -8203,9 +8124,6 @@
         "a7e335cf6b409f879dccd7941661b8ba7c7a137b": {
             "en": "North Lindsey College"
         }, 
-        "a8906a6acd6aed36ba7b64f2686d477c92cc5889": {
-            "en": "University of Warwick (Test IdP - do not use)"
-        }, 
         "a895011e14bc43371efbe0358bf867fb7805448e": {
             "en": "Leeds City College"
         }, 
@@ -8269,9 +8187,6 @@
         "b0a8e6347f9d8e25d579a7bfe9376c686df4d7e9": {
             "en": "Tavistock and Portman NHS Foundation Trust"
         }, 
-        "b109706d0348c1e36154b33089efd6a6fbad6d6c": {
-            "en": "Oldham Sixth Form College - TEST (do not use)"
-        }, 
         "b1863940d042275be008ecee55d96c750aa9f9bc": {
             "en": "Oldham Sixth Form College"
         }, 
@@ -8280,9 +8195,6 @@
         }, 
         "b1b976f1a1cb7ebc7a59678b7e829a222b76ef6b": {
             "en": "University of Bristol Test (Do not use)"
-        }, 
-        "b200c0a0ac3b5ff2245d2eb1120e870dac82b606": {
-            "en": "University of St Andrews (2.2 test)"
         }, 
         "b2068e4c3ae0be863d761e83813c94a14229d326": {
             "cy": "Prifysgol Caerdydd", 
@@ -8483,9 +8395,6 @@
         "c49bfeb1e23df8ecc3c9ac7421cbd4c3b324f38e": {
             "en": "Wakefield College"
         }, 
-        "c4a28e8b23d5c0d8476e825d989b4b29b00f4346": {
-            "en": "University of Glasgow (test idp)"
-        }, 
         "c54fb5e77a369b86fbb4a4bdf0fea9436e1f1511": {
             "en": "University of Cambridge Shibboleth3 Test IdP"
         }, 
@@ -8561,9 +8470,6 @@
         "cef2b56c563dc8fcfb272797a1efc8c6c1f085cf": {
             "en": "Hampshire County Council"
         }, 
-        "cf834260459eda508a77582ce7d92fa04031b951": {
-            "en": "Royal College of Paediatrics and Child Health [test]"
-        }, 
         "cf8f9204bd40eb8748e65cd99a7de46e51a674c9": {
             "en": "Holborn College"
         }, 
@@ -8575,9 +8481,6 @@
         }, 
         "d14bfa113a899b3a3ac69ce286ae74d8c10c6aa8": {
             "en": "Barnet and Southgate College TEST (DO NOT USE)"
-        }, 
-        "d1e26484c0be9d8528eb8796d70b557c7cdaa780": {
-            "en": "London School of Hygiene and Tropical Medicine (test)"
         }, 
         "d1ffe058cece28cf2400fb845fb12ec68b733cf5": {
             "en": "Wyggeston & QEI College"
@@ -8621,9 +8524,6 @@
         "d5a6ecffadbf376ddd3b25b7dc2bc8df1924511c": {
             "en": "University of the Arts London Test"
         }, 
-        "d5cf1218ab7fc4677824796d344ed43f8e904d33": {
-            "en": "UK Data Archive: test IdP (do not use)"
-        }, 
         "d5f26a6fc4c88b0b9d6d60903b9a50d1b926d166": {
             "en": "Stanmore College"
         }, 
@@ -8662,9 +8562,6 @@
         }, 
         "d99ad30de5b9f5eed7ec47acf819b8f92c9da5d7": {
             "en": "Hull College Group (Test)"
-        }, 
-        "d9a1ada798085bc94e52129723f84a3ec963835d": {
-            "en": "Exeter College (For testing only - please do not use)"
         }, 
         "db180885e7be78f290f12165777d832ed182170d": {
             "en": "University of Sunderland"
@@ -8798,9 +8695,6 @@
         "eb58089f770dd580f30c899737f472f9b7091cf8": {
             "en": "Barnfield College"
         }, 
-        "ebd86f619b6de68c4495afdb1826d81a35cf4a2d": {
-            "en": "Heriot-Watt University (test)"
-        }, 
         "ec3747b462fc8425ccc1f27e972ce674daaeb583": {
             "en": "ACS Schools"
         }, 
@@ -8930,6 +8824,9 @@
         "fb575015cd8db077193ae16dd806e7d701d5c9ad": {
             "en": "Borders College"
         }, 
+        "fb7a2ee8b6c5f56547322ccc254940c9521d3382": {
+            "en": "KGV College - Latest"
+        }, 
         "fb88fde6142fb324bbaa72763e49cf58602dc550": {
             "en": "University of the West of England (UWE) - old Athens gateway"
         }, 
@@ -9032,9 +8929,6 @@
         }, 
         "08b780c46849ad2ffa90757868a01510f44217fa": {
             "en": "University of California Hastings College of the Law"
-        }, 
-        "09556fb48fc361a543fed17328413f588eb9c546": {
-            "en": "Texas A&M Transportation Institute"
         }, 
         "09a946e3451a466489f42642ccd27e9fd715a6e3": {
             "en": "Thomas Jefferson National Accelerator Facility"
@@ -9912,6 +9806,9 @@
         "9dcbc4a238c020a9ffe04417252d462356c5eeda": {
             "en": "Lock Haven University"
         }, 
+        "9e7a601f596039f962c9a7bedb07ed15cfa59373": {
+            "en": "Fairleigh Dickinson University"
+        }, 
         "9e884baf750f8880cec29a26a1896aae5d03a58d": {
             "en": "California Polytechnic State University-San Luis Obispo"
         }, 
@@ -10022,9 +9919,6 @@
         }, 
         "b10ac0fd5b18299274bc5531d45bd9e94225cadd": {
             "en": "East Carolina University"
-        }, 
-        "b1ba7a0511e42d6852233ca6e44865082d83322f": {
-            "en": "ztest_Medical University of South Carolina"
         }, 
         "b209d52f7fff4d48ef8653a1664a69c2af362b95": {
             "en": "University of Maryland Eastern Shore"
@@ -10508,6 +10402,9 @@
         "d85d6cc5b5ce4089ccbb1c03e0d86b4ccac2b7db": {
             "af": "Universiteit van Wes-Kaapland", 
             "en": "University of the Western Cape"
+        }, 
+        "dd980b4570aa3719d5a40334690acd6c88264452": {
+            "en": "Central University of Technology, Free State"
         }, 
         "fed24545a772e34b59099c11ee4efdf5150aef27": {
             "en": "Rhodes University", 

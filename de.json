@@ -15,6 +15,10 @@
         "de": "Hochschule Ruhr West", 
         "en": "Hochschule Ruhr West"
     }, 
+    "07978ae6982534e8deca8b362e38c061b0dd01c7": {
+        "de": "Wests\u00e4chsische Hochschule Zwickau", 
+        "en": "Wests\u00e4chsische Hochschule Zwickau"
+    }, 
     "07f14224cdb46291aeb2157df1b0b5d0b30086ae": {
         "de": "TU Bergakademie Freiberg", 
         "en": "TU Bergakademie Freiberg"
@@ -46,6 +50,10 @@
     "11ae91e82b83501ffb2f1d64e2820db70348b4c2": {
         "de": "Universit\u00e4t Koblenz-Landau", 
         "en": "University Koblenz-Landau"
+    }, 
+    "11b87973279ca92164671a8c0534a181c3a6427d": {
+        "de": "MPI fuer Biochemie", 
+        "en": "MPI of Biochemistry"
     }, 
     "136f6bb7bedeb0faae2f63d83437ad5fdcc192e0": {
         "de": "Hochschule Karlsruhe - Technik und Wirtschaft", 
@@ -114,6 +122,10 @@
     "2731090c506fedf7af76686662c5f98caab177e2": {
         "de": "DHBW Karlsruhe", 
         "en": "DHBW Karlsruhe"
+    }, 
+    "27645271ebcd0cb5b8f0b919da638cc3adf6759a": {
+        "de": "Universit\u00e4tsmedizin der JoGu Mainz (Test)", 
+        "en": "University Medical Center of the Johannes Gutenberg University Mainz (V3)"
     }, 
     "2b04ed51309abe620d6dd12824b44c4b4d5a3e26": {
         "de": "Hochschule Biberach", 
@@ -474,10 +486,6 @@
     "d39a62f97db1fe3a6eb62440a65936be653a25a5": {
         "de": "Universit\u00e4t des Saarlandes", 
         "en": "Saarland University"
-    }, 
-    "d4d86ee028ae4ff3f98ffd7e700a20709c026b12": {
-        "de": "Hochschule D\u00fcsseldorf", 
-        "en": "Hochschule D\u00fcsseldorf"
     }, 
     "d88fe7722d496e6ce00645e8b2a7ff56c8b5e33f": {
         "de": "Hochschule f\u00fcr Musik Freiburg", 
