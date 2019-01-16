@@ -2147,10 +2147,6 @@
             "de": "Universit\u00e4t Koblenz-Landau", 
             "en": "University Koblenz-Landau"
         }, 
-        "11b87973279ca92164671a8c0534a181c3a6427d": {
-            "de": "MPI fuer Biochemie", 
-            "en": "MPI of Biochemistry"
-        }, 
         "136f6bb7bedeb0faae2f63d83437ad5fdcc192e0": {
             "de": "Hochschule Karlsruhe - Technik und Wirtschaft", 
             "en": "University of Applied Sciences Karlsruhe"
@@ -2546,6 +2542,10 @@
         "c845a8b9cd22fabd113c65a5d5fb49482cbd7f3a": {
             "de": "Universit\u00e4t zu K\u00f6ln", 
             "en": "Universit\u00e4t zu K\u00f6ln"
+        }, 
+        "c994e1f38ebc23e6f9e1092f801dcb1c6e32c52a": {
+            "de": "MPI fuer Biochemie", 
+            "en": "MPI of Biochemistry"
         }, 
         "cb9fc470544700fa387eb29786f17fe246d3e947": {
             "de": "Medizinische Hochschule Hannover", 
@@ -4113,10 +4113,6 @@
         "b2e43735b5581c9606336d12cee777cd4325cfea": {
             "en": "CROUS Reunion", 
             "fr": "CROUS Reunion"
-        }, 
-        "b4078e1eed3c4de339540fdba65cffe801c7eb2d": {
-            "en": "ENIM", 
-            "fr": "ENIM"
         }, 
         "b422880019cf2ea67b5b84cd2a80f71429714e8c": {
             "en": "Sciences Po Lille", 
@@ -6337,6 +6333,10 @@
             "en": "Universidade Aberta", 
             "pt": "Universidade Aberta"
         }, 
+        "ce685fead2f8ced4610d0e0160a1b066608f7e76": {
+            "en": "University of Aveiro", 
+            "pt": "Universidade de Aveiro"
+        }, 
         "cf6ad9b8483a8fca9d674c322f7cb9b4ebef4931": {
             "en": "ULisboa - Instituto Superior T\u00e9cnico", 
             "pt": "ULisboa - Instituto Superior T\u00e9cnico"
@@ -6544,6 +6544,10 @@
         "c50752ce1d12c2b37da13a1a396b8e3895d35dd9": {
             "en": "NORDUnet", 
             "sv": "NORDUnet"
+        }, 
+        "c7692f211a792bf662ff82c4e79be7290f366cac": {
+            "en": "Stockholm University of the Arts", 
+            "sv": "Stockholms konstn\u00e4rliga h\u00f6gskola"
         }, 
         "cba2999348463bba47fd6a5d86632a06b4c24c49": {
             "en": "Swedish Red Cross University College", 

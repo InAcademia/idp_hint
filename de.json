@@ -51,10 +51,6 @@
         "de": "Universit\u00e4t Koblenz-Landau", 
         "en": "University Koblenz-Landau"
     }, 
-    "11b87973279ca92164671a8c0534a181c3a6427d": {
-        "de": "MPI fuer Biochemie", 
-        "en": "MPI of Biochemistry"
-    }, 
     "136f6bb7bedeb0faae2f63d83437ad5fdcc192e0": {
         "de": "Hochschule Karlsruhe - Technik und Wirtschaft", 
         "en": "University of Applied Sciences Karlsruhe"
@@ -450,6 +446,10 @@
     "c845a8b9cd22fabd113c65a5d5fb49482cbd7f3a": {
         "de": "Universit\u00e4t zu K\u00f6ln", 
         "en": "Universit\u00e4t zu K\u00f6ln"
+    }, 
+    "c994e1f38ebc23e6f9e1092f801dcb1c6e32c52a": {
+        "de": "MPI fuer Biochemie", 
+        "en": "MPI of Biochemistry"
     }, 
     "cb9fc470544700fa387eb29786f17fe246d3e947": {
         "de": "Medizinische Hochschule Hannover", 
