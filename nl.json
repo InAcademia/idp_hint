@@ -92,7 +92,8 @@
         "nl": "Vrije Universiteit Amsterdam"
     }, 
     "2738bc1aa220cbd78c1ef19a7255364eca0e75ce": {
-        "en": "http://sclogin.koncon.nl/adfs/services/trust"
+        "en": "Koninklijk Conservatorium", 
+        "nl": "Koninklijk Conservatorium"
     }, 
     "2d0c4f653340bada20eeac6c35017b055d89d8d9": {
         "en": "Data Archiving and Networked Services (KNAW)", 
@@ -489,6 +490,10 @@
     "da14bad7387af80c0215924324bf8c811c639bed": {
         "en": "Hogeschool van Amsterdam", 
         "nl": "Hogeschool van Amsterdam"
+    }, 
+    "dd9874fe61e87c82fb1daeab63165a4a389a8cca": {
+        "en": "M\u00e1xima Medisch Centrum", 
+        "nl": "M\u00e1xima Medisch Centrum"
     }, 
     "ddd8c34a270a6ec5f91af3fc82d743ecb18ec138": {
         "en": "Trimbos Instituut", 
