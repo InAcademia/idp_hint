@@ -2367,6 +2367,10 @@
             "de": "Universit\u00e4tsmedizin der JoGu Mainz", 
             "en": "University Medical Center of the JoGu Mainz"
         }, 
+        "6a3e0d112b5c78b49d40a94f9f77923723bbdbe6": {
+            "de": "HS-Harz", 
+            "en": "HS-Harz"
+        }, 
         "6ac0a20f7a067f8608c09449a4cd796642730e01": {
             "de": "Helmut-Schmidt-Universit\u00e4t Hamburg", 
             "en": "Helmut-Schmidt-Universit\u00e4t Hamburg"
@@ -3313,8 +3317,9 @@
             "sv": "Vasa Universitet"
         }, 
         "60480c332d588959e238c2273d989abfd8431427": {
-            "en": "Metropolia University of Applied Sciences", 
-            "fi": "Metropolia Ammattikorkeakoulu"
+            "en": "https://idp.metropolia.fi/idp", 
+            "fi": "Metropolia Ammattikorkeakoulu", 
+            "sv": "Metropolia yrkesh\u00f6gskola"
         }, 
         "8518078e3febd0b655646b4e339540f4950cd454": {
             "en": "Lappeenranta University of Technology", 
@@ -5556,16 +5561,6 @@
         }, 
         "864dd0dfd86bcde6f3ada1a583fb5c9075ae8298": {
             "en": "CNRST's IDP"
-        }
-    }, 
-    "md": {
-        "719798f000c7b16dfc90cb2e9345bbb4c0531ade": {
-            "en": "Academy of Economic Studies of Moldova", 
-            "ro": "Academia de Studii Economice a Moldovei"
-        }, 
-        "d6089bd572861e945148bba4d4b6f1c1bcb43329": {
-            "en": "GIDP-RENAM", 
-            "ro": "GIDP-RENAM"
         }
     }, 
     "mk": {
