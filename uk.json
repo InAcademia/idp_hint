@@ -83,14 +83,8 @@
     "0b08fba02ba36c03c37b82a41add9e36ecf64930": {
         "en": "Canterbury Christ Church University"
     }, 
-    "0b6d00e9e83b11d3e3df2a2d0cdf27f043769dd9": {
-        "en": "University of Surrey (OALA TEST)"
-    }, 
     "0b8306e58b3e1665b247f440b3376ea410e0fe9b": {
         "en": "London Business School"
-    }, 
-    "0c9008d6b4ec1574a6cf355a49d3495fa1402d01": {
-        "en": "GitHub via eduTEAMS Identity Hub TEST"
     }, 
     "0d38eb73ef8bcdb0b91600516feeb12d2548bd82": {
         "en": "John Ruskin College"
@@ -113,9 +107,6 @@
     "0f6be02f3ec6d0a2410495dffafd20ccff956b99": {
         "en": "LSE - London School of Economics and Political Science - Test IdP - DO NOT USE"
     }, 
-    "0f932d51cdb0a8a6e32f938f062f02f240dee9a7": {
-        "en": "University of Oxford - Test IdP for IAMTEST authentication stack"
-    }, 
     "0fba9b6263a2bc274f8762d4da461aa333d2855c": {
         "en": "Cambridge Regional College"
     }, 
@@ -133,12 +124,6 @@
     }, 
     "113849c35865a4004c164a8b2d52e0ce193d5c87": {
         "en": "Jisc: Digital Resources (Mimas IdP)"
-    }, 
-    "11401303274994abed087c3a1869be83956e353b": {
-        "en": "London Library TEST"
-    }, 
-    "1300090a090b781a23c35e214639837bf30b5494": {
-        "en": "Sheffield Hallam University (TEST ONLY)"
     }, 
     "13a91f6bc9b76d1d927bc4ad629dfc542689cc98": {
         "en": "Tresham College"
@@ -311,9 +296,6 @@
     "2ae6fb2cd43b07b54332e8875bb70630352a6831": {
         "en": "University of Stirling - v3 Development IdP"
     }, 
-    "2b21678f2436d96dac158d4d10a7cc416dc11d22": {
-        "en": "Orcid via eduTEAMS Identity Hub TEST"
-    }, 
     "2b34bd9599d6ba8788ae3bad35dc488aae4f0daa": {
         "en": "Great Yarmouth College"
     }, 
@@ -328,9 +310,6 @@
     }, 
     "2bdfa683c561ebf9c42d9300e34f35ec0ee118d4": {
         "en": "Department of Health (England)"
-    }, 
-    "2be1b3a5767af078fdb38a7035b2c98a7fb28a48": {
-        "en": "University of Bolton - Legacy - Do not use"
     }, 
     "2bee50e5a3881c03fb1e125177a103c017a99021": {
         "en": "Treloar's"
@@ -352,9 +331,6 @@
     }, 
     "2e81116252efea00ab951d1befef619253aa354f": {
         "en": "King George V College, Southport"
-    }, 
-    "2ec3f6359bea9f5424a92e989805c6fb65c2bdb3": {
-        "en": "University of Nottingham: TEST"
     }, 
     "2ef185e3f2fd00c645b448eda90a59026aeae3aa": {
         "en": "Anglia Ruskin University"
@@ -412,9 +388,6 @@
     }, 
     "36b541d53d8b49cc314410784a62f600e27086d9": {
         "en": "Hereford Sixth Form College MD (no longer in use)"
-    }, 
-    "36de591ff491190c4dc4a32565ba36402b9c9eab": {
-        "en": "Telford College of Arts & Technology - TEST"
     }, 
     "370305a3bf57931d207ad0a9db606d3fb520a1fe": {
         "en": "University of Warwick"
@@ -674,9 +647,6 @@
     "54dcb6821d4b91f46150ec0b4660417650a3ad6d": {
         "en": "Aylesbury College"
     }, 
-    "554399b2026afeff8b415fed9b33a874e2abe98c": {
-        "en": "LinkedIn via eduTEAMS Identity Hub TEST"
-    }, 
     "558f78ddca6c2217bf1604fa64094f60a4266756": {
         "en": "Camden Libraries"
     }, 
@@ -788,9 +758,6 @@
     "62404318f9156616867c455d1714dc9532fabf85": {
         "en": "Richard Taunton Sixth Form College"
     }, 
-    "6262c2eef903262ebb7d6c3769647d6bad40f1ef": {
-        "en": "Queen's University Belfast - TEST"
-    }, 
     "62c70d1d7f38f8750a01e36ff12d66952b9f09e7": {
         "en": "GitHub via eduTEAMS Identity Hub"
     }, 
@@ -847,9 +814,6 @@
     }, 
     "677291392efd0631e44f4e358234e5f36b9d921d": {
         "en": "Nottinghamshire Libraries"
-    }, 
-    "69218937504fe2f8e6eff6b38e2d01e0ca8ac037": {
-        "en": "Dundee and Angus College (TEST)"
     }, 
     "69e484acd3815b1443ae7468e7ad3826ce655e21": {
         "en": "Colchester Institute"
@@ -1058,9 +1022,6 @@
     "7fafafb7835e73e59a4c02ca070c6c5d5bb27648": {
         "en": "University of Southampton (Test 3.x)"
     }, 
-    "8067033c4b8dcafd6d5a56be4f8bce7391f487bb": {
-        "en": "Brooksby Melton College IdP3 TEST - Do not use"
-    }, 
     "8130ddf832e30f17bd9b31e90d346b1bb7699aa2": {
         "en": "St David's Catholic College"
     }, 
@@ -1094,9 +1055,6 @@
     "842600fecbeca89df4c7be55f9487e4fd32446fa": {
         "en": "Architectural Association"
     }, 
-    "8438d0fe9249aad8ad2595b06513320ccc047da1": {
-        "en": "Bournville College - Do not use"
-    }, 
     "8503dd374ca40f19bb133426e0ae6a38f8183797": {
         "en": "Leicestershire Library Service"
     }, 
@@ -1108,9 +1066,6 @@
     }, 
     "8619aa7f87fe12ad82b32df5d85d4f84b4e599d4": {
         "en": "Stockport Libraries"
-    }, 
-    "861a60ceedcffa84b66f73ab3ec65ffe0e48629a": {
-        "en": "AFBI: Agri-Food Biosciences Institute - TEST"
     }, 
     "86b62e247cf7d4aefb7fe6c4a396e4832eaa1f25": {
         "en": "Birkbeck College"
@@ -1249,9 +1204,6 @@
     "9678bcd8746ec025df5bcfddfa46c045573b87da": {
         "en": "The College Merthyr Tydfil"
     }, 
-    "970d794af71b662842f30bd3809fcb403ea2762e": {
-        "en": "The City of Liverpool College TEST"
-    }, 
     "97220ca477968a3506175518ef33cfe4a10067b4": {
         "en": "University of Nottingham : Development"
     }, 
@@ -1281,9 +1233,6 @@
     }, 
     "99bff1979e46a7007ac50341715034c660d44ad0": {
         "en": "The Manchester College"
-    }, 
-    "99e9a68b66bfaa7d9008acbeb4c1e0cabfadd587": {
-        "en": "University of Edinburgh: V2 TEST"
     }, 
     "9a672c653627c2374e6f9d71f780c4cb9f3f7995": {
         "en": "Newcastle University v3 Development IdP"
@@ -1357,9 +1306,6 @@
     "a02704e98da82b766e6266f435145b1f562f1ee4": {
         "en": "Bath College"
     }, 
-    "a081478bafd1b51fae6a1d0267b247bd7da6be3d": {
-        "en": "University of Salford TEST"
-    }, 
     "a1147b08cf9a8300ad8376d2271af3fd77bfca27": {
         "en": "Abertay University"
     }, 
@@ -1401,9 +1347,6 @@
     }, 
     "a558a6cd9968e09113749738ba4b259f11376480": {
         "en": "St George's, University of London"
-    }, 
-    "a5a0e759e53978d305f302217ada1f7e2f8fee85": {
-        "en": "Glyndwr University (Test Do not use)"
     }, 
     "a643af20227809512f4e94c9dd8136b60b122201": {
         "en": "King's College London"
@@ -1471,9 +1414,6 @@
     "acbf38e1c2da0b43a10d13fdefc455d2ccf3cc9d": {
         "en": "The University of Chichester Test - DO NOT USE"
     }, 
-    "ade8546f043fe35f110383cabe14c0f4416c04b7": {
-        "en": "Barking & Dagenham College TEST"
-    }, 
     "ae53aa327c01925adbec96e902561875c006832a": {
         "en": "UK Parliament"
     }, 
@@ -1494,9 +1434,6 @@
     }, 
     "b1acee72c9335448f829368c08a89b6cea4234d8": {
         "en": "University of Stirling"
-    }, 
-    "b1b976f1a1cb7ebc7a59678b7e829a222b76ef6b": {
-        "en": "University of Bristol Test (Do not use)"
     }, 
     "b2068e4c3ae0be863d761e83813c94a14229d326": {
         "cy": "Prifysgol Caerdydd", 
@@ -1682,9 +1619,6 @@
     "c3ae05c288f8395d74a586a38e1b8e17de2811d1": {
         "en": "University College Birmingham"
     }, 
-    "c3b444c540ea4abcd0e3555fb35a6b7f4a15d5bb": {
-        "en": "University of Central Lancashire (Do not use)"
-    }, 
     "c3c8c773d77403e1380e2a8f975f7fd71c51c637": {
         "en": "City College Norwich"
     }, 
@@ -1775,14 +1709,8 @@
     "cf8f9204bd40eb8748e65cd99a7de46e51a674c9": {
         "en": "Holborn College"
     }, 
-    "d01970d5c2f860e557743d44aa88c40c420944b2": {
-        "en": "Glasgow Clyde College - Legacy - Do not use"
-    }, 
     "d0f3ae160f527816f03450ce5b5f2054b5eca8d5": {
         "en": "Eastleigh College"
-    }, 
-    "d14bfa113a899b3a3ac69ce286ae74d8c10c6aa8": {
-        "en": "Barnet and Southgate College TEST (DO NOT USE)"
     }, 
     "d1ffe058cece28cf2400fb845fb12ec68b733cf5": {
         "en": "Wyggeston & QEI College"
@@ -1943,9 +1871,6 @@
     "e561026bbfed5dfc758c67c42c477d8936cbbfe5": {
         "en": "Pearson College London"
     }, 
-    "e5673cb0cc6a4ff17afc7379ab95b2f5d0df3859": {
-        "en": "University of Sheffield TEST IDP (DO NOT USE!)"
-    }, 
     "e5f88b738ebeb2c6c93eb9d9e106e3ab4f75270d": {
         "en": "Royal Academy of Dance"
     }, 
@@ -2087,9 +2012,6 @@
     "f780cb6d33d9ee58e7ebb46c7aa9e2c1df3d3d21": {
         "en": "University of Leicester"
     }, 
-    "f806e1409b5bef5801ec42ab59f7a7eea971877a": {
-        "en": "Imperial College London TEST"
-    }, 
     "f86d16dd150f93d38ba18b9474f663df9e21dfb3": {
         "en": "UniServity: CAVLE"
     }, 
@@ -2131,9 +2053,6 @@
     }, 
     "fb88fde6142fb324bbaa72763e49cf58602dc550": {
         "en": "University of the West of England (UWE) - old Athens gateway"
-    }, 
-    "fbb13b6184d9c171a499a7aeeb1cda8e08b7f85b": {
-        "en": "Staffordshire University TEST ONLY, DO NOT USE"
     }, 
     "fbea5edf60e16b796a27b54b0ce077ce78cb8718": {
         "en": "Robert Gordon University"

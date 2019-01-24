@@ -115,6 +115,10 @@
         "en": "Radboud University", 
         "nl": "Radboud Universiteit"
     }, 
+    "324762450e8ae3034664c727acb8ecba7ccc76d3": {
+        "en": "University of Humanistic Studies", 
+        "nl": "Universiteit voor Humanistiek"
+    }, 
     "3336e754881c2350e257c7d6bafd13918b96c56a": {
         "en": "ZonMw", 
         "nl": "ZonMw"
@@ -374,6 +378,9 @@
     "b1a946f0fdd831881934bd65fc72474406ac7ee0": {
         "en": "Zeeuwse Bibliotheek", 
         "nl": "Zeeuwse Bibliotheek"
+    }, 
+    "b1d5f96052d60524ae0b2f89b1692bc3dbe228b1": {
+        "en": "https://login.loi.nl/saml2/idp/metadata.php"
     }, 
     "b23dd28d4b2af38bf258169c4eaf9eb4f6fb034f": {
         "en": "Openbare Bibliotheek Amsterdam (OBA)", 
