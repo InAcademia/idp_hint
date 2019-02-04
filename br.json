@@ -119,10 +119,6 @@
         "en": "CGEE - Centro de Gestao e Estudos Estrategicos", 
         "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
     }, 
-    "1d17a8b8a18e668dfc8b14a403dc92ca4b075be7": {
-        "en": "IDP V3 Homologacao - Rede Nacional de Ensino e Pesquisa", 
-        "pt-br": "IDP V3 Homologacao - Rede Nacional de Ensino e Pesquisa"
-    }, 
     "20868bd5b7764816ad554949343dd8d39f62007d": {
         "en": "MACKENZIE - Instituto Presbiteriano Mackenzie", 
         "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
@@ -298,6 +294,10 @@
     "4b369bd4665844e821f585830991dfe006cc6322": {
         "en": "FURG - Universidade Federal do Rio Grande", 
         "pt-br": "FURG - Universidade Federal do Rio Grande"
+    }, 
+    "4c31fcaee8f70c0e3851551a0ea152e343bcac98": {
+        "en": "HFA - Hospital das Forcas Armadas", 
+        "pt-br": "HFA - Hospital das Forcas Armadas"
     }, 
     "4d5d208b73d6763e9c4b7bdfdffb281d6f23c014": {
         "en": "UERN - Universidade do Estado do Rio Grande do Norte", 
