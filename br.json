@@ -483,10 +483,6 @@
         "en": "UFCA - Universidade Federal do Cariri", 
         "pt-br": "UFCA - Universidade Federal do Cariri"
     }, 
-    "8747869f671f0925eeeff11abf60ff3d5ea86cb4": {
-        "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco", 
-        "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
-    }, 
     "8851ce68fa6e83a8987c638246b33cd30609500f": {
         "en": "UFAM - Universidade Federal do Amazonas", 
         "pt-br": "UFAM - Universidade Federal do Amazonas"
@@ -854,6 +850,10 @@
     "e84a7df34f6d7b1407016dea15610f467cd75def": {
         "en": "IFSERTAO-PE - Instituto Federal do Sertao Pernambucano", 
         "pt-br": "IFSERTAO-PE - Instituto Federal do Sertao Pernambucano"
+    }, 
+    "ea26f702c5a9223c5d2f8b2eb1d6f4e049d08da6": {
+        "en": "UNIFA - Universidade da Forca Aerea", 
+        "pt-br": "UNIFA - Universidade da Forca Aerea"
     }, 
     "eb2bdd974926b8557de52af6774e494f2959b688": {
         "en": "IFBaiano - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano", 

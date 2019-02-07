@@ -26,7 +26,8 @@
         "sv": "Arcada"
     }, 
     "2bc368862d7a1a5c01a378772afb5f34d197f08e": {
-        "en": "University of Turku", 
+        "en": "https://sso.utu.fi/sso-idp", 
+        "fi": "Turun yliopisto", 
         "sv": "\u00c5bo universitet"
     }, 
     "310f86a35affa32a4db17ca838a448d6c7131530": {
@@ -34,8 +35,7 @@
         "fi": "Taideyliopisto"
     }, 
     "3d683fa556a285150fd9b0c6b22afb352ce51513": {
-        "en": "https://login.helsinki.fi/shibboleth", 
-        "fi": "Helsingin yliopisto", 
+        "en": "University of Helsinki", 
         "sv": "Helsingfors universitet"
     }, 
     "4671dbc5c5c0b28551925eded3155a21ea9ca928": {

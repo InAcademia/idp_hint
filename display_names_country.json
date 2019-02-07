@@ -747,10 +747,6 @@
             "en": "UFCA - Universidade Federal do Cariri", 
             "pt-br": "UFCA - Universidade Federal do Cariri"
         }, 
-        "8747869f671f0925eeeff11abf60ff3d5ea86cb4": {
-            "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco", 
-            "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
-        }, 
         "8851ce68fa6e83a8987c638246b33cd30609500f": {
             "en": "UFAM - Universidade Federal do Amazonas", 
             "pt-br": "UFAM - Universidade Federal do Amazonas"
@@ -1119,6 +1115,10 @@
             "en": "IFSERTAO-PE - Instituto Federal do Sertao Pernambucano", 
             "pt-br": "IFSERTAO-PE - Instituto Federal do Sertao Pernambucano"
         }, 
+        "ea26f702c5a9223c5d2f8b2eb1d6f4e049d08da6": {
+            "en": "UNIFA - Universidade da Forca Aerea", 
+            "pt-br": "UNIFA - Universidade da Forca Aerea"
+        }, 
         "eb2bdd974926b8557de52af6774e494f2959b688": {
             "en": "IFBaiano - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano", 
             "pt-br": "IFBaiano - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
@@ -1306,7 +1306,7 @@
             "en": "Simon Fraser University"
         }, 
         "6abebce79248467087cfd3e4405da6f8aa2f6b8e": {
-            "en": "University of Ottawa"
+            "en": "zzz-UOttawa"
         }, 
         "726a17714ab6e4aa5e1d4cec415569ad6d69f665": {
             "en": "University of Quebec at Trois-Rivieres", 
@@ -1417,7 +1417,7 @@
             "fr": "\u00c9cole de technologie sup\u00e9rieure"
         }, 
         "f3a3954defde26a103157276bda5335467ba28c9": {
-            "en": "zzzTest-UOttawa"
+            "en": "University of Ottawa"
         }, 
         "f5f420ac81d9d8e1d38a2b783e0bfdd95d9d3ed7": {
             "en": "BCNET"
@@ -1657,11 +1657,11 @@
     }, 
     "cy": {
         "0dc962d01e782a1c851a2c7968dd0801abbf4803": {
-            "el": "\u00ce\u0161\u00ce\u2022\u00ce\u2018\u00ce\u201d", 
+            "el": "\u039a\u0395\u0391\u0394", 
             "en": "CYNET"
         }, 
         "b3aef758a57f7f8f870be3b9f846aaafa96c7104": {
-            "el": "\u00ce\u2022\u00cf\u2026\u00cf\u0081\u00cf\u2030\u00cf\u20ac\u00ce\u00b1\u00cf\u0160\u00ce\u00ba\u00cf\u0152 \u00ce\u00a0\u00ce\u00b1\u00ce\u00bd\u00ce\u00b5\u00cf\u20ac\u00ce\u00b9\u00cf\u0192\u00cf\u201e\u00ce\u00ae\u00ce\u00bc\u00ce\u00b9\u00ce\u00bf \u00ce\u0161\u00cf\u008d\u00cf\u20ac\u00cf\u0081\u00ce\u00bf\u00cf\u2026", 
+            "el": "\u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03cc \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u039a\u03cd\u03c0\u03c1\u03bf\u03c5", 
             "en": "European University Cyprus"
         }
     }, 
@@ -2416,6 +2416,10 @@
             "de": "Universit\u00e4t Trier", 
             "en": "University of Trier"
         }, 
+        "7ce0429606d40d1621facee45e9e56f8ebfb3d55": {
+            "de": "Hochschule f\u00fcr Technik und Wirtschaft Dresden", 
+            "en": "University of Applied Sciences Dresden"
+        }, 
         "7ce9f252cc6d484beac5eece85cf2b3bf4195d62": {
             "de": "Hochschule W\u00fcrzburg-Schweinfurt", 
             "en": "University of Applied Sciences W\u00fcrzburg-Schweinfurt"
@@ -2535,6 +2539,10 @@
         "b191ead5e90b859d31f3909c92afcbca5f52e46b": {
             "de": "Universit\u00e4t Passau", 
             "en": "Universit\u00e4t Passau"
+        }, 
+        "b1caa40dadf35928d0839f90a3f5ad19f048726a": {
+            "de": "Hochschule M\u00fcnchen (HM)", 
+            "en": "University of Applied Sciences Munich (HM)"
         }, 
         "b449744abeb6ca5a71f5e20bb1db210bbcb30fa0": {
             "de": "Alfred-Wegener-Institut f\u00fcr Polar- und Meeresforschung IdP", 
@@ -2923,8 +2931,8 @@
             "en": "Frederikshavn Gymnasium & HF-kursus"
         }, 
         "eb707c0a145923953b8aee045d40f970fd2f3370": {
-            "da": "Learnmark", 
-            "en": "Learnmark"
+            "da": "Learnmark Horsens", 
+            "en": "Learnmark Horsens"
         }, 
         "eec8b6edb7561881516f97b00461cdb78c9de6ac": {
             "da": "Erhvervsakademi MidtVest", 
@@ -3293,7 +3301,8 @@
             "sv": "Arcada"
         }, 
         "2bc368862d7a1a5c01a378772afb5f34d197f08e": {
-            "en": "University of Turku", 
+            "en": "https://sso.utu.fi/sso-idp", 
+            "fi": "Turun yliopisto", 
             "sv": "\u00c5bo universitet"
         }, 
         "310f86a35affa32a4db17ca838a448d6c7131530": {
@@ -3301,8 +3310,7 @@
             "fi": "Taideyliopisto"
         }, 
         "3d683fa556a285150fd9b0c6b22afb352ce51513": {
-            "en": "https://login.helsinki.fi/shibboleth", 
-            "fi": "Helsingin yliopisto", 
+            "en": "University of Helsinki", 
             "sv": "Helsingfors universitet"
         }, 
         "4671dbc5c5c0b28551925eded3155a21ea9ca928": {
@@ -6250,9 +6258,6 @@
         }, 
         "c95ac85545e45041791b926a77430c22f445c294": {
             "en": "Middle East College"
-        }, 
-        "d17a07866ab86b747a78c72b3718a5d448de0507": {
-            "en": "Dhofar University"
         }
     }, 
     "pk": {
@@ -6403,6 +6408,10 @@
         "e114d3c0b7d6332ea775b86665d581984cbc9668": {
             "en": "Polytechnic Institute of Porto", 
             "pt": "Instituto Polit\u00e9cnico do Porto"
+        }, 
+        "ed3a0140eb60d6c379fdb422f33daee8471aa47f": {
+            "en": "Secretaria Geral da Educa\u00e7\u00e3o e Ci\u00eancia", 
+            "pt": "Secretaria Geral da Educa\u00e7\u00e3o e Ci\u00eancia"
         }
     }, 
     "ru": {
@@ -8388,6 +8397,9 @@
         "c73a20916168afe1483a73b7927df5fbe44ec40c": {
             "en": "Royal College of Paediatrics and Child Health"
         }, 
+        "c7ff50c956c155fda80395cd70ce2802b916783c": {
+            "en": "Wyke Sixth Form College"
+        }, 
         "c8563f07cc8f55bb069209898848d3adddb75d96": {
             "en": "Harrow College"
         }, 
@@ -8744,6 +8756,9 @@
         }, 
         "f66c5fb87ad836cf80aaa0c2dc88eddcaf10e1d7": {
             "en": "The Sixth Form College, Colchester"
+        }, 
+        "f68f0fcd77533798717643d5b657254d26476b5e": {
+            "en": "Jisc Liberate Login"
         }, 
         "f6d16ec53a8d2e6a20a4f37fa2b14b72b07ce305": {
             "en": "Cardiff Metropolitan University Development IdP"
@@ -10053,6 +10068,9 @@
         }, 
         "cd4bf729e5716a03313215cd424662533b890985": {
             "en": "University of Oregon"
+        }, 
+        "cd4d8ab7fbd81688ecca63b071c04fc48f73e14d": {
+            "en": "Florida Gulf Coast University"
         }, 
         "cd947828d84b57591567cd287defda0afd3a9ad0": {
             "en": "Emory University"
