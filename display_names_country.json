@@ -2440,6 +2440,10 @@
             "de": "Freie Universit\u00e4t Berlin", 
             "en": "Freie Universit\u00e4t Berlin"
         }, 
+        "899a584a4f44677cb2a3df4ddbf12f81f1eed59a": {
+            "de": "Frankfurt University of Applied Sciences", 
+            "en": "Frankfurt University of Applied Sciences"
+        }, 
         "8a0eea3ee7ecec415920cb6ffaf7413d8960c03f": {
             "de": "Universit\u00e4t Hohenheim", 
             "en": "University of Hohenheim"
@@ -2907,8 +2911,8 @@
             "en": "SDE College"
         }, 
         "dfc38b59d38786df9a4f9980c21bdc936612cbdf": {
-            "da": "Erhvervsakademi Aarhus", 
-            "en": "Business Academy Aarhus"
+            "da": "Erhvervsakademi Aarhus [OLD]", 
+            "en": "Business Academy Aarhus [OLD]"
         }, 
         "e3c1e88d322f0ed6119b153110bd30c8b92f2f04": {
             "da": "IBA Erhvervsakademi Kolding", 
@@ -2930,9 +2934,9 @@
             "da": "Frederikshavn Gymnasium & HF-kursus", 
             "en": "Frederikshavn Gymnasium & HF-kursus"
         }, 
-        "eb707c0a145923953b8aee045d40f970fd2f3370": {
-            "da": "Learnmark Horsens", 
-            "en": "Learnmark Horsens"
+        "e962eddcd81f6b3952a528739848f81589c17458": {
+            "da": "Erhvervsakademi Aarhus", 
+            "en": "Business Academy Aarhus"
         }, 
         "eec8b6edb7561881516f97b00461cdb78c9de6ac": {
             "da": "Erhvervsakademi MidtVest", 
@@ -3296,8 +3300,7 @@
             "sv": "\u00c5bo yrkesh\u00f6gskola"
         }, 
         "21a6aa9eeb9e195974daf93af0634beab8040a69": {
-            "en": "https://tullbommen.arcada.fi/simplesaml/", 
-            "fi": "Arcada", 
+            "en": "Arcada", 
             "sv": "Arcada"
         }, 
         "2bc368862d7a1a5c01a378772afb5f34d197f08e": {
@@ -6268,7 +6271,7 @@
             "en": "Higher Education Commission Pakistan"
         }, 
         "fb25f9e772b494a977aaba251662fa18b2fe75a1": {
-            "en": "HEC Linux Idp"
+            "en": "HEC Linux Idp Pakistan"
         }
     }, 
     "pl": {
@@ -9845,7 +9848,7 @@
             "en": "Woods Hole Oceanographic Institution"
         }, 
         "a82b785d0ea2423b284a11fdc7a886cab2bc98d8": {
-            "en": "MCNC"
+            "en": "MCNC Employees"
         }, 
         "a895b955c340a756d4cf16b447851b40bdab6c8f": {
             "en": "Sam Houston State University"
