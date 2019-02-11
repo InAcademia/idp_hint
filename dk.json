@@ -203,10 +203,6 @@
         "da": "Syddansk Erhvervsskole", 
         "en": "SDE College"
     }, 
-    "dfc38b59d38786df9a4f9980c21bdc936612cbdf": {
-        "da": "Erhvervsakademi Aarhus [OLD]", 
-        "en": "Business Academy Aarhus [OLD]"
-    }, 
     "e3c1e88d322f0ed6119b153110bd30c8b92f2f04": {
         "da": "IBA Erhvervsakademi Kolding", 
         "en": "IBA International Business Academy"
@@ -219,10 +215,6 @@
         "da": "Grenaa Gymnasium", 
         "en": "Grenaa Gymnasium"
     }, 
-    "e4a120bb9d35e2c03d890d16e41290af303e152c": {
-        "da": "VIA University College [GL]", 
-        "en": "VIA University College [OLD]"
-    }, 
     "e645ec802465fe2006b023d7025802c1f69ee748": {
         "da": "Frederikshavn Gymnasium & HF-kursus", 
         "en": "Frederikshavn Gymnasium & HF-kursus"
@@ -230,6 +222,10 @@
     "e962eddcd81f6b3952a528739848f81589c17458": {
         "da": "Erhvervsakademi Aarhus", 
         "en": "Business Academy Aarhus"
+    }, 
+    "eb707c0a145923953b8aee045d40f970fd2f3370": {
+        "da": "Learnmark Horsens", 
+        "en": "Learnmark Horsens"
     }, 
     "eec8b6edb7561881516f97b00461cdb78c9de6ac": {
         "da": "Erhvervsakademi MidtVest", 
