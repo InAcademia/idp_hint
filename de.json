@@ -123,10 +123,6 @@
         "de": "DHBW Karlsruhe", 
         "en": "DHBW Karlsruhe"
     }, 
-    "27645271ebcd0cb5b8f0b919da638cc3adf6759a": {
-        "de": "Universit\u00e4tsmedizin der JoGu Mainz (Test)", 
-        "en": "University Medical Center of the Johannes Gutenberg University Mainz (V3)"
-    }, 
     "2b04ed51309abe620d6dd12824b44c4b4d5a3e26": {
         "de": "Hochschule Biberach", 
         "en": "Hochschule Biberach"
@@ -268,8 +264,8 @@
         "en": "Rhine-Waal University of Applied Sciences"
     }, 
     "68c225c058241417bf90f0ec55e5ec622ec750fc": {
-        "de": "Universit\u00e4tsmedizin der JoGu Mainz", 
-        "en": "University Medical Center of the JoGu Mainz"
+        "de": "Universit\u00e4tsmedizin der JoGu Mainz (Test)", 
+        "en": "University Medical Center of the Johannes Gutenberg University Mainz (V3)"
     }, 
     "6a3e0d112b5c78b49d40a94f9f77923723bbdbe6": {
         "de": "HS-Harz", 

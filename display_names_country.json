@@ -187,6 +187,9 @@
         "d62acfb20790a9d9598646760427508071af0700": {
             "en": "Flinders University"
         }, 
+        "f1ad1435eaee72c4d5a6b3b92b374ce392b09214": {
+            "en": "Macquarie University"
+        }, 
         "f3b8455372ee62f17206b9b96aa57ff3af4c2842": {
             "en": "Swinburne University of Technology"
         }, 
@@ -230,9 +233,6 @@
         "9688cbb6dd0b4641a42e85d89f2ac87b8ee61753": {
             "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)", 
             "fr": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)"
-        }, 
-        "973d8744693b1cb4be57eea8218a85b6f8febcd5": {
-            "en": "KHLeuven"
         }, 
         "9b636c3c664df96755a411ac1f6d6e51706866b2": {
             "en": "Belnet"
@@ -1305,9 +1305,6 @@
         "68e65ff2b107249b708cd8df1301e9a48d063abf": {
             "en": "Simon Fraser University"
         }, 
-        "6abebce79248467087cfd3e4405da6f8aa2f6b8e": {
-            "en": "zzz-UOttawa"
-        }, 
         "726a17714ab6e4aa5e1d4cec415569ad6d69f665": {
             "en": "University of Quebec at Trois-Rivieres", 
             "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res"
@@ -1846,10 +1843,6 @@
             "cs": "Geofyzik\u00e1ln\u00ed \u00fastav AV \u010cR, v.v.i.", 
             "en": "Institute of Geophysics of the CAS, v.v.i."
         }, 
-        "5dfb51ded9d0bd087ff763601cc148797bd68af5": {
-            "cs": "N\u00e1rodn\u00ed knihovna \u010cesk\u00e9 republiky", 
-            "en": "The National Library of the Czech Republic"
-        }, 
         "6058c8e608d8d09205a36cd44b1c9b7531831c5a": {
             "cs": "\u00dastav organick\u00e9 chemie a biochemie AV \u010cR", 
             "en": "Institute of Organic Chemistry and Biochemistry AS CR"
@@ -2224,10 +2217,6 @@
             "de": "DHBW Karlsruhe", 
             "en": "DHBW Karlsruhe"
         }, 
-        "27645271ebcd0cb5b8f0b919da638cc3adf6759a": {
-            "de": "Universit\u00e4tsmedizin der JoGu Mainz (Test)", 
-            "en": "University Medical Center of the Johannes Gutenberg University Mainz (V3)"
-        }, 
         "2b04ed51309abe620d6dd12824b44c4b4d5a3e26": {
             "de": "Hochschule Biberach", 
             "en": "Hochschule Biberach"
@@ -2369,8 +2358,8 @@
             "en": "Rhine-Waal University of Applied Sciences"
         }, 
         "68c225c058241417bf90f0ec55e5ec622ec750fc": {
-            "de": "Universit\u00e4tsmedizin der JoGu Mainz", 
-            "en": "University Medical Center of the JoGu Mainz"
+            "de": "Universit\u00e4tsmedizin der JoGu Mainz (Test)", 
+            "en": "University Medical Center of the Johannes Gutenberg University Mainz (V3)"
         }, 
         "6a3e0d112b5c78b49d40a94f9f77923723bbdbe6": {
             "de": "HS-Harz", 
@@ -3128,6 +3117,10 @@
         "68f5309b1a3a08b448d794bf48238a99bf7d7e09": {
             "en": "UMA - University of Malaga", 
             "es": "UMA - Universidad de M\u00e1laga"
+        }, 
+        "6ee80bdd1b3fe70f61f0b0ee900ef9654854604e": {
+            "en": "ULL - Universidad de la Laguna", 
+            "es": "ULL - University of Laguna"
         }, 
         "6fe8413811fb4264c70d50b9e524424ab7e32103": {
             "en": "CELLS - Laboratorio de Luz Sincotr\u00f3n", 
@@ -5384,6 +5377,10 @@
             "en": "Shibaura Institute of Technology", 
             "ja": "\u829d\u6d66\u5de5\u696d\u5927\u5b66"
         }, 
+        "8a83aa24fe2ff90aa92290ed48b005c9d55f713e": {
+            "en": "Nihon University", 
+            "ja": "\u65e5\u672c\u5927\u5b66"
+        }, 
         "8efb45794264eb67e723a593f5b0d608f9c1008c": {
             "en": "Kanazawa University", 
             "ja": "\u91d1\u6ca2\u5927\u5b66"
@@ -5669,10 +5666,6 @@
         "15a32e670790990251313c86755263019a747a12": {
             "en": "Nikhef", 
             "nl": "Nikhef"
-        }, 
-        "18c2cd0d48c264b3524e2fd474857ef4fb1d0d79": {
-            "en": "Christian University of Applied Sciences (CHE) [old]", 
-            "nl": "Christelijke Hogeschool Ede (CHE) [oud]"
         }, 
         "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
             "en": "EGI Foundation", 
@@ -7234,9 +7227,6 @@
         }, 
         "3f65ad7d943714ce1b3cba77db8fcb7d284571f2": {
             "en": "EHU Test IdP - DO NOT USE"
-        }, 
-        "3f6bee27559ebbd773304ee01d9dc88d341bf7b1": {
-            "en": "Jisc Technologies (Development Shibboleth IdP)"
         }, 
         "3f843c60544b53d6ac320b7d207f991a7a5d433e": {
             "en": "The Royal Marsden NHS Foundation Trust"
