@@ -383,6 +383,10 @@
             "en": "CGEE - Centro de Gestao e Estudos Estrategicos", 
             "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
         }, 
+        "1a032ab7e6bd90f229e102400578da3b83a728f9": {
+            "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco", 
+            "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
+        }, 
         "20868bd5b7764816ad554949343dd8d39f62007d": {
             "en": "MACKENZIE - Instituto Presbiteriano Mackenzie", 
             "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
@@ -1327,6 +1331,10 @@
         "91864a0c16b8073e41d1d7f521285e1869d3d2b7": {
             "en": "ACORN NS"
         }, 
+        "930746a7a3b9c85bfc572a258df60d62fadee084": {
+            "en": "\u00c9cole Polytechnique de Montr\u00e9al", 
+            "fr": "\u00c9cole Polytechnique de Montr\u00e9al"
+        }, 
         "939a44ba0311473b62fef6b9b47d9b03f5027b03": {
             "en": "University of Alberta"
         }, 
@@ -1842,6 +1850,10 @@
         "5db882bce4530ae44ad9fd9dc02c2de4660c82e7": {
             "cs": "Geofyzik\u00e1ln\u00ed \u00fastav AV \u010cR, v.v.i.", 
             "en": "Institute of Geophysics of the CAS, v.v.i."
+        }, 
+        "5dfb51ded9d0bd087ff763601cc148797bd68af5": {
+            "cs": "N\u00e1rodn\u00ed knihovna \u010cesk\u00e9 republiky", 
+            "en": "The National Library of the Czech Republic"
         }, 
         "6058c8e608d8d09205a36cd44b1c9b7531831c5a": {
             "cs": "\u00dastav organick\u00e9 chemie a biochemie AV \u010cR", 
@@ -3292,6 +3304,10 @@
             "en": "https://sso.utu.fi/sso-idp", 
             "fi": "Turun yliopisto", 
             "sv": "\u00c5bo universitet"
+        }, 
+        "30e114a13d19da8187936dc9ded46e25584dccf9": {
+            "en": "Finnish Environment Institute", 
+            "fi": "Suomen ymp\u00e4rist\u00f6keskus"
         }, 
         "310f86a35affa32a4db17ca838a448d6c7131530": {
             "en": "University of the Arts Helsinki", 
@@ -5369,6 +5385,10 @@
         "8efb45794264eb67e723a593f5b0d608f9c1008c": {
             "en": "Kanazawa University", 
             "ja": "\u91d1\u6ca2\u5927\u5b66"
+        }, 
+        "97c24f13ff185fb7e6265a05abd5bec371f5f7c0": {
+            "en": "The University of Tokyo", 
+            "ja": "\u6771\u4eac\u5927\u5b66"
         }, 
         "9fa3faace0ecb65eee49afad29fa63c9eec306aa": {
             "en": "Kyoto Institute of Technology", 
