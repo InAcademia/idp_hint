@@ -1,4 +1,8 @@
 {
+    "0180938f17ffc67b7a659ca0159812ef60d7c5c1": {
+        "cs": "\u00dastav struktury a mechaniky hornin AV \u010cR", 
+        "en": "Institute of Rock Structure and Mechanics of The Czech Academy of Sciences"
+    }, 
     "02ac966bae97270575b287682586b14703b03370": {
         "cs": "\u00dastav p\u0159\u00edstrojov\u00e9 techniky AV \u010cR", 
         "en": "Institute of Scientific Instruments of the ASCR"
@@ -366,6 +370,10 @@
     "d735875c44cb40458fa11dd5c3bdcbb1e9ecf5a8": {
         "cs": "Filosofick\u00fd \u00fastav AV \u010cR", 
         "en": "Institute of Philosophy AS CR"
+    }, 
+    "d92518b61d26100fb738b6ec2372cbe715e751cd": {
+        "cs": "National film archive Prague", 
+        "en": "National film archive Prague"
     }, 
     "de2fd821b2f3a5a4105256527bd70c0e04c362f7": {
         "cs": "\u00dastav fyziky plazmatu AV \u010cR", 
