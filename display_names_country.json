@@ -4933,6 +4933,9 @@
         "c0861ddecb3f5a0f54d58f948c2d8549d91373ad": {
             "en": "Institute for Social and Economic Change"
         }, 
+        "c43d6f9d3c4a2922e3befd0d9fd180fa07f34726": {
+            "en": "Sikkim University"
+        }, 
         "d001e4e2648d0c35e1ebf0587d191df9ae890187": {
             "en": "VIGNAN's Foundation for Science, Technology and Research"
         }, 
@@ -6740,6 +6743,12 @@
         "f81d5152011b5e27c4a24a314762b931f43e516c": {
             "en": "School center Novo mesto", 
             "sl": "\u0160olski center Novo mesto"
+        }
+    }, 
+    "tr": {
+        "801e04cdf18ad62d882d2ea7e9cb69d62aad5b27": {
+            "en": "ULAKBIM - ID", 
+            "tr": "ULAKB\u0130M - Kimlik"
         }
     }, 
     "ua": {
