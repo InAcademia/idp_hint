@@ -2007,6 +2007,10 @@
             "cs": "\u00dastav informatiky AV \u010cR", 
             "en": "Institute of Computer Science AS CR"
         }, 
+        "b21986397421f78bb5751f72b931ad4b3665ea43": {
+            "cs": "M\u011bstsk\u00e1 knihovna B\u0159eclav", 
+            "en": "Municipal library in Breclav"
+        }, 
         "b28cbe5e290fbd03f0b887871f1df42f0a6b0255": {
             "cs": "Jiho\u010desk\u00e1 univerzita v \u010cesk\u00fdch Bud\u011bjovic\u00edch", 
             "en": "University of South Bohemia in Ceske Budejovice"
@@ -2512,6 +2516,10 @@
         "9a19c80b74964715f346276ab8e879d302a79e21": {
             "de": "Universit\u00e4t Hamburg (UHH)", 
             "en": "Universit\u00e4t Hamburg (UHH)"
+        }, 
+        "9aa8c31c26b556d63d70905aae937a9be49d8d11": {
+            "de": "San-Netz.de", 
+            "en": "San-Netz.de"
         }, 
         "9eab55f659a2483493b0fbf30c30b53212c59493": {
             "de": "PH Freiburg", 
@@ -4301,6 +4309,10 @@
             "en": "eduGAIN Access Check", 
             "fr": "eduGAIN Access Check"
         }, 
+        "dfb8312500c906ac1a62d45c1f58484842cc6b57": {
+            "en": "Ecole Nationale Sup\u00e9rieur de Paysage", 
+            "fr": "Ecole Nationale Sup\u00e9rieur de Paysage"
+        }, 
         "e07528713d9c77972d1e2f966980754945781eae": {
             "en": "Mus\u00e9um National d'Histoire Naturelle (MNHN)", 
             "fr": "Mus\u00e9um National d'Histoire Naturelle (MNHN)"
@@ -4535,6 +4547,10 @@
             "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u03ba\u03b1\u03b9 \u039a\u03b1\u03c0\u03bf\u03b4\u03b9\u03c3\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03af\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd", 
             "en": "National and Kapodistrian University of Athens"
         }, 
+        "9ae83bb4861a4a46486a656d6f58914765ceafda": {
+            "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae \u0392\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2", 
+            "en": "National Library of Greece"
+        }, 
         "9bf89d022d0cc64db250d0b44d95874adbb43ddd": {
             "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c3\u03ba\u03bf\u03c0\u03b5\u03af\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd", 
             "en": "National Observatory Athens"
@@ -4561,10 +4577,6 @@
         "c5a693245d55fb5c775a03b748ba79bf45724c45": {
             "el": "\u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b5\u03b9\u03bf \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2", 
             "en": "Alexander Technological Educational Institute of Thessaloniki"
-        }, 
-        "c5d36aa5e0bbedf141af8a08fea8ffe7b4a0c80d": {
-            "el": "\u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2", 
-            "en": "Technological Educational Institute of Athens"
         }, 
         "c96dfc78542ca6f723ccbaf518e193d690a8548c": {
             "el": "\u0391\u03bd\u03ce\u03c4\u03b1\u03c4\u03b7 \u03a3\u03c7\u03bf\u03bb\u03ae \u03a0\u03b1\u03b9\u03b4\u03b1\u03b3\u03c9\u03b3\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2 \u0395\u03ba\u03c0\u03b1\u03af\u03b4\u03b5\u03c5\u03c3\u03b7\u03c2", 
@@ -4662,6 +4674,10 @@
         "41b19fd6ee9648a55038e4499b876e4d03a75dd4": {
             "en": "Kaposv\u00e1r University", 
             "hu": "Kaposv\u00e1ri Egyetem"
+        }, 
+        "5600163a3a6b68a9f30f11aed9ba9ff909fca17e": {
+            "en": "International Business School", 
+            "hu": "IBS Nemzetk\u00f6zi \u00dczleti F\u0151iskola"
         }, 
         "593642e335faa9b2f2fc94ae16fe2138eb9fab40": {
             "en": "John von Neumann University", 
@@ -4826,6 +4842,9 @@
         }, 
         "cdbfedc3d73796b8f044a34c8868ce74ec2f3424": {
             "en": "Maynooth University"
+        }, 
+        "d26a85602917b9580812237d9cc0f0eb82a7d645": {
+            "en": "Irish Centre for High-End Computing"
         }, 
         "d355338ba7e2732c81cde48397425da0b3349ab6": {
             "en": "Dundalk Institute of Technology", 
@@ -5616,7 +5635,7 @@
         "284e80135a3807054edf709a72fc7f9a67de7777": {
             "en": "Universiti Malaysia Pahang"
         }, 
-        "28f4c0f88deb87cdd3707d618045723bdbaa6744": {
+        "2915d1cd4187fb95707c975e46767595bcf7959c": {
             "en": "Universiti Malaysia Terengganu (UMT)"
         }, 
         "d80070f550dfcfe510967de00c14d781e7e5e09c": {
@@ -9436,9 +9455,6 @@
         }, 
         "812be03891e1341b85b1109d9ff247d1da57806b": {
             "en": "Central Washington University"
-        }, 
-        "8130143a024efb8937e2a0924bb8c1f0d403d241": {
-            "en": "Durham Public Schools"
         }, 
         "818d168c6c737c5e1fe9e9fe2c9f894c55f6325b": {
             "en": "Mott Community College"
