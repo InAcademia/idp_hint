@@ -83,10 +83,6 @@
         "da": "Uddannelsesministeriets It", 
         "en": "IT Department of the Ministry of Higher Education"
     }, 
-    "6408e5f65e102ce3ef0c672264f5bc8309dbc9d3": {
-        "da": "International Business College", 
-        "en": "International Business College"
-    }, 
     "697897cd5b791de640dec987847116f2f4d92c7c": {
         "da": "Aarhus Maskinmesterskole", 
         "en": "Aarhus School of Marine and Technical Engineering"
@@ -182,6 +178,10 @@
     "cf2fbc488be18a4b37d7fcd38b25f1c5e703a25e": {
         "da": "Vordingborg Gymnasium & HF", 
         "en": "Vordingborg Gymnasium & HF"
+    }, 
+    "cfd75fc465be31dc0b0f206e12da682594514708": {
+        "da": "International Business College", 
+        "en": "International Business College"
     }, 
     "d4d3ac8eb1a7c2b98932d7311a7dee8e641f2139": {
         "da": "Copenhagen Business School", 
