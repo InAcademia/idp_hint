@@ -543,6 +543,10 @@
         "en": "CROUS Besan\u00e7on V3", 
         "fr": "CROUS Besan\u00e7on V3"
     }, 
+    "88b615efac57bf1b44797789a6e84932aae9739d": {
+        "en": "Universit\u00e9 de Lorraine", 
+        "fr": "Universit\u00e9 de Lorraine"
+    }, 
     "88f26cb4538069b4050e493be245c7a410e51b0b": {
         "en": "CROUS Clermont Auvergne V3", 
         "fr": "CROUS Clermont Auvergne V3"
@@ -744,8 +748,8 @@
         "fr": "Sciences Po Lille"
     }, 
     "b424b70463ccf713b53fe5e9da21a0bc05281270": {
-        "en": "Universit\u00e9 de Lorraine", 
-        "fr": "Universit\u00e9 de Lorraine"
+        "en": "Universit\u00e9 de Lorraine (old version)", 
+        "fr": "Universit\u00e9 de Lorraine (ancienne version)"
     }, 
     "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
         "en": "Universit\u00e9 Lille 1 - Sciences et Technologies", 

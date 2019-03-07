@@ -1646,6 +1646,10 @@
             "en": "Universit\u00e9 de Neuch\u00e2tel", 
             "fr": "Universit\u00e9 de Neuch\u00e2tel"
         }, 
+        "e0f6574b7803b3bbd0d6d7fe7a5686507713c316": {
+            "de": "PHSZ - P\u00e4dagogische Hochschule Schwyz", 
+            "en": "PHSZ - P\u00e4dagogische Hochschule Schwyz"
+        }, 
         "e351b6efc240a7be8d44afb681f9d46e0afa2fce": {
             "en": "HES-SO - Haute \u00c9cole Sp\u00e9cialis\u00e9e de Suisse occidentale", 
             "fr": "HES-SO - Haute \u00c9cole Sp\u00e9cialis\u00e9e de Suisse occidentale"
@@ -4023,6 +4027,10 @@
             "en": "CROUS Besan\u00e7on V3", 
             "fr": "CROUS Besan\u00e7on V3"
         }, 
+        "88b615efac57bf1b44797789a6e84932aae9739d": {
+            "en": "Universit\u00e9 de Lorraine", 
+            "fr": "Universit\u00e9 de Lorraine"
+        }, 
         "88f26cb4538069b4050e493be245c7a410e51b0b": {
             "en": "CROUS Clermont Auvergne V3", 
             "fr": "CROUS Clermont Auvergne V3"
@@ -4224,8 +4232,8 @@
             "fr": "Sciences Po Lille"
         }, 
         "b424b70463ccf713b53fe5e9da21a0bc05281270": {
-            "en": "Universit\u00e9 de Lorraine", 
-            "fr": "Universit\u00e9 de Lorraine"
+            "en": "Universit\u00e9 de Lorraine (old version)", 
+            "fr": "Universit\u00e9 de Lorraine (ancienne version)"
         }, 
         "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
             "en": "Universit\u00e9 Lille 1 - Sciences et Technologies", 
