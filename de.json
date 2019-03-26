@@ -31,6 +31,10 @@
         "de": "Philipps-Universit\u00e4t Marburg", 
         "en": "Philipps-Universit\u00e4t Marburg"
     }, 
+    "0d3f9b8d005abfe4f847f5908cf044c0a85b3230": {
+        "de": "Hochschule f\u00fcr Gesundheit", 
+        "en": "Hochschule f\u00fcr Gesundheit"
+    }, 
     "0dbf9c91f744335030551f5da2fb176dcb029173": {
         "de": "ESO - European Southern Observatory", 
         "en": "ESO - European Southern Observatory"
@@ -178,6 +182,10 @@
     "44afbcee67c1a35a28172f46c65873e82dfb7f7c": {
         "de": "Technische Universit\u00e4t Dortmund", 
         "en": "Technische Universit\u00e4t Dortmund"
+    }, 
+    "459d1f9c80c79a1c2cd65608dd8884620ea78ab9": {
+        "de": "Hochschule Magdeburg-Stendal", 
+        "en": "Magdeburg-Stendal University of Applied Sciences"
     }, 
     "45c83f4c8b750097ebc5f5262460f82e1ac6c221": {
         "de": "Hochschule Offenburg", 
@@ -346,10 +354,6 @@
     "84f45e1e2dc75bedd7e09a00184ff6ab6f638060": {
         "de": "Fachhochschule Potsdam", 
         "en": "Fachhochschule Potsdam, University of Applied Scienes"
-    }, 
-    "86879bf65a3c22946b16a34671cd798b35e3bf69": {
-        "de": "Technische Hochschule L\u00fcbeck (THL)", 
-        "en": "TH L\u00fcbeck  - University of Applied Sciences (THL)"
     }, 
     "897baead243ed5a5f576aa728c3dc132cf70fb65": {
         "de": "Freie Universit\u00e4t Berlin", 
@@ -554,6 +558,10 @@
     "d39a62f97db1fe3a6eb62440a65936be653a25a5": {
         "de": "Universit\u00e4t des Saarlandes", 
         "en": "Saarland University"
+    }, 
+    "d6a9b6f6e5d10f8dcb34f01c153560fd3c04fc86": {
+        "de": "(do not yet use) Hochschule Karlsruhe - Technik und Wirtschaft", 
+        "en": "(do not yet use) University of Applied Sciences Karlsruhe, Germany"
     }, 
     "d88fe7722d496e6ce00645e8b2a7ff56c8b5e33f": {
         "de": "Hochschule f\u00fcr Musik Freiburg", 

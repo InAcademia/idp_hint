@@ -155,9 +155,6 @@
     "1a6d8325c1315033db53448f3e721e1c6df1b470": {
         "en": "University of Texas Rio Grande Valley"
     }, 
-    "1bc630222d28578bc92dcfdab9ee6a9167923e3d": {
-        "en": "Comodo CA Ltd."
-    }, 
     "1c893ce43e36d21cc24d987c9c970707152c59c2": {
         "en": "South Dakota State University"
     }, 
@@ -641,6 +638,9 @@
     "6e2c1d115e05a167a31a16c026a829c465d96873": {
         "en": "University of Kansas"
     }, 
+    "6e5bd2d9509cdbc2ca64bc64de3deff5d6ea28fe": {
+        "en": "University of Miami - Non-production"
+    }, 
     "6e5c843d4419e73759366ac23ced524b30be2acb": {
         "en": "University of Houston Libraries"
     }, 
@@ -933,7 +933,7 @@
         "en": "Eastern Washington University"
     }, 
     "a355f7b15c12e8acdc15983b6ab945350ba0449b": {
-        "en": "University of California - Office of the President"
+        "en": "University of California, Office of the President"
     }, 
     "a3fb2fc38422855a65925d1cdbf96c1e2f654b22": {
         "en": "California State Polytechnic University, Pomona"

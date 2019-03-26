@@ -498,10 +498,6 @@
             "en": "UNIP - Universidade Paulista", 
             "pt-br": "UNIP - Universidade Paulista"
         }, 
-        "33af2f3fb53c2625352f7657672e1ec2e0ae86d1": {
-            "en": "UFRGS - Universidade Federal do Rio Grande do Sul", 
-            "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
-        }, 
         "3469dfc14e152ede0e6e2bb1ac768e11d0099cb8": {
             "en": "UFBA - Universidade Federal da Bahia", 
             "pt-br": "UFBA - Universidade Federal da Bahia"
@@ -1701,6 +1697,9 @@
         "3e812dec1cafe5fb9c3656c65e488131057ca363": {
             "en": "RENATA"
         }, 
+        "87a568bcc872761c46a2e29f777248bc321ea39a": {
+            "en": "Direcci\u00f3n Nacional De Escuelas - DINAE"
+        }, 
         "b51eef76d4f7285905ae1c70c394123e96ccbe32": {
             "en": "CORPORACION RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA", 
             "es": "CORPORACION RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA"
@@ -1766,8 +1765,8 @@
             "en": "Institute of Inorganic chemistry of the Czech Academy of Sciences"
         }, 
         "17e7804cced7a7719858567dce6bbf4f68eca1b8": {
-            "cs": "Vysok\u00e1 \u0161kola b\u00e1\u0148sk\u00e1 - Technick\u00e1 univerzita Ostrava", 
-            "en": "V\u0160B-Technical University of Ostrava"
+            "cs": "V\u0160B - TU Ostrava", 
+            "en": "VSB - TU Ostrava"
         }, 
         "19407e31a8808cf5e87e220024ae6c1851751515": {
             "cs": "Univerzita Obrany", 
@@ -1864,6 +1863,10 @@
         "4e71b51c56c987559938ad9191d953f6d36d26cd": {
             "cs": "Fakultn\u00ed nemocnice u sv.Anny v Brn\u011b", 
             "en": "St.Anne's University Hospital Brno"
+        }, 
+        "4f56aa6857708a5c80d92f9667609d7e0005377a": {
+            "cs": "\u00dastav pro soudob\u00e9 d\u011bjiny AV \u010cR", 
+            "en": "Institute of Contemporary History"
         }, 
         "4f79e4d8784a87062cfa420f224286e6ea2d283c": {
             "cs": "V\u011bdeck\u00e1 knihovna v Olomouci", 
@@ -2199,6 +2202,10 @@
             "de": "Philipps-Universit\u00e4t Marburg", 
             "en": "Philipps-Universit\u00e4t Marburg"
         }, 
+        "0d3f9b8d005abfe4f847f5908cf044c0a85b3230": {
+            "de": "Hochschule f\u00fcr Gesundheit", 
+            "en": "Hochschule f\u00fcr Gesundheit"
+        }, 
         "0dbf9c91f744335030551f5da2fb176dcb029173": {
             "de": "ESO - European Southern Observatory", 
             "en": "ESO - European Southern Observatory"
@@ -2346,6 +2353,10 @@
         "44afbcee67c1a35a28172f46c65873e82dfb7f7c": {
             "de": "Technische Universit\u00e4t Dortmund", 
             "en": "Technische Universit\u00e4t Dortmund"
+        }, 
+        "459d1f9c80c79a1c2cd65608dd8884620ea78ab9": {
+            "de": "Hochschule Magdeburg-Stendal", 
+            "en": "Magdeburg-Stendal University of Applied Sciences"
         }, 
         "45c83f4c8b750097ebc5f5262460f82e1ac6c221": {
             "de": "Hochschule Offenburg", 
@@ -2514,10 +2525,6 @@
         "84f45e1e2dc75bedd7e09a00184ff6ab6f638060": {
             "de": "Fachhochschule Potsdam", 
             "en": "Fachhochschule Potsdam, University of Applied Scienes"
-        }, 
-        "86879bf65a3c22946b16a34671cd798b35e3bf69": {
-            "de": "Technische Hochschule L\u00fcbeck (THL)", 
-            "en": "TH L\u00fcbeck  - University of Applied Sciences (THL)"
         }, 
         "897baead243ed5a5f576aa728c3dc132cf70fb65": {
             "de": "Freie Universit\u00e4t Berlin", 
@@ -2723,6 +2730,10 @@
             "de": "Universit\u00e4t des Saarlandes", 
             "en": "Saarland University"
         }, 
+        "d6a9b6f6e5d10f8dcb34f01c153560fd3c04fc86": {
+            "de": "(do not yet use) Hochschule Karlsruhe - Technik und Wirtschaft", 
+            "en": "(do not yet use) University of Applied Sciences Karlsruhe, Germany"
+        }, 
         "d88fe7722d496e6ce00645e8b2a7ff56c8b5e33f": {
             "de": "Hochschule f\u00fcr Musik Freiburg", 
             "en": "University of Music Freiburg"
@@ -2885,10 +2896,6 @@
             "da": "IT-Supportcentret (ITS)", 
             "en": "IT-Supportcentret (ITS)"
         }, 
-        "55160767d334c80049399b65f9de4a1ba37bdee2": {
-            "da": "Frederikssund Gymnasium", 
-            "en": "Frederikssund Gymnasium"
-        }, 
         "62332d3305a60e2b2c4369c0dc7a89c05d7220f6": {
             "da": "Uddannelsesministeriets It", 
             "en": "IT Department of the Ministry of Higher Education"
@@ -2920,6 +2927,10 @@
         "725a2591828cd6fc89ea874e75efe797f03fc1ed": {
             "da": "Det Danske Sprog- og Litteraturselskab", 
             "en": "Society for Danish Language and Literature"
+        }, 
+        "7b93e6c646e2160475e4d43478b11dbd9e94e28d": {
+            "da": "Glasir", 
+            "en": "Glasir T\u00f3rshavn College"
         }, 
         "8038b02927c43ed79f1331de8e06e27bbf394bff": {
             "da": "Professionsh\u00f8jskolen Absalon", 
@@ -2996,6 +3007,10 @@
         "d4d3ac8eb1a7c2b98932d7311a7dee8e641f2139": {
             "da": "Copenhagen Business School", 
             "en": "Copenhagen Business School"
+        }, 
+        "d6374b46e1b20899dff32715ed57eb6f69e51ce4": {
+            "da": "Frederikssund Gymnasium", 
+            "en": "Frederikssund Gymnasium"
         }, 
         "d73e5fcf5329fcf4929a6d1af51830580c98281c": {
             "da": "SIMAC", 
@@ -3828,10 +3843,6 @@
             "en": "Esigelec", 
             "fr": "Esigelec"
         }, 
-        "55ab14d37335eb1cb57a26f476803f886be4ba4e": {
-            "en": "Sciences Po Grenoble", 
-            "fr": "Sciences Po Grenoble"
-        }, 
         "5887d750a32bba54c8ee435f37c379a7c5a574df": {
             "en": "Universit\u00e9 d'Artois", 
             "fr": "Universit\u00e9 d'Artois"
@@ -4339,6 +4350,10 @@
         "cb0ef7339f9ae21bf4924d82f9d3b0c6af67d17a": {
             "en": "Universit\u00e9 de Technologie de Belfort-Montb\u00e9liard", 
             "fr": "Universit\u00e9 de Technologie de Belfort-Montb\u00e9liard"
+        }, 
+        "cd134f2289382c2257e78d4c89f422c3664a6301": {
+            "en": "Sciences Po Grenoble", 
+            "fr": "Sciences Po Grenoble"
         }, 
         "cf3b78687a4f8b1b74b641245a0919bf3ac240ae": {
             "en": "CIRAD", 
@@ -4975,7 +4990,7 @@
             "en": "National Institute of Technology, Hamirpur"
         }, 
         "039262b8a1cde47e439e1efa5c268eb977b34c86": {
-            "en": "LIGO India - IUCAA"
+            "en": "LIGO-India Scientific Collaboration"
         }, 
         "03b957048590471d92b238175f740b29997de571": {
             "en": "Tamil Nadu Physical Education and Sports University"
@@ -5357,7 +5372,7 @@
         }, 
         "abcb8e1dcca4348d7905a5d6de7af693085068cf": {
             "en": "University of Macerata.", 
-            "it": "Universita' di Macerata"
+            "it": "Universit\u00e0 degli Studi di Macerata"
         }, 
         "b0fdc375b76daca9f54414e95d63f70d72723b68": {
             "en": "National Institute of Oceanography and Experimental Geophysics", 
@@ -5409,6 +5424,10 @@
         "cc907a8c610e9858089ae0abfb707b3d1de202e2": {
             "en": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)", 
             "it": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)"
+        }, 
+        "cdeeaaa51b889575d2f480658aeda074c93ffd0b": {
+            "en": "IRCCS San Martino University Hospital", 
+            "it": "IRCCS Ospedale Policlinico San Martino"
         }, 
         "d064a8067d6a9af5c15d0966eb09fb96d863040c": {
             "en": "Universit\u00e0 di Napoli Parthenope", 
@@ -5507,6 +5526,10 @@
         "5d65ec82724b38eb27de02ad8f4b1cf584b26ad8": {
             "en": "Kyushu Institute of Technology", 
             "ja": "\u4e5d\u5dde\u5de5\u696d\u5927\u5b66"
+        }, 
+        "5eb1a56a029f8052ec3cb9a630533895a2c639b1": {
+            "en": "Rikkyo University", 
+            "ja": "\u7acb\u6559\u5927\u5b66"
         }, 
         "680dc7bc32f1c7c65f261380c48e79d8b0793ce4": {
             "en": "Ibaraki University", 
@@ -5811,10 +5834,6 @@
             "en": "Drenthe College", 
             "nl": "Drenthe College"
         }, 
-        "0df4953bf887d99b61cb89fa59001cad617d91d7": {
-            "en": "Wageningen University & Research (WUR) (old)", 
-            "nl": "Wageningen University & Research (WUR) (Oud)"
-        }, 
         "15a32e670790990251313c86755263019a747a12": {
             "en": "Nikhef", 
             "nl": "Nikhef"
@@ -5908,8 +5927,8 @@
             "nl": "Driestar Educatief"
         }, 
         "3847d6e5a4022c8a1f5516ba8b2930782c379825": {
-            "en": "ROC Albeda College", 
-            "nl": "ROC Albeda College"
+            "en": "ROC Albeda", 
+            "nl": "ROC Albeda"
         }, 
         "3ae2721c7505f508d0db41d324c76e35c0d8e2d9": {
             "en": "SRON Netherlands Institute for Space Research", 
@@ -6215,10 +6234,6 @@
             "en": "Helicon Opleidingen", 
             "nl": "Helicon Opleidingen"
         }, 
-        "bd779b3f64abf21f3b0ea9ffb806e6828c87062e": {
-            "en": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)", 
-            "nl": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)"
-        }, 
         "be1c81df5bf9310fe64f72c27039821973504039": {
             "en": "mboRijnland", 
             "nl": "mboRijnland"
@@ -6316,8 +6331,8 @@
             "nl": "KNMI"
         }, 
         "e6e6fc3a42588bdec230748f61548b06555207a5": {
-            "en": "Bureau (KNAW)", 
-            "nl": "Bureau (KNAW)"
+            "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)", 
+            "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
         }, 
         "e7b1aac22990f6c909aa22faa692c615bc5e72fb": {
             "en": "SaNS Expertisecentrum", 
@@ -8995,9 +9010,6 @@
         "1a6d8325c1315033db53448f3e721e1c6df1b470": {
             "en": "University of Texas Rio Grande Valley"
         }, 
-        "1bc630222d28578bc92dcfdab9ee6a9167923e3d": {
-            "en": "Comodo CA Ltd."
-        }, 
         "1c893ce43e36d21cc24d987c9c970707152c59c2": {
             "en": "South Dakota State University"
         }, 
@@ -9481,6 +9493,9 @@
         "6e2c1d115e05a167a31a16c026a829c465d96873": {
             "en": "University of Kansas"
         }, 
+        "6e5bd2d9509cdbc2ca64bc64de3deff5d6ea28fe": {
+            "en": "University of Miami - Non-production"
+        }, 
         "6e5c843d4419e73759366ac23ced524b30be2acb": {
             "en": "University of Houston Libraries"
         }, 
@@ -9773,7 +9788,7 @@
             "en": "Eastern Washington University"
         }, 
         "a355f7b15c12e8acdc15983b6ab945350ba0449b": {
-            "en": "University of California - Office of the President"
+            "en": "University of California, Office of the President"
         }, 
         "a3fb2fc38422855a65925d1cdbf96c1e2f654b22": {
             "en": "California State Polytechnic University, Pomona"

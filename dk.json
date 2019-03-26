@@ -75,10 +75,6 @@
         "da": "IT-Supportcentret (ITS)", 
         "en": "IT-Supportcentret (ITS)"
     }, 
-    "55160767d334c80049399b65f9de4a1ba37bdee2": {
-        "da": "Frederikssund Gymnasium", 
-        "en": "Frederikssund Gymnasium"
-    }, 
     "62332d3305a60e2b2c4369c0dc7a89c05d7220f6": {
         "da": "Uddannelsesministeriets It", 
         "en": "IT Department of the Ministry of Higher Education"
@@ -110,6 +106,10 @@
     "725a2591828cd6fc89ea874e75efe797f03fc1ed": {
         "da": "Det Danske Sprog- og Litteraturselskab", 
         "en": "Society for Danish Language and Literature"
+    }, 
+    "7b93e6c646e2160475e4d43478b11dbd9e94e28d": {
+        "da": "Glasir", 
+        "en": "Glasir T\u00f3rshavn College"
     }, 
     "8038b02927c43ed79f1331de8e06e27bbf394bff": {
         "da": "Professionsh\u00f8jskolen Absalon", 
@@ -186,6 +186,10 @@
     "d4d3ac8eb1a7c2b98932d7311a7dee8e641f2139": {
         "da": "Copenhagen Business School", 
         "en": "Copenhagen Business School"
+    }, 
+    "d6374b46e1b20899dff32715ed57eb6f69e51ce4": {
+        "da": "Frederikssund Gymnasium", 
+        "en": "Frederikssund Gymnasium"
     }, 
     "d73e5fcf5329fcf4929a6d1af51830580c98281c": {
         "da": "SIMAC", 

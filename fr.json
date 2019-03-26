@@ -315,10 +315,6 @@
         "en": "Esigelec", 
         "fr": "Esigelec"
     }, 
-    "55ab14d37335eb1cb57a26f476803f886be4ba4e": {
-        "en": "Sciences Po Grenoble", 
-        "fr": "Sciences Po Grenoble"
-    }, 
     "5887d750a32bba54c8ee435f37c379a7c5a574df": {
         "en": "Universit\u00e9 d'Artois", 
         "fr": "Universit\u00e9 d'Artois"
@@ -826,6 +822,10 @@
     "cb0ef7339f9ae21bf4924d82f9d3b0c6af67d17a": {
         "en": "Universit\u00e9 de Technologie de Belfort-Montb\u00e9liard", 
         "fr": "Universit\u00e9 de Technologie de Belfort-Montb\u00e9liard"
+    }, 
+    "cd134f2289382c2257e78d4c89f422c3664a6301": {
+        "en": "Sciences Po Grenoble", 
+        "fr": "Sciences Po Grenoble"
     }, 
     "cf3b78687a4f8b1b74b641245a0919bf3ac240ae": {
         "en": "CIRAD", 

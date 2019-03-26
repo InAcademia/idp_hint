@@ -267,7 +267,7 @@
     }, 
     "abcb8e1dcca4348d7905a5d6de7af693085068cf": {
         "en": "University of Macerata.", 
-        "it": "Universita' di Macerata"
+        "it": "Universit\u00e0 degli Studi di Macerata"
     }, 
     "b0fdc375b76daca9f54414e95d63f70d72723b68": {
         "en": "National Institute of Oceanography and Experimental Geophysics", 
@@ -319,6 +319,10 @@
     "cc907a8c610e9858089ae0abfb707b3d1de202e2": {
         "en": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)", 
         "it": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)"
+    }, 
+    "cdeeaaa51b889575d2f480658aeda074c93ffd0b": {
+        "en": "IRCCS San Martino University Hospital", 
+        "it": "IRCCS Ospedale Policlinico San Martino"
     }, 
     "d064a8067d6a9af5c15d0966eb09fb96d863040c": {
         "en": "Universit\u00e0 di Napoli Parthenope", 

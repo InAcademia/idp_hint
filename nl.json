@@ -31,10 +31,6 @@
         "en": "Drenthe College", 
         "nl": "Drenthe College"
     }, 
-    "0df4953bf887d99b61cb89fa59001cad617d91d7": {
-        "en": "Wageningen University & Research (WUR) (old)", 
-        "nl": "Wageningen University & Research (WUR) (Oud)"
-    }, 
     "15a32e670790990251313c86755263019a747a12": {
         "en": "Nikhef", 
         "nl": "Nikhef"
@@ -128,8 +124,8 @@
         "nl": "Driestar Educatief"
     }, 
     "3847d6e5a4022c8a1f5516ba8b2930782c379825": {
-        "en": "ROC Albeda College", 
-        "nl": "ROC Albeda College"
+        "en": "ROC Albeda", 
+        "nl": "ROC Albeda"
     }, 
     "3ae2721c7505f508d0db41d324c76e35c0d8e2d9": {
         "en": "SRON Netherlands Institute for Space Research", 
@@ -435,10 +431,6 @@
         "en": "Helicon Opleidingen", 
         "nl": "Helicon Opleidingen"
     }, 
-    "bd779b3f64abf21f3b0ea9ffb806e6828c87062e": {
-        "en": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)", 
-        "nl": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)"
-    }, 
     "be1c81df5bf9310fe64f72c27039821973504039": {
         "en": "mboRijnland", 
         "nl": "mboRijnland"
@@ -536,8 +528,8 @@
         "nl": "KNMI"
     }, 
     "e6e6fc3a42588bdec230748f61548b06555207a5": {
-        "en": "Bureau (KNAW)", 
-        "nl": "Bureau (KNAW)"
+        "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)", 
+        "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
     }, 
     "e7b1aac22990f6c909aa22faa692c615bc5e72fb": {
         "en": "SaNS Expertisecentrum", 

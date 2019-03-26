@@ -48,8 +48,8 @@
         "en": "Institute of Inorganic chemistry of the Czech Academy of Sciences"
     }, 
     "17e7804cced7a7719858567dce6bbf4f68eca1b8": {
-        "cs": "Vysok\u00e1 \u0161kola b\u00e1\u0148sk\u00e1 - Technick\u00e1 univerzita Ostrava", 
-        "en": "V\u0160B-Technical University of Ostrava"
+        "cs": "V\u0160B - TU Ostrava", 
+        "en": "VSB - TU Ostrava"
     }, 
     "19407e31a8808cf5e87e220024ae6c1851751515": {
         "cs": "Univerzita Obrany", 
@@ -146,6 +146,10 @@
     "4e71b51c56c987559938ad9191d953f6d36d26cd": {
         "cs": "Fakultn\u00ed nemocnice u sv.Anny v Brn\u011b", 
         "en": "St.Anne's University Hospital Brno"
+    }, 
+    "4f56aa6857708a5c80d92f9667609d7e0005377a": {
+        "cs": "\u00dastav pro soudob\u00e9 d\u011bjiny AV \u010cR", 
+        "en": "Institute of Contemporary History"
     }, 
     "4f79e4d8784a87062cfa420f224286e6ea2d283c": {
         "cs": "V\u011bdeck\u00e1 knihovna v Olomouci", 
