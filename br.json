@@ -183,10 +183,6 @@
         "en": "UEG - Universidade Estadual de Goias", 
         "pt-br": "UEG - Universidade Estadual de Goias"
     }, 
-    "2c423e55f2b18d468edcd258199418a1d6e5fa08": {
-        "en": "IFPI - Instituto Federal do Piaui", 
-        "pt-br": "IFPI - Instituto Federal do Piaui"
-    }, 
     "2c8dd0a1b5e0790915378829ce81983b056ce6a8": {
         "en": "SBC - Sociedade Brasileira de Computacao", 
         "pt-br": "SBC - Sociedade Brasileira de Computacao"
@@ -850,6 +846,10 @@
     "d78acf6b2962709e1da33d91a57f840156f69167": {
         "en": "UNESP - Universidade Estadual Paulista", 
         "pt-br": "UNESP - Universidade Estadual Paulista"
+    }, 
+    "db8a8c4ee5ce83838c956aa53f5c8dda6a0876dd": {
+        "en": "IFPI - Instituto Federal do Piaui", 
+        "pt-br": "IFPI - Instituto Federal do Piaui"
     }, 
     "df66bec36372869dece12a22fbf0dfdafc747af6": {
         "en": "URCA - Universidade Regional do Cariri", 

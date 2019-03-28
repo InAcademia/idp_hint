@@ -454,10 +454,6 @@
             "en": "UEG - Universidade Estadual de Goias", 
             "pt-br": "UEG - Universidade Estadual de Goias"
         }, 
-        "2c423e55f2b18d468edcd258199418a1d6e5fa08": {
-            "en": "IFPI - Instituto Federal do Piaui", 
-            "pt-br": "IFPI - Instituto Federal do Piaui"
-        }, 
         "2c8dd0a1b5e0790915378829ce81983b056ce6a8": {
             "en": "SBC - Sociedade Brasileira de Computacao", 
             "pt-br": "SBC - Sociedade Brasileira de Computacao"
@@ -1121,6 +1117,10 @@
         "d78acf6b2962709e1da33d91a57f840156f69167": {
             "en": "UNESP - Universidade Estadual Paulista", 
             "pt-br": "UNESP - Universidade Estadual Paulista"
+        }, 
+        "db8a8c4ee5ce83838c956aa53f5c8dda6a0876dd": {
+            "en": "IFPI - Instituto Federal do Piaui", 
+            "pt-br": "IFPI - Instituto Federal do Piaui"
         }, 
         "df66bec36372869dece12a22fbf0dfdafc747af6": {
             "en": "URCA - Universidade Regional do Cariri", 
@@ -5091,6 +5091,9 @@
         }, 
         "f79e1bdd64f19e662d43e3f3c7b50b00675ecc6b": {
             "en": "National Institute of Design"
+        }, 
+        "f94b241b571deae2514b36a48869a716221df698": {
+            "en": "L.E. College Morbi"
         }, 
         "fc08018d6a44e2cb72d4dd90d1e38b03cb8c78a2": {
             "en": "Vinayaka Mission's Research - DU"
@@ -9815,9 +9818,6 @@
         "a70c9f761ad1ee95c3db6e6e5197951cae657fe4": {
             "en": "Colorado State University"
         }, 
-        "a7c74d7c3f48bf6b753a3dd450fcadf2cfdc3d48": {
-            "en": "University of Texas-Pan American"
-        }, 
         "a7f1ca1d50bf0c6232be1bff5bdce705a2489d98": {
             "en": "Liberty University"
         }, 
@@ -10090,9 +10090,6 @@
         }, 
         "d504c32eb6421a163241dda71152b76847df3714": {
             "en": "Hamilton College"
-        }, 
-        "d556dacd8cc0eb175de9e60936d5d2fb4f962450": {
-            "en": "University of Texas At Brownsville"
         }, 
         "d76fd0405ce5d459de4c4e968801f4792110e30f": {
             "en": "Malone University"
