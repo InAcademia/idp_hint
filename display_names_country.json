@@ -4790,6 +4790,10 @@
             "en": "Sz\u00e9chenyi Istv\u00e1n University", 
             "hu": "Sz\u00e9chenyi Istv\u00e1n Egyetem"
         }, 
+        "146da2f1f9aee4c134a4296cc063fc4f1027d9b7": {
+            "en": "Library and Information Centre of the Hungarian Academy of Sciences", 
+            "hu": "Magyar Tudom\u00e1nyos Akad\u00e9mia K\u00f6nyvt\u00e1r \u00e9s Inform\u00e1ci\u00f3s K\u00f6zpont"
+        }, 
         "24edae40596648fd5c9e5ed7a46648c400c8cbad": {
             "en": "Budapest University of Technology and Economics", 
             "hu": "Budapesti M\u0171szaki \u00e9s Gazdas\u00e1gtudom\u00e1nyi Egyetem"
@@ -5167,10 +5171,6 @@
             "de": "Freie Universit\u00e4t Bozen", 
             "en": "https://idp.unibz.it/idp/shibboleth", 
             "it": "Libera Universit\u00e0 di Bolzano"
-        }, 
-        "14dcb2727d6b7dca2dc98475bf29ffe09db15e8f": {
-            "en": "CNR Bologna Research Area", 
-            "it": "CNR Area della Ricerca di Bologna"
         }, 
         "16eaa305b8a888a04a4832c2f9f0ab3f3dd2c932": {
             "en": "University of Turin", 
