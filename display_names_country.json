@@ -2997,10 +2997,6 @@
             "da": "Syddansk Universitet", 
             "en": "University of Southern Denmark"
         }, 
-        "c7cb795af9e97b1d9f71fbb1aea399e338b96df3": {
-            "da": "Pharmakon", 
-            "en": "Pharmakon"
-        }, 
         "ccfff7160d570163fbefcc72e008b31a3be09636": {
             "da": "KEA \u2013 K\u00f8benhavns Erhvervsakademi", 
             "en": "KEA \u2013 Copenhagen School of Design and Technology"
@@ -4287,6 +4283,10 @@
         "b424b70463ccf713b53fe5e9da21a0bc05281270": {
             "en": "Universit\u00e9 de Lorraine (old version)", 
             "fr": "Universit\u00e9 de Lorraine (ancienne version)"
+        }, 
+        "b4a23e9fbe88925e725cb707997093bd7134a7a2": {
+            "en": "Universit\u00e9 Clermont Auvergne - SATOSA proxy", 
+            "fr": "Universit\u00e9 Clermont Auvergne - SATOSA proxy"
         }, 
         "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
             "en": "Universit\u00e9 Lille 1 - Sciences et Technologies", 
