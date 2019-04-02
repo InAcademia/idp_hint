@@ -858,10 +858,6 @@
             "en": "UEMG - Universidade do Estado de Minas Gerais", 
             "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
         }, 
-        "9f0d7fcf3c4b296634d418865842ba078787eb64": {
-            "en": "UFPI - Universidade Federal do Piaui", 
-            "pt-br": "UFPI - Universidade Federal do Piaui"
-        }, 
         "9f65a150079e5da3c29466b3528b09026477106f": {
             "en": "Unicap - Universidade Catolica de Pernambuco", 
             "pt-br": "Unicap - Universidade Catolica de Pernambuco"
@@ -997,6 +993,10 @@
         "bb0c267a1218c71760f25f8e3388200ddd8f1368": {
             "en": "UFPA - Universidade Federal do Para", 
             "pt-br": "UFPA - Universidade Federal do Para"
+        }, 
+        "bb24b6ad6976a4a89e4d59cf71fd42f9c3172425": {
+            "en": "UFPI - Universidade Federal do Piaui", 
+            "pt-br": "UFPI - Universidade Federal do Piaui"
         }, 
         "be494461cd319bafed9c307d6c0da763d723ce9c": {
             "en": "UNIVALI - Universidade do Vale do Itajai", 
