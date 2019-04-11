@@ -1,4 +1,8 @@
 {
+    "032db0d93336cb7a1861f29b56747683ef59895e": {
+        "en": "CEMFI", 
+        "es": "CEMFI"
+    }, 
     "041f33db760c9da567d2646357daab956865c90e": {
         "en": "UAB - Universitat Aut\u00f2noma de Barcelona", 
         "es": "UAB - Universitat Aut\u00f2noma de Barcelona"
@@ -31,9 +35,17 @@
         "en": "UMH - Universidad Miguel Hern\u00e1ndez de Elche", 
         "es": "UMH - Universidad Miguel Hern\u00e1ndez de Elche"
     }, 
+    "1f6f9c798c644a9a10d88279364c2fa9115020b1": {
+        "en": "Instituto Tecnol\u00f3gico Agrario", 
+        "es": "Instituto Tecnol\u00f3gico Agrario"
+    }, 
     "2014c1c8a4ae114d5037423f89d23dbcfa77c184": {
         "en": "UNIOVI - Universidad de Oviedo", 
         "es": "UNIOVI - Universidad de Oviedo"
+    }, 
+    "204b629371b63502357d72189da13484fb7200d7": {
+        "en": "University of Las Palmas de Gran Canaria", 
+        "es": "Universidad de Las Palmas de Gran Canaria"
     }, 
     "2089ec1c6973a94d8f962c0c847305f7f2870809": {
         "en": "CENIEH - Centro Nacional de Investigaci\u00f3n sobre la Evoluci\u00f3n Humana", 
@@ -110,6 +122,10 @@
     "573116c096bd85296da6c0fd921b9f36dc4c3805": {
         "en": "UM - University of Murcia", 
         "es": "UM - Universidad de Murcia"
+    }, 
+    "57d25688ba98d63bc4dd5d3ef84d6bbbe5ba6547": {
+        "en": "Instituto de Salud Carlos III", 
+        "es": "Instituto de Salud Carlos III"
     }, 
     "5818173547e61cd4b418cedfc490a6a24ff31b77": {
         "en": "UCM - Complutense University of Madrid", 
