@@ -259,6 +259,10 @@
         "en": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie", 
         "fr": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie"
     }, 
+    "48fb87a133169fb2111a8acce94fc8c5ef6d260b": {
+        "en": "University of Bordeaux Montaigne", 
+        "fr": "Universit\u00e9 Bordeaux Montaigne"
+    }, 
     "4b5c07c298fd46fdd9b7f6e6e8a4d845648fb175": {
         "en": "CROUS Normandie - Employees v3", 
         "fr": "CROUS Normandie - Personnels v3"
@@ -683,10 +687,6 @@
         "en": "ESRF - European Synchrotron Radiation Facility", 
         "fr": "ESRF - European Synchrotron Radiation Facility"
     }, 
-    "a6ab640200358e2cea00e994e3871a43c1347305": {
-        "en": "MBS - Production", 
-        "fr": "MBS - Production"
-    }, 
     "a6ec480839a7e7f04e7bf9c7ac3356807cf64ef8": {
         "en": "Normandie Universit\u00e9", 
         "fr": "Normandie Universit\u00e9"
@@ -750,10 +750,6 @@
     "b424b70463ccf713b53fe5e9da21a0bc05281270": {
         "en": "Universit\u00e9 de Lorraine (old version)", 
         "fr": "Universit\u00e9 de Lorraine (ancienne version)"
-    }, 
-    "b4a23e9fbe88925e725cb707997093bd7134a7a2": {
-        "en": "Universit\u00e9 Clermont Auvergne - SATOSA proxy", 
-        "fr": "Universit\u00e9 Clermont Auvergne - SATOSA proxy"
     }, 
     "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
         "en": "Universit\u00e9 Lille 1 - Sciences et Technologies", 
