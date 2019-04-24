@@ -2762,6 +2762,10 @@
             "de": "Max-Planck Institute (im MetaDir der GWDG)", 
             "en": "Max-Planck Institutes (in MetaDir of GWDG)"
         }, 
+        "dc393a3f3d7565368a0a5e71af273e6b8ade24d4": {
+            "de": "Fachhochschule Kiel", 
+            "en": "Kiel University of Applied Sciences"
+        }, 
         "dc7b36c46147a4fb43cc922e09982c1826c88ca2": {
             "de": "OVGU Magdeburg", 
             "en": "OVGU Magdeburg"
@@ -4834,6 +4838,10 @@
         "6799746ebab584ddeae9a6adce306bc4ed891654": {
             "en": "MTA Research Centre for  Natural Sciences", 
             "hu": "MTA Term\u00e9szettudom\u00e1nyi Kutat\u00f3k\u00f6zpont"
+        }, 
+        "6aa5bdd94fa2e223dc364da736d9718f69ee9e49": {
+            "en": "National University of Public Service", 
+            "hu": "Nemzeti K\u00f6zszolg\u00e1lati Egyetem"
         }, 
         "70067e5de93aa968af68ae0d68366d05b457dd95": {
             "en": "The University of West Hungary (Sopron), Hungary", 
