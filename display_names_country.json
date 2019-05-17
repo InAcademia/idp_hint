@@ -637,6 +637,10 @@
             "en": "Nao informado - PREENCHER - UNICENTRO - Universidade Estadual do Centro-Oeste", 
             "pt-br": "Nao informado - PREENCHER - UNICENTRO - Universidade Estadual do Centro-Oeste"
         }, 
+        "5cc22a58e877474af831df354f2e8ac0c794a6c5": {
+            "en": "UEM - Universidade Estadual de Maringa", 
+            "pt-br": "UEM - Universidade Estadual de Maringa"
+        }, 
         "5dc0dd360d6a161b908dc0488e24ca6c83a129e6": {
             "en": "UFSJ - Universidade Federal de Sao Joao del Rei", 
             "pt-br": "UFSJ - Universidade Federal de Sao Joao del Rei"
@@ -861,10 +865,6 @@
             "en": "Nao informado - PREENCHER - UNIFAL-MG - Universidade Federal de Alfenas", 
             "pt-br": "Nao informado - PREENCHER - UNIFAL-MG - Universidade Federal de Alfenas"
         }, 
-        "a300c0a3fa33cf47cc8139214c6ef5b00c402e51": {
-            "en": "UNIFAP - Universidade Federal do Amapa", 
-            "pt-br": "UNIFAP - Universidade Federal do Amapa"
-        }, 
         "a45646e402882009adc662ed85117cbabeff0a9c": {
             "en": "IFAP - Instituto Federal do Amapa", 
             "pt-br": "IFAP - Instituto Federal do Amapa"
@@ -876,10 +876,6 @@
         "a597b8c07f9b4ac3df0a19853ac5e6fae17d08a3": {
             "en": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao", 
             "pt-br": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao"
-        }, 
-        "a71fa44fc147ba6ce89af9010e3096cd7eda49ef": {
-            "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco", 
-            "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
         }, 
         "a77d6e6c504849dcbf2b839e813ef5f202864631": {
             "en": "UEPA - Universidade do Estado do Para", 
@@ -1120,10 +1116,6 @@
         "e15a3358b3dd21103456849e13dc077e5dc24dae": {
             "en": "UFRA - Universidade Federal Rural da Amazonia", 
             "pt-br": "UFRA - Universidade Federal Rural da Amazonia"
-        }, 
-        "e2ceb2ce72491b1aabe816454c4ad1163dbde10f": {
-            "en": "UEM - Universidade Estadual de Maringa", 
-            "pt-br": "UEM - Universidade Estadual de Maringa"
         }, 
         "e3ff0a8f2bdb041ab79b8ff5cf9bc30f2ed5405a": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer", 
