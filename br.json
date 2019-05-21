@@ -419,6 +419,10 @@
         "en": "UFGD - Universidade Federal da Grande Dourados", 
         "pt-br": "UFGD - Universidade Federal da Grande Dourados"
     }, 
+    "6ae78a7913b8e4fd7c7aed03854a60041edd7fad": {
+        "en": "USF - Universidade Sao Francisco", 
+        "pt-br": "USF - Universidade Sao Francisco"
+    }, 
     "702f0ac9c879441322c7c3fc81fa08c3349b96bd": {
         "en": "UFF - Universidade Federal Fluminense", 
         "pt-br": "UFF - Universidade Federal Fluminense"
@@ -728,8 +732,8 @@
         "pt-br": "UMC - Universidade de Mogi das Cruzes"
     }, 
     "c46900b6d075f3c18a2a1804d9950ddd64651109": {
-        "en": "Nao informado - PREENCHER - CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais", 
-        "pt-br": "Nao informado - PREENCHER - CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais"
+        "en": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais", 
+        "pt-br": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais"
     }, 
     "c794a0ed28647820dfcdf78c515a054e023c6ebf": {
         "en": "FIOCRUZ - FUNDACAO OSWALDO CRUZ", 
