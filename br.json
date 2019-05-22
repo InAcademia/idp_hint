@@ -144,8 +144,8 @@
         "pt-br": "FGV - Fundacao Getulio Vargas"
     }, 
     "259d678f5db91bc8c417564890d3076acc165016": {
-        "en": "Nao informado - PREENCHER - PUC-PR - Pontificia Universidade Catolica do Parana", 
-        "pt-br": "Nao informado - PREENCHER - PUC-PR - Pontificia Universidade Catolica do Parana"
+        "en": "PUC-PR - Pontificia Universidade Catolica do Parana", 
+        "pt-br": "PUC-PR - Pontificia Universidade Catolica do Parana"
     }, 
     "25c0bdfb5545c38690fa11ab293fc4a208235a82": {
         "en": "PUCCAMP - Pontificia Universidade Catolica de Campinas", 
@@ -360,8 +360,8 @@
         "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
     }, 
     "5592cb0433b5f4b9ef6c8b741653745965f4a638": {
-        "en": "Nao informado - PREENCHER - UNICENTRO - Universidade Estadual do Centro-Oeste", 
-        "pt-br": "Nao informado - PREENCHER - UNICENTRO - Universidade Estadual do Centro-Oeste"
+        "en": "UNICENTRO - Universidade Estadual do Centro-Oeste", 
+        "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
     }, 
     "5cc22a58e877474af831df354f2e8ac0c794a6c5": {
         "en": "UEM - Universidade Estadual de Maringa", 
@@ -548,8 +548,8 @@
         "pt-br": "FEEVALE - Universidade Feevale"
     }, 
     "970aaffdaf43af6aadccafe1782fcf8dcafc2178": {
-        "en": "Nao informado - PREENCHER - IFSul - Instituto Federal Sul-rio-grandense", 
-        "pt-br": "Nao informado - PREENCHER - IFSul - Instituto Federal Sul-rio-grandense"
+        "en": "IFSul - Instituto Federal Sul-rio-grandense", 
+        "pt-br": "IFSul - Instituto Federal Sul-rio-grandense"
     }, 
     "974361c9c7d08b45b904d4ae665d1ec53dcb4c7c": {
         "en": "FESFSUS - Fundacao Estatal Saude da Familia", 
@@ -592,8 +592,8 @@
         "pt-br": "UFCSPA - Universidade Federal de Ciencias da Saude de Porto Alegre"
     }, 
     "a17d1d01b9c6c873837be96223a321477cca0651": {
-        "en": "Nao informado - PREENCHER - UNIFAL-MG - Universidade Federal de Alfenas", 
-        "pt-br": "Nao informado - PREENCHER - UNIFAL-MG - Universidade Federal de Alfenas"
+        "en": "UNIFAL-MG - Universidade Federal de Alfenas", 
+        "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
     }, 
     "a45646e402882009adc662ed85117cbabeff0a9c": {
         "en": "IFAP - Instituto Federal do Amapa", 
@@ -776,12 +776,12 @@
         "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
     }, 
     "d0b12df1eccc4334b6f291510b5c2ae0f9c65a7d": {
-        "en": "Nao informado - PREENCHER - CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca", 
-        "pt-br": "Nao informado - PREENCHER - CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
+        "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca", 
+        "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
     }, 
     "d0b529b8ec431659b03ef2fd0e03f35f52249b43": {
-        "en": "Nao informado - PREENCHER - CHC-UFPR - Complexo Hospital de Clinicas", 
-        "pt-br": "Nao informado - PREENCHER - CHC-UFPR - Complexo Hospital de Clinicas"
+        "en": "CHC-UFPR - Complexo Hospital de Clinicas", 
+        "pt-br": "CHC-UFPR - Complexo Hospital de Clinicas"
     }, 
     "d1597b50469d04b89026229f3df9aa1fecbb5d1f": {
         "en": "RNP - Rede Nacional de Ensino e Pesquisa", 
@@ -856,8 +856,8 @@
         "pt-br": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina"
     }, 
     "e84a7df34f6d7b1407016dea15610f467cd75def": {
-        "en": "Nao informado - PREENCHER - IFSERTAO-PE - Instituto Federal do Sertao Pernambucano", 
-        "pt-br": "Nao informado - PREENCHER - IFSERTAO-PE - Instituto Federal do Sertao Pernambucano"
+        "en": "IFSERTAO-PE - Instituto Federal do Sertao Pernambucano", 
+        "pt-br": "IFSERTAO-PE - Instituto Federal do Sertao Pernambucano"
     }, 
     "ea26f702c5a9223c5d2f8b2eb1d6f4e049d08da6": {
         "en": "UNIFA - Universidade da Forca Aerea", 
@@ -928,8 +928,8 @@
         "pt-br": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS"
     }, 
     "fa8003ded0e4eafe818a8c4223a9cf4d1b352fe2": {
-        "en": "Nao informado - PREENCHER - UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira", 
-        "pt-br": "Nao informado - PREENCHER - UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira"
+        "en": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira", 
+        "pt-br": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira"
     }, 
     "fbb341d41b4b601d34397f5e26d1185e0dc8c260": {
         "en": "MAST - Museu de Astronomia e Ciencias Afins", 
