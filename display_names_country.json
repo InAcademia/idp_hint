@@ -2320,6 +2320,10 @@
             "de": "Hochschule Esslingen", 
             "en": "Esslingen University of Applied Sciences"
         }, 
+        "35b5f9f538e222c4f92ec25c4dcabb419c25924e": {
+            "de": "Technische Universit\u00e4t Darmstadt", 
+            "en": "Technische Universit\u00e4t Darmstadt"
+        }, 
         "3b7fa51bdf82f2d2be55bd5339bd409a433e81b9": {
             "de": "Universit\u00e4t Frankfurt", 
             "en": "Universit\u00e4t Frankfurt"
@@ -4518,10 +4522,6 @@
         "eb2120d27a3b187fccf1e0cc943a373d0ba52700": {
             "en": "University of New-Caledonia", 
             "fr": "Universit\u00e9 de la Nouvelle-Cal\u00e9donie"
-        }, 
-        "ed1eee6f09afed91dd636844525b7fbdfa21b597": {
-            "en": "CROUS Z-STRASBOURG v3 - INTERNE", 
-            "fr": "CROUS Z-STRASBOURG v3 - INTERNE"
         }, 
         "ee2e375dc51d8bdf10a74241cdf55de831f98632": {
             "en": "Paris-Sorbonne Universite", 
