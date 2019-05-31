@@ -297,10 +297,6 @@
             "en": "FAP - Fundacao Antonio Prudente", 
             "pt-br": "FAP - Fundacao Antonio Prudente"
         }, 
-        "03f9272b05d346212611eec7e01942895533899c": {
-            "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria", 
-            "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
-        }, 
         "0511766660dc0de1a0903b40ad864cf97cf82f56": {
             "en": "UFSCAR - Fundacao Universidade Federal de Sao Carlos", 
             "pt-br": "UFSCAR - Fundacao Universidade Federal de Sao Carlos"
@@ -633,6 +629,10 @@
             "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri", 
             "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
         }, 
+        "526002f20d0fe5f8620aa01b8323a22739719826": {
+            "en": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO", 
+            "pt-br": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO"
+        }, 
         "5394a956a716c16855c70940972ccbc90d545da9": {
             "en": "LNA - Laboratorio Nacional de Astrofisica", 
             "pt-br": "LNA - Laboratorio Nacional de Astrofisica"
@@ -864,10 +864,6 @@
         "a45646e402882009adc662ed85117cbabeff0a9c": {
             "en": "IFAP - Instituto Federal do Amapa", 
             "pt-br": "IFAP - Instituto Federal do Amapa"
-        }, 
-        "a58cab25d7c06d1540ea22c34c9510beb4aacf44": {
-            "en": "UTFPR - Universidade Tecnologica Federal do Parana", 
-            "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
         }, 
         "a597b8c07f9b4ac3df0a19853ac5e6fae17d08a3": {
             "en": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao", 
