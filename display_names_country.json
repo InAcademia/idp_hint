@@ -637,6 +637,10 @@
             "en": "UNICENTRO - UNICENTRO - Universidade Estadual do Centro-Oeste", 
             "pt-br": "UNICENTRO - UNICENTRO - Universidade Estadual do Centro-Oeste"
         }, 
+        "5cc22a58e877474af831df354f2e8ac0c794a6c5": {
+            "en": "UEM - Universidade Estadual de Maringa", 
+            "pt-br": "UEM - Universidade Estadual de Maringa"
+        }, 
         "5dc0dd360d6a161b908dc0488e24ca6c83a129e6": {
             "en": "UFSJ - Universidade Federal de Sao Joao del Rei", 
             "pt-br": "UFSJ - Universidade Federal de Sao Joao del Rei"
@@ -3469,6 +3473,10 @@
         "e143d363211da051280ddda659701f7a4fd532ef": {
             "en": "UGR - University of Granada", 
             "es": "UGR - Universidad de Granada"
+        }, 
+        "eaba7b2720d6a5e95055ae3bb51a284be908f892": {
+            "en": "Plataforma Oce\u00e1nica de Canarias", 
+            "es": "Plataforma Oce\u00e1nica de Canarias"
         }, 
         "eb55ba1e48fa3886b3dc9ffc6a94717ba1fbd5f1": {
             "en": "RedIRIS - Spanish Research and Academic Network", 
