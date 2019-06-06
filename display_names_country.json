@@ -3398,13 +3398,17 @@
         "b066b9555bff49156d74a006d41a16129dfd0d65": {
             "en": "BSC - Barcelona Supercomputing Center"
         }, 
+        "b2bfa48c0f308f725d9dc9a3e0bb701501ca80bf": {
+            "en": "Basque Center on Cognition, Brain and Language", 
+            "es": "Basque Center on Cognition, Brain and Language"
+        }, 
         "b381e010b4caa35df1b5035067604ded08cadd15": {
             "en": "UCO - Universidad de Cordoba", 
             "es": "UCO - Universidad de Cordoba"
         }, 
         "bdb0f8bd5d176645f281268e272559b56ec54173": {
-            "en": "UNIZAR - University of Zaragoza", 
-            "es": "UNIZAR - Universidad de Zaragoza"
+            "en": "University of Zaragoza", 
+            "es": "Universidad de Zaragoza"
         }, 
         "c08f4b17920bfbe07222affb60f95c23e98fff85": {
             "en": "UPM - Polytechnic University of Madrid", 
