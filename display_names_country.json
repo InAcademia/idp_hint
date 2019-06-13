@@ -6469,6 +6469,10 @@
             "en": "Maastricht School of Management", 
             "nl": "Maastricht School of Management"
         }, 
+        "d15416db3ea00d254a412b1262369a4bd4e76e67": {
+            "en": "Design Academy Eindhoven (new)", 
+            "nl": "Design Academy Eindhoven (nieuw)"
+        }, 
         "d160dd8199477096885759da7e07f11cac87d731": {
             "en": "University of Applied Sciences Leiden", 
             "nl": "Hogeschool Leiden"
@@ -6882,8 +6886,8 @@
             "sv": "F\u00f6rsvarsh\u00f6gskolan"
         }, 
         "2f260e8b792a91db581bb3833731ade6773c56e9": {
-            "en": "SUNET Employees", 
-            "sv": "SUNET Anst\u00e4llda"
+            "en": "SUNET", 
+            "sv": "SUNET"
         }, 
         "2f83c56d2cb0d8d8619b57f40b1b8abe7fa5885e": {
             "en": "M\u00e4lardalen University", 
