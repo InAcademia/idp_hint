@@ -1655,15 +1655,12 @@
     }, 
     "co": {
         "3e812dec1cafe5fb9c3656c65e488131057ca363": {
-            "en": "idp RENATA"
+            "en": "RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA", 
+            "es": "RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA"
         }, 
         "87a568bcc872761c46a2e29f777248bc321ea39a": {
             "en": "Direccion Nacional de Escuelas", 
             "es": "Direccion Nacional de Escuelas"
-        }, 
-        "b51eef76d4f7285905ae1c70c394123e96ccbe32": {
-            "en": "CORPORACION RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA", 
-            "es": "CORPORACION RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA"
         }
     }, 
     "cy": {
@@ -2450,6 +2447,10 @@
         "59848f62dc5a46cf797668de8d3b8939d7912f87": {
             "de": "Herzog August Bibliothek Wolfenbuettel", 
             "en": "Herzog August Bibliothek Wolfenbuettel"
+        }, 
+        "59a3443c27f8dfaaff00c412a434d7edee25f4cc": {
+            "de": "Hochschule f\u00fcr Musik Dresden", 
+            "en": "Hochschule fuer Musik Dresden"
         }, 
         "6051f495c3179a2cc6949f84137b6381acc00b92": {
             "de": "Hochschule Rosenheim", 
