@@ -2764,10 +2764,6 @@
             "de": "Hochschule f\u00fcr Musik Freiburg", 
             "en": "University of Music Freiburg"
         }, 
-        "d97dcc12601c6baf6ffdf95418f154170204bd17": {
-            "de": "Deutsches Elektronen-Synchrotron DESY", 
-            "en": "Deutsches Elektronen-Synchrotron DESY"
-        }, 
         "d9d5e25332a8272a02a6e6c93d88100f2a5c4c26": {
             "de": "Universit\u00e4t Stuttgart", 
             "en": "Universit\u00e4t Stuttgart"
@@ -6947,8 +6943,8 @@
             "sv": "Naturhistoriska riksmuseet"
         }, 
         "b330d17272594bb14f3780073eeb77e832873039": {
-            "en": "eduID", 
-            "sv": "eduID"
+            "en": "eduID Sweden", 
+            "sv": "eduID Sverige"
         }, 
         "b42d710c65e8309042866363f7a9d3cbbea49dd7": {
             "en": "Link\u00f6ping University", 
