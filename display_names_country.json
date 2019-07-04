@@ -5902,6 +5902,10 @@
             "en": "Rotterdam University of Applied Sciences", 
             "nl": "Hogeschool Rotterdam"
         }, 
+        "04b9ff27b8397d3e68c67011ace967f596eda404": {
+            "en": "Hogeschool Viaa", 
+            "nl": "Hogeschool Viaa"
+        }, 
         "04c0e9369575adb49867f1019948c9aaf05876b5": {
             "en": "ROC van Twente", 
             "nl": "ROC van Twente"
@@ -5942,6 +5946,10 @@
             "en": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI", 
             "nl": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI"
         }, 
+        "1e64320c27a6f96535a8deafdee50d9253b83850": {
+            "en": "Hogeschool INHOLLAND", 
+            "nl": "Hogeschool INHOLLAND"
+        }, 
         "1e6a1227398b72b7d615b067ed2fc7c522e1ab1e": {
             "en": "Leiden University", 
             "nl": "Universiteit Leiden"
@@ -5978,6 +5986,10 @@
             "en": "Data Archiving and Networked Services (KNAW)", 
             "nl": "Data Archiving and Networked Services (KNAW)"
         }, 
+        "2d3594fb73c4ebedf38011ebe6febf73a4338e6d": {
+            "en": "Hogeschool IPABO", 
+            "nl": "Hogeschool IPABO"
+        }, 
         "2e32faa74e361cf65880e77994883320683cb269": {
             "en": "Onderwijsgroep Noord", 
             "nl": "Onderwijsgroep Noord"
@@ -6001,6 +6013,10 @@
         "33982acc479793c006d3fe41df4b159b1068123d": {
             "en": "ROC van Amsterdam Flevoland en VOvA", 
             "nl": "ROC van Amsterdam Flevoland en VOvA"
+        }, 
+        "34932e8e1f6abd0bf79c5eb8daeb1de10515f69e": {
+            "en": "Driestar Educatief", 
+            "nl": "Driestar Educatief"
         }, 
         "3847d6e5a4022c8a1f5516ba8b2930782c379825": {
             "en": "ROC Albeda", 
@@ -6029,6 +6045,10 @@
         "4325794a7b3f6357fb3b438ca2c6b13a03fb664f": {
             "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)", 
             "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
+        }, 
+        "46e0f5dc3d0a8182418aa2f203256f5d22fd9976": {
+            "en": "Marnix Academie", 
+            "nl": "Marnix Academie"
         }, 
         "4833b892d2f75d3f878fc3b0c82e2ea70d6e1c0a": {
             "en": "SintLucas", 
@@ -6070,6 +6090,10 @@
             "en": "Open Universiteit", 
             "nl": "Open Universiteit"
         }, 
+        "58f086da4d7c090533854c4b554c4e5f2a01e6ef": {
+            "en": "MBO Utrecht", 
+            "nl": "MBO Utrecht"
+        }, 
         "590e7a971535212047e0e818eff623cbb90487e4": {
             "en": "Deltion College", 
             "nl": "Deltion College"
@@ -6090,6 +6114,10 @@
             "en": "Codarts University of the Arts", 
             "nl": "Codarts Hogeschool voor de Kunsten"
         }, 
+        "6627828a089062a296860c58c5d210f19d5ef15f": {
+            "en": "Hogeschool van Amsterdam", 
+            "nl": "Hogeschool van Amsterdam"
+        }, 
         "675a40cd00705ae5f249f9b192fa644b0f36d34c": {
             "en": "VU medisch centrum", 
             "nl": "VU medisch centrum"
@@ -6098,9 +6126,21 @@
             "en": "Utrecht School of the Arts", 
             "nl": "Hogeschool voor de Kunsten Utrecht"
         }, 
+        "694121c5c3fbf1f36dad869acd457557e2e88b29": {
+            "en": "Utrecht University", 
+            "nl": "Universiteit Utrecht"
+        }, 
         "6d12af2a79bfd4020204df2011398c8e1999786c": {
             "en": "Digital Infrastructure HumanitiesCluster (KNAW)", 
             "nl": "Digital Infrastructure HumanitiesCluster (KNAW)"
+        }, 
+        "717c2b105cb420aab4d02dc2f998e45da3e1c2fe": {
+            "en": "HZ University of Applied Sciences", 
+            "nl": "HZ University of Applied Sciences"
+        }, 
+        "759a1da70fc48db4d2e4045117ba2c13589010ba": {
+            "en": "ROC Nijmegen", 
+            "nl": "ROC Nijmegen"
         }, 
         "7665617eb3a6b0c41f992aacf1e43c48a29031fe": {
             "en": "Eindhoven University of Technology", 
@@ -6174,9 +6214,17 @@
             "en": "Academisch Ziekenhuis Maastricht", 
             "nl": "Academisch Ziekenhuis Maastricht"
         }, 
+        "9705b81df14a935ea0542c4e8f19532b3011a484": {
+            "en": "Hogeschool de Kempel", 
+            "nl": "Hogeschool de Kempel"
+        }, 
         "9b4ef0c11eb1e363072f63ef66737156c7cd13e8": {
             "en": "Grafisch Lyceum Utrecht", 
             "nl": "Grafisch Lyceum Utrecht"
+        }, 
+        "9d9a59b9db888d1acb22152bd36d0ee78e0114b9": {
+            "en": "Breda University of Applied Sciences", 
+            "nl": "Breda University of Applied Sciences"
         }, 
         "9e9b76faaf137eb24f118869c33f532dd9205d5d": {
             "en": "University of Twente", 
@@ -6210,6 +6258,10 @@
             "en": "ROC Midden Nederland", 
             "nl": "ROC Midden Nederland"
         }, 
+        "abbc11e179e62c7f29143b4ac4522f28df8ce0d1": {
+            "en": "Design Academy Eindhoven", 
+            "nl": "Design Academy Eindhoven"
+        }, 
         "ac67893e1775c4afe9e604fd7c3ebd642d0f7ac0": {
             "en": "HAS Hogeschool", 
             "nl": "HAS Hogeschool"
@@ -6226,13 +6278,25 @@
             "en": "Spinoza Centre for Neuroimaging (KNAW)", 
             "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
         }, 
+        "b1a946f0fdd831881934bd65fc72474406ac7ee0": {
+            "en": "ZB Planbureau en bibliotheek van Zeeland", 
+            "nl": "ZB Planbureau en bibliotheek van Zeeland"
+        }, 
         "b1d5f96052d60524ae0b2f89b1692bc3dbe228b1": {
             "en": "Leidse Onderwijsinstellingen", 
             "nl": "Leidse Onderwijsinstellingen"
         }, 
+        "b23dd28d4b2af38bf258169c4eaf9eb4f6fb034f": {
+            "en": "Openbare Bibliotheek Amsterdam (OBA)", 
+            "nl": "Openbare Bibliotheek Amsterdam (OBA)"
+        }, 
         "b27876ceb1d42151421d528c5d4f0d740e4017ae": {
             "en": "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KNAW)", 
             "nl": "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KNAW)"
+        }, 
+        "b486f04a6c5505d708dd1729501b6d54bff0a3bd": {
+            "en": "Wageningen University & Research (WUR)", 
+            "nl": "Wageningen University & Research (WUR)"
         }, 
         "b4c4aeda51a50d89f442a1dddd8467467b4d15c5": {
             "en": "Koninklijke Bibliotheek", 
@@ -6245,6 +6309,10 @@
         "b5e8f888cfa2395c04d2e36722089988fda6abd6": {
             "en": "University of Groningen", 
             "nl": "Rijksuniversiteit Groningen"
+        }, 
+        "b7c6ecd229b5b0cad5e355cd690d5e0abd367309": {
+            "en": "SURFsara", 
+            "nl": "SURFsara"
         }, 
         "b7d09f9f2392698df89808c75e267dd1488d771c": {
             "en": "Nuffic", 
@@ -6310,13 +6378,29 @@
             "en": "Maastricht School of Management", 
             "nl": "Maastricht School of Management"
         }, 
+        "d15416db3ea00d254a412b1262369a4bd4e76e67": {
+            "en": "Design Academy Eindhoven", 
+            "nl": "Design Academy Eindhoven"
+        }, 
+        "d160dd8199477096885759da7e07f11cac87d731": {
+            "en": "University of Applied Sciences Leiden", 
+            "nl": "Hogeschool Leiden"
+        }, 
         "d443b095563aa2b1c5bcf1730422b3c247f3f9f0": {
             "en": "Internationaal Instituut voor Sociale Geschiedenis (KNAW)", 
             "nl": "Internationaal Instituut voor Sociale Geschiedenis (KNAW)"
         }, 
+        "d62f3d33bc82f9bcda011cb960d2269609d02ea3": {
+            "en": "Christian University of Applied Sciences (CHE)", 
+            "nl": "Christelijke Hogeschool Ede (CHE)"
+        }, 
         "d7c4dd907bd353494817d7c5da6c802a4be5a2a0": {
             "en": "Leids Universitair Medisch Centrum", 
             "nl": "Leids Universitair Medisch Centrum"
+        }, 
+        "d974854f3119871ca8a6588047164d7219c50211": {
+            "en": "HAN University of Applied Sciences", 
+            "nl": "HAN University of Applied Sciences"
         }, 
         "dd9874fe61e87c82fb1daeab63165a4a389a8cca": {
             "en": "M\u00e1xima MC", 
@@ -6333,6 +6417,10 @@
         "e2a3da6ff628e809e4c82bc0184dd3a1cc51d5a8": {
             "en": "Cito", 
             "nl": "Cito"
+        }, 
+        "e2ef91766a2982b725088549eb0f04e9cacb9a0a": {
+            "en": "Hanze University Groningen", 
+            "nl": "Hanzehogeschool Groningen"
         }, 
         "e474391eb9d6913b3c46eb962464e82b7841fa5b": {
             "en": "Delft University of Technology", 
@@ -6373,6 +6461,10 @@
         "f50d1f9b1ca599b5c99920c35d98082ff4c8f967": {
             "en": "Netherlands Institute for Advanced Study in the Humanities and Social Sciences (KNAW)", 
             "nl": "Netherlands Institute for Advanced Study in the Humanities and Social Sciences (KNAW)"
+        }, 
+        "f640bcd52ca694799ad6588721893e8c672a15c1": {
+            "en": "ArtEZ University of the Arts", 
+            "nl": "ArtEZ Hogeschool voor de Kunsten"
         }, 
         "f8ef9b7e9fc2187b44004ca6b10cc20085ebe8c7": {
             "en": "Windesheim University of Applied Sciences", 
