@@ -571,10 +571,6 @@
             "en": "VNT - Venturus Centro de inInovacao Tecnologica", 
             "pt-br": "VNT - Venturus Centro de inInovacao Tecnologica"
         }, 
-        "4fab258b6ad4afc8456c7649dfde0fec73b05f93": {
-            "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares", 
-            "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares"
-        }, 
         "4fbdd19ab9bd5f8e6551373c20181e6619c4d99c": {
             "en": "FUCAPE - Fundacao Instituto Capixaba de Pesquisas em Contabilidade, Economia e Financas", 
             "pt-br": "FUCAPE - Fundacao Instituto Capixaba de Pesquisas em Contabilidade, Economia e Financas"
@@ -858,6 +854,10 @@
         "bb24b6ad6976a4a89e4d59cf71fd42f9c3172425": {
             "en": "UFPI - Universidade Federal do Piaui", 
             "pt-br": "UFPI - Universidade Federal do Piaui"
+        }, 
+        "be494461cd319bafed9c307d6c0da763d723ce9c": {
+            "en": "UNIVALI - Universidade do Vale do Itajai", 
+            "pt-br": "UNIVALI - Universidade do Vale do Itajai"
         }, 
         "be8a18454f123adfef7b5649395dab31374b609d": {
             "en": "UFOB - Universidade Federal do Oeste da Bahia", 
