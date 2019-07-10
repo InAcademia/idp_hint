@@ -95,6 +95,10 @@
         "en": "UCA - University of Cadiz", 
         "es": "UCA - Universidad de C\u00e1diz"
     }, 
+    "3fc4e72066b98f68ff252db14b1bddc55f6c806e": {
+        "en": "Universitat de Vic - Universitat Central de Catalunya", 
+        "es": "Universitat de Vic - Universitat Central de Catalunya"
+    }, 
     "4672331d1930ed7a0a0cf21797456d30c216209f": {
         "en": "UPF - Universitat Pompeu Fabra", 
         "es": "UPF - Universitat Pompeu Fabra"
@@ -142,10 +146,6 @@
     "5818173547e61cd4b418cedfc490a6a24ff31b77": {
         "en": "UCM - Complutense University of Madrid", 
         "es": "UCM - Universidad Complutense de Madrid"
-    }, 
-    "5d2918ec7f8c93976ea8d28aeb7d22b9e110bcfd": {
-        "en": "UVIC - Universitat de Vic - Universitat Central de Catalunya", 
-        "es": "UVIC - Universitat de Vic - Universitat Central de Catalunya"
     }, 
     "65041fb411526e025f75e08e334cfe183bc301f6": {
         "en": "CRG - Centre for Genomic Regulation", 
