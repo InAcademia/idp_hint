@@ -627,6 +627,10 @@
             "en": "UFC - Universidade Federal do Ceara", 
             "pt-br": "UFC - Universidade Federal do Ceara"
         }, 
+        "75496a390abc51cd192ed40d1daec2c0f0a4f1e1": {
+            "en": "URI - Erechim - Universidade Regional Integrada do Alto Uruguai e das Missoes", 
+            "pt-br": "URI - Erechim - Universidade Regional Integrada do Alto Uruguai e das Missoes"
+        }, 
         "762ad206443f049bdc3a7f7314838bcb8a63e89a": {
             "en": "IEPA - Inst de Pesq Cient e Tecno do Estado do Amapa", 
             "pt-br": "IEPA - Inst de Pesq Cient e Tecno do Estado do Amapa"
@@ -1985,6 +1989,10 @@
         "02fa424abde272a8abdc6d792082584c8b25b34e": {
             "de": "Technische Hochschule N\u00fcrnberg Georg Simon Ohm", 
             "en": "Technische Hochschule N\u00fcrnberg Georg Simon Ohm"
+        }, 
+        "030a0e2d1c5757f7eff015938ba4d5a8f70abdf1": {
+            "de": "Berufsakademie Sachsen", 
+            "en": "Berufsakademie Sachsen"
         }, 
         "03ab4bea848cb1e8cd7bd50cc5e0f450950959e4": {
             "de": "Hochschule f\u00fcr Forstwirtschaft Rottenburg (HFR)", 
@@ -7963,9 +7971,6 @@
         "82e7b5e5ab542f059b2519dfb0f0ab35539d6652": {
             "en": "Bangor University"
         }, 
-        "83369c6085b65c84c3ea2a0aaac30d86efcfefd3": {
-            "en": "Coventry College"
-        }, 
         "83ac3c4184389fed81c1b77d56a11b82bc0d736f": {
             "en": "New College Stamford"
         }, 
@@ -8071,7 +8076,7 @@
             "en": "Imperial College London"
         }, 
         "91155cf6e69cebafecd84db35b2415781613f038": {
-            "en": "Coventry College (New)"
+            "en": "Coventry College"
         }, 
         "912e1e4294a9bf2fddd59aa4124a25e5939832d9": {
             "en": "Queen's University Belfast"
@@ -9805,6 +9810,9 @@
         }, 
         "9650b0b6a069d69268f7bb66ecb70707817623a8": {
             "en": "University of Maryland Baltimore County"
+        }, 
+        "969bdcccedb3f8d14ecc9ebef420b508bb7b3feb": {
+            "en": "Mt. San Jacinto Community College District"
         }, 
         "9819ca32b8fc4f9c69f270837fc7dfdf51b56d02": {
             "en": "University of Kentucky"
