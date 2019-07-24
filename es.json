@@ -39,6 +39,10 @@
         "en": "UMH - Universidad Miguel Hern\u00e1ndez de Elche", 
         "es": "UMH - Universidad Miguel Hern\u00e1ndez de Elche"
     }, 
+    "1ed4f2df9b0fc21ef4edb9a7b433bc2420d88c45": {
+        "en": "CENIEH Research Centre", 
+        "es": "Centro Nacional de Investigaci\u00f3n sobre la Evoluci\u00f3n Humana"
+    }, 
     "1f6f9c798c644a9a10d88279364c2fa9115020b1": {
         "en": "Instituto Tecnol\u00f3gico Agrario de Castilla y Le\u00f3n", 
         "es": "Instituto Tecnol\u00f3gico Agrario de Castilla y Le\u00f3n"
@@ -50,10 +54,6 @@
     "204b629371b63502357d72189da13484fb7200d7": {
         "en": "Universidad de Las Palmas de Gran Canaria", 
         "es": "Universidad de Las Palmas de Gran Canaria"
-    }, 
-    "2089ec1c6973a94d8f962c0c847305f7f2870809": {
-        "en": "CENIEH - Centro Nacional de Investigaci\u00f3n sobre la Evoluci\u00f3n Humana", 
-        "es": "CENIEH - Centro Nacional de Investigaci\u00f3n sobre la Evoluci\u00f3n Humana"
     }, 
     "2338fce3c580d18c5e076acdba350b760e0505d3": {
         "en": "CSIC - Consejo Superior de Investigaciones Cientificas", 
