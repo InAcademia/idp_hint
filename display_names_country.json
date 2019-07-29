@@ -355,6 +355,10 @@
             "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco", 
             "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
         }, 
+        "1cdcd11bd84520e264b8e177291b3fef9d791802": {
+            "en": "FGV - Fundacao Getulio Vargas", 
+            "pt-br": "FGV - Fundacao Getulio Vargas"
+        }, 
         "1d50a4f0f9b0319ac4c74ef7bfd71e4d14ed39a5": {
             "en": "FAPCE - Faculdade Paraiso do Ceara", 
             "pt-br": "FAPCE - Faculdade Paraiso do Ceara"
@@ -374,10 +378,6 @@
         "2472054b007b13f2c4613976af33d6a5ea9ea82b": {
             "en": "UFSCAR - Universidade Federal de Sao Carlos", 
             "pt-br": "UFSCAR - Universidade Federal de Sao Carlos"
-        }, 
-        "2576869b56e5748366b2fdf3efaa8990fe953c86": {
-            "en": "FGV - Fundacao Getulio Vargas", 
-            "pt-br": "FGV - Fundacao Getulio Vargas"
         }, 
         "259d678f5db91bc8c417564890d3076acc165016": {
             "en": "PUC-PR - PUC-PR - Pontificia Universidade Catolica do Parana", 
@@ -607,6 +607,10 @@
             "en": "UNICAMP - Universidade Estadual de Campinas", 
             "pt-br": "UNICAMP - Universidade Estadual de Campinas"
         }, 
+        "7f88f4646cf84fa1d6d96df6666626b837c8a01f": {
+            "en": "CARAJAS - Grupo Educacional Carajas", 
+            "pt-br": "CARAJAS - Grupo Educacional Carajas"
+        }, 
         "810d27e627aa5a7328cddedfc09b478ab969bfda": {
             "en": "CEITEC - Centro Nac.Tec.Elet.Avancada", 
             "pt-br": "CEITEC - Centro Nac.Tec.Elet.Avancada"
@@ -707,10 +711,6 @@
             "en": "UNIOESTE - Universidade Estadual do Oeste do Parana", 
             "pt-br": "UNIOESTE - Universidade Estadual do Oeste do Parana"
         }, 
-        "ba8204306ce7a332d4eab90e2bf399f0553750b4": {
-            "en": "UFMG - Universidade Federal de Minas Gerais", 
-            "pt-br": "UFMG - Universidade Federal de Minas Gerais"
-        }, 
         "bb24b6ad6976a4a89e4d59cf71fd42f9c3172425": {
             "en": "UFPI - Universidade Federal do Piaui", 
             "pt-br": "UFPI - Universidade Federal do Piaui"
@@ -722,10 +722,6 @@
         "be8a18454f123adfef7b5649395dab31374b609d": {
             "en": "UFOB - Universidade Federal do Oeste da Bahia", 
             "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
-        }, 
-        "be96f45672d04cbc0326fadff748419100f3eedc": {
-            "en": "ESPM - Escola Superior de Propaganda e Marketing", 
-            "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
         }, 
         "bfd34d6762396001b42fecf4f468f83f86d1946c": {
             "en": "FAPEG - Fundacao de Amparo a Pesquisa do Estado de Goias", 
@@ -830,10 +826,6 @@
         "ef511c4cd4282e1847bc1f42a1afa12c37aef841": {
             "en": "UNICHRISTUS - CENTRO UNIVERSITARIO CHRISTUS", 
             "pt-br": "UNICHRISTUS - CENTRO UNIVERSITARIO CHRISTUS"
-        }, 
-        "efd447fa5cfc2c20a66e0547984879fe75d59365": {
-            "en": "INT - Instituto Nacional de Tecnologia", 
-            "pt-br": "INT - Instituto Nacional de Tecnologia"
         }, 
         "f137678f0f5fc73c0aac58bffb27632932367ba2": {
             "en": "UNISO - Universidade de Sorocaba", 
