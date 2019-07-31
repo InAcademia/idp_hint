@@ -627,6 +627,10 @@
             "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior", 
             "pt-br": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior"
         }, 
+        "82d4b13b6d30d12da5ca4366939fa93dc1ff5e6a": {
+            "en": "CETEM - Centro de Tecnologia Mineral", 
+            "pt-br": "CETEM - Centro de Tecnologia Mineral"
+        }, 
         "83018801e99ea5626c0014385d018029bb4ff1ab": {
             "en": "FEI - Fundacao Educacional Inaciana Pe. Saboia de Medeiros", 
             "pt-br": "FEI - Fundacao Educacional Inaciana Pe. Saboia de Medeiros"
@@ -670,6 +674,10 @@
         "9f65a150079e5da3c29466b3528b09026477106f": {
             "en": "UNICAP - Universidade Catolica de Pernambuco", 
             "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
+        }, 
+        "a0e0f7075b1ae48ac124236da978d346dde51208": {
+            "en": "UniRV - Universidade de Rio Verde", 
+            "pt-br": "UniRV - Universidade de Rio Verde"
         }, 
         "a77d6e6c504849dcbf2b839e813ef5f202864631": {
             "en": "UEPA - Universidade do Estado do Para", 
@@ -2333,6 +2341,10 @@
         "8ec907d0214dca5838f9a569f9a2600bfd28f8af": {
             "de": "Technische Hochschule Mittelhessen", 
             "en": "Technische Hochschule Mittelhessen"
+        }, 
+        "915b5e10497eb970bb97f5551064017062225dc1": {
+            "de": "Universit\u00e4t Vechta", 
+            "en": "University of Vechta"
         }, 
         "91f04415773938cb619e12d3601af9153bb1cf99": {
             "de": "Universit\u00e4t Leipzig", 
