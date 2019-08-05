@@ -787,10 +787,6 @@
             "en": "IFPI - Instituto Federal do Piaui", 
             "pt-br": "IFPI - Instituto Federal do Piaui"
         }, 
-        "df66bec36372869dece12a22fbf0dfdafc747af6": {
-            "en": "URCA - Universidade Regional do Cariri", 
-            "pt-br": "URCA - Universidade Regional do Cariri"
-        }, 
         "e3ff0a8f2bdb041ab79b8ff5cf9bc30f2ed5405a": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer", 
             "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
@@ -5890,8 +5886,8 @@
             "nl": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)"
         }, 
         "3fda7343b98a83a6fde72b59bdaf56d5cdebe7e1": {
-            "en": "NWO", 
-            "nl": "NWO"
+            "en": "NWO (Old)", 
+            "nl": "NWO (Oud)"
         }, 
         "4325794a7b3f6357fb3b438ca2c6b13a03fb664f": {
             "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)", 
@@ -6086,8 +6082,8 @@
             "nl": "Universiteit Twente"
         }, 
         "9f27813ce2a13bf7a7101d7b744bcbf2074f21e8": {
-            "en": "Hogeschool Utrecht", 
-            "nl": "Hogeschool Utrecht"
+            "en": "Hogeschool Utrecht (old)", 
+            "nl": "Hogeschool Utrecht (oud)"
         }, 
         "9f38fbc4b61c8f266efeecdbf2efa61d5c273d5e": {
             "en": "Naturalis Biodiversity Center", 
@@ -6298,8 +6294,8 @@
             "nl": "Amsterdamse Hogeschool voor de Kunsten"
         }, 
         "ecf58424b1ab9ef5bf798534ca9189132077e2b4": {
-            "en": "Hogeschool Utrecht (new)", 
-            "nl": "Hogeschool Utrecht (nieuw)"
+            "en": "Hogeschool Utrecht", 
+            "nl": "Hogeschool Utrecht"
         }, 
         "ed92ad43f783d70678b9c405edcd6b802ec05e0d": {
             "en": "Summa College", 
