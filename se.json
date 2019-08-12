@@ -79,6 +79,10 @@
         "en": "Mid Sweden University", 
         "sv": "Mittuniversitetet"
     }, 
+    "957ff4e597a0df45b3f2061c0c9ffa99b1be8e04": {
+        "en": "University West", 
+        "sv": "H\u00f6gskolan V\u00e4st"
+    }, 
     "a4fdcec05e1332f67fbd004873f8f7f7ab84ba1e": {
         "en": "Swedish University of Agricultural Science", 
         "sv": "Sveriges Lantbruksuniversitet"
@@ -142,10 +146,6 @@
     "d3f167be21a5aede5077dfdc380620a69aae8be9": {
         "en": "Royal Institute of Art", 
         "sv": "Kungl. Konsth\u00f6gskolan"
-    }, 
-    "d4e02dc5334ec0f8abd6f5a4ba9d1fe3d123033b": {
-        "en": "University West new", 
-        "sv": "H\u00f6gskolan V\u00e4st ny"
     }, 
     "d7ccfccd6e0c36959010c46643b9352c246c2995": {
         "en": "Uppsala University", 
