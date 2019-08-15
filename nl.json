@@ -67,10 +67,6 @@
         "en": "Rathenau Institute (KNAW)", 
         "nl": "Rathenau Instituut (KNAW)"
     }, 
-    "1fe27e861886263bf04c2a4b01d2a0fca1c6864a": {
-        "en": "Clusius College", 
-        "nl": "Clusius College"
-    }, 
     "24ecd25a9db6ae233d7b546cb2daf79d4de6b19a": {
         "en": "FOM-bureau", 
         "nl": "FOM-bureau"
@@ -106,6 +102,10 @@
     "30abd48f32e382e36ae6d4781d3462a8839fbfd4": {
         "en": "Radboud University", 
         "nl": "Radboud Universiteit"
+    }, 
+    "33203ab51dcbe321fa4bcdc8878ce8ed5315b719": {
+        "en": "Clusius College", 
+        "nl": "Clusius College"
     }, 
     "3336e754881c2350e257c7d6bafd13918b96c56a": {
         "en": "ZonMw", 
