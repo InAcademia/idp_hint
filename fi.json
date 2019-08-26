@@ -27,10 +27,6 @@
         "en": "University of Turku", 
         "sv": "\u00c5bo universitet"
     }, 
-    "30e114a13d19da8187936dc9ded46e25584dccf9": {
-        "en": "Finnish Environment Institute", 
-        "sv": "Finlands milj\u00f6central"
-    }, 
     "310f86a35affa32a4db17ca838a448d6c7131530": {
         "en": "University of the Arts Helsinki", 
         "sv": "Konstuniversitetet"
@@ -54,6 +50,10 @@
     "60480c332d588959e238c2273d989abfd8431427": {
         "en": "Metropolia University of Applied Sciences", 
         "sv": "Metropolia yrkesh\u00f6gskola"
+    }, 
+    "7c910321e7d2a956a052531b1de6eed7cd3baa2f": {
+        "en": "H\u00e4me University of Applied Sciences", 
+        "sv": "HAMK Yrkesh\u00f6gskola"
     }, 
     "8518078e3febd0b655646b4e339540f4950cd454": {
         "en": "Lappeenranta University of Technology", 
@@ -82,6 +82,10 @@
     "a26be58d6d9a3f89f0f2bed57549a2bb4d1ff36d": {
         "en": "Tampere Universities", 
         "sv": "Tampere Universities"
+    }, 
+    "b13e61a7512b46cd75e41e62e4275e23a2fd9733": {
+        "en": "Finnish Environment Institute", 
+        "sv": "Finlands milj\u00f6central"
     }, 
     "b29ef7e6916c2736075f0a40212e17f2ff36c478": {
         "en": "Jyv\u00e4skyl\u00e4 University of Applied Sciences", 
