@@ -2696,6 +2696,10 @@
             "da": "IT-Supportcentret (ITS)", 
             "en": "IT-Supportcentret (ITS)"
         }, 
+        "5da8d1b506861826d07240debf65cf0725998638": {
+            "da": "Danmarks Tekniske Universitet", 
+            "en": "Technical University of Denmark (DTU)"
+        }, 
         "62332d3305a60e2b2c4369c0dc7a89c05d7220f6": {
             "da": "Uddannelsesministeriets It", 
             "en": "IT Department of the Ministry of Higher Education"
@@ -2767,10 +2771,6 @@
         "a415673ace85bf283fbbd2af58ba0890d890ebdb": {
             "da": "Erhvervsakademiet Lilleb\u00e6lt", 
             "en": "Lillebaelt Academy"
-        }, 
-        "aae9460c8a491ab16ff46368c73075225cf2eb67": {
-            "da": "Danmarks Tekniske Universitet", 
-            "en": "Technical University of Denmark"
         }, 
         "b06510fd14db86244ee9e309c33c3909053f3343": {
             "da": "Hotel- og Restaurantskolen", 
