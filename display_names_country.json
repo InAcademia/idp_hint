@@ -1000,6 +1000,10 @@
             "en": "La Cit\u00e9", 
             "fr": "La Cit\u00e9"
         }, 
+        "7a9cafe3681fcd32ff41ec441f877cf3e73f9781": {
+            "en": "HEC Montreal", 
+            "fr": "HEC Montreal"
+        }, 
         "7af75d2d41f70692130b926d5fcfe39d251d55ff": {
             "en": "Queen's University"
         }, 
@@ -1087,10 +1091,6 @@
         "e0059a4ecccbd6a2a41b743cb0231f334777e9de": {
             "en": "Ryerson University"
         }, 
-        "e134e55981a86fbdb9ff1803b3b0774e00f5cd0f": {
-            "en": "HEC Montr\u00e9al", 
-            "fr": "HEC Montr\u00e9al"
-        }, 
         "e1e893233dec5dcfc1b1897e69ae2549a70e8f78": {
             "en": "McMaster University"
         }, 
@@ -1104,6 +1104,10 @@
         "e81d040228ff859c731e88460e6bfc5e08c62432": {
             "en": "Bishops University", 
             "fr": "Universit\u00e9 Bishops"
+        }, 
+        "eb7f03b312bccc5576a583d408323923980386e8": {
+            "en": "\u00c9cole nationale d'administration publique", 
+            "fr": "\u00c9cole nationale d'administration publique"
         }, 
         "ec6dd20af20d47166579d1ac64b9b044860ca325": {
             "en": "Cybera", 
