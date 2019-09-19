@@ -271,6 +271,10 @@
         "9b636c3c664df96755a411ac1f6d6e51706866b2": {
             "en": "Belnet"
         }, 
+        "9e6251258ca7f3e5b4b5cc6d07653c5e74595f24": {
+            "en": "University of Mons (UMONS)", 
+            "fr": "Universite de Mons (UMONS)"
+        }, 
         "ab27f4b85570cb4cadad16be94e2a7006dbdc65a": {
             "en": "University of Liege - ULG", 
             "fr": "Universite de Liege - ULG"
@@ -290,10 +294,6 @@
         }, 
         "e7b9826ed0722ea3339071c1451b14874e35fde0": {
             "en": "Hogeschool West-Vlaanderen"
-        }, 
-        "f6e1eca35af9af0854155db349e1a092abf6f034": {
-            "en": "University of Mons (UMONS)", 
-            "fr": "Universite de Mons (UMONS)"
         }, 
         "fdb14e60cd120f40bb0d651c2fb9e70122c840cb": {
             "en": "HEPH-Condorcet", 
@@ -6771,9 +6771,6 @@
         }
     }, 
     "sa": {
-        "ac47a5661581808d9477c02242fce6c179c9457f": {
-            "en": "Maaen"
-        }, 
         "f9dc8328a34e7035c8c55537caef041a8c11ab82": {
             "en": "Maeen IdP"
         }
