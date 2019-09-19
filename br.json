@@ -111,10 +111,6 @@
         "en": "PUCCAMP - Pontificia Universidade Catolica de Campinas", 
         "pt-br": "PUCCAMP - Pontificia Universidade Catolica de Campinas"
     }, 
-    "2be347c4fbe9a16851360262da6c0fb560c76de3": {
-        "en": "FUNESA - Fundacao Estadual de Saude", 
-        "pt-br": "FUNESA - Fundacao Estadual de Saude"
-    }, 
     "2c1ef9d2daf8134f26499a2dc06c10433b95c16a": {
         "en": "UEG - Universidade Estadual de Goias", 
         "pt-br": "UEG - Universidade Estadual de Goias"
@@ -450,6 +446,10 @@
     "c46900b6d075f3c18a2a1804d9950ddd64651109": {
         "en": "CEFET-MG - CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais", 
         "pt-br": "CEFET-MG - CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais"
+    }, 
+    "c7c23c9d3468d63a71b491232c2e5559b280f27b": {
+        "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul", 
+        "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
     }, 
     "c8b0f235381128012b5b296bdb3ffe6ee705285d": {
         "en": "FURB - Fundacao Universidade Regional de Blumenau", 
