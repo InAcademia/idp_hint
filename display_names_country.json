@@ -2825,10 +2825,6 @@
             "da": "Erhvervsakademiet Lilleb\u00e6lt", 
             "en": "Lillebaelt Academy"
         }, 
-        "aae9460c8a491ab16ff46368c73075225cf2eb67": {
-            "da": "Danmarks Tekniske Universitet [GL]", 
-            "en": "Technical University of Denmark (DTU) [OLD]"
-        }, 
         "b06510fd14db86244ee9e309c33c3909053f3343": {
             "da": "Hotel- og Restaurantskolen", 
             "en": "Copenhagen Hospitality College"
@@ -2876,6 +2872,10 @@
         "d8e84d692d03ee1ff4a5c6bbb3804a6915c24f7d": {
             "da": "College360", 
             "en": "College360"
+        }, 
+        "d9ab5c5eaa4345e4225704169a8aed161c11f3e3": {
+            "da": "Fr\u00f3\u00f0skaparsetur F\u00f8roya", 
+            "en": "University of the Faroe Islands"
         }, 
         "dc61568f280319dd4f4d6336bd9fb5400c786acc": {
             "da": "Syddansk Erhvervsskole", 
