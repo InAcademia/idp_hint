@@ -3076,8 +3076,8 @@
             "es": "Universitat Oberta de Catalunya"
         }, 
         "4b4b911b44ef286f46b9664d0a5bc9182e4d2df4": {
-            "en": "USC - Universidade de Santiago de Compostela", 
-            "es": "USC -Universidade de Santiago de Compostela"
+            "en": "Universidade de Santiago de Compostela", 
+            "es": "Universidade de Santiago de Compostela"
         }, 
         "4eab5d89423478c30bbad2322f052fcde416c316": {
             "en": "Universidad de Salamanca", 
@@ -4037,6 +4037,10 @@
         "96572663532aaacb5c2ab319614ae1bac261054f": {
             "en": "Universit\u00e9 Claude Bernard Lyon 1", 
             "fr": "Universit\u00e9 Claude Bernard Lyon 1"
+        }, 
+        "96c54c2422a4084b1207444a946397dfb12b6b91": {
+            "en": "Identity Provider of University of Le Havre", 
+            "fr": "Universit\u00e9 du Havre"
         }, 
         "972ca7de35fb7260dcd98ee86dbc745ab91b5a1a": {
             "en": "CROUS Lyon-Personnels", 
