@@ -6655,6 +6655,10 @@
             "en": "Escola Superior de Tecnologia e Gest\u00e3o de Viseu", 
             "pt": "Escola Superior de Tecnologia e Gest\u00e3o de Viseu"
         }, 
+        "6c15e851f4d8261a2d5a8cc109fc0a9a419bce96": {
+            "en": "UNL - Instituto de Higiene e Medicina Tropical", 
+            "pt": "UNL - Instituto de Higiene e Medicina Tropical"
+        }, 
         "702ee3e48efcf518e9965856a051d4cec450c635": {
             "en": "University of Porto", 
             "pt": "Universidade do Porto"
@@ -6679,9 +6683,25 @@
             "en": "Escola Superior de Saude de Viseu", 
             "pt": "Escola Superior de Saude de Viseu"
         }, 
+        "9d8cc013c6c85ec3a938071350a5ceade07aeac0": {
+            "en": "UNL - Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica", 
+            "pt": "UNL - Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica"
+        }, 
         "a5e32d9cdcdf7bb5cf4f17fdffb04eab365a43f0": {
             "en": "University of \u00c9vora", 
             "pt": "Universidade de \u00c9vora"
+        }, 
+        "b1a7d3fd9b224a760b9eac93d60c77bd3ba53d2c": {
+            "en": "UNL - Faculty of Sciences and Technology", 
+            "pt": "UNL - Faculdade de Ci\u00eancias e Tecnologia"
+        }, 
+        "bba5faf888e49e8bea410d0458d56e22ba5b87c9": {
+            "en": "UNL - Faculdade de Direito", 
+            "pt": "UNL - Faculdade de Direito"
+        }, 
+        "c44f36d6f47a13519c098857fed9fe573f6ed5ad": {
+            "en": "UNL - Faculdade de Ci\u00eancias M\u00e9dicas", 
+            "pt": "UNL - Faculdade de Ci\u00eancias M\u00e9dicas"
         }, 
         "cb4c01314e714293f640c9df7b00c49f1d8c97b1": {
             "en": "Universidade Aberta", 
@@ -6694,6 +6714,14 @@
         "cf6ad9b8483a8fca9d674c322f7cb9b4ebef4931": {
             "en": "ULisboa - Instituto Superior T\u00e9cnico", 
             "pt": "ULisboa - Instituto Superior T\u00e9cnico"
+        }, 
+        "d007a5bd30d0e7dae9219c0babf719b0ae07576e": {
+            "en": "UNL - Instituto Superior de Estat\u00edsticas e Gest\u00e3o Informa\u00e7\u00e3o", 
+            "pt": "UNL - Instituto Superior de Estat\u00edsticas e Gest\u00e3o Informa\u00e7\u00e3o"
+        }, 
+        "d2b97dfcb9700b65bb051c4a541226ec193a815b": {
+            "en": "UNL - Faculdade de Economia", 
+            "pt": "UNL - Faculdade de Economia"
         }, 
         "d48f4f8440235e73f2b5b4d36a142923f9c23e6d": {
             "en": "Instituto Polit\u00e9cnico de Viseu", 
@@ -6715,9 +6743,17 @@
             "en": "Polytechnic Institute of Porto", 
             "pt": "Instituto Polit\u00e9cnico do Porto"
         }, 
+        "ebd83aede95398e597bfed7f00c9ac11b0ac0dd5": {
+            "en": "UNL - Escola Nacional de Sa\u00fade P\u00fablica", 
+            "pt": "UNL - Escola Nacional de Sa\u00fade P\u00fablica"
+        }, 
         "ed3a0140eb60d6c379fdb422f33daee8471aa47f": {
             "en": "Secretaria Geral da Educa\u00e7\u00e3o e Ci\u00eancia", 
             "pt": "Secretaria Geral da Educa\u00e7\u00e3o e Ci\u00eancia"
+        }, 
+        "ef593f350af8330b9a163a71e344460d3956dfdb": {
+            "en": "UNL - Reitoria", 
+            "pt": "UNL - Reitoria"
         }
     }, 
     "ru": {
