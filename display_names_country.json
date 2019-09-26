@@ -1918,6 +1918,10 @@
         }
     }, 
     "de": {
+        "026381bb68bc3b2b46bf8d8c989fd7ae7cd02459": {
+            "de": "Hochschule f\u00fcr \u00f6ffentliche Verwaltung und Finanzen Ludwigsburg", 
+            "en": "University of Applied Sciences Ludwigsburg"
+        }, 
         "02668fed66a35503b378621577a56501b83b02cf": {
             "de": "Universit\u00e4t Duisburg-Essen", 
             "en": "Universit\u00e4t Duisburg-Essen"
@@ -2081,6 +2085,10 @@
         "2cb54282f77ce0fd6e754b18589d7dd96b092e41": {
             "de": "Rheinische Fachhochschule K\u00f6ln gGmbH", 
             "en": "Rheinische Fachhochschule K\u00f6ln gGmbH"
+        }, 
+        "2ef41718376218579901accc8b977800332aa313": {
+            "de": "PH Karlsruhe", 
+            "en": "University of Education Karlsruhe"
         }, 
         "328e832fb93f12d14b54dfe9332391f2b9f10825": {
             "de": "Technische Universit\u00e4t Ilmenau", 
@@ -2621,6 +2629,10 @@
         "df4effe89a5fe63d5a913d7266586eb98e158b9b": {
             "de": "Fraunhofer-Gesellschaft", 
             "en": "Fraunhofer-Gesellschaft"
+        }, 
+        "e2f9501ca86fa75f40979049ad3f08274cb17a0e": {
+            "de": "PH Schw\u00e4bisch Gm\u00fcnd", 
+            "en": "University of Education Gmuend"
         }, 
         "e6056d3882745dd76a6163e4c05fba9c5f372731": {
             "de": "Leibniz-Institut f\u00fcr Plasmaforschung und Technologie e.V.", 
