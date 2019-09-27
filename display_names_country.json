@@ -5869,8 +5869,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
@@ -6451,10 +6450,6 @@
         "e474391eb9d6913b3c46eb962464e82b7841fa5b": {
             "en": "Delft University of Technology", 
             "nl": "Technische Universiteit Delft"
-        }, 
-        "e4d32de77b7b1389107a34e7e9005e3bd49a09a6": {
-            "en": "KNMI (old)", 
-            "nl": "KNMI (oud)"
         }, 
         "e6e6407b9384401b571ac50428a0ee77292acdab": {
             "en": "KNMI", 
