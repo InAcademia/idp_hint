@@ -363,10 +363,6 @@
             "en": "IEN - Instituto de Engenharia Nuclear", 
             "pt-br": "IEN - Instituto de Engenharia Nuclear"
         }, 
-        "104758f8feb9283e1c5ea3c4751c19b13baf8b33": {
-            "en": "UFSB - Universidade Federal do Sul da Bahia", 
-            "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
-        }, 
         "11b7c709133d5aa84085c8097daa442d96729541": {
             "en": "UFMT - Universidade Federal de Mato Grosso", 
             "pt-br": "UFMT - Universidade Federal de Mato Grosso"
@@ -567,10 +563,6 @@
             "en": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural", 
             "pt-br": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural"
         }, 
-        "685e4f986f42886efc324e5968ed883885722db2": {
-            "en": "UCDB - Universidade Catolica Dom Bosco", 
-            "pt-br": "UCDB - Universidade Catolica Dom Bosco"
-        }, 
         "6a1b9bf99c16c28144b64535709edd2608ad130d": {
             "en": "IFGOIANO - Instituto Federal Goiano", 
             "pt-br": "IFGOIANO - Instituto Federal Goiano"
@@ -767,6 +759,10 @@
             "en": "UEMA - Universidade Estadual do Maranhao", 
             "pt-br": "UEMA - Universidade Estadual do Maranhao"
         }, 
+        "cb433f3b14ca996057977346c5b32013b2747c7a": {
+            "en": "UFSB - Universidade Federal do Sul da Bahia", 
+            "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
+        }, 
         "cbae19ba289cf569de827ac7c0fb270f181d43fb": {
             "en": "UCS - Universidade de Caxias do Sul", 
             "pt-br": "UCS - Universidade de Caxias do Sul"
@@ -778,10 +774,6 @@
         "cbd2581bf5bd902654b95de400da341883b27ba4": {
             "en": "UNIFEOB - Fundacao de Ensino Octavio Bastos", 
             "pt-br": "UNIFEOB - Fundacao de Ensino Octavio Bastos"
-        }, 
-        "ccec722e692820b654f8ce44267ac9d31a9f500a": {
-            "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas", 
-            "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
         }, 
         "cfbefac40f6ad114657825df24c36f7ab59e8bb6": {
             "en": "LNCC - Laboratorio Nacional de Computacao Cientifica", 
@@ -827,10 +819,6 @@
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer", 
             "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
         }, 
-        "e6f7199020ea77e6f7a8bbef19869cef6ca58fcc": {
-            "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina", 
-            "pt-br": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina"
-        }, 
         "ea26f702c5a9223c5d2f8b2eb1d6f4e049d08da6": {
             "en": "UNIFA - Universidade da Forca Aerea", 
             "pt-br": "UNIFA - Universidade da Forca Aerea"
@@ -850,10 +838,6 @@
         "f137678f0f5fc73c0aac58bffb27632932367ba2": {
             "en": "UNISO - Universidade de Sorocaba", 
             "pt-br": "UNISO - Universidade de Sorocaba"
-        }, 
-        "f2501b0186680a460fb9f5d7e241ade82892243e": {
-            "en": "MPEG - Museu Paraense Emilio Goeldi", 
-            "pt-br": "MPEG - Museu Paraense Emilio Goeldi"
         }, 
         "f528b3888e8d400703c3917bdb56d181f1db9c1b": {
             "en": "IGESDF - Instituto de Gestao Estrategica de Saude do Distrito Federal", 
