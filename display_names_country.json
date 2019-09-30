@@ -5857,8 +5857,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
@@ -5947,6 +5946,10 @@
         "15a32e670790990251313c86755263019a747a12": {
             "en": "Nikhef", 
             "nl": "Nikhef"
+        }, 
+        "172f93721b1022995478b1fd145bb6694d4b2e2c": {
+            "en": "National Institute for Public Health and the Environment", 
+            "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
         }, 
         "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
             "en": "EGI Foundation", 
@@ -6489,8 +6492,8 @@
             "nl": "Hogeschool Windesheim"
         }, 
         "f9918750071c968024b36d141d99be7b86a9d13a": {
-            "en": "National Institute for Public Health and the Environment", 
-            "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
+            "en": "National Institute for Public Health and the Environment (old)", 
+            "nl": "Rijksinstituut voor Volksgezondheid en Milieu (oud)"
         }, 
         "fd1ae264d0ad04edaafe5198eb509b094ccee22e": {
             "en": "ASTRON", 
