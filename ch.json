@@ -57,10 +57,6 @@
         "de": "ZHdK - Z\u00fcrcher Hochschule der K\u00fcnste", 
         "en": "ZHdK - Z\u00fcrcher Hochschule der K\u00fcnste"
     }, 
-    "446ae21994cce766ed1eb06a9dd07aa7c3d42069": {
-        "de": "FHGR - Fachhochschule Graub\u00fcnden", 
-        "en": "FHGR - University of Applied Sciences of the Grisons"
-    }, 
     "48a82c677270fbf00bf0f3dac037b7507db944b6": {
         "de": "Universit\u00e4t Liechtenstein", 
         "en": "Universit\u00e4t Liechtenstein"
@@ -79,6 +75,10 @@
     }, 
     "552ca87f86be9e177ce42689fa22c1b46d4f0133": {
         "en": "swissuniversities"
+    }, 
+    "57fdc220421fabc40fcaab3e799651decb8a5329": {
+        "de": "FHGR - Fachhochschule Graub\u00fcnden", 
+        "en": "FHGR - Fachhochschule Graub\u00fcnden"
     }, 
     "58880296d412209ac819037126bf6b0ea19c0f3a": {
         "de": "Universit\u00e4t Genf", 
