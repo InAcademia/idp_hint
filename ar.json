@@ -3,6 +3,14 @@
         "en": "UBA IdP", 
         "es": "IdP UBA"
     }, 
+    "4b4b81ccf00f287e526048751077208a37d0dc7d": {
+        "en": "IdP01 RIU", 
+        "es": "IdP01 - RIU"
+    }, 
+    "5ab8178c521d6f9ff839a74b19286378eaa10531": {
+        "en": "IdP02 RIU", 
+        "es": "IdP02 - RIU"
+    }, 
     "b85f5d61106a949feafd7bb5e9987f13253ffe7c": {
         "en": "UNSL IdP", 
         "es": "IdP - UNSL"
