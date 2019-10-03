@@ -11,6 +11,10 @@
         "en": "IdP02 RIU", 
         "es": "IdP02 - RIU"
     }, 
+    "8fb4e5bf1b3f6c0df46134b219650c8db1701caa": {
+        "en": "RIU Arai IdP", 
+        "es": "IdP - Arai - RIU"
+    }, 
     "b85f5d61106a949feafd7bb5e9987f13253ffe7c": {
         "en": "UNSL IdP", 
         "es": "IdP - UNSL"
@@ -26,5 +30,9 @@
     "e5ced3da6415d424c7e2b776a5e4a5ea1f11dc0c": {
         "en": "UNC IdP", 
         "es": "IdP - UNC"
+    }, 
+    "fa8a01d8964bbbf87f7680feebea2a790fee4e69": {
+        "en": "UNQ TICAR IdP", 
+        "es": "IdP - UNQ - TICAR"
     }
 }
