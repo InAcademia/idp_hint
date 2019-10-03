@@ -111,6 +111,10 @@
         "cs": "BBMRI-ERIC", 
         "en": "BBMRI-ERIC"
     }, 
+    "342cadf4f48e892fc5e9e544dece55b6bdc9bc4e": {
+        "cs": "M\u011bstsk\u00e1 knihovna Most", 
+        "en": "Municipal Library in Most"
+    }, 
     "35544c157478c037d05290a090200e7fdc1f032e": {
         "cs": "\u00dastav d\u011bjin um\u011bn\u00ed Akademie v\u011bd \u010cR, v.v.i", 
         "en": "Institute of Art History of the Academy of Sciences of the Czech Republic"
@@ -270,6 +274,10 @@
     "80cfec592a6147d187042ad4fd107ae83c2bfb97": {
         "cs": "Mendelova univerzita v Brn\u011b", 
         "en": "Mendel Univerzity in Brno"
+    }, 
+    "812e5ae71b1aa6ad3c0c9a180567606958483870": {
+        "cs": "M\u011bstsk\u00e1 knihovna s region\u00e1ln\u00edmi funkcemi Trutnov", 
+        "en": "Municipal library with regional services in Trutnov"
     }, 
     "82dc3f917e3340702e487ced65481c382a40aaec": {
         "cs": "\u00dastav v\u00fdzkumu glob\u00e1ln\u00ed zm\u011bny AV \u010cR, v. v. i.", 
