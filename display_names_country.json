@@ -57,6 +57,10 @@
             "de": "FH Gesundheitsberufe O\u00d6", 
             "en": "University of Applied Sciences for Health Professions Upper Austria"
         }, 
+        "2115c62bef743ea7826ae243643216dcd76f516c": {
+            "de": "P\u00e4dagogische Hochschule Ober\u00f6sterreich", 
+            "en": "P\u00e4dagogische Hochschule Ober\u00f6sterreich"
+        }, 
         "214ee934b52c265d1d45c0558313e090f720c43a": {
             "de": "Medizinische Universit\u00e4t Innsbruck", 
             "en": "Medical University of Innsbruck"
@@ -5889,8 +5893,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
