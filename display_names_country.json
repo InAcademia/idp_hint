@@ -375,6 +375,10 @@
             "en": "FACOP - Faculdade Do Centro Oeste Paulista", 
             "pt-br": "FACOP - Faculdade Do Centro Oeste Paulista"
         }, 
+        "0da69fb521f157b06862f88cfb36e78e0d196033": {
+            "en": "UESC - Universidade Estadual de Santa Cruz", 
+            "pt-br": "UESC - Universidade Estadual de Santa Cruz"
+        }, 
         "0e1c3496695ab32ae2e847d22399d8b83abfaa05": {
             "en": "UFPB - Universidade Federal da Paraiba", 
             "pt-br": "UFPB - Universidade Federal da Paraiba"
@@ -794,10 +798,6 @@
         "cbd2581bf5bd902654b95de400da341883b27ba4": {
             "en": "UNIFEOB - Fundacao de Ensino Octavio Bastos", 
             "pt-br": "UNIFEOB - Fundacao de Ensino Octavio Bastos"
-        }, 
-        "cfbefac40f6ad114657825df24c36f7ab59e8bb6": {
-            "en": "LNCC - Laboratorio Nacional de Computacao Cientifica", 
-            "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
         }, 
         "d0b529b8ec431659b03ef2fd0e03f35f52249b43": {
             "en": "CHC-UFPR - CHC-UFPR - Complexo Hospital de Clinicas", 
