@@ -719,10 +719,6 @@
             "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear", 
             "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
         }, 
-        "ace7fa4eb8676b87ca2ce3b1b19f4e6be4e4c4b9": {
-            "en": "IFPE - Instituto Federal de Pernambuco", 
-            "pt-br": "IFPE - Instituto Federal de Pernambuco"
-        }, 
         "ae394d742275e7ea5c132110e2e35c5d89cea38d": {
             "en": "MCTIC - Ministerio da Ciencia Tecnologia Inovacao e Comunicacao", 
             "pt-br": "MCTIC - Ministerio da Ciencia Tecnologia Inovacao e Comunicacao"
@@ -5900,7 +5896,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
