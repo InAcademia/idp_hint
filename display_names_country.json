@@ -5754,10 +5754,6 @@
             "en": "Klaipeda State University of Applied Sciences", 
             "lt": "Klaip\u0117dos valstybin\u0117 kolegija"
         }, 
-        "5f5002b41e6b08a6be7525f407fb46d2b9eaf0a1": {
-            "en": "Aleksandras Stulginskis University", 
-            "lt": "Aleksandro Stulginskio universitetas"
-        }, 
         "89c0d7983368fc92fc79d0943d1714783c2840b0": {
             "en": "ISM University of Management and Economics", 
             "lt": "ISM Vadybos ir ekonomikos universitetas"
@@ -5769,6 +5765,10 @@
         "8f5f8f54836d68864753fc0446c8cf29277b7cd9": {
             "en": "European Humanities University", 
             "lt": "Europos humanitarinis universitetas"
+        }, 
+        "96cc299eb5936089db8a71ff5bb0b60afc589143": {
+            "en": "Kaunas University of Applied Sciences", 
+            "lt": "Kauno kolegija"
         }, 
         "d27e0905e5ddda20720b2c2717dc8fb39f47f639": {
             "en": "Marijampole College", 
@@ -5896,7 +5896,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
