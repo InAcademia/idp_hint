@@ -2894,6 +2894,10 @@
             "da": "Syddansk Universitet", 
             "en": "University of Southern Denmark"
         }, 
+        "c7499fe39af4d563bfdbbe991cbefd00818f7d6f": {
+            "da": "MARTEC", 
+            "en": "MARTEC Maritime and Polytechnic University College"
+        }, 
         "ccfff7160d570163fbefcc72e008b31a3be09636": {
             "da": "KEA \u2013 K\u00f8benhavns Erhvervsakademi", 
             "en": "KEA \u2013 Copenhagen School of Design and Technology"
@@ -5892,7 +5896,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
