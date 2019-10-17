@@ -1407,6 +1407,10 @@
         "e3f5e0c4cac4701b45e740790c9273027c20e4b5": {
             "en": "Xiamen University", 
             "zh": "\u53a6\u95e8\u5927\u5b66(Xiamen University)"
+        }, 
+        "f27f238e9e01e0f6f65e6cb4167bc5cef1dd6a56": {
+            "en": "Beijing Normal University", 
+            "zh": "\u5317\u4eac\u5e08\u8303\u5927\u5b66(Beijing Normal University)"
         }
     }, 
     "co": {
@@ -5381,6 +5385,10 @@
             "en": "https://idp.eurac.edu/idp/shibboleth", 
             "it": "EURAC"
         }, 
+        "990617621c8e67fb1d6422c271f5b7db34422783": {
+            "en": "ISS - Istituto Superiore di Sanit\u00e0", 
+            "it": "ISS - Istituto Superiore di Sanit\u00e0"
+        }, 
         "9af4700f1f43e449f18df3f26554bd69f6abaaa8": {
             "en": "IRCCS Burlo Garofolo - Trieste", 
             "it": "IRCCS Burlo Garofolo - Trieste"
@@ -5900,8 +5908,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
