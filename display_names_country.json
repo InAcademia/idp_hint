@@ -607,6 +607,10 @@
             "en": "UFC - Universidade Federal do Ceara", 
             "pt-br": "UFC - Universidade Federal do Ceara"
         }, 
+        "74211fef4e2eee216993008971fb13aff43516c6": {
+            "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul", 
+            "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
+        }, 
         "75496a390abc51cd192ed40d1daec2c0f0a4f1e1": {
             "en": "URI - ERECHIM - - Universidade Regional Integrada do Alto Uruguai e das Missoes", 
             "pt-br": "URI - ERECHIM - - Universidade Regional Integrada do Alto Uruguai e das Missoes"
@@ -5922,7 +5926,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
