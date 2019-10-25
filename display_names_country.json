@@ -767,6 +767,10 @@
             "en": "IDP - Instituto Brasiliense de Direito Publico", 
             "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
         }, 
+        "c37811dbb0d1070a06b6019b8df08f2744115e9b": {
+            "en": "UFOP - Universidade Federal de Ouro Preto", 
+            "pt-br": "UFOP - Universidade Federal de Ouro Preto"
+        }, 
         "c6b78eef4301253ee5f2fb5a58a647b16c6e569c": {
             "en": "UFMS - Universidade Federal de Mato Grosso do Sul", 
             "pt-br": "UFMS - Universidade Federal de Mato Grosso do Sul"
@@ -5941,7 +5945,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
