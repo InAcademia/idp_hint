@@ -714,6 +714,10 @@
             "en": "UEPA - Universidade do Estado do Para", 
             "pt-br": "UEPA - Universidade do Estado do Para"
         }, 
+        "a81e483b8acfe1c190bf6b1af5eac523756176ad": {
+            "en": "FAC - Faculdade de Engenharia de Sorocaba", 
+            "pt-br": "FAC - Faculdade de Engenharia de Sorocaba"
+        }, 
         "aabfdbb2806cd724c816601e4c473758c4ce3137": {
             "en": "UNISUL - Universidade do Sul de Santa Catarina", 
             "pt-br": "UNISUL - Universidade do Sul de Santa Catarina"
@@ -951,6 +955,10 @@
         }, 
         "38af542868d0d7fc06d5d76b0253a9c5228b8229": {
             "en": "Carleton University"
+        }, 
+        "397ae542ba411e2d90611fffd93e9f79f478b0d7": {
+            "en": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue", 
+            "fr": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue"
         }, 
         "3f6b3ebf100d127736e8fe5c695351f5f540f306": {
             "en": "University of British Columbia"
@@ -3084,8 +3092,8 @@
             "es": "Centro Nacional de Investigaciones Cardiovasculares"
         }, 
         "1d58ce86166132a6e7be8239f9ac81c756b70cb4": {
-            "en": "UMH - Universidad Miguel Hern\u00e1ndez de Elche", 
-            "es": "UMH - Universidad Miguel Hern\u00e1ndez de Elche"
+            "ca": "Universidad Miguel Hern\u00e1ndez de Elche", 
+            "en": "Universidad Miguel Hern\u00e1ndez de Elche"
         }, 
         "1ed4f2df9b0fc21ef4edb9a7b433bc2420d88c45": {
             "en": "CENIEH Research Centre", 
@@ -3180,8 +3188,8 @@
             "en": "Universitat de Girona"
         }, 
         "55caa6ff84e89a2eeec4073a07fd6c7605c92787": {
-            "en": "UNILEON - Universidad de Le\u00f3n", 
-            "es": "UNILEON - Universidad de Le\u00f3n"
+            "en": "Universidad de Le\u00f3n", 
+            "es": "Universidad de Le\u00f3n"
         }, 
         "573116c096bd85296da6c0fd921b9f36dc4c3805": {
             "en": "UM - University of Murcia", 
@@ -3200,8 +3208,8 @@
             "es": "CRG - Centre for Genomic Regulation"
         }, 
         "687fcf460111f47ca846a616820a6ef4d3b635fa": {
-            "en": "edunav - Consejer\u00eda de educaci\u00f3n, Gobierno de Navarra", 
-            "es": "edunav - Consejer\u00eda de educaci\u00f3n, Gobierno de Navarra"
+            "en": "Educaci\u00f3n de Navarra", 
+            "eu": "Educaci\u00f3n de Navarra"
         }, 
         "68f5309b1a3a08b448d794bf48238a99bf7d7e09": {
             "en": "University of Malaga", 
@@ -3307,8 +3315,8 @@
             "es": "CSUC - Consorci de Serveis Universitaris de Catalunya"
         }, 
         "cc0c8eb3746615a3d4c1e5ab7a0ab86a6cf13e79": {
-            "en": "ZLC - Zaragoza Logistics Center", 
-            "es": "ZLC - Zaragoza Logistics Center"
+            "en": "Zaragoza Logistics Center", 
+            "es": "Zaragoza Logistics Center"
         }, 
         "cc61ee2f3493cf51115c25bdc7df31c1b38a2865": {
             "en": "SCAYLE: Supercomputaci\u00f3n Castilla y Le\u00f3n", 
