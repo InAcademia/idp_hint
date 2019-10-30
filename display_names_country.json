@@ -3156,8 +3156,8 @@
             "es": "Universitat de Vic - Universitat Central de Catalunya"
         }, 
         "4672331d1930ed7a0a0cf21797456d30c216209f": {
-            "en": "UPF - Universitat Pompeu Fabra", 
-            "es": "UPF - Universitat Pompeu Fabra"
+            "ca": "Universitat Pompeu Fabra", 
+            "en": "Universitat Pompeu Fabra"
         }, 
         "4803b5d785277724b91b6bbd2474ccf5beb80c64": {
             "en": "Universitat Oberta de Catalunya", 
@@ -5944,8 +5944,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
