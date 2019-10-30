@@ -1609,10 +1609,6 @@
             "cs": "\u00dastav chemick\u00fdch proces\u016f AV \u010cR", 
             "en": "Institute of Chemical Process Fundamentals of the AS CR"
         }, 
-        "3c168074428d6876fbf526d4fc2f9dded1d0b4b0": {
-            "cs": "M\u011bstsk\u00e1 knihovna \u010cesk\u00e1 T\u0159ebov\u00e1", 
-            "en": "Municipal Library \u010cesk\u00e1 T\u0159ebov\u00e1"
-        }, 
         "3c8fafab23f36637c781b8a100b664296e4c56c8": {
             "cs": "Biofyzik\u00e1ln\u00ed \u00fastav AV \u010cR", 
             "en": "Institute of Biophysics AS CR"
@@ -3299,8 +3295,8 @@
             "es": "Universidad Polit\u00e9cnica de Madrid"
         }, 
         "c1069294661d4c2124da029ec19169f8aa9e497a": {
-            "en": "UHU - University of Huelva", 
-            "es": "UHU - Universidad de Huelva"
+            "en": "Universidad de Huelva", 
+            "es": "Universidad de Huelva"
         }, 
         "c568fc60d8880daf1d4b1fe66d1efe461c0a5ac8": {
             "en": "National Distance Education University", 
@@ -5295,10 +5291,6 @@
             "en": "University of Piemonte Orientale", 
             "it": "Universita degli studi del Piemonte Orientale"
         }, 
-        "46285dc138110b6efaa03128d0e579dcdec252d3": {
-            "en": "Politecnico di Bari", 
-            "it": "Politecnico di Bari"
-        }, 
         "49e34c7f936539d099aa80874f317de318520f00": {
             "en": "University for Foreigners Perugia", 
             "it": "Universit\u00e0 per Stranieri di Perugia"
@@ -5952,7 +5944,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
