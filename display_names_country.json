@@ -738,6 +738,10 @@
             "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear", 
             "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
         }, 
+        "ad8c0da245e35ff1f5b48d6875c2618d779c4ff2": {
+            "en": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia", 
+            "pt-br": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia"
+        }, 
         "ae394d742275e7ea5c132110e2e35c5d89cea38d": {
             "en": "MCTIC - Ministerio da Ciencia Tecnologia Inovacao e Comunicacao", 
             "pt-br": "MCTIC - Ministerio da Ciencia Tecnologia Inovacao e Comunicacao"
@@ -761,6 +765,10 @@
         "bb24b6ad6976a4a89e4d59cf71fd42f9c3172425": {
             "en": "UFPI - Universidade Federal do Piaui", 
             "pt-br": "UFPI - Universidade Federal do Piaui"
+        }, 
+        "bbf92a95953d3043313593fa55a088cfb2cd220d": {
+            "en": "UFMA - Universidade Federal do Maranhao", 
+            "pt-br": "UFMA - Universidade Federal do Maranhao"
         }, 
         "be494461cd319bafed9c307d6c0da763d723ce9c": {
             "en": "UNIVALI - Universidade do Vale do Itajai", 
@@ -1115,7 +1123,8 @@
             "fr": "Calcul Canada"
         }, 
         "ca6717974db3d7c06c651cc865b297825010b860": {
-            "en": "Concordia University"
+            "en": "Concordia University - BCI", 
+            "fr": "Universit\u00e9 Concordia - BCI"
         }, 
         "cc962b4b2c133f367945e7d58cf9a380dc58c4b8": {
             "en": "Laurentian University"
