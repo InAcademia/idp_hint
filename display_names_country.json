@@ -439,12 +439,8 @@
             "pt-br": "UFSCAR - Universidade Federal de Sao Carlos"
         }, 
         "259d678f5db91bc8c417564890d3076acc165016": {
-            "en": "PUC-PR - PUC-PR - Pontificia Universidade Catolica do Parana", 
-            "pt-br": "PUC-PR - PUC-PR - Pontificia Universidade Catolica do Parana"
-        }, 
-        "25c0bdfb5545c38690fa11ab293fc4a208235a82": {
-            "en": "PUCCAMP - Pontificia Universidade Catolica de Campinas", 
-            "pt-br": "PUCCAMP - Pontificia Universidade Catolica de Campinas"
+            "en": "PUC-PR - Pontificia Universidade Catolica do Parana", 
+            "pt-br": "PUC-PR - Pontificia Universidade Catolica do Parana"
         }, 
         "2c1ef9d2daf8134f26499a2dc06c10433b95c16a": {
             "en": "UEG - Universidade Estadual de Goias", 
@@ -530,6 +526,10 @@
             "en": "UEPG - Universidade Estadual de Ponta Grossa", 
             "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
         }, 
+        "43650aedff3dccde5ed0be22b0e900951971dcc9": {
+            "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia", 
+            "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
+        }, 
         "43b194e5b7903dc68692ad87a987377270ce4a2f": {
             "en": "SLM - Faculdade Sao Leopoldo Mandic", 
             "pt-br": "SLM - Faculdade Sao Leopoldo Mandic"
@@ -610,6 +610,10 @@
             "en": "USF - Universidade Sao Francisco", 
             "pt-br": "USF - Universidade Sao Francisco"
         }, 
+        "72f89b93072ac0c173dd573dad3b156970c9cc97": {
+            "en": "UFERSA - Universidade Federal Rural do Semi Arido", 
+            "pt-br": "UFERSA - Universidade Federal Rural do Semi Arido"
+        }, 
         "739f6e9204a232ff2d3e39a1ef3c7df15cb65ae3": {
             "en": "ESAP - Escola de Saude de Goias", 
             "pt-br": "ESAP - Escola de Saude de Goias"
@@ -647,8 +651,8 @@
             "pt-br": "SECTI/BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
         }, 
         "7cf11719a9fc65b7da8b2a8b76801d8d5cfb1d36": {
-            "en": "UNIVALE - - Universidade Vale do Rio Doce", 
-            "pt-br": "UNIVALE - - Universidade Vale do Rio Doce"
+            "en": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE", 
+            "pt-br": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE"
         }, 
         "7d9f9a41f2fbe34f83593199b1b6ff10d0ca34d3": {
             "en": "UNICAMP - Universidade Estadual de Campinas", 
@@ -682,10 +686,6 @@
             "en": "IFMS - Instituto Federal de Mato Grosso do Sul", 
             "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
         }, 
-        "837f325edbd001d7fd517409d176fe23671a0993": {
-            "en": "FAMPECT - Fundacao Wilson Picler de Amparo a Educacao, Ciencia e Tecnologia.", 
-            "pt-br": "FAMPECT - Fundacao Wilson Picler de Amparo a Educacao, Ciencia e Tecnologia."
-        }, 
         "8c07321b9c17f3dc64632392c638c013a4cf4714": {
             "en": "IFTO - Instituto Federal de Educacao do Tocantins", 
             "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
@@ -715,8 +715,8 @@
             "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
         }, 
         "a0e0f7075b1ae48ac124236da978d346dde51208": {
-            "en": "UniRV - Universidade de Rio Verde", 
-            "pt-br": "UniRV - Universidade de Rio Verde"
+            "en": "UNIRV - Universidade de Rio Verde", 
+            "pt-br": "UNIRV - Universidade de Rio Verde"
         }, 
         "a3bf77da8101f68ce3e3d74297e957dbcff500b3": {
             "en": "FUNESA - Fundacao Estadual de Saude", 
@@ -727,8 +727,8 @@
             "pt-br": "UEPA - Universidade do Estado do Para"
         }, 
         "a81e483b8acfe1c190bf6b1af5eac523756176ad": {
-            "en": "FAC - Faculdade de Engenharia de Sorocaba", 
-            "pt-br": "FAC - Faculdade de Engenharia de Sorocaba"
+            "en": "FAC - FACENS - Faculdade de Engenharia de Sorocaba", 
+            "pt-br": "FAC - FACENS - Faculdade de Engenharia de Sorocaba"
         }, 
         "abee12a5bd99cd0fb9cdf955c0194e21b192e521": {
             "en": "ANSP - an Academic Network at Sao Paulo", 
@@ -819,8 +819,8 @@
             "pt-br": "UNIFEOB - Fundacao de Ensino Octavio Bastos"
         }, 
         "d0b529b8ec431659b03ef2fd0e03f35f52249b43": {
-            "en": "CHC-UFPR - CHC-UFPR - Complexo Hospital de Clinicas", 
-            "pt-br": "CHC-UFPR - CHC-UFPR - Complexo Hospital de Clinicas"
+            "en": "CHC-UFPR - Complexo Hospital de Clinicas", 
+            "pt-br": "CHC-UFPR - Complexo Hospital de Clinicas"
         }, 
         "d1597b50469d04b89026229f3df9aa1fecbb5d1f": {
             "en": "RNP - Rede Nacional de Ensino e Pesquisa", 
@@ -845,10 +845,6 @@
         "db8a8c4ee5ce83838c956aa53f5c8dda6a0876dd": {
             "en": "IFPI - Instituto Federal do Piaui", 
             "pt-br": "IFPI - Instituto Federal do Piaui"
-        }, 
-        "e0e1accd07c48ae68c5185566e20e92f108cc073": {
-            "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia", 
-            "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
         }, 
         "e3ff0a8f2bdb041ab79b8ff5cf9bc30f2ed5405a": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer", 
@@ -899,8 +895,8 @@
             "pt-br": "USP - UNIVERSIDADE DE SAO PAULO"
         }, 
         "fa8003ded0e4eafe818a8c4223a9cf4d1b352fe2": {
-            "en": "UNILAB - UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira", 
-            "pt-br": "UNILAB - UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira"
+            "en": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira", 
+            "pt-br": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira"
         }, 
         "fc45fd2740add909feb31731669367deadb9583e": {
             "en": "CPRM - Servico Geologico do Brasil", 
@@ -5976,7 +5972,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
