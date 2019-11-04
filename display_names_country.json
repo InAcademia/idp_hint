@@ -3108,8 +3108,8 @@
             "es": "Universidad de Cantabria"
         }, 
         "1b956c1400bcd68b7836b696eda12eedf08afcaf": {
-            "en": "IAC - Instituto Astrof\u00edsico de Canarias", 
-            "es": "IAC - Instituto Astrof\u00edsico de Canarias"
+            "en": "IAC - Instituto Astrof\u00ed\u00adsico de Canarias", 
+            "es": "IAC - Instituto Astrof\u00ed\u00adsico de Canarias"
         }, 
         "1be7ba56d2db581e20a646053b13844dc802d2b4": {
             "en": "Centro Nacional de Investigaciones Cardiovasculares", 
@@ -3164,8 +3164,8 @@
             "es": "Universidad de Burgos"
         }, 
         "320c118ba6efc61aebe6ad7a91b81f7fa40ad4b0": {
-            "en": "UNIR - International University of La Rioja", 
-            "es": "UNIR - Universidad Internacional de La Rioja"
+            "en": "International University of La Rioja", 
+            "es": "Universidad Internacional de La Rioja"
         }, 
         "3966e3fa3b187ea5e8bfe240863a272b79c52ab1": {
             "en": "Centro de Supercomputacion de Galicia", 
@@ -3224,8 +3224,8 @@
             "es": "Instituto de Salud Carlos III"
         }, 
         "5818173547e61cd4b418cedfc490a6a24ff31b77": {
-            "en": "UCM - Complutense University of Madrid", 
-            "es": "UCM - Universidad Complutense de Madrid"
+            "en": "Complutense University of Madrid", 
+            "es": "Universidad Complutense de Madrid"
         }, 
         "65041fb411526e025f75e08e334cfe183bc301f6": {
             "en": "CRG - Centre for Genomic Regulation", 
@@ -3327,8 +3327,8 @@
             "es": "Universidad Nacional de Educaci\u00f3n a Distancia"
         }, 
         "c5d15de6d0b43292231772e8532f63ebc8008076": {
-            "en": "UNIA - Universidad Internacional de Andalucia", 
-            "es": "UNIA - Universidad Internacional de Andalucia"
+            "en": "Universidad Internacional de Andalucia", 
+            "es": "Universidad Internacional de Andalucia"
         }, 
         "ca06b5073db1fd26b9cf5bd69289569d6f4d9536": {
             "en": "Public University of Navarra", 
@@ -5083,6 +5083,9 @@
         }, 
         "300f95673c9b0693982a8783a6d29d2ecc4557ff": {
             "en": "National Law University Odisha"
+        }, 
+        "32a1db57edeff30716e59c00fd6e7ee203f5d4e1": {
+            "en": "National Institute of Technology Goa"
         }, 
         "3e130d4dcc2fb39a29f2e8db204135aa5dda16f0": {
             "en": "Zeal College of Engineering and Research"
