@@ -546,6 +546,10 @@
             "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG", 
             "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
         }, 
+        "47a3043f5063497337688f17271a52458f524778": {
+            "en": "UNILA - Universidade Federal da Integracao Latino-Americana", 
+            "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
+        }, 
         "49cc774a9367505af0180fb1eeb6af175cfa757a": {
             "en": "ON - Observatorio Nacional", 
             "pt-br": "ON - Observatorio Nacional"
@@ -5984,8 +5988,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
