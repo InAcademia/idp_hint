@@ -370,6 +370,10 @@
             "en": "UNIFESP - Universidade Federal de Sao Paulo", 
             "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
         }, 
+        "0aeed5c0de335da2d1c0449ac5cc7654ab1d0ce8": {
+            "en": "FSCBH - Faculdade Santa Casa BH", 
+            "pt-br": "FSCBH - Faculdade Santa Casa BH"
+        }, 
         "0ba3f7363048136d4272f377130cefb267e6ee7c": {
             "en": "FAPESP - Fundacao de Amparo a Pesquisa", 
             "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa"
@@ -525,10 +529,6 @@
         "433c371e06b87c8a15548f467c8995245f3fbcf9": {
             "en": "UEPG - Universidade Estadual de Ponta Grossa", 
             "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
-        }, 
-        "43650aedff3dccde5ed0be22b0e900951971dcc9": {
-            "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia", 
-            "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
         }, 
         "43b194e5b7903dc68692ad87a987377270ce4a2f": {
             "en": "SLM - Faculdade Sao Leopoldo Mandic", 
@@ -845,6 +845,10 @@
         "db8a8c4ee5ce83838c956aa53f5c8dda6a0876dd": {
             "en": "IFPI - Instituto Federal do Piaui", 
             "pt-br": "IFPI - Instituto Federal do Piaui"
+        }, 
+        "e0e1accd07c48ae68c5185566e20e92f108cc073": {
+            "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia", 
+            "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
         }, 
         "e3ff0a8f2bdb041ab79b8ff5cf9bc30f2ed5405a": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer", 
@@ -3228,8 +3232,8 @@
             "es": "Universidad Complutense de Madrid"
         }, 
         "65041fb411526e025f75e08e334cfe183bc301f6": {
-            "en": "CRG - Centre for Genomic Regulation", 
-            "es": "CRG - Centre for Genomic Regulation"
+            "en": "Centre for Genomic Regulation", 
+            "es": "Centre for Genomic Regulation"
         }, 
         "687fcf460111f47ca846a616820a6ef4d3b635fa": {
             "en": "Educaci\u00f3n de Navarra", 
@@ -3272,8 +3276,8 @@
             "en": "Universitat de Lleida"
         }, 
         "94d6276df4bea8e3c8e22250c1b9c2773f1b0596": {
-            "en": "ESADE - Escuela Superior de Administraci\u00f3n y Direcci\u00f3n de Empresas", 
-            "es": "ESADE - Escuela Superior de Administraci\u00f3n y Direcci\u00f3n de Empresas"
+            "en": "Escuela Superior de Administraci\u00f3n y Direcci\u00f3n de Empresas", 
+            "es": "Escuela Superior de Administraci\u00f3n y Direcci\u00f3n de Empresas"
         }, 
         "9582425308d42ae4bb661e39a0632c9e5a1d7ff3": {
             "en": "Universidad de Navarra", 
@@ -3288,8 +3292,8 @@
             "es": "Universidade da Coru\u00f1a"
         }, 
         "a0d16c6c713ce8ab960ed984150f9d3b941ab414": {
-            "en": "IFAE - Institute for High Energy Physics", 
-            "es": "IFAE - Instituto de Fisica de Altas Energias"
+            "en": "Institute for High Energy Physics", 
+            "es": "Instituto de Fisica de Altas Energias"
         }, 
         "a4f0ac5cd2f7f6077b87bf6091cfe3fd820a531f": {
             "en": "Universitat Politecnica de Catalunya", 
@@ -3300,7 +3304,8 @@
             "es": "Universitat Polit\u00e8cnica de Val\u00e8ncia"
         }, 
         "b066b9555bff49156d74a006d41a16129dfd0d65": {
-            "en": "BSC - Barcelona Supercomputing Center"
+            "en": "Barcelona Supercomputing Center", 
+            "es": "Centro Nacional de Supercoputaci\u00f3n"
         }, 
         "b2bfa48c0f308f725d9dc9a3e0bb701501ca80bf": {
             "en": "Basque Center on Cognition, Brain and Language", 
@@ -3395,8 +3400,8 @@
             "es": "Centro de L\u00e1seres Pulsados"
         }, 
         "f9f18d064d5b6c2a155dd26a48e50b0cd14b0a63": {
-            "en": "UAH - University of Alcal\u00e1", 
-            "es": "UAH - Universidad de Alcal\u00e1"
+            "en": "Universidad de Alcal\u00e1 de Henares", 
+            "es": "Universidad de Alcal\u00e1 de Henares"
         }, 
         "fb13b8f83d74dc029803889acbe550f44d019394": {
             "en": "i2basque", 

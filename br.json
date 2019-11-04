@@ -35,6 +35,10 @@
         "en": "UNIFESP - Universidade Federal de Sao Paulo", 
         "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
     }, 
+    "0aeed5c0de335da2d1c0449ac5cc7654ab1d0ce8": {
+        "en": "FSCBH - Faculdade Santa Casa BH", 
+        "pt-br": "FSCBH - Faculdade Santa Casa BH"
+    }, 
     "0ba3f7363048136d4272f377130cefb267e6ee7c": {
         "en": "FAPESP - Fundacao de Amparo a Pesquisa", 
         "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa"
@@ -190,10 +194,6 @@
     "433c371e06b87c8a15548f467c8995245f3fbcf9": {
         "en": "UEPG - Universidade Estadual de Ponta Grossa", 
         "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
-    }, 
-    "43650aedff3dccde5ed0be22b0e900951971dcc9": {
-        "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia", 
-        "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
     }, 
     "43b194e5b7903dc68692ad87a987377270ce4a2f": {
         "en": "SLM - Faculdade Sao Leopoldo Mandic", 
@@ -510,6 +510,10 @@
     "db8a8c4ee5ce83838c956aa53f5c8dda6a0876dd": {
         "en": "IFPI - Instituto Federal do Piaui", 
         "pt-br": "IFPI - Instituto Federal do Piaui"
+    }, 
+    "e0e1accd07c48ae68c5185566e20e92f108cc073": {
+        "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia", 
+        "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
     }, 
     "e3ff0a8f2bdb041ab79b8ff5cf9bc30f2ed5405a": {
         "en": "CTI - Centro de Tecnologia da Informacao Renato Archer", 
