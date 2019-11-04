@@ -5984,8 +5984,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
@@ -7225,6 +7224,9 @@
         }, 
         "9df5acc08f9b2e113d45cd554bcb7b7a4a2f17e6": {
             "en": "Research and Education Network for Uganda"
+        }, 
+        "a085262339ddd29a3cb54680b23fb0c6ed48e155": {
+            "en": "Uganda Martyrs Hospital Lubaga"
         }, 
         "a0fa1768599cb3995f608e3b60057f24d1d75ed3": {
             "en": "Uganda Virus Research Institute (UVRI)"
