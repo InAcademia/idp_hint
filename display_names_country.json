@@ -1463,6 +1463,10 @@
             "en": "Zhejiang Gongshang University", 
             "zh": "\u6d59\u6c5f\u5de5\u5546\u5927\u5b66(Zhejiang Gongshang University)"
         }, 
+        "e25cf7b0d39d6b2e3df3357a978debf46b65e28c": {
+            "en": "Tsinghua University", 
+            "zh": "\u6e05\u534e\u5927\u5b66(Tsinghua University)"
+        }, 
         "e3f5e0c4cac4701b45e740790c9273027c20e4b5": {
             "en": "Xiamen University", 
             "zh": "\u53a6\u95e8\u5927\u5b66(Xiamen University)"
@@ -5988,8 +5992,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
