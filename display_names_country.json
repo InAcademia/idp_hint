@@ -698,10 +698,6 @@
             "en": "IFTO - Instituto Federal de Educacao do Tocantins", 
             "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
         }, 
-        "8d06fc30a247961cda0951728dfd4c2c895c0ca3": {
-            "en": "UFOPA - Universidade Federal do Oeste do Para", 
-            "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
-        }, 
         "911943c4bcf25c0182020242d24ed69863725b4a": {
             "en": "ITA - Instituto Tecnologico de Aeronautica", 
             "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
@@ -6033,6 +6029,9 @@
         }, 
         "e1f91392965028b9d760ab3ea2d545e8e9e90f69": {
             "en": "International Medical University"
+        }, 
+        "e31977229f833f048f57bb18c0d44ff2d347067c": {
+            "en": "Universiti Sultan Zainal Abidin"
         }
     }, 
     "net": {
