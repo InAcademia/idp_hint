@@ -6008,8 +6008,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
@@ -6047,10 +6046,6 @@
             "en": "AnelisPlus Association IdP", 
             "ro": "IdP AnelisPlus"
         }, 
-        "453a06e87d54b6113d86e44ec63da9eec89f243f": {
-            "en": "Lucian Blaga University of Sibiu IdP", 
-            "ro": "Universitatea Lucian Blaga din Sibiu IdP"
-        }, 
         "7a2ae4737f0cb16286f97667892462cb2d353324": {
             "en": "Alexandru Ioan Cuza University of Ia\u0219i IdP", 
             "ro": "IdP al Universit\u0103\u021bii Alexandru Ioan Cuza din Ia\u0219i"
@@ -6058,6 +6053,10 @@
         "d42c1d14b9bd637ca2213e71140de23e311b207f": {
             "en": "Agency ARNIEC RoEduNet IdP", 
             "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+        }, 
+        "d58777703c6ba3601b3985435681610e242fc302": {
+            "en": "Lucian Blaga University of Sibiu IdP", 
+            "ro": "Universitatea Lucian Blaga din Sibiu IdP"
         }, 
         "eaece7dd0a4466996b1dd8f820db9be13f2fa3bd": {
             "en": "West University of Timi\u0219oara IdP", 
