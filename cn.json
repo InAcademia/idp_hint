@@ -1,4 +1,8 @@
 {
+    "012de2fda6a28d32894e38d9bc7915c7c8217678": {
+        "en": "Shanghai Normal University", 
+        "zh": "\u4e0a\u6d77\u5e08\u8303\u5927\u5b66(Shanghai Normal University)"
+    }, 
     "1a0597adfceee8d77fdad384eacce982f54abf74": {
         "en": "Xian Jiaotong-Liverpool University", 
         "zh": "\u897f\u4ea4\u5229\u7269\u6d66\u5927\u5b66(Xian Jiaotong-Liverpool University )"
@@ -26,6 +30,10 @@
     "7f23889a0d15445a060f0f55fca1f0dc07f74c6c": {
         "en": "EAST CHINA NORMAL UNIVERSITY", 
         "zh": "\u534e\u4e1c\u5e08\u8303\u5927\u5b66(EAST CHINA NORMAL UNIVERSITY)"
+    }, 
+    "aa5cab5006a6b97cdc203ec6b61d4936cb627ac9": {
+        "en": "Wuhan University", 
+        "zh": "\u6b66\u6c49\u5927\u5b66(Wuhan University)"
     }, 
     "b07545711f11a116406dbfe893bf69248d55a85c": {
         "en": "Tianjin University", 
