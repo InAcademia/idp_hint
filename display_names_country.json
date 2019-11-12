@@ -911,8 +911,8 @@
             "pt-br": "UNISANTOS - Universidade Catolica de Santos"
         }, 
         "f569edcfafd4fd03e0473b6e1a4c574e975be205": {
-            "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - SP", 
-            "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - SP"
+            "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - IPEN", 
+            "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - IPEN"
         }, 
         "f70f1a8d6c024fdd548353f10619cd7bd13efc9c": {
             "en": "COPPE - Coord. Pos Grad. e Pesquisa em Engenharia", 
@@ -6032,8 +6032,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
