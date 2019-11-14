@@ -6044,7 +6044,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
@@ -7011,6 +7012,9 @@
         }
     }, 
     "sa": {
+        "1f961b02c3702597ba2307863eb77163e8806416": {
+            "en": "Effat University"
+        }, 
         "f9dc8328a34e7035c8c55537caef041a8c11ab82": {
             "en": "Maeen IdP"
         }
