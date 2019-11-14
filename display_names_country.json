@@ -6040,7 +6040,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
@@ -6765,6 +6766,9 @@
         }, 
         "d17a07866ab86b747a78c72b3718a5d448de0507": {
             "en": "Dhofar University"
+        }, 
+        "fe8df4abdb8231bc9981621a32e52e9c411822c0": {
+            "en": "Ibri vocational college"
         }
     }, 
     "pk": {
