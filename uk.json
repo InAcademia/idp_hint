@@ -137,9 +137,6 @@
     "14e83c95988afc8a5097aae5094e4337d6ee538a": {
         "en": "Stratford-upon-Avon College"
     }, 
-    "157b96472268d3d44e6a1a149faf1e6256fdc830": {
-        "en": "Doncaster Libraries"
-    }, 
     "165a80913835e361cece02d625ee2de69f47ffbb": {
         "en": "University College London (Shib Dev)"
     }, 
@@ -325,9 +322,6 @@
     }, 
     "32d8b02e594bd232097490cf7ff3f7263a76be11": {
         "en": "City and Islington College"
-    }, 
-    "32de200dc00ba67de530078c119437884331ae9d": {
-        "en": "Bucks Libraries"
     }, 
     "33c0b0eee78cf61e3ac6ab26aab64d2c20ba6f77": {
         "en": "Varndean College"
@@ -551,9 +545,6 @@
     "50f1d50ad96d826f0e5554f1051288aa4e8ff44b": {
         "en": "London School of Theology"
     }, 
-    "51b8b2b3c1ab8a58a79f5b17926090b6b11131f8": {
-        "en": "Surrey Libraries"
-    }, 
     "5234e89828bc10375b16806d4dc02885b9aec91f": {
         "en": "Royal Veterinary College"
     }, 
@@ -586,9 +577,6 @@
     }, 
     "54dcb6821d4b91f46150ec0b4660417650a3ad6d": {
         "en": "Aylesbury College"
-    }, 
-    "558f78ddca6c2217bf1604fa64094f60a4266756": {
-        "en": "Camden Libraries"
     }, 
     "56607978d3b6a64be8c238452b14847bde6a41a8": {
         "en": "University of London: Online Library"
@@ -662,9 +650,6 @@
     "5f0509d53141a9b8e25e7df2b15bafd28b2d6bf9": {
         "en": "Cambridge Regional College (Athens)"
     }, 
-    "5f32c3c20bd2e7b93e76be8f4f3d04805864fb77": {
-        "en": "Milton Keynes Libraries"
-    }, 
     "5f897a93e6654617a8b113fd1401e504729129ad": {
         "en": "Shrewsbury Colleges Group"
     }, 
@@ -722,14 +707,8 @@
     "63b54d730d64dc3260ad3dc03c806b03146d5a18": {
         "en": "Marine Biological Association of the UK"
     }, 
-    "6458c77bec8b8d12b4bd7b91c2892de1d71dfb32": {
-        "en": "Derby City Libraries"
-    }, 
     "64877a962183bae29542d2f2fd97b26c67300cd7": {
         "en": "Telford College of Arts & Technology"
-    }, 
-    "64d1b70a0e3ab848db81f4e3ffadb413d8d0226b": {
-        "en": "Southampton City Libraries"
     }, 
     "6511fdd9a4f47f8c41db2d0f45dd32e3ae8ccb2e": {
         "en": "Glyndwr University"
@@ -748,9 +727,6 @@
     }, 
     "66d797ed929e56f221bf184462bebbcd823ae144": {
         "en": "University of Surrey"
-    }, 
-    "677291392efd0631e44f4e358234e5f36b9d921d": {
-        "en": "Nottinghamshire Libraries"
     }, 
     "69e484acd3815b1443ae7468e7ad3826ce655e21": {
         "en": "Colchester Institute"
@@ -970,9 +946,6 @@
     }, 
     "842600fecbeca89df4c7be55f9487e4fd32446fa": {
         "en": "Architectural Association"
-    }, 
-    "8503dd374ca40f19bb133426e0ae6a38f8183797": {
-        "en": "Leicestershire Library Service"
     }, 
     "856973559a6ca1a2cfef1b9bd61907be81d235f9": {
         "en": "North Notts College"
@@ -1251,9 +1224,6 @@
     }, 
     "a993c05f09798431f2bba82076f8d1fc714deee1": {
         "en": "Fareham College"
-    }, 
-    "a9c229188d2240d900d6983d9c13988169afedc4": {
-        "en": "Derbyshire Libraries"
     }, 
     "aaccbe6a7bf30bc0b62884e3d31dfaf1bfd1d0ce": {
         "en": "Painless Security"
@@ -1589,9 +1559,6 @@
     "d7b0d5c418bf847c6886e68fd0acc1a58afd354e": {
         "en": "eduTEAMS"
     }, 
-    "d7dfa79d3c59cc7b2950512d6771ecdceae2f5da": {
-        "en": "Idea Store"
-    }, 
     "d84e0144c13931ed946a51a1fba8622a54e36748": {
         "en": "University of Roehampton (OpenAthens)"
     }, 
@@ -1657,9 +1624,6 @@
     }, 
     "e3f1e41247337afaea3d9409ca38206c9aaf8187": {
         "en": "LinkedIn via eduTEAMS Identity Hub"
-    }, 
-    "e448b935fe64a7760e1f16a42378bf0877a087f6": {
-        "en": "Kent Libraries"
     }, 
     "e44debcbdb8432c1f37891c1e6a1b7a427c32169": {
         "en": "Regent's University London ADFS Do Not Use"
@@ -1751,9 +1715,6 @@
     "f1acc60312e6d590f44b8e3bd06f2a6f48e1e5e6": {
         "en": "Norwich University of the Arts"
     }, 
-    "f20b7d8fc34ed42536cb001400eac0e968917fb4": {
-        "en": "Hertfordshire Libraries"
-    }, 
     "f246fb9d070025be84c16d7a6127da8a90dde85c": {
         "en": "Craven College"
     }, 
@@ -1787,9 +1748,6 @@
     "f5cf7585e36d5846c1cdff9aebf1301ee798af23": {
         "en": "Long Road Sixth Form College"
     }, 
-    "f6292be2e64e7cdaf3fee07bc950d0c202c95be7": {
-        "en": "Rutland Library Service"
-    }, 
     "f66c5fb87ad836cf80aaa0c2dc88eddcaf10e1d7": {
         "en": "The Sixth Form College, Colchester"
     }, 
@@ -1804,9 +1762,6 @@
     }, 
     "f86d16dd150f93d38ba18b9474f663df9e21dfb3": {
         "en": "UniServity: CAVLE"
-    }, 
-    "f895dc63f39d88bfb08898af8b7ad1f1c2554eca": {
-        "en": "Nottingham City Libraries"
     }, 
     "f8d62dd85bedca21511fa3d16bea779c87d1f252": {
         "en": "West Herts College"
