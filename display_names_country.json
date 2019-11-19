@@ -284,6 +284,9 @@
         "e38bc446feb3480e6bfff4767e374e0ade9f8b9b": {
             "en": "Hogent"
         }, 
+        "e6b6ad5fc7835c64690c6e109f22d6c37d56052e": {
+            "en": "VLIZ"
+        }, 
         "e7b9826ed0722ea3339071c1451b14874e35fde0": {
             "en": "Hogeschool West-Vlaanderen"
         }, 
@@ -6063,10 +6066,6 @@
         "d42c1d14b9bd637ca2213e71140de23e311b207f": {
             "en": "Agency ARNIEC RoEduNet IdP", 
             "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
-        }, 
-        "d58777703c6ba3601b3985435681610e242fc302": {
-            "en": "Lucian Blaga University of Sibiu IdP", 
-            "ro": "Universitatea Lucian Blaga din Sibiu IdP"
         }, 
         "eaece7dd0a4466996b1dd8f820db9be13f2fa3bd": {
             "en": "West University of Timi\u0219oara IdP", 
