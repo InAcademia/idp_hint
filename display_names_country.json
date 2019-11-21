@@ -741,10 +741,6 @@
             "en": "FUNESA - Fundacao Estadual de Saude", 
             "pt-br": "FUNESA - Fundacao Estadual de Saude"
         }, 
-        "a77d6e6c504849dcbf2b839e813ef5f202864631": {
-            "en": "UEPA - Universidade do Estado do Para", 
-            "pt-br": "UEPA - Universidade do Estado do Para"
-        }, 
         "a81e483b8acfe1c190bf6b1af5eac523756176ad": {
             "en": "FAC - FACENS - Faculdade de Engenharia de Sorocaba", 
             "pt-br": "FAC - FACENS - Faculdade de Engenharia de Sorocaba"
@@ -776,6 +772,10 @@
         "b56e34221df0a9535e274fb56397099c6c29eca3": {
             "en": "UFRR - Universidade Federal de Roraima", 
             "pt-br": "UFRR - Universidade Federal de Roraima"
+        }, 
+        "b7fa00d3ead971e1b517c51578047d597cdab7da": {
+            "en": "UFU - Universidade Federal de Uberlandia", 
+            "pt-br": "UFU - Universidade Federal de Uberlandia"
         }, 
         "bb0c267a1218c71760f25f8e3388200ddd8f1368": {
             "en": "UFPA - Universidade Federal do Para", 
