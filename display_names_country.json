@@ -2786,10 +2786,6 @@
             "de": "Leibniz-Universit\u00e4t Hannover", 
             "en": "Leibniz-Universit\u00e4t Hannover"
         }, 
-        "df4effe89a5fe63d5a913d7266586eb98e158b9b": {
-            "de": "Fraunhofer-Gesellschaft", 
-            "en": "Fraunhofer-Gesellschaft"
-        }, 
         "e2f9501ca86fa75f40979049ad3f08274cb17a0e": {
             "de": "PH Schw\u00e4bisch Gm\u00fcnd", 
             "en": "University of Education Gmuend"
@@ -6078,7 +6074,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Maeen IdP"
+            "en": "West University of Timi\u0219oara IdP", 
+            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
         }
     }, 
     "my": {
