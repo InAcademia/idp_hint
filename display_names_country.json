@@ -2094,6 +2094,10 @@
             "de": "Philipps-Universit\u00e4t Marburg", 
             "en": "Philipps-Universit\u00e4t Marburg"
         }, 
+        "0d3f9b8d005abfe4f847f5908cf044c0a85b3230": {
+            "de": "Hochschule f\u00fcr Gesundheit", 
+            "en": "Hochschule f\u00fcr Gesundheit"
+        }, 
         "0dbf9c91f744335030551f5da2fb176dcb029173": {
             "de": "ESO - European Southern Observatory", 
             "en": "ESO - European Southern Observatory"
@@ -2637,6 +2641,10 @@
         "ab78bb1a9832ffd7b9769fd516623ecdd83c3af5": {
             "de": "Universit\u00e4t Konstanz", 
             "en": "University of Konstanz"
+        }, 
+        "afff6fc2daf7ea4e13f1ba4ab44c16dcf5678a83": {
+            "de": "Hochschule Kaiserslautern", 
+            "en": "University of Applied Science Kaiserslautern"
         }, 
         "b191ead5e90b859d31f3909c92afcbca5f52e46b": {
             "de": "Universit\u00e4t Passau", 
@@ -6066,8 +6074,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
