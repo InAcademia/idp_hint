@@ -2122,6 +2122,10 @@
             "de": "FernUniversit\u00e4t in Hagen", 
             "en": "University in Hagen"
         }, 
+        "12b1daebe605845eb890680b9a1583959b51115e": {
+            "de": "Ostfalia", 
+            "en": "Ostfalia"
+        }, 
         "136f6bb7bedeb0faae2f63d83437ad5fdcc192e0": {
             "de": "Hochschule Karlsruhe - Technik und Wirtschaft", 
             "en": "University of Applied Sciences Karlsruhe"
@@ -6074,8 +6078,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
