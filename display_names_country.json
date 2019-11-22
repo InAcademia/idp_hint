@@ -2791,7 +2791,7 @@
             "en": "Leibniz-Universit\u00e4t Hannover"
         }, 
         "df4effe89a5fe63d5a913d7266586eb98e158b9b": {
-            "de": "Fraunhoer-Gesellschaft", 
+            "de": "Fraunhofer-Gesellschaft", 
             "en": "Fraunhofer-Gesellschaft"
         }, 
         "e2f9501ca86fa75f40979049ad3f08274cb17a0e": {
@@ -6082,8 +6082,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "West University of Timi\u0219oara IdP", 
-            "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
+            "en": "Maeen IdP"
         }
     }, 
     "my": {
@@ -6120,6 +6119,10 @@
         "37f3aacb4319d875c9b4cd6827ce744d48703712": {
             "en": "AnelisPlus Association IdP", 
             "ro": "IdP AnelisPlus"
+        }, 
+        "67019d6f23d06974669f33752dfdecc1a8c6166f": {
+            "en": "Petroleum Gas University of Ploiesti", 
+            "ro": "Universitatea Petrol-Gaze din Ploiesti"
         }, 
         "7a2ae4737f0cb16286f97667892462cb2d353324": {
             "en": "Alexandru Ioan Cuza University of Ia\u0219i IdP", 
