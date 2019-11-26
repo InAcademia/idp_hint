@@ -1916,8 +1916,8 @@
             "en": "Masaryk Institute and Archives of the CAS"
         }, 
         "c0c4785b193036f700249b3d1d60e53f2d02a7f3": {
-            "cs": "\u00dastav molekul\u00e1rn\u00ed genetiky AV \u010cR", 
-            "en": "Institute of Molecular Genetics of the ASCR"
+            "cs": "\u00dastav molekul\u00e1rn\u00ed genetiky AV \u010cR, v. v. i.", 
+            "en": "Institute of Molecular Genetics of the Czech Academy of Sciences"
         }, 
         "c79bb87ad6395d9256dc97fc02c5460475d7e975": {
             "cs": "\u00dastav zem\u011bd\u011blsk\u00e9 ekonomiky a informac\u00ed", 
@@ -7022,6 +7022,9 @@
         "1f961b02c3702597ba2307863eb77163e8806416": {
             "en": "Effat University"
         }, 
+        "c71a55d2094863118bd434cc3b3151fa9a69d751": {
+            "en": "Dar Al-Hekma University"
+        }, 
         "f9dc8328a34e7035c8c55537caef041a8c11ab82": {
             "en": "Maeen IdP"
         }
@@ -7288,8 +7291,8 @@
     }, 
     "tr": {
         "801e04cdf18ad62d882d2ea7e9cb69d62aad5b27": {
-            "en": "ULAKBIM - ID", 
-            "tr": "ULAKB\u0130M - Kimlik"
+            "en": "ULAKBIM", 
+            "tr": "ULAKB\u0130M"
         }
     }, 
     "ua": {
