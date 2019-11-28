@@ -836,6 +836,10 @@
             "en": "UNIVAP - Universidade do Vale do Paraiba", 
             "pt-br": "UNIVAP - Universidade do Vale do Paraiba"
         }, 
+        "d28e0d12abc31e57efef9949e6ddfd122041931a": {
+            "en": "IFRR - Instituto Federal de Roraima", 
+            "pt-br": "IFRR - Instituto Federal de Roraima"
+        }, 
         "d294457f3ad2b789e345f9d7fc2fdac487ba49ef": {
             "en": "UNITAU - Universidade de Taubate", 
             "pt-br": "UNITAU - Universidade de Taubate"
@@ -6069,8 +6073,7 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Petroleum Gas University of Ploiesti", 
-            "ro": "Universitatea Petrol-Gaze din Ploiesti"
+            "en": "Dar Al-Hekma University"
         }
     }, 
     "my": {
