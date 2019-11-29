@@ -240,8 +240,8 @@
         "nl": "HZ University of Applied Sciences"
     }, 
     "759a1da70fc48db4d2e4045117ba2c13589010ba": {
-        "en": "ROC Nijmegen", 
-        "nl": "ROC Nijmegen"
+        "en": "ROC Nijmegen (old)", 
+        "nl": "ROC Nijmegen (oud)"
     }, 
     "7665617eb3a6b0c41f992aacf1e43c48a29031fe": {
         "en": "Eindhoven University of Technology", 
@@ -460,8 +460,8 @@
         "nl": "Nederlands Interdisciplinair Demografisch Instituut (KNAW)"
     }, 
     "c94cae987643a227de40b6ea2f46a6bc85ed0a37": {
-        "en": "ROC Nijmegen (new, not in production yet)", 
-        "nl": "ROC Nijmegen (nieuw, nog niet in productie)"
+        "en": "ROC Nijmegen", 
+        "nl": "ROC Nijmegen"
     }, 
     "caa4034d3784cd10ec72b9c7cf290ed5ed759f1c": {
         "en": "G\u00c9ANT Staff Identity Provider", 
