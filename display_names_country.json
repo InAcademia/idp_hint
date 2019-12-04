@@ -2176,6 +2176,10 @@
             "de": "Europa-Universit\u00e4t Flensburg", 
             "en": "Europa-Universit\u00e4t Flensburg"
         }, 
+        "2319920ab1fabab0579e388c035660d1347e9e89": {
+            "de": "Hochschule f\u00fcr Angewandte Wissenschaften Hamburg", 
+            "en": "Hamburg University of Applied Sciences"
+        }, 
         "243381f74f4beb187d43edbd974b6bc91e760033": {
             "de": "Hochschule Ravensburg-Weingarten", 
             "en": "University of Applied Sciences Ravensburg Weingarten"
@@ -6090,9 +6094,11 @@
         }
     }, 
     "mt": {
+        "3ee3eebd2f10ac56f5afb48bbe2977ae4b8689a5": {
+            "en": "Dar Al-Hekma University"
+        }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Petroleum Gas University of Ploiesti", 
-            "ro": "Universitatea Petrol-Gaze din Ploiesti"
+            "en": "Dar Al-Hekma University"
         }
     }, 
     "my": {
