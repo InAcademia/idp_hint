@@ -423,10 +423,6 @@
         "en": "ANSP - an Academic Network at Sao Paulo", 
         "pt-br": "ANSP - an Academic Network at Sao Paulo"
     }, 
-    "acd2ada8fd563268fe98412c9f56493d7ee01226": {
-        "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear", 
-        "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
-    }, 
     "ad8c0da245e35ff1f5b48d6875c2618d779c4ff2": {
         "en": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia", 
         "pt-br": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia"
@@ -566,6 +562,10 @@
     "e419d4ea885b3cc2774157b964c53400093b6bd1": {
         "en": "UTFPR - Universidade Tecnologica Federal do Parana", 
         "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
+    }, 
+    "e8d3f4ee3b5e9e54eea83e27949893cc518535b9": {
+        "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear", 
+        "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
     }, 
     "ea26f702c5a9223c5d2f8b2eb1d6f4e049d08da6": {
         "en": "UNIFA - Universidade da Forca Aerea", 
