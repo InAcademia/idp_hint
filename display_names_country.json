@@ -3172,6 +3172,10 @@
         }
     }, 
     "es": {
+        "031d9d31ea429336c56b1e14d3a4dfa59360b799": {
+            "en": "Centro de Investigaci\u00f3n Cooperativa en Biomateriales", 
+            "es": "Centro de Investigaci\u00f3n Cooperativa en Biomateriales"
+        }, 
         "032db0d93336cb7a1861f29b56747683ef59895e": {
             "en": "Centro de Estudios Monetarios y Financieros", 
             "es": "Centro de Estudios Monetarios y Financieros"
@@ -6087,7 +6091,8 @@
     }, 
     "mt": {
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Dar Al-Hekma University"
+            "en": "Petroleum Gas University of Ploiesti", 
+            "ro": "Universitatea Petrol-Gaze din Ploiesti"
         }
     }, 
     "my": {
