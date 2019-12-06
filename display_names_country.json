@@ -123,6 +123,10 @@
             "de": "FH CAMPUS 02", 
             "en": "FH CAMPUS 02"
         }, 
+        "a637244f1e8e86e33d21920c55abc1c84f81eb0b": {
+            "de": "Naturhistorisches Museum Wien (NHM)", 
+            "en": "Natural History Museum Vienna (NHM)"
+        }, 
         "b77bf8d27da5110011b63da4e0e3b2664f870904": {
             "de": "Fachhochschule Kufstein", 
             "en": "University of Applied Science Kufstein"
@@ -6112,8 +6116,7 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Petroleum Gas University of Ploiesti", 
-            "ro": "Universitatea Petrol-Gaze din Ploiesti"
+            "en": "Dar Al-Hekma University"
         }
     }, 
     "my": {
