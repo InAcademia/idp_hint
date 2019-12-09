@@ -491,10 +491,6 @@
         "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul", 
         "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
     }, 
-    "c8b0f235381128012b5b296bdb3ffe6ee705285d": {
-        "en": "FURB - Fundacao Universidade Regional de Blumenau", 
-        "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
-    }, 
     "cb433f3b14ca996057977346c5b32013b2747c7a": {
         "en": "UFSB - Universidade Federal do Sul da Bahia", 
         "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
@@ -562,6 +558,10 @@
     "e419d4ea885b3cc2774157b964c53400093b6bd1": {
         "en": "UTFPR - Universidade Tecnologica Federal do Parana", 
         "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
+    }, 
+    "e84a7df34f6d7b1407016dea15610f467cd75def": {
+        "en": "IF SERTAO-PE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano", 
+        "pt-br": "IF SERTAO-PE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
     }, 
     "e8d3f4ee3b5e9e54eea83e27949893cc518535b9": {
         "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear", 
