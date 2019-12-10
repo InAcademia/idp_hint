@@ -3948,8 +3948,8 @@
             "fr": "Grenoble INP - Institut polytechnique de Grenoble"
         }, 
         "4ed665408c6dfa6896beda15b04010adb62574e2": {
-            "en": "Ecole d'Architecture de la ville et des territoires \u00e0 Marne-la-Vall\u00e9e", 
-            "fr": "Ecole d'Architecture de la ville et des territoires \u00e0 Marne-la-Vall\u00e9e"
+            "en": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-est", 
+            "fr": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-est"
         }, 
         "51791b6a9bee6de43cd320d7619caff6eb618e97": {
             "en": "Universit\u00e9 de Poitiers", 
@@ -4114,6 +4114,10 @@
         "7aaf1f03b9a90077534587aa1d19e326a26cc1ed": {
             "en": "INSA de Toulouse", 
             "fr": "INSA de Toulouse"
+        }, 
+        "7ada0affd702fef01e9c30e598a18d5aa6dbcfe8": {
+            "en": "INSA Rennes", 
+            "fr": "INSA Rennes"
         }, 
         "7ae5bcd922b345841a6ffd78e60a6abbc9d413bb": {
             "en": "CROUS Poitiers-Personnels V3", 
@@ -6120,8 +6124,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Petroleum Gas University of Ploiesti", 
-            "ro": "Universitatea Petrol-Gaze din Ploiesti"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
