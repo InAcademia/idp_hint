@@ -6132,8 +6132,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Petroleum Gas University of Ploiesti", 
-            "ro": "Universitatea Petrol-Gaze din Ploiesti"
+            "en": "Agency ARNIEC RoEduNet IdP", 
+            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
         }
     }, 
     "my": {
@@ -6167,17 +6167,13 @@
             "en": "Technical University of Cluj-Napoca IdP", 
             "ro": "IdP al Universit\u0103\u021bii Tehnice din Cluj-Napoca"
         }, 
-        "37f3aacb4319d875c9b4cd6827ce744d48703712": {
-            "en": "AnelisPlus Association IdP", 
-            "ro": "IdP AnelisPlus"
-        }, 
         "67019d6f23d06974669f33752dfdecc1a8c6166f": {
             "en": "Petroleum Gas University of Ploiesti", 
             "ro": "Universitatea Petrol-Gaze din Ploiesti"
         }, 
         "7a2ae4737f0cb16286f97667892462cb2d353324": {
-            "en": "Alexandru Ioan Cuza University of Ia\u0219i IdP", 
-            "ro": "IdP al Universit\u0103\u021bii Alexandru Ioan Cuza din Ia\u0219i"
+            "en": "University \"Alexandru Ioan Cuza\" from Iasi", 
+            "ro": "Universitatea \"Alexandru Ioan Cuza\" din Ia\u0219i"
         }, 
         "d42c1d14b9bd637ca2213e71140de23e311b207f": {
             "en": "Agency ARNIEC RoEduNet IdP", 
