@@ -5935,8 +5935,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
@@ -8453,9 +8453,6 @@
         }, 
         "af1c81adacd1045d093aba0ef79c2778719585bd": {
             "en": "Coventry University"
-        }, 
-        "b01ca033cfe02e9b249ecf519a0fdf3ca5671e3f": {
-            "en": "St John's College Nottingham"
         }, 
         "b06b16ed696aaf5052c30a4397e1a1ed70c123c6": {
             "en": "City of Westminster College"
