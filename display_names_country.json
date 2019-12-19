@@ -1507,6 +1507,10 @@
             "en": "University of Science and Technology of China", 
             "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66(University of Science and Technology of China)"
         }, 
+        "d48d2cbc5795e195f6bbaf5c1cb5cd4b90fa3ef8": {
+            "en": "Hangzhou Normal University", 
+            "zh": "\u676d\u5dde\u5e08\u8303\u5927\u5b66(Hangzhou Normal University )"
+        }, 
         "dbf74a2b5a451fc59730e22aa85911b6be7a3263": {
             "en": "Shenyang Agricultural University", 
             "zh": "\u6c88\u9633\u519c\u4e1a\u5927\u5b66(Shenyang Agricultural University)"
@@ -6139,8 +6143,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
