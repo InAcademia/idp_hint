@@ -6147,8 +6147,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Agency ARNIEC RoEduNet IdP", 
+            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
         }
     }, 
     "my": {
@@ -6874,9 +6874,6 @@
         }, 
         "c95ac85545e45041791b926a77430c22f445c294": {
             "en": "Middle East College"
-        }, 
-        "d17a07866ab86b747a78c72b3718a5d448de0507": {
-            "en": "Dhofar University"
         }, 
         "fe8df4abdb8231bc9981621a32e52e9c411822c0": {
             "en": "Ibri Vocational College"
