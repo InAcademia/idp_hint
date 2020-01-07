@@ -365,6 +365,9 @@
     "395fd1e0715fd5fe70c4b15960175cb8b90240fc": {
         "en": "New College Of The Humanities"
     }, 
+    "3a06ec7b9cf7446fe11cab5b0de050c2f6a6f6c0": {
+        "en": "East Durham College"
+    }, 
     "3a5722a153317ae5d4cbd8c1dbc35b104966a9ee": {
         "en": "University of Durham"
     }, 
@@ -1836,5 +1839,8 @@
     }, 
     "ffe46e7b2695bf3d99bd761a6276feca5ae9b07c": {
         "en": "South Downs College"
+    }, 
+    "fffc5f76348798ddc420b646a7b70b65a364f14b": {
+        "en": "Nelson Group"
     }
 }
