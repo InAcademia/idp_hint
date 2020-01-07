@@ -6147,8 +6147,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Agency ARNIEC RoEduNet IdP", 
+            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
         }
     }, 
     "my": {
@@ -6763,10 +6763,6 @@
         "eefc5360a7a0fb2df0fa4236af1a3a6f8cde196f": {
             "en": "Nuclear Research and Consultancy Group", 
             "nl": "Nuclear Research and Consultancy Group"
-        }, 
-        "efcd8f8a52c5e759531863e506b26c765fa59bc6": {
-            "en": "Hubrecht Institute (KNAW)", 
-            "nl": "Hubrecht Institute (KNAW)"
         }, 
         "f50d1f9b1ca599b5c99920c35d98082ff4c8f967": {
             "en": "Netherlands Institute for Advanced Study in the Humanities and Social Sciences (KNAW)", 
