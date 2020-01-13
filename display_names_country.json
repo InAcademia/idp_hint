@@ -6601,8 +6601,8 @@
             "nl": "Koninklijke Bibliotheek"
         }, 
         "b54275d830ea04b3f3cbcbcbc8cfd15cb2f7eb15": {
-            "en": "Zuyd Hogeschool", 
-            "nl": "Zuyd Hogeschool"
+            "en": "Zuyd Hogeschool (old)", 
+            "nl": "Zuyd Hogeschool (oud)"
         }, 
         "b5e8f888cfa2395c04d2e36722089988fda6abd6": {
             "en": "University of Groningen", 
@@ -6785,8 +6785,8 @@
             "nl": "ASTRON"
         }, 
         "fedb08d89b392e919185e5b171fd137e303848b7": {
-            "en": "Zuyd Hogeschool (New)", 
-            "nl": "Zuyd Hogeschool (Nieuw)"
+            "en": "Zuyd Hogeschool", 
+            "nl": "Zuyd Hogeschool"
         }
     }, 
     "no": {
@@ -9154,6 +9154,9 @@
         }, 
         "f3fdd27e379b56bc988eecbc2ae03927391110b2": {
             "en": "Buckinghamshire New University"
+        }, 
+        "f479249b9c1921833b724d370b79a0a47bfe9452": {
+            "en": "Bexhill 6th Form College"
         }, 
         "f4d1ca3dd0cf99cd2e1f2bc5d18049afda8fe1fe": {
             "en": "Medical Research Council"

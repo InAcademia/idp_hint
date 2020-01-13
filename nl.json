@@ -388,8 +388,8 @@
         "nl": "Koninklijke Bibliotheek"
     }, 
     "b54275d830ea04b3f3cbcbcbc8cfd15cb2f7eb15": {
-        "en": "Zuyd Hogeschool", 
-        "nl": "Zuyd Hogeschool"
+        "en": "Zuyd Hogeschool (old)", 
+        "nl": "Zuyd Hogeschool (oud)"
     }, 
     "b5e8f888cfa2395c04d2e36722089988fda6abd6": {
         "en": "University of Groningen", 
@@ -572,7 +572,7 @@
         "nl": "ASTRON"
     }, 
     "fedb08d89b392e919185e5b171fd137e303848b7": {
-        "en": "Zuyd Hogeschool (New)", 
-        "nl": "Zuyd Hogeschool (Nieuw)"
+        "en": "Zuyd Hogeschool", 
+        "nl": "Zuyd Hogeschool"
     }
 }
