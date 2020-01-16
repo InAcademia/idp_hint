@@ -1067,8 +1067,8 @@
             "en": "Simon Fraser University"
         }, 
         "6cad1b996b64fdb14bd365e5fe2dc0b0c698517f": {
-            "en": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouki (UQAR)", 
-            "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouki (UQAR)"
+            "en": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski (UQAR)", 
+            "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski (UQAR)"
         }, 
         "726a17714ab6e4aa5e1d4cec415569ad6d69f665": {
             "en": "University of Quebec at Trois-Rivieres", 
@@ -6163,8 +6163,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
