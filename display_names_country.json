@@ -6163,8 +6163,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
@@ -9353,6 +9353,9 @@
         }, 
         "0cdbdd0dfe85c66e4a49e6b1f29abc695aff0b7f": {
             "en": "California State University, Northridge"
+        }, 
+        "0d07a05dce0034eb6c28ad3400c1c5f5fa3486d6": {
+            "en": "Winston-Salem State University"
         }, 
         "0dbef8ce38d9cb6edc8f99f96e6a69be8d65ecf2": {
             "en": "California State University, Office of the Chancellor"
