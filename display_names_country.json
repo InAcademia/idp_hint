@@ -938,10 +938,6 @@
             "en": "USP - UNIVERSIDADE DE SAO PAULO", 
             "pt-br": "USP - UNIVERSIDADE DE SAO PAULO"
         }, 
-        "fa8003ded0e4eafe818a8c4223a9cf4d1b352fe2": {
-            "en": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira", 
-            "pt-br": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira"
-        }, 
         "fc45fd2740add909feb31731669367deadb9583e": {
             "en": "CPRM - Servico Geologico do Brasil", 
             "pt-br": "CPRM - Servico Geologico do Brasil"
@@ -6163,8 +6159,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
