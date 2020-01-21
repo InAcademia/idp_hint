@@ -3951,6 +3951,10 @@
             "en": "CROUS Lorraine", 
             "fr": "CROUS Lorraine"
         }, 
+        "4e1fa70ba8226708abb9762a96700f2c839a819c": {
+            "en": "[DEPRECATED] INSA Rennes", 
+            "fr": "[OBSOLETE] INSA Rennes"
+        }, 
         "4e300a92ba659e3ac6bcf8f511d6649dbf70ac6b": {
             "en": "Grenoble INP - Institut polytechnique de Grenoble", 
             "fr": "Grenoble INP - Institut polytechnique de Grenoble"
@@ -6159,8 +6163,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
