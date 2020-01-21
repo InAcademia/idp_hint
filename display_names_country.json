@@ -6163,8 +6163,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Agency ARNIEC RoEduNet IdP", 
+            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
         }
     }, 
     "my": {
@@ -9362,9 +9362,6 @@
         }, 
         "0dc7abb7d11e8e4fd505ad7499ae5971e266c4fd": {
             "en": "University of Chicago"
-        }, 
-        "0e7e7a27286ee21624c4c4a8d20ea96d5a550aa1": {
-            "en": "University of Arkansas, Cooperative Extension Service"
         }, 
         "0eb1d17297fdb7decd8e4d62283b5aaa5fed9d07": {
             "en": "California Institute of Technology"
