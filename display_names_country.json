@@ -6155,8 +6155,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
@@ -6863,7 +6863,7 @@
             "en": "Majan University College"
         }, 
         "98809bb7722a18ed8a69a3e0b05712bc13e66d03": {
-            "en": "German University of Technology in Oman"
+            "en": "German University of Technology"
         }, 
         "9fb797ab31b861107aea66398b8d991bdf98456a": {
             "en": "Muscat College"
