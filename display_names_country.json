@@ -3736,8 +3736,8 @@
             "fr": "CROUS Versailles V3"
         }, 
         "106bb2a22948075d782725dda25b6b1b1da45a0a": {
-            "en": "Universit\u00e9 d'Avignon", 
-            "fr": "Universit\u00e9 d'Avignon"
+            "en": "UA (old)", 
+            "fr": "UA (old)"
         }, 
         "112f1e2ba625229a875e9dc1b5e64eb13fec90a2": {
             "en": "Vetagro Sup", 
@@ -4074,6 +4074,10 @@
         "706871abad5002442c21c984dad5aa8beb330f4d": {
             "en": "CROUS Limoges V3", 
             "fr": "CROUS Limoges V3"
+        }, 
+        "716d9bd10446ed39ec3d2f17ddb4bdff06a63a65": {
+            "en": "Universit\u00e9 d'Avignon", 
+            "fr": "Universit\u00e9 d'Avignon"
         }, 
         "719d6673a70dbfb445e0488a83d536bdbd23fb4f": {
             "en": "INHA - Institut National de l'Histoire de l'Art", 
