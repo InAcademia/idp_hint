@@ -62,9 +62,6 @@
     "096038bedb4a7a872ab380ceb256f4c2ef763528": {
         "en": "IAH Pirbright"
     }, 
-    "096f2ca1d04c5b44637cc92e7b75d2a63696ab34": {
-        "en": "Ashridge"
-    }, 
     "09f9876152fde3870de94e1c64c14c97cbb68189": {
         "en": "Blackpool and The Fylde College"
     }, 
@@ -127,9 +124,6 @@
     }, 
     "13f96477c7b9547a818b3e3c183b8a0b5b190e30": {
         "en": "EDINA DEPRECATED IdP (staff and trial accounts)"
-    }, 
-    "14411a9fcb4955baf784e76b0437423de588274a": {
-        "en": "Coleg Ceredigion (OLD)"
     }, 
     "14cda3dc3a696d7a88d7eb8a3015e8b3bdca0786": {
         "en": "Wellcome Trust Sanger Institute"
@@ -217,9 +211,6 @@
     }, 
     "2276cf4f6aeb9e89d3dec6ee5444576bfdf63fd7": {
         "en": "Regent's University London"
-    }, 
-    "22adccbacf1c33b7c7246c1c99017eba47f92130": {
-        "en": "Dudley College"
     }, 
     "236983dba70349cba6ea6d85e44d56813e9202bc": {
         "en": "Richard Huish College"
@@ -389,9 +380,6 @@
     "3b3ecc4bdccc8d7c6df1f7b80869b86e6a8d68ec": {
         "en": "The Open University (UK)"
     }, 
-    "3b80e0993a995d4185eb4b9f5d7e0bcbf85186b0": {
-        "en": "Research in Practice for Adults"
-    }, 
     "3be80679e9d46697b3350db550a66ceb58da9f24": {
         "en": "West Dean College"
     }, 
@@ -484,9 +472,6 @@
     }, 
     "46fa573597b1ad562b33b66746db149f9432902e": {
         "en": "Darlington College"
-    }, 
-    "471a565f7abd7aae812b4ec735c625661c588a9f": {
-        "en": "St Francis Xavier Sixth Form College"
     }, 
     "4784119c6ddd8c6383d0865168dd18082b6f907c": {
         "en": "University of East Anglia (UEA)"
@@ -593,9 +578,6 @@
     "59cbe96641f6ec8f91d1277146fe0198361d05fe": {
         "en": "Liverpool Hope University"
     }, 
-    "5a05d73c21d8bc6646226e61bfe26b8c0cc07e14": {
-        "en": "GSM London"
-    }, 
     "5a0c3fc4d286b17f4ce5685c6e8fb6efc523be64": {
         "en": "Westminster Kingsway College"
     }, 
@@ -640,9 +622,6 @@
     }, 
     "5ec711bf81234d2652d8271f1acf7df7984c1d5b": {
         "en": "University of Bedfordshire"
-    }, 
-    "5f0509d53141a9b8e25e7df2b15bafd28b2d6bf9": {
-        "en": "Cambridge Regional College (Athens)"
     }, 
     "5f897a93e6654617a8b113fd1401e504729129ad": {
         "en": "Shrewsbury Colleges Group"
@@ -760,9 +739,6 @@
     }, 
     "6db34165941a7af5d97a873811ee3f2385f53c42": {
         "en": "King Edward VI College, Stourbridge"
-    }, 
-    "6dcb79dbc5a6bec80260cb50e019363be9de1491": {
-        "en": "Sir George Monoux College"
     }, 
     "6dd4cf19fbb2a88ace2c1c9b847aeff8bf5ffef1": {
         "en": "Bournemouth University"
@@ -1334,9 +1310,6 @@
     "bab3e11c4bbfd38d64c42d1f4dd9bbe41e213be9": {
         "en": "Bridgwater & Taunton College"
     }, 
-    "bb35a7d0d33cbfcbd6a617dd725b3cdf68dbf481": {
-        "en": "Ayrshire College"
-    }, 
     "bb5abda3a169eed482a47688f510213121d5107b": {
         "en": "British Library"
     }, 
@@ -1445,9 +1418,6 @@
     "caba19a059afde822576ff98125803038f45c5c5": {
         "en": "Preston College"
     }, 
-    "cad3f1fd09fc90bdba610b6f83b5a1f8010ce99d": {
-        "en": "Bedford College (Legacy)"
-    }, 
     "cb7dc9194874f11178fe0d43b8c9a2626b06fcb7": {
         "en": "Reigate College"
     }, 
@@ -1493,9 +1463,6 @@
     "cef2b56c563dc8fcfb272797a1efc8c6c1f085cf": {
         "en": "Hampshire County Council"
     }, 
-    "cf8f9204bd40eb8748e65cd99a7de46e51a674c9": {
-        "en": "Holborn College"
-    }, 
     "d0f3ae160f527816f03450ce5b5f2054b5eca8d5": {
         "en": "Eastleigh College"
     }, 
@@ -1531,9 +1498,6 @@
     }, 
     "d5a3341d1588b29270c6264ec02bc3b8441bca07": {
         "en": "New College Lanarkshire"
-    }, 
-    "d5f26a6fc4c88b0b9d6d60903b9a50d1b926d166": {
-        "en": "Stanmore College"
     }, 
     "d6146ce39de0d6ed5de59433f0f47f5767f01004": {
         "en": "University for the Creative Arts"
@@ -1777,9 +1741,6 @@
     }, 
     "f9e3170c46ef4dec6e9f2f2d1a145dfe86769197": {
         "en": "New College Nottingham"
-    }, 
-    "fa2e62849c61717404c4716f5fb0bf080cbaf16d": {
-        "en": "Queen Elizabeth Sixth Form College"
     }, 
     "fb334d02190ab30b70e17d98f81162f3da7a5c72": {
         "en": "Rhys Smith"
