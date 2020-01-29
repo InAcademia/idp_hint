@@ -2383,6 +2383,10 @@
             "de": "Hochschule Darmstadt, University of Applied Sciences", 
             "en": "Hochschule Darmstadt, University of Applied Sciences"
         }, 
+        "54d990b5502d179617dc8242754fb56a1d59e8e0": {
+            "de": "Universit\u00e4t der K\u00fcnste Berlin", 
+            "en": "The Berlin University of the Arts"
+        }, 
         "56cd82700fc3ec4674d1e5d6ef6160a27239ba80": {
             "de": "Hochschule Hamm-Lippstadt", 
             "en": "Hochschule Hamm-Lippstadt"
@@ -6159,8 +6163,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
