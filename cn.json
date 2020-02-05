@@ -75,9 +75,17 @@
         "en": "zhejiang university", 
         "zh": "\u6d59\u6c5f\u5927\u5b66(zhejiang university)"
     }, 
+    "8eb5ebc4f9048ba109acef4e0c664936c2f4fbf5": {
+        "en": "Ynunan University", 
+        "zh": "\u4e91\u5357\u5927\u5b66(Ynunan University)"
+    }, 
     "a347c153e9b7fb31a1c1889cbeec9e6eb72f0d01": {
         "en": "CADAL", 
         "zh": "\u5927\u5b66\u6570\u5b57\u56fe\u4e66\u9986\u56fd\u9645\u5408\u4f5c\u8ba1\u5212(CADAL)"
+    }, 
+    "aa32dc5d957ec9db8e848eb0087aed5e5fa70931": {
+        "en": "Information Center of SMEC", 
+        "zh": "\u4e0a\u6d77\u5e02\u6559\u80b2\u59d4\u5458\u4f1a\u4fe1\u606f\u4e2d\u5fc3(Information Center of SMEC)"
     }, 
     "aa5cab5006a6b97cdc203ec6b61d4936cb627ac9": {
         "en": "Wuhan University", 
@@ -94,6 +102,10 @@
     "c309a37bab3b06c20947d76f59989eaf1a3df951": {
         "en": "Shanghai University of Finance and Economics", 
         "zh": "\u4e0a\u6d77\u8d22\u7ecf\u5927\u5b66(Shanghai University of Finance and Economics)"
+    }, 
+    "cb7a7f8c8248ea9bcc264cbccc2303574a5cbb3f": {
+        "en": "Dalian Neusoft University of Information", 
+        "zh": "\u5927\u8fde\u4e1c\u8f6f\u4fe1\u606f\u5b66\u9662(Dalian Neusoft University of Information)"
     }, 
     "d31d7fdffe3bbcec9e1c1d318e569c8799c66897": {
         "en": "University of Science and Technology of China", 
