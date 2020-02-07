@@ -1455,6 +1455,10 @@
             "en": "Shanghai Normal University", 
             "zh": "\u4e0a\u6d77\u5e08\u8303\u5927\u5b66(Shanghai Normal University)"
         }, 
+        "12e42e4f87f00ada0737e3ea369bf907698acc0f": {
+            "en": "Nanjing University of Science and Technology", 
+            "zh": "\u5357\u4eac\u7406\u5de5\u5927\u5b66(Nanjing University of Science and Technology)"
+        }, 
         "1a0597adfceee8d77fdad384eacce982f54abf74": {
             "en": "Xian Jiaotong-Liverpool University", 
             "zh": "\u897f\u4ea4\u5229\u7269\u6d66\u5927\u5b66(Xian Jiaotong-Liverpool University )"
@@ -1506,6 +1510,10 @@
         "4ed7e673dbaf16833965822003d5933be65e191b": {
             "en": "Shenzhen University", 
             "zh": "\u6df1\u5733\u5927\u5b66(Shenzhen University)"
+        }, 
+        "5258fd851c69eb1f7dc37d4ba5215607d54a9f3d": {
+            "en": "GuangXi University For Nationalities", 
+            "zh": "\u5e7f\u897f\u6c11\u65cf\u5927\u5b66(GuangXi University For Nationalities)"
         }, 
         "5a7d88464b37ee6de2d637cca5f6c58ab0f39863": {
             "en": "Shandong University", 
