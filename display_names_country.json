@@ -1455,6 +1455,10 @@
             "en": "Shanghai Normal University", 
             "zh": "\u4e0a\u6d77\u5e08\u8303\u5927\u5b66(Shanghai Normal University)"
         }, 
+        "0c1d660802740e0736771f5f42f32f698ec25d1c": {
+            "en": "China University of Mining and Technology", 
+            "zh": "\u4e2d\u56fd\u77ff\u4e1a\u5927\u5b66(China University of Mining and Technology)"
+        }, 
         "12e42e4f87f00ada0737e3ea369bf907698acc0f": {
             "en": "Nanjing University of Science and Technology", 
             "zh": "\u5357\u4eac\u7406\u5de5\u5927\u5b66(Nanjing University of Science and Technology)"
@@ -6354,8 +6358,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Agency ARNIEC RoEduNet IdP", 
+            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
         }
     }, 
     "my": {
