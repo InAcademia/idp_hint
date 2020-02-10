@@ -6362,8 +6362,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
@@ -9564,9 +9564,6 @@
         }, 
         "102bf54bc6c41201a282b0f13818a05165e01feb": {
             "en": "Okta, Inc"
-        }, 
-        "105ff7fd1601bb4320519fbcecf560137fb368c3": {
-            "en": "ZZZ - Vanderbilt University (Shared VU and VUMC)"
         }, 
         "10fbd75e0df3f803a18f5bc7784f0c04445f4a44": {
             "en": "University of Richmond"
