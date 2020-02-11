@@ -1459,6 +1459,10 @@
             "en": "Nanjing University of Science and Technology", 
             "zh": "\u5357\u4eac\u7406\u5de5\u5927\u5b66(Nanjing University of Science and Technology)"
         }, 
+        "184f530fbe708053a4d189174f1a3ddcf2a76878": {
+            "en": "Jinan University", 
+            "zh": "\u66a8\u5357\u5927\u5b66(Jinan University)"
+        }, 
         "1a0597adfceee8d77fdad384eacce982f54abf74": {
             "en": "Xian Jiaotong-Liverpool University", 
             "zh": "\u897f\u4ea4\u5229\u7269\u6d66\u5927\u5b66(Xian Jiaotong-Liverpool University )"
@@ -1486,6 +1490,10 @@
         "31d0bd2595efaf2b84bb178e37df93d45d47b074": {
             "en": "Xauat", 
             "zh": "\u897f\u5b89\u5efa\u7b51\u79d1\u6280\u5927\u5b66(Xauat)"
+        }, 
+        "343899559290161de37dcc9f69adcb3390aaabef": {
+            "en": "MINZU UNIVERSITY OF CHINA", 
+            "zh": "\u4e2d\u592e\u6c11\u65cf\u5927\u5b66(MINZU UNIVERSITY OF CHINA )"
         }, 
         "345716a76046e47991faa873c67aabfbac532fa8": {
             "en": "GuangXi University", 
@@ -1574,6 +1582,10 @@
         "76317a0414b7f945c9ba20ae58ec6d77b554879b": {
             "en": "CHONGQING JIANZHU COLLEGE", 
             "zh": "\u91cd\u5e86\u5efa\u7b51\u5de5\u7a0b\u804c\u4e1a\u5b66\u9662(CHONGQING JIANZHU COLLEGE)"
+        }, 
+        "7b68cea1223fbbc699564268b7e1144e7b7418c6": {
+            "en": "shanghai dianji university", 
+            "zh": "\u4e0a\u6d77\u7535\u673a\u5b66\u9662(shanghai dianji university)"
         }, 
         "7f23889a0d15445a060f0f55fca1f0dc07f74c6c": {
             "en": "EAST CHINA NORMAL UNIVERSITY", 
@@ -1675,6 +1687,10 @@
             "en": "Hangzhou Normal University", 
             "zh": "\u676d\u5dde\u5e08\u8303\u5927\u5b66(Hangzhou Normal University )"
         }, 
+        "d4efc3c19bc90d520e3ff6fa3e7cbf22a620bbe9": {
+            "en": "Shanghai Jiao Tong University", 
+            "zh": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66(Shanghai Jiao Tong University)"
+        }, 
         "da3d644358f992f019538b8af2d5f5b85fd52946": {
             "en": "Hebei University", 
             "zh": "\u6cb3\u5317\u5927\u5b66(Hebei University)"
@@ -1718,6 +1734,10 @@
         "f86c12ff0f8f8f5797f3d4d0d1b3ef85fa0361a4": {
             "en": "Guangzhou University of Chinese Medicine", 
             "zh": "\u5e7f\u5dde\u4e2d\u533b\u836f\u5927\u5b66(Guangzhou University of Chinese Medicine)"
+        }, 
+        "f91b43d4545358d43694cea013177cb2e21a959f": {
+            "en": "Guangxi Normal University", 
+            "zh": "\u5e7f\u897f\u5e08\u8303\u5927\u5b66(Guangxi Normal University)"
         }, 
         "fa83b07023633a8fe38c18406a5fba93961f0226": {
             "en": "WUHAN TEXTILE UNIVERSITY", 
