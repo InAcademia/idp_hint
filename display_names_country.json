@@ -1635,6 +1635,10 @@
             "en": "Yunnan University", 
             "zh": "\u4e91\u5357\u5927\u5b66(Yunnan University)"
         }, 
+        "91e86f66557089857c345347a93f8f490e023570": {
+            "en": "HAINAN NORMAL UNIVERSITY", 
+            "zh": "\u6d77\u5357\u5e08\u8303\u5927\u5b66(HAINAN NORMAL UNIVERSITY)"
+        }, 
         "940293c341501f134ff04458d069b4cd34cb9cf3": {
             "en": "Tianjin Medical University", 
             "zh": "\u5929\u6d25\u533b\u79d1\u5927\u5b66(Tianjin Medical University)"
@@ -7167,6 +7171,9 @@
         }, 
         "a780b49b22f1c6f390ef54f2c37461a240a05cf2": {
             "en": "Salalah College of Technology"
+        }, 
+        "b8016296b51ad77bf85ed537b560c0d48c61e61d": {
+            "en": "IdP Proxy"
         }, 
         "bf2282bf24df5205393b5c7dcd8bf7ec2cec5aff": {
             "en": "International Maritime College Oman"
