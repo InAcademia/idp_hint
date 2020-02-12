@@ -1451,6 +1451,10 @@
             "en": "Shanghai Normal University", 
             "zh": "\u4e0a\u6d77\u5e08\u8303\u5927\u5b66(Shanghai Normal University)"
         }, 
+        "037fcdc50ab67c6d768cd02961bb76a674640f6b": {
+            "en": "Harbin Institute of Technology", 
+            "zh": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66(Harbin Institute of Technology)"
+        }, 
         "0c1d660802740e0736771f5f42f32f698ec25d1c": {
             "en": "China University of Mining and Technology", 
             "zh": "\u4e2d\u56fd\u77ff\u4e1a\u5927\u5b66(China University of Mining and Technology)"
@@ -1646,6 +1650,10 @@
         "aa5cab5006a6b97cdc203ec6b61d4936cb627ac9": {
             "en": "Wuhan University", 
             "zh": "\u6b66\u6c49\u5927\u5b66(Wuhan University)"
+        }, 
+        "aab7fbada16efac068ee05ebf5e858b40d998047": {
+            "en": "Fudan University", 
+            "zh": "\u590d\u65e6\u5927\u5b66(Fudan University)"
         }, 
         "ab69628945c094a47e233d2bc0a023230d090796": {
             "en": "Jiangsu Normal University", 
