@@ -23,6 +23,10 @@
         "en": "ChengDu University of Technology", 
         "zh": "\u6210\u90fd\u7406\u5de5\u5927\u5b66(ChengDu University of Technology)"
     }, 
+    "161b752b6c56927dd48f8308c0a519a0789ac2c4": {
+        "en": "South-Central University for Nationalities", 
+        "zh": "\u4e2d\u5357\u6c11\u65cf\u5927\u5b66(South-Central University for Nationalities)"
+    }, 
     "184f530fbe708053a4d189174f1a3ddcf2a76878": {
         "en": "Jinan University", 
         "zh": "\u66a8\u5357\u5927\u5b66(Jinan University)"
@@ -251,6 +255,10 @@
         "en": "CUHK-Shenzhen", 
         "zh": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\uff08\u6df1\u5733\uff09(CUHK-Shenzhen)"
     }, 
+    "b82aa8fd9fc36ae78d9e5a1a206086786525fb2f": {
+        "en": "Guangzhou University", 
+        "zh": "\u5e7f\u5dde\u5927\u5b66(Guangzhou University)"
+    }, 
     "b99068cad8a3734b03c80d7d6a8f26a6b489039e": {
         "en": "Nanjing Agriculture University", 
         "zh": "\u5357\u4eac\u519c\u4e1a\u5927\u5b66(Nanjing Agriculture University)"
@@ -294,6 +302,10 @@
     "d31d7fdffe3bbcec9e1c1d318e569c8799c66897": {
         "en": "University of Science and Technology of China", 
         "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66(University of Science and Technology of China)"
+    }, 
+    "d3db9abb242de49229713fe7f0d107ac1abdcdf9": {
+        "en": "Northeastern University", 
+        "zh": "\u4e1c\u5317\u5927\u5b66(Northeastern University)"
     }, 
     "d48d2cbc5795e195f6bbaf5c1cb5cd4b90fa3ef8": {
         "en": "Hangzhou Normal University", 
