@@ -1467,6 +1467,10 @@
             "en": "China University of Mining and Technology", 
             "zh": "\u4e2d\u56fd\u77ff\u4e1a\u5927\u5b66(China University of Mining and Technology)"
         }, 
+        "0df36e0c5d570398c2a61bb9f2dfc1c06cf142a5": {
+            "en": "Harbin University of Commerce", 
+            "zh": "\u54c8\u5c14\u6ee8\u5546\u4e1a\u5927\u5b66(Harbin University of Commerce)"
+        }, 
         "12e42e4f87f00ada0737e3ea369bf907698acc0f": {
             "en": "Nanjing University of Science and Technology", 
             "zh": "\u5357\u4eac\u7406\u5de5\u5927\u5b66(Nanjing University of Science and Technology)"
@@ -1662,6 +1666,10 @@
         "940293c341501f134ff04458d069b4cd34cb9cf3": {
             "en": "Tianjin Medical University", 
             "zh": "\u5929\u6d25\u533b\u79d1\u5927\u5b66(Tianjin Medical University)"
+        }, 
+        "992b12fb8e32f3c0070eaa18ded307b1e362ec74": {
+            "en": "Beijing College of Social Administration", 
+            "zh": "\u5317\u4eac\u793e\u4f1a\u7ba1\u7406\u804c\u4e1a\u5b66\u9662(Beijing College of Social Administration)"
         }, 
         "a0571386a875c29eda9518921247dc1208634688": {
             "en": "YanShan University", 
@@ -3349,10 +3357,6 @@
             "da": "Syddansk Universitet", 
             "en": "University of Southern Denmark"
         }, 
-        "94b6c96a97e4759a03a289b3f2a57baed7ecc28d": {
-            "da": "K\u00f8benhavns Professionsh\u00f8jskole (tidligere Professionsh\u00f8jskolen Metropol)", 
-            "en": "University College Copenhagen (formerly Metropolitan University College)"
-        }, 
         "978d50da83f698d57af0dd84f6106f7bbd23a8dc": {
             "da": "SOSU \u00d8stjylland", 
             "en": "Basic Health Care College Eastern Jutland"
@@ -4948,8 +4952,8 @@
             "fr": "O.N.I.S.E.P - Office National d'Information sur les Enseignements et les Professions (ONISEP)"
         }, 
         "e50cf037feb8dddfaa721975c8face30eb1262c2": {
-            "en": "IdP Mines Saint-Etienne", 
-            "fr": "IdP Mines Saint-Etienne"
+            "en": "IdP Mines Saint-\u00c9tienne", 
+            "fr": "IdP Mines Saint-\u00c9tienne"
         }, 
         "e5d006f50a6fec6fd186367cbbf8d28af07c9047": {
             "en": "Ecole Nationale Sup\u00e9rieure de Chimie de Rennes", 
@@ -7280,6 +7284,10 @@
         "45ea273f6b5b462526b6015cc35745cc0e48b8a2": {
             "en": "University of Science and Technology in Bydgoszcz", 
             "pl": "Uniwersytet Technologiczno-Przyrodniczy w Bydgoszczy"
+        }, 
+        "480540b08910e258ae0acf9d11ac04e96ed7f927": {
+            "en": "University of Wroclaw", 
+            "pl": "Uniwersytet Wroc\u0142awski"
         }, 
         "4d2819f461dc74e59d3f8d54a024a174d107c5e0": {
             "en": "PSNC - Poznan Supercomputing and Networking Center", 
