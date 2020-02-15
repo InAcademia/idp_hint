@@ -1495,6 +1495,10 @@
             "en": "Xian Jiaotong-Liverpool University", 
             "zh": "\u897f\u4ea4\u5229\u7269\u6d66\u5927\u5b66(Xian Jiaotong-Liverpool University )"
         }, 
+        "1a91d9108cb68d033bb8e5511b431d252a44b376": {
+            "en": "Anhui Agriculture University", 
+            "zh": "\u5b89\u5fbd\u519c\u4e1a\u5927\u5b66(Anhui Agriculture University)"
+        }, 
         "1d40917c47212d9e49bb0c1bd27a87b71966bd5b": {
             "en": "Shaanxi Normal University", 
             "zh": "\u9655\u897f\u5e08\u8303\u5927\u5b66(Shaanxi Normal University)"
@@ -1542,6 +1546,10 @@
         "34b19c8a15613b564db3c9be9342c0aca24ac2f1": {
             "en": "Sichuan University", 
             "zh": "\u56db\u5ddd\u5927\u5b66(Sichuan University)"
+        }, 
+        "3e58469f6a4cb7c971798525f1c1a7c6facbef19": {
+            "en": "Shanghai Polytechnic University", 
+            "zh": "\u4e0a\u6d77\u7b2c\u4e8c\u5de5\u4e1a\u5927\u5b66(Shanghai Polytechnic University)"
         }, 
         "4648ee018395ca5adb67248416c1c01d3f61489d": {
             "en": "RENMIN UNIVERSITY OF CHINA", 
