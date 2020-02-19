@@ -202,6 +202,9 @@
         "7469318277749775f63be454aefbc4fec5f7c1dd": {
             "en": "The University of Queensland"
         }, 
+        "8049fbf1ff9343b14fadab9b9469b042ea6c3a9c": {
+            "en": "The University of Wollongong"
+        }, 
         "ac2cffd890c605d8c5f7e2fa2a1f85e8caf273bb": {
             "en": "University of Newcastle"
         }, 
@@ -1823,6 +1826,10 @@
             "en": "China University of Petroleum", 
             "zh": "\u4e2d\u56fd\u77f3\u6cb9\u5927\u5b66\uff08\u5317\u4eac\uff09(China University of Petroleum)"
         }, 
+        "ae91ad3be50b9ca91be1bd3dc9f6e74a7d8bd6be": {
+            "en": "Lanzhou University", 
+            "zh": "\u5170\u5dde\u5927\u5b66(Lanzhou University)"
+        }, 
         "b07545711f11a116406dbfe893bf69248d55a85c": {
             "en": "Tianjin University", 
             "zh": "\u5929\u6d25\u5927\u5b66(Tianjin University)"
@@ -1886,6 +1893,10 @@
         "ce9aeea301df226e34423b98dbf4cb64e24b134e": {
             "en": "Ningbo University", 
             "zh": "\u5b81\u6ce2\u5927\u5b66(Ningbo University)"
+        }, 
+        "d0eeeddf3c94ebbfde6dfdececb32b01aa6b2cb9": {
+            "en": "Yangzhou University", 
+            "zh": "\u626c\u5dde\u5927\u5b66(Yangzhou University)"
         }, 
         "d14ee56e9710aae15fb1b560e0046cecf0bc6fbb": {
             "en": "Hefei University of Technology", 
@@ -6698,8 +6709,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Agency ARNIEC RoEduNet IdP", 
+            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
         }
     }, 
     "my": {
