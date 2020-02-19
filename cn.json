@@ -127,6 +127,10 @@
         "en": "ChaoHu  University", 
         "zh": "\u5de2\u6e56\u5b66\u9662(ChaoHu  University)"
     }, 
+    "38fed735a0550308019330fb638fa7e0fd02dba9": {
+        "en": "SANJIANG UNIVERSITY", 
+        "zh": "\u4e09\u6c5f\u5b66\u9662(SANJIANG UNIVERSITY)"
+    }, 
     "3a750ea3f7ed8552a4c85a65955115999970aee5": {
         "en": "Shanghai Maritime University", 
         "zh": "\u4e0a\u6d77\u6d77\u4e8b\u5927\u5b66(Shanghai Maritime University)"
@@ -590,5 +594,9 @@
     "fef26b8b7d2f4e7ec8f029107038d337c6dbeb2f": {
         "en": "xinlian college of henan normal university", 
         "zh": "\u6cb3\u5357\u5e08\u8303\u5927\u5b66\u65b0\u8054\u5b66\u9662(xinlian college of henan normal university)"
+    }, 
+    "fff992c4ce057e504f9562f68c796ee8c3efb5fe": {
+        "en": "Shandong Sport University", 
+        "zh": "\u5c71\u4e1c\u4f53\u80b2\u5b66\u9662(Shandong Sport University)"
     }
 }
