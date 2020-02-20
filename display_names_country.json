@@ -1686,6 +1686,10 @@
             "en": "SAU", 
             "zh": "\u6c88\u9633\u822a\u7a7a\u822a\u5929\u5927\u5b66(SAU)"
         }, 
+        "555221d324cc735970b4732efa39a80aaec0a9d3": {
+            "en": "China University of Petroleum(East China)", 
+            "zh": "\u4e2d\u56fd\u77f3\u6cb9\u5927\u5b66\uff08\u534e\u4e1c\uff09(China University of Petroleum(East China))"
+        }, 
         "568b2f3774b7df3e5128ef74d03701fdbb08b481": {
             "en": "Shandong University of Traditional Chinese Medicine", 
             "zh": "\u5c71\u4e1c\u4e2d\u533b\u836f\u5927\u5b66(Shandong University of Traditional Chinese Medicine)"
@@ -1822,6 +1826,10 @@
             "en": "Beijing College of Social Administration", 
             "zh": "\u5317\u4eac\u793e\u4f1a\u7ba1\u7406\u804c\u4e1a\u5b66\u9662(Beijing College of Social Administration)"
         }, 
+        "9a01fdba27d64622f55e698e1b674a24375b315f": {
+            "en": "Communication University of Zhejiang", 
+            "zh": "\u6d59\u6c5f\u4f20\u5a92\u5b66\u9662(Communication University of Zhejiang)"
+        }, 
         "9e22d0331d1bf830731b78dc1483d94836f61758": {
             "en": "Yellow River Conservancy Technical Institute", 
             "zh": "\u9ec4\u6cb3\u6c34\u5229\u804c\u4e1a\u6280\u672f\u5b66\u9662(Yellow River Conservancy Technical Institute)"
@@ -1881,6 +1889,10 @@
         "b07545711f11a116406dbfe893bf69248d55a85c": {
             "en": "Tianjin University", 
             "zh": "\u5929\u6d25\u5927\u5b66(Tianjin University)"
+        }, 
+        "b1926930ca86ac72576e1a810121961358e0cc79": {
+            "en": "Civil Aviation University of China", 
+            "zh": "\u4e2d\u56fd\u6c11\u822a\u5927\u5b66(Civil Aviation University of China)"
         }, 
         "b382966dd86d46c3d3f78fd4228aae9039595df6": {
             "en": "CUHK-Shenzhen", 
@@ -1989,6 +2001,10 @@
         "d4efc3c19bc90d520e3ff6fa3e7cbf22a620bbe9": {
             "en": "Shanghai Jiao Tong University", 
             "zh": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66(Shanghai Jiao Tong University)"
+        }, 
+        "d6421a955af61272baae8241d2ee3a54f4173883": {
+            "en": "Zhejiang University of Technology", 
+            "zh": "\u6d59\u6c5f\u5de5\u4e1a\u5927\u5b66(Zhejiang University of Technology)"
         }, 
         "da3d644358f992f019538b8af2d5f5b85fd52946": {
             "en": "Hebei University", 
