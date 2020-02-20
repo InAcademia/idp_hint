@@ -323,10 +323,6 @@
         "en": "Esigelec", 
         "fr": "Esigelec"
     }, 
-    "57d5cb0ffbe0ffbe3936d4f31031aad8ee063c9d": {
-        "en": "Universcience-EPPDCSI", 
-        "fr": "Universcience-EPPDCSI"
-    }, 
     "5887d750a32bba54c8ee435f37c379a7c5a574df": {
         "en": "Universit\u00e9 d'Artois", 
         "fr": "Universit\u00e9 d'Artois"
@@ -894,6 +890,10 @@
     "d9c8d2dedba05106b752f035f56bc6dd28aeaccb": {
         "en": "Universit\u00e9 Catholique de Lyon", 
         "fr": "Universit\u00e9 Catholique de Lyon"
+    }, 
+    "dbcc3a9b4096cf5cf407fd57b85a144192a1261a": {
+        "en": "Universcience-EPPDCSI", 
+        "fr": "Universcience-EPPDCSI"
     }, 
     "dcac8d1dbf25deffa766e79465dd7dbc1b8ababa": {
         "en": "Bordeaux INP", 
