@@ -23,6 +23,10 @@
         "en": "China University of Mining and Technology", 
         "zh": "\u4e2d\u56fd\u77ff\u4e1a\u5927\u5b66(China University of Mining and Technology)"
     }, 
+    "0c6dd23ee250a3ec2ffa614301f508a18ea862af": {
+        "en": "Wuhan University of Technology", 
+        "zh": "\u6b66\u6c49\u7406\u5de5\u5927\u5b66(Wuhan University of Technology)"
+    }, 
     "0cf4e083a20e87800a2ba6c9b5ce6eeb1acbb08c": {
         "en": "Shanghai University", 
         "zh": "\u4e0a\u6d77\u5927\u5b66(Shanghai University)"
@@ -207,6 +211,10 @@
         "en": "Zhengzhou University", 
         "zh": "\u90d1\u5dde\u5927\u5b66(Zhengzhou University)"
     }, 
+    "53445d21d1fe064a763746e99173ec5bfba8c3c6": {
+        "en": "China Pharmaceutical University", 
+        "zh": "\u4e2d\u56fd\u836f\u79d1\u5927\u5b66(China Pharmaceutical University)"
+    }, 
     "53c090d5a7fcbf4c5a0eaf4582d929d44278f7d9": {
         "en": "Guizhou University of Finance and Economics", 
         "zh": "\u8d35\u5dde\u8d22\u7ecf\u5927\u5b66(Guizhou University of Finance and Economics)"
@@ -275,9 +283,17 @@
         "en": "Nanjing Forestry University", 
         "zh": "\u5357\u4eac\u6797\u4e1a\u5927\u5b66(Nanjing Forestry University)"
     }, 
+    "749fca205a1fba4cac306ae2fa464b81ba3cc230": {
+        "en": "Beijing University of Chemical Technology", 
+        "zh": "\u5317\u4eac\u5316\u5de5\u5927\u5b66(Beijing University of Chemical Technology)"
+    }, 
     "74abffea08b83603e596f708b3142973173ba105": {
         "en": "Anhui Polytechnic University", 
         "zh": "\u5b89\u5fbd\u5de5\u7a0b\u5927\u5b66(Anhui Polytechnic University)"
+    }, 
+    "74b6d7306801c60b76ab1a233b48e7503734ef35": {
+        "en": "Inner Mongolia University of science and technology", 
+        "zh": "\u5185\u8499\u53e4\u79d1\u6280\u5927\u5b66(Inner Mongolia University of science and technology)"
     }, 
     "76317a0414b7f945c9ba20ae58ec6d77b554879b": {
         "en": "CHONGQING JIANZHU COLLEGE", 
@@ -370,6 +386,10 @@
     "aab7fbada16efac068ee05ebf5e858b40d998047": {
         "en": "Fudan University", 
         "zh": "\u590d\u65e6\u5927\u5b66(Fudan University)"
+    }, 
+    "ab5b4c37e163602ad1c4a4ae55bdb58ece8cdd25": {
+        "en": "Central Conservatory of Music", 
+        "zh": "\u4e2d\u592e\u97f3\u4e50\u5b66\u9662(Central Conservatory of Music)"
     }, 
     "ab69628945c094a47e233d2bc0a023230d090796": {
         "en": "Jiangsu Normal University", 
@@ -535,6 +555,10 @@
         "en": "UESTC", 
         "zh": "\u7535\u5b50\u79d1\u6280\u5927\u5b66(UESTC)"
     }, 
+    "e8a1a8c445071caa2a7198c1881e0c5b15875085": {
+        "en": "CHANGCHUN UNIVERSITY", 
+        "zh": "\u957f\u6625\u5927\u5b66(CHANGCHUN UNIVERSITY)"
+    }, 
     "e978dc30b90038155e415b2cf6d9113fec23ad78": {
         "en": "Communication University of China", 
         "zh": "\u4e2d\u56fd\u4f20\u5a92\u5927\u5b66(Communication University of China)"
@@ -577,7 +601,7 @@
     }, 
     "f3654e2bd3bc6f46f00f7b7da3d573528fa518f5": {
         "en": "Beijing Engineering Research Center of NGI", 
-        "zh": "\u4e0b\u4e00\u4ee3\u4e92\u8054\u7f51\u91cd\u5927\u5e94\u7528\u6280\u672f\uff08\u5317\u4eac\uff09\u5de5\u7a0b\u7814\u7a76\u4e2d\u5fc3(Beijing Engineering Research Center of NGI)"
+        "zh": "\u4e0b\u4e00\u4ee3\u4e92\u8054\u7f51\u91cd\u5927\u5e94\u7528\u6280\u672f\u5317\u4eac\u5e02\u5de5\u7a0b\u7814\u7a76\u4e2d\u5fc3(Beijing Engineering Research Center of NGI)"
     }, 
     "f86c12ff0f8f8f5797f3d4d0d1b3ef85fa0361a4": {
         "en": "Guangzhou University of Chinese Medicine", 
