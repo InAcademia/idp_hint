@@ -1834,6 +1834,10 @@
             "en": "CADAL", 
             "zh": "\u5927\u5b66\u6570\u5b57\u56fe\u4e66\u9986\u56fd\u9645\u5408\u4f5c\u8ba1\u5212(CADAL)"
         }, 
+        "a8d65250a52dbd6ed43c01a50e69beedc6a62bda": {
+            "en": "HuangShan University", 
+            "zh": "\u9ec4\u5c71\u5b66\u9662(HuangShan University)"
+        }, 
         "a8e52d3fef6feaaf2d19b3f689b9106d5b55ccfc": {
             "en": "Huaiyin Institute of Technology", 
             "zh": "\u6dee\u9634\u5de5\u5b66\u9662(Huaiyin Institute of Technology)"
@@ -1882,6 +1886,10 @@
             "en": "CUHK-Shenzhen", 
             "zh": "\u9999\u6e2f\u4e2d\u6587\u5927\u5b66\uff08\u6df1\u5733\uff09(CUHK-Shenzhen)"
         }, 
+        "b3fdff92ee6c353dfc1c9d77f81105d1d60753fd": {
+            "en": "Xinxiang Medical University", 
+            "zh": "\u65b0\u4e61\u533b\u5b66\u9662(Xinxiang Medical University)"
+        }, 
         "b5658f36f741e970df8fb98a8556b1d101a62f05": {
             "en": "Shaoxing University", 
             "zh": "\u7ecd\u5174\u6587\u7406\u5b66\u9662(Shaoxing University)"
@@ -1901,6 +1909,10 @@
         "b9afdb700b64dc90f985f99f1eaccc62f5b7d1b0": {
             "en": "Southwestern University of Finance and Economics", 
             "zh": "\u897f\u5357\u8d22\u7ecf\u5927\u5b66(Southwestern University of Finance and Economics)"
+        }, 
+        "bb97cc9d15fcbf8ae9def71dae0291b8d3562660": {
+            "en": "AnHui Science and Technology University", 
+            "zh": "\u5b89\u5fbd\u79d1\u6280\u5b66\u9662(AnHui Science and Technology University)"
         }, 
         "bc8ca19f81b06d94ed66ecba4a9812930c5bc6cb": {
             "en": "Zhejiang Chinese Medical  University", 
@@ -1961,6 +1973,10 @@
         "d31d7fdffe3bbcec9e1c1d318e569c8799c66897": {
             "en": "University of Science and Technology of China", 
             "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66(University of Science and Technology of China)"
+        }, 
+        "d35777b0a052fd75c2123dad8d5ceb48c8da654f": {
+            "en": "Shanxi University", 
+            "zh": "\u5c71\u897f\u5927\u5b66(Shanxi University)"
         }, 
         "d3db9abb242de49229713fe7f0d107ac1abdcdf9": {
             "en": "Northeastern University - China", 
