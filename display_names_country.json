@@ -1678,6 +1678,10 @@
             "en": "Shenzhen University", 
             "zh": "\u6df1\u5733\u5927\u5b66(Shenzhen University)"
         }, 
+        "50f0cd5b54c1cc7ed1150b509756fe31c1534430": {
+            "en": "Westlake Universtiy", 
+            "zh": "\u897f\u6e56\u5927\u5b66(Westlake Universtiy)"
+        }, 
         "51142bbb4ba780001bd403810c0d894527332c00": {
             "en": "Henan University of Science and Technology", 
             "zh": "\u6cb3\u5357\u79d1\u6280\u5927\u5b66(Henan University of Science and Technology)"
@@ -6849,8 +6853,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
