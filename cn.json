@@ -279,6 +279,10 @@
         "en": "Northwestern Polytechnical University", 
         "zh": "\u897f\u5317\u5de5\u4e1a\u5927\u5b66(Northwestern Polytechnical University)"
     }, 
+    "5c0363e1b578eb020051ac83029781c7b9f23c26": {
+        "en": "HUAINAN NORMAL UNIVERSITY", 
+        "zh": "\u6dee\u5357\u5e08\u8303\u5b66\u9662(HUAINAN NORMAL UNIVERSITY)"
+    }, 
     "61273d6877f7380a962b0f25f84388ce50338b3d": {
         "en": "Hebei Normal University", 
         "zh": "\u6cb3\u5317\u5e08\u8303\u5927\u5b66(Hebei Normal University)"
@@ -418,6 +422,10 @@
     "a347c153e9b7fb31a1c1889cbeec9e6eb72f0d01": {
         "en": "CADAL", 
         "zh": "\u5927\u5b66\u6570\u5b57\u56fe\u4e66\u9986\u56fd\u9645\u5408\u4f5c\u8ba1\u5212(CADAL)"
+    }, 
+    "a7ccbb7781b60986fab11dc4e73220fd2d005b81": {
+        "en": "Qufu Normal University", 
+        "zh": "\u66f2\u961c\u5e08\u8303\u5927\u5b66(Qufu Normal University)"
     }, 
     "a8d65250a52dbd6ed43c01a50e69beedc6a62bda": {
         "en": "HuangShan University", 
