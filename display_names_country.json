@@ -1766,6 +1766,10 @@
             "en": "South China Agricultural University", 
             "zh": "\u534e\u5357\u519c\u4e1a\u5927\u5b66(South China Agricultural University )"
         }, 
+        "64c24a39440ea3a3cee08bb2718173ada61c1c00": {
+            "en": "Chuzhou University", 
+            "zh": "\u6ec1\u5dde\u5b66\u9662(Chuzhou University)"
+        }, 
         "6594b9fb58cb1bbdf1c897d5479be414d8393a9a": {
             "en": "Zhaoqing University", 
             "zh": "\u8087\u5e86\u5b66\u9662(Zhaoqing University)"
@@ -6853,8 +6857,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Agency ARNIEC RoEduNet IdP", 
+            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
         }
     }, 
     "my": {
