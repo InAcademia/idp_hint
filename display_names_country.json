@@ -1470,6 +1470,10 @@
             "en": "Ocean University of China", 
             "zh": "\u4e2d\u56fd\u6d77\u6d0b\u5927\u5b66(Ocean University of China)"
         }, 
+        "0c018a50609076f7b95eab92b91ad5547b3f7105": {
+            "en": "Beijing Institute of Petrochemical Technology", 
+            "zh": "\u5317\u4eac\u77f3\u6cb9\u5316\u5de5\u5b66\u9662(Beijing Institute of Petrochemical Technology )"
+        }, 
         "0c1d660802740e0736771f5f42f32f698ec25d1c": {
             "en": "China University of Mining and Technology", 
             "zh": "\u4e2d\u56fd\u77ff\u4e1a\u5927\u5b66(China University of Mining and Technology)"
@@ -1718,6 +1722,10 @@
             "en": "Shandong University of Traditional Chinese Medicine", 
             "zh": "\u5c71\u4e1c\u4e2d\u533b\u836f\u5927\u5b66(Shandong University of Traditional Chinese Medicine)"
         }, 
+        "575223cb3c3cfb039a8c9c22f29af4d930db8992": {
+            "en": "Ningbo University of Finance and Economics", 
+            "zh": "\u5b81\u6ce2\u8d22\u7ecf\u5b66\u9662(Ningbo University of Finance and Economics)"
+        }, 
         "59debb23f2ca3525477db400460950125d568b3f": {
             "en": "University of Shanghai  for Science and Technology", 
             "zh": "\u4e0a\u6d77\u7406\u5de5\u5927\u5b66(University of Shanghai  for Science and Technology)"
@@ -1729,6 +1737,10 @@
         "5ad405576770dce8d00fe54d085ef881ee8c2957": {
             "en": "Changchun University of Science and Technology", 
             "zh": "\u957f\u6625\u7406\u5de5\u5927\u5b66(Changchun University of Science and Technology)"
+        }, 
+        "5addf3cc92126db1ceabdd18b91c98628adbaa1a": {
+            "en": "Shanghai Customs College", 
+            "zh": "\u4e0a\u6d77\u6d77\u5173\u5b66\u9662(Shanghai Customs College)"
         }, 
         "5aef9b33c996716e82b9ae89d9d33d8fb06edc05": {
             "en": "Northwestern Polytechnical University", 
@@ -2077,6 +2089,10 @@
         "de542f36122b2ce62ac5f829cde5d9540bfae7b8": {
             "en": "NANKAI UNIVERSITY", 
             "zh": "\u5357\u5f00\u5927\u5b66(NANKAI UNIVERSITY)"
+        }, 
+        "de8dc7249aec8022114bda7b942b456dad6cceea": {
+            "en": "JiLIn Agricultural University", 
+            "zh": "\u5409\u6797\u519c\u4e1a\u5927\u5b66(JiLIn Agricultural University)"
         }, 
         "e212048821a8344e6c1ddb9c40270e17342b37ae": {
             "en": "hanshan normal university", 
@@ -6857,8 +6873,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
