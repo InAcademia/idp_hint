@@ -1782,6 +1782,10 @@
             "en": "HUAINAN NORMAL UNIVERSITY", 
             "zh": "\u6dee\u5357\u5e08\u8303\u5b66\u9662(HUAINAN NORMAL UNIVERSITY)"
         }, 
+        "5dbc3256dd429802332210039ee88a12a0bc4a80": {
+            "en": "Henan Finance University", 
+            "zh": "\u6cb3\u5357\u8d22\u653f\u91d1\u878d\u5b66\u9662(Henan Finance University)"
+        }, 
         "61273d6877f7380a962b0f25f84388ce50338b3d": {
             "en": "Hebei Normal University", 
             "zh": "\u6cb3\u5317\u5e08\u8303\u5927\u5b66(Hebei Normal University)"
@@ -6925,8 +6929,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Agency ARNIEC RoEduNet IdP", 
+            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
         }
     }, 
     "my": {
@@ -7640,6 +7644,9 @@
         }, 
         "96ce47af2337bd985814548c114e220692fe1f73": {
             "en": "Muscat University"
+        }, 
+        "973c5927fd0d2ed639272c4244fbf244601ced64": {
+            "en": "Mazoon College"
         }, 
         "98809bb7722a18ed8a69a3e0b05712bc13e66d03": {
             "en": "German University of Technology"
