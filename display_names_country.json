@@ -1658,6 +1658,10 @@
             "en": "Peking University", 
             "zh": "\u5317\u4eac\u5927\u5b66(Peking University)"
         }, 
+        "481fa0ca4510e5561bcb32fb4eded465eea4666f": {
+            "en": "Jiangxi Normal University", 
+            "zh": "\u6c5f\u897f\u5e08\u8303\u5927\u5b66(Jiangxi Normal University)"
+        }, 
         "487c1358668d4562bc8791bbf0a82cb0ad2e65b7": {
             "en": "Huazhong University of Science and Technology", 
             "zh": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66(Huazhong University of Science and Technology)"
@@ -6921,8 +6925,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
