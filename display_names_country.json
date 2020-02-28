@@ -1618,6 +1618,10 @@
             "en": "Northeast Normal University", 
             "zh": "\u4e1c\u5317\u5e08\u8303\u5927\u5b66(Northeast Normal University)"
         }, 
+        "3870341ef018c10040640052c7b848eed95bb38f": {
+            "en": "Beijing City University", 
+            "zh": "\u5317\u4eac\u57ce\u5e02\u5b66\u9662(Beijing City University)"
+        }, 
         "38eb0cd28d50441f67048fd58eb95bd87e8de38e": {
             "en": "ChaoHu  University", 
             "zh": "\u5de2\u6e56\u5b66\u9662(ChaoHu  University)"
@@ -6440,10 +6444,6 @@
             "en": "ISPRA Istituto Superiore per la Protezione e Ricerca Ambientale", 
             "it": "ISPRA Istituto Superiore per la Protezione e Ricerca Ambientale"
         }, 
-        "bf0e52a15593ba09b88d88b734d31f2ff9238ac4": {
-            "en": "University of Salento", 
-            "it": "Universit\u00e0 del Salento"
-        }, 
         "c0d402409ae28dccecfd41cf3f769a573a5e8f68": {
             "en": "University of Bergamo", 
             "it": "Universit\u00e0 degli studi di Bergamo"
@@ -6969,8 +6969,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
