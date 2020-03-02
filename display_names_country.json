@@ -1759,8 +1759,8 @@
             "zh": "\u4e2d\u56fd\u836f\u79d1\u5927\u5b66(China Pharmaceutical University)"
         }, 
         "5385a21b9778f05b97169a745d63dbca09cd6394": {
-            "en": "Shanxi normal university", 
-            "zh": "\u5c71\u897f\u5e08\u8303\u5927\u5b66(Shanxi normal university)"
+            "en": "Shanxi Normal University", 
+            "zh": "\u5c71\u897f\u5e08\u8303\u5927\u5b66(Shanxi Normal University)"
         }, 
         "53a3f057f758c5f2ef80dccc9bfdf0692c37dc8e": {
             "en": "Suzhou Art  Design Technology institute", 
@@ -2675,6 +2675,10 @@
         "a0c823ae1cb5fc4d64fc4709a35395c3962a328a": {
             "cs": "Severo\u010desk\u00e1 v\u011bdeck\u00e1 knihovna v \u00dast\u00ed nad Labem", 
             "en": "The North Bohemian Research Library"
+        }, 
+        "a25dc1f1cc6f5cdfd3d9eb2269da603bd59c81b1": {
+            "cs": "M\u011bstsk\u00e1 knihovna ve Svitav\u00e1ch", 
+            "en": "Municipal Library in Svitavy"
         }, 
         "a276cd58164a5b0c8f71bf1a6fb4662dba9620b4": {
             "cs": "Ostravsk\u00e1 univerzita", 
