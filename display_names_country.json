@@ -7029,8 +7029,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Agency ARNIEC RoEduNet IdP", 
-            "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }
     }, 
     "my": {
@@ -7071,6 +7071,10 @@
         "7a2ae4737f0cb16286f97667892462cb2d353324": {
             "en": "University \"Alexandru Ioan Cuza\" from Iasi", 
             "ro": "Universitatea \"Alexandru Ioan Cuza\" din Ia\u0219i"
+        }, 
+        "a951915a4c315866f889ec9d729721929d250ca3": {
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }, 
         "d42c1d14b9bd637ca2213e71140de23e311b207f": {
             "en": "Agency ARNIEC RoEduNet IdP", 
