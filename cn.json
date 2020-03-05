@@ -243,6 +243,10 @@
         "en": "RENMIN UNIVERSITY OF CHINA", 
         "zh": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66(RENMIN UNIVERSITY OF CHINA)"
     }, 
+    "472ddd5ae66f590788e05d6d9ccce673cef289c4": {
+        "en": "Beijing  Institute  of  Fashion  Technology", 
+        "zh": "\u5317\u4eac\u670d\u88c5\u5b66\u9662(Beijing  Institute  of  Fashion  Technology )"
+    }, 
     "4752abb0d0aa6257ac71a3d715776a47d3e2a5b8": {
         "en": "Peking University", 
         "zh": "\u5317\u4eac\u5927\u5b66(Peking University)"
@@ -850,6 +854,10 @@
     "e487a316b4a0ed634910bb2850b1d58481e1fd09": {
         "en": "Tiangong University", 
         "zh": "\u5929\u6d25\u5de5\u4e1a\u5927\u5b66(Tiangong University)"
+    }, 
+    "e60adc6ab06758e861872a1093fb6cae10a97ded": {
+        "en": "Nanyang Institute of Technology", 
+        "zh": "\u5357\u9633\u7406\u5de5\u5b66\u9662(Nanyang Institute of Technology)"
     }, 
     "e6fc781f5bed6b5899b800de28e8f4d00c4890ee": {
         "en": "Huazhong Agricultural University", 
