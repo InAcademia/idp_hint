@@ -1581,6 +1581,10 @@
             "en": "University of Jinan", 
             "zh": "\u6d4e\u5357\u5927\u5b66( University of Jinan)"
         }, 
+        "2f0311ac07cc8316056e17881145a1eb482cb939": {
+            "en": "Anhui Finance And Trade Vocational College", 
+            "zh": "\u5b89\u5fbd\u8d22\u8d38\u804c\u4e1a\u5b66\u9662(Anhui Finance And Trade Vocational College )"
+        }, 
         "302ace6ed5b01f65c2e002a1c17ad1ce90d838cc": {
             "en": "South China University of Technology", 
             "zh": "\u534e\u5357\u7406\u5de5\u5927\u5b66(South China University of Technology)"
@@ -7096,8 +7100,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }
     }, 
     "my": {
