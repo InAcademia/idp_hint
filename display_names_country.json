@@ -1517,6 +1517,10 @@
             "en": "SUZHOU UNIVERSITY OF SCIENCE AND TECHNOLOGY", 
             "zh": "\u82cf\u5dde\u79d1\u6280\u5927\u5b66(SUZHOU UNIVERSITY OF SCIENCE AND TECHNOLOGY)"
         }, 
+        "124aa492af440a218a1c5c4095bec80a3ccea3ee": {
+            "en": "Qinghai University", 
+            "zh": "\u9752\u6d77\u5927\u5b66(Qinghai University)"
+        }, 
         "12e42e4f87f00ada0737e3ea369bf907698acc0f": {
             "en": "Nanjing University of Science and Technology", 
             "zh": "\u5357\u4eac\u7406\u5de5\u5927\u5b66(Nanjing University of Science and Technology)"
@@ -2068,6 +2072,10 @@
         "9c28997aa66d43b04fdef0a0f88d21264aab6e84": {
             "en": "Guilin Medical University", 
             "zh": "\u6842\u6797\u533b\u5b66\u9662(Guilin Medical University)"
+        }, 
+        "9d5a3252b6de3f13e5863b55124a8934352b2a0b": {
+            "en": "XiaMen Medical College", 
+            "zh": "\u53a6\u95e8\u533b\u5b66\u9662(XiaMen Medical College)"
         }, 
         "9e22d0331d1bf830731b78dc1483d94836f61758": {
             "en": "Yellow River Conservancy Technical Institute", 
