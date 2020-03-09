@@ -2129,6 +2129,10 @@
             "en": "Fudan University", 
             "zh": "\u590d\u65e6\u5927\u5b66(Fudan University)"
         }, 
+        "ab04178cca670ab580a26291a7103780d9dbb4c0": {
+            "en": "Kunming University of Science and Technology", 
+            "zh": "\u6606\u660e\u7406\u5de5\u5927\u5b66(Kunming University of Science and Technology )"
+        }, 
         "ab5b4c37e163602ad1c4a4ae55bdb58ece8cdd25": {
             "en": "Central Conservatory of Music", 
             "zh": "\u4e2d\u592e\u97f3\u4e50\u5b66\u9662(Central Conservatory of Music)"
@@ -2292,6 +2296,10 @@
         "d14ee56e9710aae15fb1b560e0046cecf0bc6fbb": {
             "en": "Hefei University of Technology", 
             "zh": "\u5408\u80a5\u5de5\u4e1a\u5927\u5b66(Hefei University of Technology)"
+        }, 
+        "d24f9d926150a11913e6ba563f940d6e69af4d90": {
+            "en": "Taiyuan University of Science and Technology", 
+            "zh": "\u592a\u539f\u79d1\u6280\u5927\u5b66(Taiyuan University of Science and Technology)"
         }, 
         "d31d7fdffe3bbcec9e1c1d318e569c8799c66897": {
             "en": "University of Science and Technology of China", 
@@ -7204,8 +7212,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Transilvania University of Brasov", 
-            "ro": "Universitatea Transilvania din Brasov"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
