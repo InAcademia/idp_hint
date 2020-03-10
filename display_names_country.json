@@ -2220,6 +2220,10 @@
             "en": "Shaoxing University", 
             "zh": "\u7ecd\u5174\u6587\u7406\u5b66\u9662(Shaoxing University)"
         }, 
+        "b666581abb8c85e356afd631b83b0fa37e384928": {
+            "en": "Chongqing Medical University", 
+            "zh": "\u91cd\u5e86\u533b\u79d1\u5927\u5b66(Chongqing Medical University)"
+        }, 
         "b82aa8fd9fc36ae78d9e5a1a206086786525fb2f": {
             "en": "Guangzhou University", 
             "zh": "\u5e7f\u5dde\u5927\u5b66(Guangzhou University)"
@@ -4779,6 +4783,10 @@
         "0b2a5423b2c7d4d9a2e36e8d827bf541b44ebde7": {
             "en": "FMSH Fondation Maison des Sciences de l'Homme", 
             "fr": "FMSH Fondation Maison des Sciences de l'Homme"
+        }, 
+        "0c321c4bb4f30e1e1ff02a883f543d8651421548": {
+            "en": "National Research and Safety Institute (INRS - French)", 
+            "fr": "Institut National de Recherche et de S\u00e9curit\u00e9 (INRS - France)"
         }, 
         "0d26a748521c23de019f744ca3d0228a13464397": {
             "en": "CROUS Lille", 
