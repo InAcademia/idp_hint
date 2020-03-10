@@ -2220,6 +2220,10 @@
             "en": "Southwestern University of Finance and Economics", 
             "zh": "\u897f\u5357\u8d22\u7ecf\u5927\u5b66(Southwestern University of Finance and Economics)"
         }, 
+        "bade0fe61e25eecd97d43f6610703ab0597337c9": {
+            "en": "Xi'an University", 
+            "zh": "\u897f\u5b89\u6587\u7406\u5b66\u9662(Xi'an University)"
+        }, 
         "bb97cc9d15fcbf8ae9def71dae0291b8d3562660": {
             "en": "AnHui Science and Technology University", 
             "zh": "\u5b89\u5fbd\u79d1\u6280\u5b66\u9662(AnHui Science and Technology University)"
@@ -2407,6 +2411,10 @@
         "e60adc6ab06758e861872a1093fb6cae10a97ded": {
             "en": "Nanyang Institute of Technology", 
             "zh": "\u5357\u9633\u7406\u5de5\u5b66\u9662(Nanyang Institute of Technology)"
+        }, 
+        "e643c70a0366d3f8b411703c9f17d12fcd01a717": {
+            "en": "HANGZHOU DIANZI UNIVERSITY", 
+            "zh": "\u676d\u5dde\u7535\u5b50\u79d1\u6280\u5927\u5b66(HANGZHOU DIANZI UNIVERSITY)"
         }, 
         "e6fc781f5bed6b5899b800de28e8f4d00c4890ee": {
             "en": "Huazhong Agricultural University", 
@@ -7227,8 +7235,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Transilvania University of Brasov", 
-            "ro": "Universitatea Transilvania din Brasov"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
