@@ -2320,6 +2320,10 @@
             "en": "QILU UNIVERSITY OF TECHNOLOGY", 
             "zh": "\u9f50\u9c81\u5de5\u4e1a\u5927\u5b66(QILU UNIVERSITY OF TECHNOLOGY)"
         }, 
+        "c937992744cad561335051675e8b8c55567dd314": {
+            "en": "Zhejiang Institue Of Communications", 
+            "zh": "\u6d59\u6c5f\u4ea4\u901a\u804c\u4e1a\u6280\u672f\u5b66\u9662(Zhejiang Institue Of Communications)"
+        }, 
         "c9b1ba741c7aaf188f18fce49de36984965a7839": {
             "en": "Shanghai Publishing And Printing College", 
             "zh": "\u4e0a\u6d77\u51fa\u7248\u5370\u5237\u9ad8\u7b49\u4e13\u79d1\u5b66\u6821(Shanghai Publishing And Printing College)"
@@ -7307,8 +7311,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Transilvania University of Brasov", 
-            "ro": "Universitatea Transilvania din Brasov"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
