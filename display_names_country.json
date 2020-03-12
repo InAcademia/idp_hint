@@ -8444,6 +8444,10 @@
             "en": "Karlstad University", 
             "sv": "Karlstads universitet"
         }, 
+        "6da16d5fd9477fd053ea59abba46b14c5f6f1d92": {
+            "en": "SMHI", 
+            "sv": "SMHI"
+        }, 
         "717bc1a2e4a094c9ebe6db60add698a1979451f7": {
             "en": "Ersta Sk\u00f6ndal University College", 
             "sv": "Ersta Sk\u00f6ndal H\u00f6gskola"
@@ -8651,6 +8655,10 @@
         }
     }, 
     "tr": {
+        "48a9dd9ea35894e5c5c6c9015e6f078d9ccf1cea": {
+            "en": "Ege University", 
+            "tr": "Ege \u00dcniversitesi"
+        }, 
         "801e04cdf18ad62d882d2ea7e9cb69d62aad5b27": {
             "en": "ULAKBIM", 
             "tr": "ULAKB\u0130M"
