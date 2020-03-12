@@ -1055,6 +1055,10 @@
         "en": "Zhoukou Vocational And Technical College", 
         "zh": "\u5468\u53e3\u804c\u4e1a\u6280\u672f\u5b66\u9662(Zhoukou Vocational And Technical College)"
     }, 
+    "e8557320f416532c087cdb39bad4b72fd087e95a": {
+        "en": "Changchun Institute of Technology", 
+        "zh": "\u957f\u6625\u5de5\u7a0b\u5b66\u9662(Changchun Institute of Technology)"
+    }, 
     "e8a1a8c445071caa2a7198c1881e0c5b15875085": {
         "en": "CHANGCHUN UNIVERSITY", 
         "zh": "\u957f\u6625\u5927\u5b66(CHANGCHUN UNIVERSITY)"
@@ -1138,6 +1142,10 @@
     "fc6d58b6f3ef0dfaf1db8e111454110fb8d9b729": {
         "en": "Sun Yat-sen University", 
         "zh": "\u4e2d\u5c71\u5927\u5b66(Sun Yat-sen University)"
+    }, 
+    "fcb5a7499ea058df611207cd815fcbe8d8f3375b": {
+        "en": "Chongqing  University  Of Education", 
+        "zh": "\u91cd\u5e86\u7b2c\u4e8c\u5e08\u8303\u5b66\u9662(Chongqing  University  Of Education)"
     }, 
     "fd041842b7d264d3791011cd052e1a6455b4930f": {
         "en": "Dalian University of Technology", 
