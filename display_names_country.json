@@ -2307,6 +2307,10 @@
             "en": "Civil Aviation University of China", 
             "zh": "\u4e2d\u56fd\u6c11\u822a\u5927\u5b66(Civil Aviation University of China)"
         }, 
+        "b1a41010ce5d160fcdab6157332884348f308bb0": {
+            "en": "Guangzhou Communications Technician Institute", 
+            "zh": "\u5e7f\u5dde\u5e02\u4ea4\u901a\u6280\u5e08\u5b66\u9662(Guangzhou Communications Technician Institute)"
+        }, 
         "b242131df541a9f813c6a987eb6e9470be143004": {
             "en": "Southern Medical University", 
             "zh": "\u5357\u65b9\u533b\u79d1\u5927\u5b66(Southern Medical University)"
@@ -3838,6 +3842,10 @@
         "9c5be3326c384c4d389e95d7257824fe07b74aa6": {
             "de": "Staatliche Studienakademie Leipzig", 
             "en": "Staatliche Studienakademie Leipzig"
+        }, 
+        "9d6ecd3ca0f30dac5f77c1b34174974464c19cbd": {
+            "de": "DHBW Mannheim", 
+            "en": "DHBW Mannheim"
         }, 
         "9eab55f659a2483493b0fbf30c30b53212c59493": {
             "de": "PH Freiburg", 
