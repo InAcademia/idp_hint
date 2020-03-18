@@ -2043,6 +2043,10 @@
             "en": "Southeast University", 
             "zh": "\u4e1c\u5357\u5927\u5b66(Southeast University)"
         }, 
+        "700b1f65a51755fd701441eb0b505a4d833753f5": {
+            "en": "Shanghai Lixin University Of Accounting And Finance", 
+            "zh": "\u4e0a\u6d77\u7acb\u4fe1\u4f1a\u8ba1\u91d1\u878d\u5b66\u9662(Shanghai Lixin University Of Accounting And Finance)"
+        }, 
         "70efd5fe90730dbadd2078280c53c9d1cabf8a8a": {
             "en": "Luoyang Institute of Science and Technology", 
             "zh": "\u6d1b\u9633\u7406\u5de5\u5b66\u9662(Luoyang Institute of Science and Technology)"
@@ -7098,6 +7102,10 @@
             "en": "Otaru University of Commerce", 
             "ja": "\u2f29\u6a3d\u5546\u79d1\u2f24\u5b66"
         }, 
+        "c24878218fd7873becb1ef44c68b513c69d168e5": {
+            "en": "KAGRA", 
+            "ja": "KAGRA"
+        }, 
         "d085575e1ba3134d5d871371b8f8a8b6f22f2c9d": {
             "en": "Kochi University of Technology", 
             "ja": "\u9ad8\u77e5\u5de5\u79d1\u5927\u5b66"
@@ -7425,8 +7433,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }
     }, 
     "my": {
