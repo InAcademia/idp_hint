@@ -1547,6 +1547,10 @@
             "en": "Zhongyuan University of Technology", 
             "zh": "\u4e2d\u539f\u5de5\u5b66\u9662(Zhongyuan University of Technology)"
         }, 
+        "0eec4f2ef772f9f7830112ca9e507b6953bf72fd": {
+            "en": "North Minzu University", 
+            "zh": "\u5317\u65b9\u6c11\u65cf\u5927\u5b66(North Minzu University)"
+        }, 
         "11eee92b899d47aca9e2380fb3c7460538daf2f9": {
             "en": "Jinggangshan University", 
             "zh": "\u4e95\u5188\u5c71\u5927\u5b66(Jinggangshan University)"
@@ -2303,6 +2307,10 @@
             "en": "Xinxiang Medical University", 
             "zh": "\u65b0\u4e61\u533b\u5b66\u9662(Xinxiang Medical University)"
         }, 
+        "b401769315263e8dd7a2dc1a873c27f1aecadd54": {
+            "en": "Foshan University", 
+            "zh": "\u4f5b\u5c71\u79d1\u5b66\u6280\u672f\u5b66\u9662(Foshan University)"
+        }, 
         "b5658f36f741e970df8fb98a8556b1d101a62f05": {
             "en": "Shaoxing University", 
             "zh": "\u7ecd\u5174\u6587\u7406\u5b66\u9662(Shaoxing University)"
@@ -2318,6 +2326,10 @@
         "b8c52b5ebe550a4a5d261846ee2047378f100858": {
             "en": "Xuchang University", 
             "zh": "\u8bb8\u660c\u5b66\u9662(Xuchang University)"
+        }, 
+        "b94d74349b52331eff4ab14ec32a90660de11716": {
+            "en": "Ningxia  Polytechnic", 
+            "zh": "\u5b81\u590f\u804c\u4e1a\u6280\u672f\u5b66\u9662(Ningxia  Polytechnic)"
         }, 
         "b99068cad8a3734b03c80d7d6a8f26a6b489039e": {
             "en": "Nanjing Agriculture University", 
@@ -2522,6 +2534,10 @@
         "e212048821a8344e6c1ddb9c40270e17342b37ae": {
             "en": "hanshan normal university", 
             "zh": "\u97e9\u5c71\u5e08\u8303\u5b66\u9662(hanshan normal university)"
+        }, 
+        "e23d2719ccfe74b2c64a825ec98b67e65e85a245": {
+            "en": "Southwest Jiaotong University", 
+            "zh": "\u897f\u5357\u4ea4\u901a\u5927\u5b66(Southwest Jiaotong University)"
         }, 
         "e25cf7b0d39d6b2e3df3357a978debf46b65e28c": {
             "en": "Tsinghua University", 
@@ -7409,8 +7425,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Transilvania University of Brasov", 
-            "ro": "Universitatea Transilvania din Brasov"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
