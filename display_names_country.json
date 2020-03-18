@@ -2523,6 +2523,10 @@
             "en": "Zhejiang Gongshang University", 
             "zh": "\u6d59\u6c5f\u5de5\u5546\u5927\u5b66(Zhejiang Gongshang University)"
         }, 
+        "dcf9653a20f75101f5f35b574c7580ed557d2bc7": {
+            "en": "Zhengzhou  Institute of  Technology", 
+            "zh": "\u90d1\u5dde\u5de5\u7a0b\u6280\u672f\u5b66\u9662(Zhengzhou  Institute of  Technology)"
+        }, 
         "de542f36122b2ce62ac5f829cde5d9540bfae7b8": {
             "en": "NANKAI UNIVERSITY", 
             "zh": "\u5357\u5f00\u5927\u5b66(NANKAI UNIVERSITY)"
@@ -2546,6 +2550,10 @@
         "e25cf7b0d39d6b2e3df3357a978debf46b65e28c": {
             "en": "Tsinghua University", 
             "zh": "\u6e05\u534e\u5927\u5b66(Tsinghua University)"
+        }, 
+        "e2a7ad78e5500865dc19e2cdcb1771fe577bf68f": {
+            "en": "Henan Normal University", 
+            "zh": "\u6cb3\u5357\u5e08\u8303\u5927\u5b66(Henan Normal University)"
         }, 
         "e3f5e0c4cac4701b45e740790c9273027c20e4b5": {
             "en": "Xiamen University", 
