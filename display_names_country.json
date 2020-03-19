@@ -7062,6 +7062,10 @@
             "en": "Kyoto Prefectural University of Medicine", 
             "ja": "\u4eac\u90fd\u5e9c\u7acb\u533b\u79d1\u5927\u5b66"
         }, 
+        "50b9a4cdad65644f3d5d57698c0840a798b240a2": {
+            "en": "Asahi University", 
+            "ja": "\u671d\u65e5\u5927\u5b66"
+        }, 
         "599c1b30ee71f662364ed261121bf116233494b2": {
             "en": "Keio University", 
             "ja": "\u6176\u61c9\u7fa9\u587e\u5927\u5b66"
@@ -7465,8 +7469,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Transilvania University of Brasov", 
-            "ro": "Universitatea Transilvania din Brasov"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
