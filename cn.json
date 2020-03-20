@@ -651,6 +651,10 @@
         "en": "shanghai dianji university", 
         "zh": "\u4e0a\u6d77\u7535\u673a\u5b66\u9662(shanghai dianji university)"
     }, 
+    "7c63aa70a4ef50b00738a8442f331f64c991e411": {
+        "en": "Shenyang University of Technology", 
+        "zh": "\u6c88\u9633\u5de5\u4e1a\u5927\u5b66(Shenyang University of Technology )"
+    }, 
     "7ca7dbbdcb1cff696dc945a0c4be123d85fbc3a9": {
         "en": "Tianjin University of Finance and Economics", 
         "zh": "\u5929\u6d25\u8d22\u7ecf\u5927\u5b66(Tianjin University of Finance and Economics)"
@@ -838,6 +842,10 @@
     "aef9efeb1ed66e8faa0539a7c604a6b5cb475c46": {
         "en": "Hebei University of Science and Technology", 
         "zh": "\u6cb3\u5317\u79d1\u6280\u5927\u5b66( Hebei University of Science and Technology)"
+    }, 
+    "af332aa886add44975ccdaf11e0d7e007b61416a": {
+        "en": "Southwest University", 
+        "zh": "\u897f\u5357\u5927\u5b66(Southwest University)"
     }, 
     "b040b879402ee520b730527829e4983aa68d28fc": {
         "en": "East China Jiaotong University", 
