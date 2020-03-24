@@ -7296,6 +7296,9 @@
         "60b60e04e183dcf71b069c6429cc775e0789ac63": {
             "en": "Faculty of Technology, University of Ruhuna, Sri Lanka"
         }, 
+        "7fc5a0228f9afefbe98292699dd4b58afc662d21": {
+            "en": "Faculty of Medicine, University of Ruhuna"
+        }, 
         "8352c550714c46daa61727e7c096ca11e62e0561": {
             "en": "University of Ruhuna (Wellamadama Site)"
         }, 
@@ -7322,6 +7325,9 @@
         }, 
         "df8b6c1515b87a1940f6d0332da100e02ede97c9": {
             "en": "South Eastern University of Sri Lanka"
+        }, 
+        "e03f73097609df7ea3d59d447ce522c505a44e81": {
+            "en": "Faculty of Agriculture, University of Ruhuna"
         }, 
         "e20feb6da079144d98b27b7710be1c391881d6f8": {
             "en": "University of Colombo School of Computing"
@@ -7533,8 +7539,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }
     }, 
     "my": {
