@@ -2410,6 +2410,10 @@
             "en": "Xi'an University", 
             "zh": "\u897f\u5b89\u6587\u7406\u5b66\u9662(Xi'an University)"
         }, 
+        "bae68cb5ccfdedc549d7233cec0ca3934f9f0b50": {
+            "en": "Jinzhou Medical University", 
+            "zh": "\u9526\u5dde\u533b\u79d1\u5927\u5b66(Jinzhou Medical University)"
+        }, 
         "bb9620fe085fa997d8b0347ae3def57d3ee03f90": {
             "en": "Liaoning University of Technology", 
             "zh": "\u8fbd\u5b81\u5de5\u4e1a\u5927\u5b66(Liaoning University of Technology)"
@@ -9841,6 +9845,9 @@
         }, 
         "8619aa7f87fe12ad82b32df5d85d4f84b4e599d4": {
             "en": "Stockport Libraries"
+        }, 
+        "868703c9f75aaf1f9451c42ac92f9f182ef2eaf4": {
+            "en": "Matthew Slowe (mafoo.org.uk)"
         }, 
         "86b62e247cf7d4aefb7fe6c4a396e4832eaa1f25": {
             "en": "Birkbeck College"
