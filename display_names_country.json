@@ -2086,6 +2086,10 @@
             "en": "Fujian Normal University", 
             "zh": "\u798f\u5efa\u5e08\u8303\u5927\u5b66(Fujian Normal University)"
         }, 
+        "6c5a68eb937f05722cfd49fd6b09890d8bb26c00": {
+            "en": "Anhui Business College", 
+            "zh": "\u5b89\u5fbd\u5546\u8d38\u804c\u4e1a\u6280\u672f\u5b66\u9662(Anhui Business College)"
+        }, 
         "6d28297824350d54f63278a34fab6ebc1ea6d96b": {
             "en": "Southeast University", 
             "zh": "\u4e1c\u5357\u5927\u5b66(Southeast University)"
@@ -7577,8 +7581,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }
     }, 
     "my": {
