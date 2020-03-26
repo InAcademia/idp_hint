@@ -88,8 +88,8 @@
         "en": "University of the Faroe Islands"
     }, 
     "5a9e31cd5edf834a56db5d5461dd0616da524e03": {
-        "da": "Professionsh\u00f8jskolen UCN", 
-        "en": "UCN"
+        "da": "Professionsh\u00f8jskolen UCN [ADFS]", 
+        "en": "UCN [ADFS]"
     }, 
     "632e1cddc526b3ce6d96850f507ea36bdf215f2f": {
         "da": "IT-Universitetet i K\u00f8benhavn", 
@@ -134,6 +134,10 @@
     "8a14a7cf0132a4a69def40fbcf825ace7fa1f21d": {
         "da": "Grenaa Gymnasium", 
         "en": "Grenaa Gymnasium"
+    }, 
+    "8de8628d7b27d023093ece06eecfbee65359dff3": {
+        "da": "Professionsh\u00f8jskolen UCN", 
+        "en": "UCN"
     }, 
     "9330abb052401bc3d14f631616824ce5c477f76c": {
         "da": "Syddansk Universitet", 
