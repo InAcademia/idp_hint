@@ -1622,6 +1622,10 @@
             "en": "Lanzhou Jiaotong University", 
             "zh": "\u5170\u5dde\u4ea4\u901a\u5927\u5b66(Lanzhou Jiaotong University)"
         }, 
+        "1cef1726ac3bc2d7cf2d14406959b93dbe75482d": {
+            "en": "Yulin University", 
+            "zh": "\u6986\u6797\u5b66\u9662(Yulin University)"
+        }, 
         "1d40917c47212d9e49bb0c1bd27a87b71966bd5b": {
             "en": "Shaanxi Normal University", 
             "zh": "\u9655\u897f\u5e08\u8303\u5927\u5b66(Shaanxi Normal University)"
@@ -7597,8 +7601,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }
     }, 
     "my": {
