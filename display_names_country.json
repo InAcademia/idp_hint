@@ -2346,6 +2346,10 @@
             "en": "China University of Petroleum", 
             "zh": "\u4e2d\u56fd\u77f3\u6cb9\u5927\u5b66\uff08\u5317\u4eac\uff09(China University of Petroleum)"
         }, 
+        "ad5ee8f3191493ab7179d35e97d8f3584b24409c": {
+            "en": "Xianning Vocaltional Technical College", 
+            "zh": "\u54b8\u5b81\u804c\u4e1a\u6280\u672f\u5b66\u9662(Xianning Vocaltional Technical College)"
+        }, 
         "ae91ad3be50b9ca91be1bd3dc9f6e74a7d8bd6be": {
             "en": "Lanzhou University", 
             "zh": "\u5170\u5dde\u5927\u5b66(Lanzhou University)"
@@ -3852,7 +3856,7 @@
         }, 
         "7a679b160646eaae5fd94c3f957dd57bf3aeda73": {
             "de": "Universit\u00e4t Trier", 
-            "en": "University of Trier"
+            "en": "Trier University"
         }, 
         "7ce0429606d40d1621facee45e9e56f8ebfb3d55": {
             "de": "Hochschule f\u00fcr Technik und Wirtschaft Dresden", 
@@ -7609,8 +7613,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }
     }, 
     "my": {
