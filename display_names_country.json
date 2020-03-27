@@ -1622,6 +1622,10 @@
             "en": "Yulin University", 
             "zh": "\u6986\u6797\u5b66\u9662(Yulin University)"
         }, 
+        "1d04eaba9b4e8d3c2bde559c9fef890da5ae0372": {
+            "en": "Hubei University of Technology", 
+            "zh": "\u6e56\u5317\u5de5\u4e1a\u5927\u5b66(Hubei University of Technology )"
+        }, 
         "1d40917c47212d9e49bb0c1bd27a87b71966bd5b": {
             "en": "Shaanxi Normal University", 
             "zh": "\u9655\u897f\u5e08\u8303\u5927\u5b66(Shaanxi Normal University)"
@@ -2705,6 +2709,10 @@
         "e643c70a0366d3f8b411703c9f17d12fcd01a717": {
             "en": "HANGZHOU DIANZI UNIVERSITY", 
             "zh": "\u676d\u5dde\u7535\u5b50\u79d1\u6280\u5927\u5b66(HANGZHOU DIANZI UNIVERSITY)"
+        }, 
+        "e67cfd057a2e875975a60caf0f8d1849ed2d8db6": {
+            "en": "Suzhou University", 
+            "zh": "\u5bbf\u5dde\u5b66\u9662(Suzhou University)"
         }, 
         "e6fc781f5bed6b5899b800de28e8f4d00c4890ee": {
             "en": "Huazhong Agricultural University", 
@@ -7601,8 +7609,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "KIF-IDP", 
-            "ky": "KIF-IDP"
+            "en": "Transilvania University of Brasov", 
+            "ro": "Universitatea Transilvania din Brasov"
         }
     }, 
     "my": {
