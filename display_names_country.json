@@ -2306,6 +2306,10 @@
             "en": "Huaiyin Institute of Technology", 
             "zh": "\u6dee\u9634\u5de5\u5b66\u9662(Huaiyin Institute of Technology)"
         }, 
+        "a9c9c05e95f4a410a5c108c5a5dbcff7c400c764": {
+            "en": "Yunnan University of Finance and Economics", 
+            "zh": "\u4e91\u5357\u8d22\u7ecf\u5927\u5b66( Yunnan University of Finance and Economics)"
+        }, 
         "aa32dc5d957ec9db8e848eb0087aed5e5fa70931": {
             "en": "Information Center of SMEC", 
             "zh": "\u4e0a\u6d77\u5e02\u6559\u80b2\u59d4\u5458\u4f1a\u4fe1\u606f\u4e2d\u5fc3(Information Center of SMEC)"
@@ -7613,8 +7617,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Transilvania University of Brasov", 
-            "ro": "Universitatea Transilvania din Brasov"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
