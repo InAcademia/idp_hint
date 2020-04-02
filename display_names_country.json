@@ -1817,6 +1817,10 @@
             "en": "Wuhan Polytechnic", 
             "zh": "\u6b66\u6c49\u804c\u4e1a\u6280\u672f\u5b66\u9662(Wuhan Polytechnic)"
         }, 
+        "4187d2e0f4395eeb2be10ab3a348983d677e0205": {
+            "en": "Sichuan Agricultural University", 
+            "zh": "\u56db\u5ddd\u519c\u4e1a\u5927\u5b66(Sichuan Agricultural University)"
+        }, 
         "418994b78c2f8ab9dfb0c7b07ff407a1188b9127": {
             "en": "Huaqiao University", 
             "zh": "\u534e\u4fa8\u5927\u5b66(Huaqiao University)"
@@ -7655,8 +7659,8 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }, 
         "bb79e7de25476c8ace22e698553f925255acbbd8": {
-            "en": "Transilvania University of Brasov", 
-            "ro": "Universitatea Transilvania din Brasov"
+            "en": "KIF-IDP", 
+            "ky": "KIF-IDP"
         }
     }, 
     "my": {
