@@ -8522,6 +8522,10 @@
         }
     }, 
     "pt": {
+        "01d21b79c27bfb485ca22309065082678b025261": {
+            "en": "Institute for Systems and Computer Engineering, Technology and Science - INESC TEC", 
+            "pt": "Instituto de Engenharia de Sistemas e Computadores Tecnologia e Ci\u00eancia - INESC TEC"
+        }, 
         "1216dc4e1e1234a88667118f8105c2cc3dd6ecf2": {
             "en": "FCT|FCCN", 
             "pt": "FCT|FCCN"
@@ -8537,6 +8541,10 @@
         "1e96e4571aeaadafcf13bdcbb264408ede12a16a": {
             "en": "Instituto Polit\u00e9cnico de Lisboa", 
             "pt": "Instituto Polit\u00e9cnico de Lisboa"
+        }, 
+        "2166f8890ebc8fca32aefbd4b2418047b779b4cf": {
+            "en": "Ag\u00eancia Portuguesa do Ambiente", 
+            "pt": "Ag\u00eancia Portuguesa do Ambiente"
         }, 
         "3186a28ff6f20fcb21dd2439064985694eea2133": {
             "en": "Escola Superior Agr\u00e1ria de Viseu", 
