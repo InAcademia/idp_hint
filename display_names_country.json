@@ -1729,6 +1729,10 @@
             "en": "Inner Mongolia University", 
             "zh": "\u5185\u8499\u53e4\u5927\u5b66(Inner Mongolia University)"
         }, 
+        "3432d764f85257f0f028f7f38208305407c3b017": {
+            "en": "Hunan Modern Logistics College", 
+            "zh": "\u6e56\u5357\u73b0\u4ee3\u7269\u6d41\u804c\u4e1a\u6280\u672f\u5b66\u9662(Hunan Modern Logistics College)"
+        }, 
         "343899559290161de37dcc9f69adcb3390aaabef": {
             "en": "MINZU UNIVERSITY OF CHINA", 
             "zh": "\u4e2d\u592e\u6c11\u65cf\u5927\u5b66(MINZU UNIVERSITY OF CHINA )"
@@ -8378,6 +8382,9 @@
         "170dc13f77b341c691889fdb5cffa2d16fea2941": {
             "en": "Shinas College of Technology"
         }, 
+        "23019c638ab2c1e18e1e763d001a0892691983d5": {
+            "en": "AL Buraimi Vocational College"
+        }, 
         "24b7d2d3533536a01cd57cb26e94f274ceaed39a": {
             "en": "Bayan College"
         }, 
@@ -8410,9 +8417,6 @@
         }, 
         "6554c37afe9247a94bf0922c5885304c4791eff4": {
             "en": "College of Sharia Sciences"
-        }, 
-        "6edea61166269e48d1992a08914711b62b0b999f": {
-            "en": "Al Buraimi Vocational College"
         }, 
         "7359c6dc834354462ab48db10881759455228981": {
             "en": "Modern College of Business and Science"
