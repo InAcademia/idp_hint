@@ -8508,9 +8508,6 @@
         "7126dee74d565716042a9c9173a620a0a74acc43": {
             "en": "College of Physicians and Surgeons Pakistan"
         }, 
-        "9aeac6a8a75bcb7c3796209a0d80beeb0c2daae5": {
-            "en": "HEC AAF IdP Pakistan"
-        }, 
         "9c70752f05ce537def9375bef1e718d2376301b7": {
             "en": "NED University of Engineering and Technology Pakistan"
         }, 
@@ -11112,9 +11109,6 @@
         "2343480a6d91dc2c06c1957ebe628feec5b00538": {
             "en": "Southern Illinois University"
         }, 
-        "2355224ac0f9ea1b2dbbb1cb22eed0de3f83e6b7": {
-            "en": "New York Genome Center"
-        }, 
         "23b8d22172bf08d0b565dac6aaa7c32231e1e088": {
             "en": "University of Michigan"
         }, 
@@ -11156,6 +11150,9 @@
         }, 
         "27d014f047b5b4a14dfc3cb1220051faee25b207": {
             "en": "University of Texas Medical Branch At Galveston"
+        }, 
+        "2832f3f5942ff0fbc6c0bb68f42df31fd9c056e0": {
+            "en": "New York Genome Center"
         }, 
         "2857723ea0933418f23016e81273b243264ce202": {
             "en": "Oregon Health & Science University"
