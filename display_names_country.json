@@ -2721,6 +2721,10 @@
             "en": "University of Science and Technology of China", 
             "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66(University of Science and Technology of China)"
         }, 
+        "d3456724ef4af639bd438546e165f2a1c404f061": {
+            "en": "Jiyuan Vocational and Technical College", 
+            "zh": "\u6d4e\u6e90\u804c\u4e1a\u6280\u672f\u5b66\u9662(Jiyuan Vocational and Technical College )"
+        }, 
         "d35777b0a052fd75c2123dad8d5ceb48c8da654f": {
             "en": "Shanxi University", 
             "zh": "\u5c71\u897f\u5927\u5b66(Shanxi University)"
@@ -4454,10 +4458,6 @@
         "2de469b5204b97d4aa2c38483022ecde09ba8339": {
             "da": "Fredericia Maskinmesterskole", 
             "en": "Fredericia Maskinmesterskole"
-        }, 
-        "2f84e22aa77999ab67dc3b7b9aa2205e8aaa49fb": {
-            "da": "Frederikshavn Gymnasium & HF-kursus", 
-            "en": "Frederikshavn Gymnasium & HF-kursus"
         }, 
         "33ad5b602d2a9fdeb24ffa39a82af82bcebb0ee8": {
             "da": "Erhvervsakademiet Lilleb\u00e6lt", 
