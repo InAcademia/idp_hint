@@ -23,10 +23,6 @@
         "da": "International Business College", 
         "en": "International Business College"
     }, 
-    "24b2a1ffa49d929aaf5dd6248d918c59e14589a4": {
-        "da": "UCL Erhvervsakademi og Professionsh\u00f8jskole", 
-        "en": "UCL University College"
-    }, 
     "250c70849aaf69bf353175ec9f3ef904757f6914": {
         "da": "KEA \u2013 K\u00f8benhavns Erhvervsakademi", 
         "en": "KEA \u2013 Copenhagen School of Design and Technology"
@@ -70,6 +66,10 @@
     "44a74ece084d67a44ad25a4e9d7065733cc5add5": {
         "da": "K\u00f8benhavns Professionsh\u00f8jskole", 
         "en": "University College Copenhagen"
+    }, 
+    "5042dadd514bd85b90af47834484bc21f202bd32": {
+        "da": "UCL Erhvervsakademi og Professionsh\u00f8jskole", 
+        "en": "UCL"
     }, 
     "518b793f23b58c533e9cb21208e2de22932f9df0": {
         "da": "MARTEC", 
