@@ -4952,6 +4952,10 @@
             "en": "Complutense University of Madrid", 
             "es": "Universidad Complutense de Madrid"
         }, 
+        "5e0e69dcdda92ca1d4453892d1b5343e109f51c9": {
+            "en": "Mondragon Unibertsitatea", 
+            "eu": "Mondragon Unibertsitatea"
+        }, 
         "5ede87bac195901d3c1167ce3933ff6bf821f66f": {
             "en": "Universidad de Sevilla", 
             "es": "Universidad de Sevilla"
@@ -7190,7 +7194,7 @@
         }, 
         "40b2f63cb58a5c2a297913c157fc1bd35db01a14": {
             "en": "University of Piemonte Orientale", 
-            "it": "Universita degli studi del Piemonte Orientale"
+            "it": "Universit\u00e0 degli studi del Piemonte Orientale"
         }, 
         "46285dc138110b6efaa03128d0e579dcdec252d3": {
             "en": "Politecnico di Bari", 
