@@ -8671,9 +8671,6 @@
         "2d1ee2b147fabeb16c33462b705c26719aa661a5": {
             "en": "Ibri College of Technology"
         }, 
-        "329abc57d986d62461f92d58e9c4272bcfbc46dc": {
-            "en": "Oman College Of Management & Technology"
-        }, 
         "35606163087d3bc6d25bb6141b7f710246825bdd": {
             "en": "University of Nizwa"
         }, 
@@ -8734,9 +8731,6 @@
         "bf2282bf24df5205393b5c7dcd8bf7ec2cec5aff": {
             "en": "International Maritime College Oman"
         }, 
-        "c5c04d4ed51b4351cb106ee2d128362ae667f995": {
-            "en": "The Research Council, Oman"
-        }, 
         "c6b752ddc7c5fe0b49dfd75f335ccc4a33fd4604": {
             "en": "A\u2019Sharqiyah University"
         }, 
@@ -8757,6 +8751,11 @@
         }, 
         "fe8df4abdb8231bc9981621a32e52e9c411822c0": {
             "en": "Ibri Vocational College"
+        }
+    }, 
+    "omtrcweb": {
+        "c5c04d4ed51b4351cb106ee2d128362ae667f995": {
+            "en": "The Research Council, Oman"
         }
     }, 
     "pk": {
