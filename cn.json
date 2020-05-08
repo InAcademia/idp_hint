@@ -243,6 +243,10 @@
         "en": "University of Jinan", 
         "zh": "\u6d4e\u5357\u5927\u5b66( University of Jinan)"
     }, 
+    "2d48038106c21c869546e7cebad6c17d3c9c58ab": {
+        "en": "Chongqing Jiaotong University", 
+        "zh": "\u91cd\u5e86\u4ea4\u901a\u5927\u5b66(Chongqing Jiaotong University)"
+    }, 
     "2da8c4934ed44a41e6e1b07f96e3215f7e03b1da": {
         "en": "Weifang Medical University", 
         "zh": "\u6f4d\u574a\u533b\u5b66\u9662(Weifang Medical University)"
@@ -1354,6 +1358,10 @@
     "dcf9653a20f75101f5f35b574c7580ed557d2bc7": {
         "en": "Zhengzhou  Institute of  Technology", 
         "zh": "\u90d1\u5dde\u5de5\u7a0b\u6280\u672f\u5b66\u9662(Zhengzhou  Institute of  Technology)"
+    }, 
+    "de089c4f969f30157c90d1d8188f4bad935052a6": {
+        "en": "Tianjin University of Technology", 
+        "zh": "\u5929\u6d25\u7406\u5de5\u5927\u5b66(Tianjin University of Technology)"
     }, 
     "de542f36122b2ce62ac5f829cde5d9540bfae7b8": {
         "en": "NANKAI UNIVERSITY", 
