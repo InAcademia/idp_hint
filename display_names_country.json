@@ -1764,10 +1764,6 @@
             "en": "Tianjin University of Commerce", 
             "zh": "\u5929\u6d25\u5546\u4e1a\u5927\u5b66(Tianjin University of Commerce)"
         }, 
-        "31d0bd2595efaf2b84bb178e37df93d45d47b074": {
-            "en": "Xauat", 
-            "zh": "\u897f\u5b89\u5efa\u7b51\u79d1\u6280\u5927\u5b66(Xauat)"
-        }, 
         "33998e735437c440c02d3d79c21b00ae13d7aab8": {
             "en": "Hefei Normal University", 
             "zh": "\u5408\u80a5\u5e08\u8303\u5b66\u9662(Hefei Normal University)"
@@ -12793,20 +12789,6 @@
         "fed24545a772e34b59099c11ee4efdf5150aef27": {
             "en": "Rhodes University", 
             "xh": "IYunivesiti iRhodes"
-        }
-    }, 
-    "zm": {
-        "66e98b93d2db4c9e6972cdff30adf9e802555b49": {
-            "en": "Lusaka Business and Technical College"
-        }, 
-        "a802a3febf3a544f63781828f3da96157037ce63": {
-            "en": "Evelyn Hone College"
-        }, 
-        "e32ad03e79a9b9bf288dd1df1fe6b0643e4ddbd0": {
-            "en": "ZCAS"
-        }, 
-        "e89cbfb7ba4be6cce43d2e34fc889ad2c0d344e0": {
-            "en": "Zamren"
         }
     }
 }
