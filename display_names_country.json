@@ -8106,6 +8106,10 @@
             "en": "National Institute for Public Health and the Environment", 
             "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
         }, 
+        "1a2691ab7475d61f8336c5a492121f0a8574093f": {
+            "en": "Studielink", 
+            "nl": "Stichting Studielink"
+        }, 
         "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
             "en": "EGI Foundation", 
             "nl": "EGI Foundation"
@@ -8385,6 +8389,9 @@
         "9705b81df14a935ea0542c4e8f19532b3011a484": {
             "en": "Hogeschool de Kempel", 
             "nl": "Hogeschool de Kempel"
+        }, 
+        "99ecf1c75e35375947a698b71cdf7f61e9303b6b": {
+            "en": "http://glr-adfs.glr.nl/adfs/services/trust"
         }, 
         "9b4ef0c11eb1e363072f63ef66737156c7cd13e8": {
             "en": "Grafisch Lyceum Utrecht", 
