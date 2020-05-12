@@ -555,6 +555,10 @@
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana", 
             "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
         }, 
+        "48bca463a6f58d91bc386ba8dd331eb6afc2fa5f": {
+            "en": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama", 
+            "pt-br": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
+        }, 
         "49aa36c71c26803c83515d7c73a89d294075ba4b": {
             "en": "UFRN - Universidade Federal do Rio Grande do Norte", 
             "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
@@ -1474,6 +1478,10 @@
         }
     }, 
     "cl": {
+        "adaefb55e354545de94fb0bd982977e93191460b": {
+            "en": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas", 
+            "es": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas"
+        }, 
         "bfa9c842646aeecaa1f9dd54da225c40c00bffad": {
             "en": "REUNA", 
             "es": "REUNA"
