@@ -12970,5 +12970,19 @@
             "en": "Rhodes University", 
             "xh": "IYunivesiti iRhodes"
         }
+    }, 
+    "zm": {
+        "66e98b93d2db4c9e6972cdff30adf9e802555b49": {
+            "en": "Lusaka Business and Technical College"
+        }, 
+        "a802a3febf3a544f63781828f3da96157037ce63": {
+            "en": "Evelyn Hone College"
+        }, 
+        "e32ad03e79a9b9bf288dd1df1fe6b0643e4ddbd0": {
+            "en": "ZCAS"
+        }, 
+        "e89cbfb7ba4be6cce43d2e34fc889ad2c0d344e0": {
+            "en": "Zamren"
+        }
     }
 }
