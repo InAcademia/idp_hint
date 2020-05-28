@@ -1035,6 +1035,9 @@
             "en": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue", 
             "fr": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue"
         }, 
+        "3f5c26b3749789423b53c4618c6af54a08b4e5a7": {
+            "en": "Northern Lights College"
+        }, 
         "3f6b3ebf100d127736e8fe5c695351f5f540f306": {
             "en": "University of British Columbia"
         }, 
@@ -2995,6 +2998,10 @@
         "e97cb62866fd5158b908166b927322274a6c7dd4": {
             "en": "Nanjing University", 
             "zh": "\u5357\u4eac\u5927\u5b66(Nanjing University)"
+        }, 
+        "e9a2a3c3747276b070807dd2b33b8dc12d010334": {
+            "en": "MinJiang University", 
+            "zh": "\u95fd\u6c5f\u5b66\u9662(MinJiang University)"
         }, 
         "eb8f7972dee9f9a60930a87e868f127f93149d34": {
             "en": "Shenyang Pharmaceutical University", 
