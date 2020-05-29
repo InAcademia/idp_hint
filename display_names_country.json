@@ -7620,6 +7620,10 @@
             "en": "Tokyo Metropolitan Institute of Medical Science", 
             "ja": "\u6771\u4eac\u90fd\u533b\u5b66\u7dcf\u5408\u7814\u7a76\u6240"
         }, 
+        "498cf755a4e29758545388f295ddec39a03fb9ec": {
+            "en": "Saitama University", 
+            "ja": "\u57fc\u7389\u5927\u5b66"
+        }, 
         "49b9da81fd5fa408e3b0dd941933b064c6f2827b": {
             "en": "GakuNin IdP", 
             "ja": "\u5b66\u8a8dIdP"
@@ -7755,6 +7759,10 @@
         "f7a295bcd5a9b8eb1530ce6ae9eae6cd5e710134": {
             "en": "Chuo University", 
             "ja": "\u4e2d\u592e\u5927\u5b66"
+        }, 
+        "f9f58842ee03016e612435e7d48a869c93a523ca": {
+            "en": "Tokyo Gakugei University", 
+            "ja": "\u6771\u4eac\u5b66\u82b8\u5927\u5b66"
         }, 
         "ff4fc9337b3b6511521f661516bc22364fdbed97": {
             "en": "National Institute of Fitness and Sports in KANOYA", 
