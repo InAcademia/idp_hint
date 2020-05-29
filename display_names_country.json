@@ -5583,6 +5583,10 @@
             "en": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement", 
             "fr": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement"
         }, 
+        "292ddbd82228f13831c6526e003f0d07e171e80b": {
+            "en": "INSA Centre Val de Loire", 
+            "fr": "INSA Centre Val de Loire"
+        }, 
         "2aba8ca79a63171964e8e4c296a306645ac48e8b": {
             "en": "Universit\u00e9 des Antilles", 
             "fr": "Universit\u00e9 des Antilles"
@@ -5905,7 +5909,7 @@
         }, 
         "7f7fbc7768321106e312680467eb79a0bafe4ebf": {
             "en": "INSA CENTRE VAL DE LOIRE", 
-            "fr": "INSA Centre Val de Loire"
+            "fr": "Institut National des Sciences Appliqu\u00e9es Centre Val de Loire (anciens)"
         }, 
         "7f8ac3466fa59fb47f0a502f617612218c1ab779": {
             "en": "CROUS Cr\u00e9teil-Personnels V3", 
