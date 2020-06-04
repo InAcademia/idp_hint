@@ -11,6 +11,10 @@
         }
     }, 
     "at": {
+        "08d12b905896ff56b7fd3fd6312a5b2e1eb1a41c": {
+            "de": "Universit\u00e4t Mozarteum Salzburg", 
+            "en": "Mozarteum University Salzburg"
+        }, 
         "0eb710aaabade9192f97ad85bfbc8b71900b3092": {
             "de": "Fachhochschule St. P\u00f6lten", 
             "en": "St. P\u00f6lten University of Applied Sciences"
@@ -7012,6 +7016,9 @@
         }, 
         "296c1713c7a04cdb1e9bf4931800050101506461": {
             "en": "Ambedkar University Delhi"
+        }, 
+        "2e2d01e59df39258de682173761e29e70f5d1f42": {
+            "en": "Central University of South Bihar"
         }, 
         "2ee49a09e9641f2d8eaa042e9a24275d10773f00": {
             "en": "Gandhigram Rural Institute, Tamil Nadu"
