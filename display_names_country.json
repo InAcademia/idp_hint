@@ -1791,6 +1791,10 @@
             "en": "Xi'an University of Architecture and Technology", 
             "zh": "\u897f\u5b89\u5efa\u7b51\u79d1\u6280\u5927\u5b66(Xi'an University of Architecture and Technology)"
         }, 
+        "32540c8eb38480a90c81053e38161ba77b739224": {
+            "en": "Jinling Institute of Technology", 
+            "zh": "\u91d1\u9675\u79d1\u6280\u5b66\u9662(Jinling Institute of Technology)"
+        }, 
         "336a2d3bddfbf1dac568b14e2250196eb400a60a": {
             "en": "Xi'an Aeronautical University", 
             "zh": "\u897f\u5b89\u822a\u7a7a\u5b66\u9662(Xi'an Aeronautical University)"
@@ -4099,6 +4103,10 @@
             "de": "Hochschule Osnabr\u00fcck", 
             "en": "Hochschule Osnabr\u00fcck"
         }, 
+        "657a4fb5a38e15d9ded42074addd36fec57377fe": {
+            "de": "Technische Hochschule Bingen", 
+            "en": "Technische Hochschule Bingen"
+        }, 
         "680cc2308b02da2293746472226e40da7315d3e0": {
             "de": "Hochschule Rhein-Waal", 
             "en": "Rhine-Waal University of Applied Sciences"
@@ -5715,6 +5723,10 @@
             "en": "Grenoble INP - Institut polytechnique de Grenoble", 
             "fr": "Grenoble INP - Institut polytechnique de Grenoble"
         }, 
+        "4eb394ebbc6de275cd00785e2329f7a85158a02d": {
+            "en": "CROUS Amiens Picardie", 
+            "fr": "CROUS Amiens Picardie"
+        }, 
         "4ed665408c6dfa6896beda15b04010adb62574e2": {
             "en": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-est", 
             "fr": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-est"
@@ -6462,6 +6474,10 @@
         "ff3d515e87289e58ab1816ee40f37b238b65c843": {
             "en": "ENSFEA", 
             "fr": "ENSFEA"
+        }, 
+        "ff3f9a69523e5248732b10b197b37c67cdaffce1": {
+            "en": "Head office of french Ministries of Education, Higher Education, Research and Sports", 
+            "fr": "Administration centrale MENJ/MESRI/MS"
         }
     }, 
     "ge": {
@@ -9579,7 +9595,7 @@
     }, 
     "ug": {
         "7bd02e55ce10f1fb4ef10a241d00d7d7b989c72e": {
-            "en": "African Center of Excellence in Bioinformatics Uganda"
+            "en": "African Center of Excellence in Bioinformatics - Uganda"
         }, 
         "835ad60073b3671714c6eb58f0bcf91db1fed50e": {
             "en": "Uganda Christian University"

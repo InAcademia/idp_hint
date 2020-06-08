@@ -307,6 +307,10 @@
         "en": "Grenoble INP - Institut polytechnique de Grenoble", 
         "fr": "Grenoble INP - Institut polytechnique de Grenoble"
     }, 
+    "4eb394ebbc6de275cd00785e2329f7a85158a02d": {
+        "en": "CROUS Amiens Picardie", 
+        "fr": "CROUS Amiens Picardie"
+    }, 
     "4ed665408c6dfa6896beda15b04010adb62574e2": {
         "en": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-est", 
         "fr": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-est"
@@ -1054,5 +1058,9 @@
     "ff3d515e87289e58ab1816ee40f37b238b65c843": {
         "en": "ENSFEA", 
         "fr": "ENSFEA"
+    }, 
+    "ff3f9a69523e5248732b10b197b37c67cdaffce1": {
+        "en": "Head office of french Ministries of Education, Higher Education, Research and Sports", 
+        "fr": "Administration centrale MENJ/MESRI/MS"
     }
 }
