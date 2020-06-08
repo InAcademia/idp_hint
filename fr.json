@@ -91,6 +91,10 @@
         "en": "Vetagro Sup", 
         "fr": "Vetagro Sup"
     }, 
+    "114d6bc0eeefacac471a5f54aa385e3dca3047d4": {
+        "en": "IRD - French National Research Institute for Sustainable Development", 
+        "fr": "IRD - Institut de Recherche pour le D\u00e9veloppement"
+    }, 
     "116fc5daa9edc0c10dcec15727524608aa88d863": {
         "en": "Synchrotron SOLEIL", 
         "fr": "Synchrotron SOLEIL"
@@ -655,6 +659,10 @@
         "en": "CROUS Lyon-Personnels", 
         "fr": "CROUS Lyon-Personnels"
     }, 
+    "9836298e3508da811aba4fcad6fffdfcbe484754": {
+        "en": "IDP TEST CROUS Reims", 
+        "fr": "IDP TEST CROUS Reims"
+    }, 
     "98d8cee05ddb18bf41334da7c89f791dc2285ca1": {
         "en": "ENSASE - Ecole nationale sup\u00e9rieure d'architecture de Saint-\u00c9tienne", 
         "fr": "ENSASE - \u00c9cole nationale sup\u00e9rieure d'architecture de Saint-\u00c9tienne"
@@ -998,6 +1006,10 @@
     "eaa182778cb18432e82014177f23ab3f8396363e": {
         "en": "Universit\u00e9 de Lyon - UDL", 
         "fr": "Universit\u00e9 de Lyon - UDL"
+    }, 
+    "ed1eee6f09afed91dd636844525b7fbdfa21b597": {
+        "en": "CROUS de STRASBOURG TEST INTERNE", 
+        "fr": "CROUS de STRASBOURG TEST INTERNE"
     }, 
     "ee2e375dc51d8bdf10a74241cdf55de831f98632": {
         "en": "Paris-Sorbonne Universite", 
