@@ -183,10 +183,6 @@
         "en": "ENIT Ecole Nationale Ing\u00e9nieurs Tarbes", 
         "fr": "ENIT Ecole Nationale Ing\u00e9nieurs Tarbes"
     }, 
-    "28d867d89b2253d6c927f2c4b912a8136ffc4d8d": {
-        "en": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement", 
-        "fr": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement"
-    }, 
     "292ddbd82228f13831c6526e003f0d07e171e80b": {
         "en": "INSA Centre Val de Loire", 
         "fr": "INSA Centre Val de Loire"
@@ -246,6 +242,10 @@
     "3ccba09e1a68cec4de3e52a8d2ae5f4db2486323": {
         "en": "Ecole Nationale Sup\u00e9rieure d'Architecture de Clermont-Ferrand", 
         "fr": "Ecole Nationale Sup\u00e9rieure d'Architecture de Clermont-Ferrand"
+    }, 
+    "3cdc1913f1cf147d7b2a02588344a89c573020e4": {
+        "en": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement", 
+        "fr": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement"
     }, 
     "3da61117144b8149864b8fb296078cda667c0d65": {
         "en": "HEC Paris", 
