@@ -1409,6 +1409,9 @@
             "de": "WSL - Eidg. Forschungsanstalt f\u00fcr Wald, Schnee und Landschaft", 
             "en": "WSL - Swiss Federal Institute for Forest, Snow and Landscape Research"
         }, 
+        "a724eaad1caeedfaed6957e85e422c089fa7c832": {
+            "en": "FMI - Friedrich Miescher Institute"
+        }, 
         "a902a090b397aeaa914ab69b7e7b1bc185a56b4b": {
             "de": "FernUni Schweiz", 
             "en": "DistanceUniversity"
@@ -4939,6 +4942,10 @@
         "10f2bca857be1b38849d9f3f3b63f1f3010bbc0c": {
             "en": "Universidad Pablo de Olavide", 
             "es": "Universidad Pablo de Olavide"
+        }, 
+        "14f56a5d7b528e0252077535a00fb61f6fb44691": {
+            "en": "Universidad Loyola de Andaluc\u00ed\u00ada", 
+            "es": "Universidad Loyola de Andaluc\u00ed\u00ada"
         }, 
         "16531aff3e51033aeca66ecda68a8c423fa04800": {
             "en": "University of Cantabria", 
