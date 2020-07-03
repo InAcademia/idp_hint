@@ -15,6 +15,10 @@
         "en": "ITVDS - Instituto Tecnologico Vale Desenvolvimento Sustentavel", 
         "pt-br": "ITVDS - Instituto Tecnologico Vale Desenvolvimento Sustentavel"
     }, 
+    "028f304a3bcc861c3c3fceadcaeaead0acd79802": {
+        "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife", 
+        "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
+    }, 
     "04a4795007a9cc66bfd0f987e78cba6efc862f1e": {
         "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri", 
         "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
@@ -638,6 +642,10 @@
     "fce22911ef1837b93d6963ae2c6b57f41d29a589": {
         "en": "SETREM - Sociedade Educacional Tres de Maio", 
         "pt-br": "SETREM - Sociedade Educacional Tres de Maio"
+    }, 
+    "fd0574512ad24c834525f6e007af1e48912dc31f": {
+        "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais", 
+        "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
     }, 
     "fd596fd6e22bc40497b9cc6116e2169e7ee4bfa7": {
         "en": "INPE - Instituto Nacional de Pesquisas Espaciais", 
