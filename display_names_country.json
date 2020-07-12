@@ -2162,6 +2162,10 @@
             "en": "China University of Petroleum(East China)", 
             "zh": "\u4e2d\u56fd\u77f3\u6cb9\u5927\u5b66\uff08\u534e\u4e1c\uff09(China University of Petroleum(East China))"
         }, 
+        "56449ac0b0d724cbb4164213d2ddb9b1f3cab94b": {
+            "en": "The Central Academy of Drama", 
+            "zh": "\u4e2d\u592e\u620f\u5267\u5b66\u9662( The Central Academy of Drama)"
+        }, 
         "567bf12dc4b59a434dec511499b55e1b2defaca9": {
             "en": "Wenzhou University", 
             "zh": "\u6e29\u5dde\u5927\u5b66(Wenzhou University)"
@@ -2477,6 +2481,10 @@
         "940293c341501f134ff04458d069b4cd34cb9cf3": {
             "en": "Tianjin Medical University", 
             "zh": "\u5929\u6d25\u533b\u79d1\u5927\u5b66(Tianjin Medical University)"
+        }, 
+        "940ea46c59a1a01dcf66f9d5161d56ffc7e629da": {
+            "en": "China West Normal University", 
+            "zh": "\u897f\u534e\u5e08\u8303\u5927\u5b66(China West Normal University)"
         }, 
         "972ea9d206bb8a06980a94e0d9621c8101a3ac3f": {
             "en": "Nantong University", 
