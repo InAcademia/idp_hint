@@ -3408,6 +3408,10 @@
             "cs": "M\u011bstsk\u00e1 knihovna Hodon\u00edn", 
             "en": "Municipal Library in Hodonin"
         }, 
+        "49ecb1bccd379c0e8fdddfe8f227ea7b7ecf7608": {
+            "cs": "M\u011bstsk\u00e1 knihovna Jarom\u011b\u0159", 
+            "en": "Municipal Library Jarom\u011br"
+        }, 
         "4e71b51c56c987559938ad9191d953f6d36d26cd": {
             "cs": "Fakultn\u00ed nemocnice u sv.Anny v Brn\u011b", 
             "en": "St.Anne's University Hospital Brno"
@@ -3435,6 +3439,10 @@
         "5408e7c5b4a7325a9bdc7ee906850c7970fab440": {
             "cs": "Slezsk\u00e1 univerzita v Opav\u011b", 
             "en": "Silesian University in Opava"
+        }, 
+        "54d8203838cd7ce6a8c9866cb1da7b549a92fdfa": {
+            "cs": "Knihovna Krom\u011b\u0159\u00ed\u017eska", 
+            "en": "Kromeriz Public Library"
         }, 
         "566e52897701f4497d86f2c484ca7d1331b3c324": {
             "cs": "Fyzik\u00e1ln\u00ed \u00fastav Akademie v\u011bd \u010cR", 
