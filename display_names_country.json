@@ -1408,6 +1408,10 @@
             "de": "PH Z\u00fcrich - P\u00e4dagogische Hochschule Z\u00fcrich", 
             "en": "PH Z\u00fcrich - P\u00e4dagogische Hochschule Z\u00fcrich"
         }, 
+        "8a479be973375ae0961d82326fcea4bd2eeaad7c": {
+            "en": "FTL - Facolt\u00e0 di Teologia di Lugano", 
+            "it": "FTL - Facolt\u00e0 di Teologia di Lugano"
+        }, 
         "8e32c924121e8e10c36e0a9bea7c29b3af1a8752": {
             "de": "PH Zug - P\u00e4dagogische Hochschule Zug", 
             "en": "PH Zug - P\u00e4dagogische Hochschule Zug"
@@ -9229,6 +9233,10 @@
         "11f8ffb36b26cf97a00c57c7d0ef237c9b7d2f09": {
             "en": "Opole University", 
             "pl": "Uniwersytet Opolski"
+        }, 
+        "31bf36d9c89b743a55aa00475e12e1e2b8ca913e": {
+            "en": "E-SCIENCE.PL", 
+            "pl": "Platforma E-SCIENCE.PL"
         }, 
         "404c4f6cd4a665837c8fa348dcb8fce6bc62c0b1": {
             "en": "Maria Curie-Sklodowska University", 
