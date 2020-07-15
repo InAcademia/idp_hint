@@ -1,107 +1,206 @@
 {
     "082e2986de899a0577b9b015468026b7d5008240": {
         "en": "Oman Research and Education Network (OMREN)"
-    }, 
+    },
     "0b8db20524d5020808764f72a52eede44324689f": {
         "en": "Ministry of Manpower"
-    }, 
+    },
+    "0fa255765ce142989ea79598db54b0aaaf7cffe0": {
+        "en": "Mazoon College (OM-KID)"
+    },
     "170dc13f77b341c691889fdb5cffa2d16fea2941": {
         "en": "Shinas College of Technology"
-    }, 
+    },
+    "1af8f77dd1a6e2928a47db40604a5b093a7dea40": {
+        "en": "Arab Open University (OM-KID)"
+    },
+    "213961d01d2f694dbc98dd2c93945d8724f3b3fb": {
+        "en": "Buraimi University College (OM-KID)"
+    },
     "23019c638ab2c1e18e1e763d001a0892691983d5": {
         "en": "AL Buraimi Vocational College"
-    }, 
+    },
     "24b7d2d3533536a01cd57cb26e94f274ceaed39a": {
         "en": "Bayan College"
-    }, 
+    },
     "277bc7fd37a227910595b4229ab1dca6f154482e": {
         "en": "Higher College of Technology"
-    }, 
+    },
     "2d1ee2b147fabeb16c33462b705c26719aa661a5": {
         "en": "Ibri College of Technology"
-    }, 
+    },
+    "2dbba17ec287cc2381a7fa132c01597bf55cdfc7": {
+        "en": "National University of Science and Technology (OM-KID)"
+    },
+    "329abc57d986d62461f92d58e9c4272bcfbc46dc": {
+        "en": "Oman College Of Management and Technology (OM-KID)"
+    },
     "35606163087d3bc6d25bb6141b7f710246825bdd": {
         "en": "University of Nizwa"
-    }, 
+    },
+    "35dd1f75c9c2210e310e045ed01080810b0fb0ed": {
+        "en": "Nizwa College of Technology (OM-KID)"
+    },
     "35de5be13cee39a70e5f5d84bf60c0875626de84": {
         "en": "IdP Proxy"
-    }, 
+    },
     "3f16be5f2cc88ff2c220ace6f9b6de3b13ea8848": {
         "en": "Sohar University"
-    }, 
+    },
     "40d4d9522ba58c918a8acc3256bb9c0136ddb642": {
         "en": "Sultan Qaboos University"
-    }, 
+    },
     "4a646ff036fe755dbd1e8050fa34caba9f78500b": {
         "en": "Ibra College of Technology"
-    }, 
+    },
     "4f14a6e3554ee744580ee4dbf1781888207fe7fd": {
         "en": "Shinas Vocational College"
-    }, 
+    },
     "4fa8f3743ba0a357611175a06c1a0f213f1a49cb": {
         "en": "Sur Vocational College"
-    }, 
+    },
     "6554c37afe9247a94bf0922c5885304c4791eff4": {
         "en": "College of Sharia Sciences"
-    }, 
+    },
+    "6e4e8a75fcad6ccc3c0454981770f1276f2bb2d6": {
+        "en": "Shinas College of Technology (OM-KID)"
+    },
+    "73588bb83f95b4ec1b3b04597a5e49eeca5399ad": {
+        "en": "International College of Engineering and Management (OM-KID)"
+    },
     "7359c6dc834354462ab48db10881759455228981": {
         "en": "Modern College of Business and Science"
-    }, 
+    },
     "788d57309ae93681d9e7e2247f5d7bfcbbf1769b": {
         "en": "University of Buraimi"
-    }, 
+    },
     "791f3d0d12db0bfef72e41ea33ca001bca3069f1": {
         "en": "Nizwa College of Technology"
-    }, 
+    },
+    "7ddc167cae60f1535eda9a986c7a61f7b3b6ae87": {
+        "en": "Majan University College (OM-KID)"
+    },
     "7f8b607e0f499510e81f037fdfefadae28f0a7b6": {
         "en": "The Research Council"
-    }, 
+    },
     "8c03957f45e3d0bb3a9f54470553a813b6aa3c44": {
         "en": "Saham Vocational College"
-    }, 
+    },
     "8e0986f9c14d20ab87db958131b4c8d78d095b0a": {
         "en": "Majan University College"
-    }, 
+    },
+    "91f8a148b86c3d9a2ce9230028b2a35cd45fb989": {
+        "en": "Modern College of Business and Science (OM-KID)"
+    },
     "96ce47af2337bd985814548c114e220692fe1f73": {
         "en": "Muscat University"
-    }, 
+    },
     "973c5927fd0d2ed639272c4244fbf244601ced64": {
         "en": "Mazoon College"
-    }, 
+    },
     "98809bb7722a18ed8a69a3e0b05712bc13e66d03": {
         "en": "German University of Technology"
-    }, 
+    },
+    "9ddf859e194832368062ff0f9ccd9fc5b62ebc26": {
+        "en": "ASharqiyah University (OM-KID)"
+    },
+    "9e6c63c9604094f2162641f882529c3fe26a41d4": {
+        "en": "Ministry of Health (OM-KID)"
+    },
     "9fb797ab31b861107aea66398b8d991bdf98456a": {
         "en": "Muscat College"
-    }, 
+    },
     "a003a747c759a1896d341896a1c9ad15e5a08113": {
         "en": "National University of Science and Technology"
-    }, 
+    },
     "a780b49b22f1c6f390ef54f2c37461a240a05cf2": {
         "en": "Salalah College of Technology"
-    }, 
+    },
+    "a92cb877857ffa715920b4638319633c0adfd338": {
+        "en": "Ministry of Agriculture and Fisheries (OM-KID)"
+    },
+    "ae1935426d4d3bbf2d23bc351b5a97c882bebd79": {
+        "en": "Ibra College of Technology (OM-KID)"
+    },
+    "b4cd2c4fdd7745bc40563599111b0a89e7084264": {
+        "en": "University of Buraimi (OM-KID)"
+    },
+    "b65fdfc08ddcc2a94fefa919afffdb2c0b6335c4": {
+        "en": "Muscat University (OM-KID)"
+    },
+    "bddd91f07a322e767291ed82cc5bc2dfeadd7249": {
+        "en": "Middle East College (OM-KID)"
+    },
     "bf2282bf24df5205393b5c7dcd8bf7ec2cec5aff": {
         "en": "International Maritime College Oman"
-    }, 
+    },
+    "c0bd0b75cad50ece4138f445e6e65c8ca0f59f97": {
+        "en": "Sultan Qaboos University (OM-KID)"
+    },
+    "c4aa4c1689e1c1c8db213d3d74d8a0d8668c120d": {
+        "en": "Bayan College (OM-KID)"
+    },
+    "c5c04d4ed51b4351cb106ee2d128362ae667f995": {
+        "en": "The Research Council, Oman"
+    },
     "c6b752ddc7c5fe0b49dfd75f335ccc4a33fd4604": {
         "en": "A'SHARQIYAH UNIVERSITY"
-    }, 
+    },
     "c7d02dbd1ecded6bb19173b2f3fffcfadc560293": {
         "en": "Military Technological College"
-    }, 
+    },
     "c86ffb1de8b899d5efeccc445fee7b04f30e5ff8": {
         "en": "Sur University College"
-    }, 
+    },
     "c95ac85545e45041791b926a77430c22f445c294": {
         "en": "Middle East College"
-    }, 
+    },
     "cca4628fa3939a57aadb89c20973b8c2da0964b0": {
         "en": "Al Musanna College of Technology"
-    }, 
+    },
     "d17a07866ab86b747a78c72b3718a5d448de0507": {
         "en": "Dhofar University"
-    }, 
+    },
+    "da509420aed6ce5a525dc9e484de8e12ceb7e8b6": {
+        "en": "German University of Technology (OM-KID)"
+    },
+    "dba43497248caf3fb3adf784dc3e8bd6d1d46192": {
+        "en": "Gulf College (OM-KID)"
+    },
+    "dcf530ffae25038a74fab13cd12d6f039f4f8fa1": {
+        "en": "Oman Animal and Plant Genetic Resources Center (OM-KID)"
+    },
+    "dda04aeb8613e3a9d1292230eb0944eb92e23ec7": {
+        "en": "The Research Council (OM-KID)"
+    },
+    "ea18154a494a5525aaecf1e9b73767675367e44a": {
+        "en": "Sur University College (OM-KID)"
+    },
+    "f0bcdab2ba93787131cd6971315d3ec4ab752b7e": {
+        "en": "University of Nizwa (OM-KID)"
+    },
+    "f8e5768fc2debd324b9d0b37b6c8af5bc783beaf": {
+        "en": "Ministry of Defense (OM-KID)"
+    },
+    "f98fe3938aa19b7f1245f819eed93119deac4b06": {
+        "en": "Salalah College of Technology (OM-KID)"
+    },
+    "fad552ff44e2a5c97b2ca0ffd9a09d019b99a4e2": {
+        "en": "College of Banking and Financial Studies (OM-KID)"
+    },
+    "fbd1c6a01983719f7698b574e2ae256004d518ab": {
+        "en": "Muscat College (OM-KID)"
+    },
+    "fde8c42cb37172ed88abf20a4b0b37822b8f8c91": {
+        "en": "International Maritime College Oman (OM-KID)"
+    },
+    "fe7e473669cda69a18707ed511f40fedb09d7fd8": {
+        "en": "Ibri College of Technology (OM-KID)"
+    },
     "fe8df4abdb8231bc9981621a32e52e9c411822c0": {
         "en": "Ibri Vocational College"
+    },
+    "febd16e2ceb5ff21d9a58f269bc0e7e93a6dca88": {
+        "en": "Al Musanna College of Technology (OM-KID)"
     }
 }
