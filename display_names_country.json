@@ -609,8 +609,8 @@
             "pt-br": "ISD - Instituto Santos Dumont"
         },
         "526002f20d0fe5f8620aa01b8323a22739719826": {
-            "en": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO",
-            "pt-br": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO"
+            "en": "UFERSA - Universidade Federal Rural do Semi-Arido",
+            "pt-br": "UFERSA - Universidade Federal Rural do Semi-Arido"
         },
         "5394a956a716c16855c70940972ccbc90d545da9": {
             "en": "LNA - Laboratorio Nacional de Astrofisica",
@@ -780,6 +780,10 @@
             "en": "FUNESA - Fundacao Estadual de Saude",
             "pt-br": "FUNESA - Fundacao Estadual de Saude"
         },
+        "a597b8c07f9b4ac3df0a19853ac5e6fae17d08a3": {
+            "en": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao",
+            "pt-br": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao"
+        },
         "a81e483b8acfe1c190bf6b1af5eac523756176ad": {
             "en": "FAC - FACENS - Faculdade de Engenharia de Sorocaba",
             "pt-br": "FAC - FACENS - Faculdade de Engenharia de Sorocaba"
@@ -847,6 +851,10 @@
         "bfd34d6762396001b42fecf4f468f83f86d1946c": {
             "en": "FAPEG - Fundacao de Amparo a Pesquisa do Estado de Goias",
             "pt-br": "FAPEG - Fundacao de Amparo a Pesquisa do Estado de Goias"
+        },
+        "c02331c08a764e86b50fc7794d75ef82845ed0b9": {
+            "en": "UFJF - Universidade Federal de Juiz de Fora",
+            "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
         },
         "c248556e16bc06cbb1e4a2746d3553173628936e": {
             "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
