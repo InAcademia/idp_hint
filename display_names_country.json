@@ -2781,6 +2781,10 @@
             "en": "Jinzhou Medical University",
             "zh": "\u9526\u5dde\u533b\u79d1\u5927\u5b66(Jinzhou Medical University)"
         },
+        "bb3a19ffad0189e0f8ad2b3dc898fd339764ac70": {
+            "en": "Suzhou Polytechnic Institute of Agriculture",
+            "zh": "\u82cf\u5dde\u519c\u4e1a\u804c\u4e1a\u6280\u672f\u5b66\u9662(Suzhou Polytechnic Institute of Agriculture)"
+        },
         "bb4c502c5c41d103df980cc3f6d2e22f583df3f7": {
             "en": "Anhui Vocational And Technical College",
             "zh": "\u5b89\u5fbd\u804c\u4e1a\u6280\u672f\u5b66\u9662(Anhui Vocational And Technical College)"
@@ -9308,8 +9312,8 @@
             "nl": "Hogeschool Saxion"
         },
         "a5ca65af3e76a92a6144519cb455fb4a49fd87a7": {
-            "en": "Koninklijke Bibliotheek (new)",
-            "nl": "Koninklijke Bibliotheek (nieuw)"
+            "en": "Koninklijke Bibliotheek",
+            "nl": "Koninklijke Bibliotheek"
         },
         "a6bc247fe0518b561680c44aba618fb39761024e": {
             "en": "Avans University of Applied Sciences",
@@ -9352,8 +9356,8 @@
             "nl": "Wageningen University & Research (WUR)"
         },
         "b4c4aeda51a50d89f442a1dddd8467467b4d15c5": {
-            "en": "Koninklijke Bibliotheek",
-            "nl": "Koninklijke Bibliotheek"
+            "en": "Koninklijke Bibliotheek (old)",
+            "nl": "Koninklijke Bibliotheek (oud)"
         },
         "b5e8f888cfa2395c04d2e36722089988fda6abd6": {
             "en": "University of Groningen",
