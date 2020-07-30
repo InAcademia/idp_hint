@@ -192,8 +192,8 @@
         "nl": "Rijksmuseum Amsterdam"
     },
     "4ec91e291c522b3aeceafe32404fe59bf83209e8": {
-        "en": "Delft University of Technology (new)",
-        "nl": "Technische Universiteit Delft (nieuw)"
+        "en": "Delft University of Technology",
+        "nl": "Technische Universiteit Delft"
     },
     "4effe7f400fbf92470324c4b606b45b009938ac6": {
         "en": "Graafschap College",
@@ -562,10 +562,6 @@
     "e2ef91766a2982b725088549eb0f04e9cacb9a0a": {
         "en": "Hanze University Groningen",
         "nl": "Hanzehogeschool Groningen"
-    },
-    "e474391eb9d6913b3c46eb962464e82b7841fa5b": {
-        "en": "Delft University of Technology",
-        "nl": "Technische Universiteit Delft"
     },
     "e6e6407b9384401b571ac50428a0ee77292acdab": {
         "en": "KNMI",
