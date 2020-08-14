@@ -2709,10 +2709,6 @@
             "en": "Hebei University of Science and Technology",
             "zh": "\u6cb3\u5317\u79d1\u6280\u5927\u5b66( Hebei University of Science and Technology)"
         },
-        "af01cb62ace441dea2c38698117b0df21c1142a7": {
-            "en": "Hunan Institute of Science and Technology",
-            "zh": "\u6e56\u5357\u7406\u5de5\u5b66\u9662(Hunan Institute of Science and Technology)"
-        },
         "af332aa886add44975ccdaf11e0d7e007b61416a": {
             "en": "Southwest University",
             "zh": "\u897f\u5357\u5927\u5b66(Southwest University)"
@@ -2748,6 +2744,10 @@
         "b242131df541a9f813c6a987eb6e9470be143004": {
             "en": "Southern Medical University",
             "zh": "\u5357\u65b9\u533b\u79d1\u5927\u5b66(Southern Medical University)"
+        },
+        "b27459142f92f354268bf9d11cd1967caceb3469": {
+            "en": "Wuhan Business University",
+            "zh": "\u6b66\u6c49\u5546\u5b66\u9662(Wuhan Business University)"
         },
         "b382966dd86d46c3d3f78fd4228aae9039595df6": {
             "en": "CUHK-Shenzhen",
@@ -7772,6 +7772,9 @@
         },
         "1d6f18b573e76cb8e1fed14b1ec06b22c417a421": {
             "en": "INFLIBNET Staff [Parichay Identity Service]"
+        },
+        "23cd26ae66514b8a6993c7e88c73c3387d4b96b0": {
+            "en": "SRM University AP Amravati"
         },
         "267daf764835df4c6160ea2aa9ac7f01ba9f5d59": {
             "en": "Indian Institute of Science, Bengaluru"
