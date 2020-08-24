@@ -9231,10 +9231,6 @@
             "en": "Open Universiteit",
             "nl": "Open Universiteit"
         },
-        "58f086da4d7c090533854c4b554c4e5f2a01e6ef": {
-            "en": "MBO Utrecht",
-            "nl": "MBO Utrecht"
-        },
         "58f44eb4100a4c6520f2631ae2f6002131d23649": {
             "en": "Netherlands eScience Center",
             "nl": "Netherlands eScience Center"
@@ -9376,8 +9372,8 @@
             "nl": "Grafisch Lyceum Utrecht"
         },
         "9cfae096c908aa456ac800163f4ee5dea94493d7": {
-            "en": "MBO Utrecht (new)",
-            "nl": "MBO Utrecht (nieuw)"
+            "en": "MBO Utrecht",
+            "nl": "MBO Utrecht"
         },
         "9d9a59b9db888d1acb22152bd36d0ee78e0114b9": {
             "en": "Breda University of Applied Sciences",
