@@ -14083,5 +14083,10 @@
             "en": "Rhodes University",
             "xh": "IYunivesiti iRhodes"
         }
+    },
+    "zm": {
+        "621336da2bea8c4c5328fb156e54301ccd4ec626": {
+            "en": "Identity Provider for the Zambia Research Education Network"
+        }
     }
 }
