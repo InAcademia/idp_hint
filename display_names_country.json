@@ -6132,8 +6132,8 @@
             "fr": "ENSAI - Ecole Nationale de la Statistique et de l'Analyse de l'Information"
         },
         "25245bd36362c12c2e6846295fd7f082f7a389ea": {
-            "en": "Ecole navale",
-            "fr": "Ecole navale"
+            "en": "Ecole navale (old)",
+            "fr": "Ecole navale (ancienne)"
         },
         "2580d0f033673d7e9497c1aa434f7cb4d7d57504": {
             "en": "ENS Rennes",
@@ -6853,7 +6853,7 @@
         },
         "cdc842045a65f8a5cae93e1055261b6a5ccbc16e": {
             "en": "Ecole navale",
-            "fr": "Ecole navale (en test - ne pas utiliser)"
+            "fr": "Ecole navale (nouvelle)"
         },
         "cf3b78687a4f8b1b74b641245a0919bf3ac240ae": {
             "en": "CIRAD",
@@ -11460,6 +11460,9 @@
         },
         "76a629ae79e9fedb9e547a401b7d140149ecaf57": {
             "en": "Arden University"
+        },
+        "770af05f2b711f5d5309c080473c8c599da5a798": {
+            "en": "Loreto Sixth Form College"
         },
         "77603e0cbda1e00d50373ca8ca20a375f5d1f171": {
             "en": "Indiid"
