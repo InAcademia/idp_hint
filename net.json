@@ -1,67 +1,18 @@
 {
-    "0f2c34b10c9b7165657c5a9db5ebc90fb223668c": {
-        "en": "Korea Research Institute of Bioscience and Biotechnology"
-    }, 
-    "2f5504d08a33626be27b251f8a7d1bd795a30039": {
-        "en": "Technical University of Cluj-Napoca IdP", 
-        "ro": "IdP al Universit\u0103\u021bii Tehnice din Cluj-Napoca"
-    }, 
-    "394dfa1fb0473e53d3f8397e286a54f0f8784215": {
-        "en": "Korea Institute of Geoscience and Mineral resources"
-    }, 
-    "398f2e83ed8cf4987a006187f55c2606b7f3d7cf": {
-        "en": "Korea Astronomy and Space Science Institute"
-    }, 
-    "3e5de27b800b2c893f591f1da49c7f0499637c0e": {
-        "en": "Pohang University of Science and Technology"
-    }, 
-    "4b8c2626077fdd7abd3762ce51206f99a627b4e4": {
-        "en": "Seoul National University"
-    }, 
-    "67019d6f23d06974669f33752dfdecc1a8c6166f": {
-        "en": "Petroleum Gas University of Ploiesti", 
-        "ro": "Universitatea Petrol-Gaze din Ploiesti"
-    }, 
-    "7a2ae4737f0cb16286f97667892462cb2d353324": {
-        "en": "University \"Alexandru Ioan Cuza\" from Iasi", 
-        "ro": "Universitatea \"Alexandru Ioan Cuza\" din Ia\u0219i"
-    }, 
-    "8dfcdd61bf08b19df2253414a7a23115e154327f": {
-        "en": "Korea Institute of Science and Technology Information"
-    }, 
-    "9dcec6c9b9c11a34ec6c14dcf8f3961121bc3c31": {
-        "en": "Ulsan National Institute of Science and Technology"
-    }, 
-    "a951915a4c315866f889ec9d729721929d250ca3": {
-        "en": "Transilvania University of Brasov", 
-        "ro": "Universitatea Transilvania din Brasov"
-    }, 
-    "ac748246960ee3562246413b9dd096ea406186ad": {
-        "en": "COREEN set.ID by KAFE"
-    }, 
-    "d42c1d14b9bd637ca2213e71140de23e311b207f": {
-        "en": "Agency ARNIEC RoEduNet IdP", 
-        "ro": "IdP Agen\u021bia ARNIEC RoEduNet"
-    }, 
-    "d58777703c6ba3601b3985435681610e242fc302": {
-        "en": "Lucian Blaga University of Sibiu IdP", 
-        "ro": "Universitatea Lucian Blaga din Sibiu IdP"
-    }, 
-    "d7cadd99db1229dcd22b720932a4bc7c241aa69d": {
-        "en": "Korea University"
-    }, 
-    "e0039c9967b7bb6f7a9198d4e1eea97f40d9b329": {
-        "en": "Korea Institute of Oriental Medicine"
-    }, 
-    "eaece7dd0a4466996b1dd8f820db9be13f2fa3bd": {
-        "en": "West University of Timi\u0219oara IdP", 
-        "ro": "IdP al Universit\u0103\u021bii de Vest din Timi\u0219oara"
-    }, 
-    "f9bfd85d201c130a349a3fd5ce65d6d69047fd21": {
-        "en": "Politehnica University of Bucharest IdP", 
-        "ro": "IdP al Universit\u0103\u021bii Politehnica din Bucure\u0219ti"
-    }, 
-    "f9e42d87e792fcaf7aef49bb40d87562350ea1ce": {
-        "en": "Keimyung University"
+    "0f263fddbc0443cfb4f00ca2c0a359ada5f34810": {
+        "en": "Beijing Academy of Agriculture and Forestry Sciences",
+        "zh": "\u5317\u4eac\u5e02\u519c\u6797\u79d1\u5b66\u9662"
+    },
+    "139015d8121f0401242830745aa3efbbaf55bb2a": {
+        "en": "CSTCloud ID",
+        "zh": "\u4e2d\u56fd\u79d1\u6280\u4e91\u901a\u884c\u8bc1(CSTCloud ID)"
+    },
+    "bfc4ab4c1a72ac61f2eb3de9f807c5ead362cb16": {
+        "en": "Scholarin ID",
+        "zh": "\u6167\u79d1\u7814\u901a\u884c\u8bc1"
+    },
+    "e352fd87883a99fa808bdadf18547fe1e0e57ce6": {
+        "en": "PUMC ID",
+        "zh": "\u534f\u548c\u7edf\u4e00\u8eab\u4efd\u8ba4\u8bc1"
     }
 }

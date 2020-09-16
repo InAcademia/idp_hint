@@ -9047,6 +9047,24 @@
             "en": "Universiti Sultan Zainal Abidin"
         }
     },
+    "net": {
+        "0f263fddbc0443cfb4f00ca2c0a359ada5f34810": {
+            "en": "Beijing Academy of Agriculture and Forestry Sciences",
+            "zh": "\u5317\u4eac\u5e02\u519c\u6797\u79d1\u5b66\u9662"
+        },
+        "139015d8121f0401242830745aa3efbbaf55bb2a": {
+            "en": "CSTCloud ID",
+            "zh": "\u4e2d\u56fd\u79d1\u6280\u4e91\u901a\u884c\u8bc1(CSTCloud ID)"
+        },
+        "bfc4ab4c1a72ac61f2eb3de9f807c5ead362cb16": {
+            "en": "Scholarin ID",
+            "zh": "\u6167\u79d1\u7814\u901a\u884c\u8bc1"
+        },
+        "e352fd87883a99fa808bdadf18547fe1e0e57ce6": {
+            "en": "PUMC ID",
+            "zh": "\u534f\u548c\u7edf\u4e00\u8eab\u4efd\u8ba4\u8bc1"
+        }
+    },
     "nl": {
         "007e40ebd5fc9d06d02e562e73b9bdbdc21b4be0": {
             "en": "Onderwijsgroep Tilburg",
@@ -10340,6 +10358,10 @@
             "en": "University College Stockholm",
             "sv": "Enskilda H\u00f6gskolan Stockholm"
         },
+        "262c2772b25c4fdc85505913625b3e074783e795": {
+            "en": "\u00d6rebro University",
+            "sv": "\u00d6rebro universitet"
+        },
         "2b9df1b70d0187d3713c29884ff14039274fc0b9": {
             "en": "Swedish Defence University",
             "sv": "F\u00f6rsvarsh\u00f6gskolan"
@@ -10491,10 +10513,6 @@
         "ef6b8c62830804b61ce9c823db3856b99588e4ba": {
             "en": "National Library of Sweden",
             "sv": "Kungliga biblioteket"
-        },
-        "f2074af36fa1e94f6c21129675f11fce422cb5bf": {
-            "en": "\u00d6rebro University",
-            "sv": "\u00d6rebro universitet"
         },
         "f284cd84df4a8a7b5466cd56515c3592a72bfa4b": {
             "en": "Blekinge Institute of Technology",
