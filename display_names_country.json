@@ -312,10 +312,6 @@
             "en": "University of Mons (UMONS)",
             "fr": "Universite de Mons (UMONS)"
         },
-        "ab27f4b85570cb4cadad16be94e2a7006dbdc65a": {
-            "en": "University of Liege - ULG",
-            "fr": "Universite de Liege - ULG"
-        },
         "c285a82beba9747a854a38e05e4946cb577a76cb": {
             "en": "IDP - ULB (Universite libre de Bruxelles)"
         },
@@ -1133,6 +1129,9 @@
             "en": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue",
             "fr": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue"
         },
+        "3e2b0cf9f58789744ce9fe4ab61bf42b58d0a1ab": {
+            "en": "St. Thomas University"
+        },
         "3f5c26b3749789423b53c4618c6af54a08b4e5a7": {
             "en": "Northern Lights College"
         },
@@ -1247,9 +1246,6 @@
         },
         "9a8356c9daf15ce2f4ec644bc48c2d4bb075b207": {
             "en": "MacEwan University"
-        },
-        "9b81da3f8824426e040d8a78dc8da15ef3f5d8fa": {
-            "en": "St. Thomas University"
         },
         "a51050a4efa50180d42ab16ac839f7cc3c5647d5": {
             "en": "Capilano University"
