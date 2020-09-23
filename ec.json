@@ -1,14 +1,334 @@
 {
+    "013e87d0bcfe2a901e890ee135a77f64efe6ccec": {
+        "en": "Escuela Superior Politecnica del Litoral - espol",
+        "es": "Escuela Superior Politecnica del Litoral - espol"
+    },
+    "018ca4520f865b9b65d0fd4dd41d2aec687a739f": {
+        "en": "Domingo Comin - domingocomin",
+        "es": "Domingo Comin - domingocomin"
+    },
+    "040e686c8343c18ffcac554393433fc17ffbc92b": {
+        "en": "Liceo Internacional - liceointernacional",
+        "es": "Liceo Internacional - liceointernacional"
+    },
+    "07f8ada5438620daa61de7a6758adcb3d477ce2a": {
+        "en": "Universidad Israel - Estudiantes - uisrael",
+        "es": "Universidad Israel - Estudiantes - uisrael"
+    },
+    "0bb67c4e529dd16a5c1fb37e12bbeb6238d7cf8c": {
+        "en": "Universidad Catolica Santiago de Guayaquil - ucsg",
+        "es": "Universidad Catolica Santiago de Guayaquil - ucsg"
+    },
+    "0d46d3f5f1ffda572dc515a0757bc0c976b73133": {
+        "en": "Universidad de Guayaquil -Docentes-Estudiantes - ug",
+        "es": "Universidad de Guayaquil -Docentes-Estudiantes - ug"
+    },
+    "0d47b9e8dd3999908f7575e4522f78eeab69cc03": {
+        "en": "Tecnol\u00f3gico Esp\u00edritu Santo - tes",
+        "es": "Tecnol\u00f3gico Esp\u00edritu Santo - tes"
+    },
+    "116d28bf8f9c1a7c44db07c2a392d5eb91282c30": {
+        "en": "IPAC -  Instituto Particular Abd\u00f3n Calder\u00f3n - ipac",
+        "es": "IPAC -  Instituto Particular Abd\u00f3n Calder\u00f3n - ipac"
+    },
+    "1778cd561e9c55bfa546cc7b031606e529e01501": {
+        "en": "Unidad educativa Tecnico Salesiano - uets",
+        "es": "Unidad educativa Tecnico Salesiano - uets"
+    },
+    "1d45bcaaaff817a587489ef0cbf40633414ce244": {
+        "en": "Unidad Educativa CONESA Kennedy - ctsdonbosco",
+        "es": "Unidad Educativa CONESA Kennedy - ctsdonbosco"
+    },
+    "22a961d4911565ccbb86b059995035c11c0cd753": {
+        "en": "Salesianos Cayambe - salesianoscayambe",
+        "es": "Salesianos Cayambe - salesianoscayambe"
+    },
+    "2391efa50dcf8945c10e4cf2e47785f7bd9a2160": {
+        "en": "Unidad Educativa Javier - uejavier",
+        "es": "Unidad Educativa Javier - uejavier"
+    },
+    "28f56ba590c48104d64749e6eb61a90e488fb113": {
+        "en": "Corporaci\u00f3n de Promoci\u00f3n Econ\u00f3mica ConQuito - conquito",
+        "es": "Corporaci\u00f3n de Promoci\u00f3n Econ\u00f3mica ConQuito - conquito"
+    },
+    "29ef8e5457fabae100319356103181523411fde4": {
+        "en": "Unidad Educativa Salesiana Crist\u00f3bal Col\u00f3n - cristobalcolon",
+        "es": "Unidad Educativa Salesiana Crist\u00f3bal Col\u00f3n - cristobalcolon"
+    },
+    "2a812312cb90fc504c6841774c8292f5aca692b2": {
+        "en": "Universidad San Gregorio de Portoviejo - sangregorio",
+        "es": "Universidad San Gregorio de Portoviejo - sangregorio"
+    },
+    "2cc15d3615c1d1ffe48ff31a027778cf64da5cd5": {
+        "en": "Universidad San Francisco de Quito - usfq",
+        "es": "Universidad San Francisco de Quito - usfq"
+    },
+    "3b2634ea188b49890e55a4abe5d7f4e5ca0849e9": {
+        "en": "Instituto Tecnologico Bolivariano - itb",
+        "es": "Instituto Tecnologico Bolivariano - itb"
+    },
+    "486b91abc0e1699ffc2adaacf6b1c4af411dbd8e": {
+        "en": "Universidad T\u00e9cnica Particular de Loja - utpl",
+        "es": "Universidad T\u00e9cnica Particular de Loja - utpl"
+    },
+    "486f889376d39e500ec9e408da2c6abcd66df5ee": {
+        "en": "Tecnologico Sudamericano - Guayaquil - tecsu",
+        "es": "Tecnologico Sudamericano - Guayaquil - tecsu"
+    },
+    "4c6467ed33f898d09d78aa57707d9b16a7cf9557": {
+        "en": "Centro Educativo Naciones Unidas - cenu",
+        "es": "Centro Educativo Naciones Unidas - cenu"
+    },
+    "4dd6db7f56576594c64bdf8d4f1b8d8c556758dd": {
+        "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
+        "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
+    },
+    "4df486036a9f2a9a789ecac2b6df8d6afa239be0": {
+        "en": "Instituto Tecnologico Superior Honorable Consejo Provincial de Pichincha - tecnologicopichincha",
+        "es": "Instituto Tecnologico Superior Honorable Consejo Provincial de Pichincha - tecnologicopichincha"
+    },
     "4fe36d11807ebcaeb98717e39c39f01c0b8fd397": {
         "en": "Universidad T\u00e9cnica de Ambato - uta",
         "es": "Universidad T\u00e9cnica de Ambato - uta"
+    },
+    "507e3d254c2b1f6f60e648226785a6be575e62f2": {
+        "en": "Unidad Educativa Cristo Rey - cristorey",
+        "es": "Unidad Educativa Cristo Rey - cristorey"
+    },
+    "593fa85193800ca146d4f9ef9dbb1aa905f53ccc": {
+        "en": "Universidad Estatal Pen\u00ednsula de Santa Elena - Estudiantes - upse",
+        "es": "Universidad Estatal Pen\u00ednsula de Santa Elena - Estudiantes - upse"
+    },
+    "5b10a6be284c6406a76aa710b2d4a36fa05818bf": {
+        "en": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola",
+        "es": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola"
+    },
+    "5de4ef644c9ede9023e9f916c64e816b34a4106d": {
+        "en": "Universidad Nacional de Educadores - unae",
+        "es": "Universidad Nacional de Educadores - unae"
+    },
+    "5eda1b1beda721715cc23cc6bae3402d88d2c499": {
+        "en": "Pontificia Universidad Cat\u00f3lica del Ecuador, Ambato - pucesa",
+        "es": "Pontificia Universidad Cat\u00f3lica del Ecuador, Ambato - pucesa"
+    },
+    "645e4d24e4d267085994025cfe36404aa2a9e15a": {
+        "en": "Universidad del Azuay - uazuay",
+        "es": "Universidad del Azuay - uazuay"
+    },
+    "6fa5986597dc62b2ba6b1e46760f2c5bccb6a840": {
+        "en": "Universidad Tecnologica Indoamerica - uti",
+        "es": "Universidad Tecnologica Indoamerica - uti"
+    },
+    "76ab40339ec68f8b3f28054207184847e0e46d7a": {
+        "en": "Universidad YACHAY TECH - yachaytech",
+        "es": "Universidad YACHAY TECH - yachaytech"
+    },
+    "76babcc7236c25d0781f865914144f85afd02672": {
+        "en": "Pontificia Universidad Catolica del Ecuador,\u00a0 Ibarra - pucesi",
+        "es": "Pontificia Universidad Catolica del Ecuador,\u00a0 Ibarra - pucesi"
     },
     "795f12b34745e441abaa0552dd8f602c04d7f412": {
         "en": "UCuenca",
         "es": "UCuenca"
     },
+    "7d1241b575bec1f1c016e4e5a59167f1fa4cea64": {
+        "en": "Unidad Educativa San Felipe Neri - sfelipeneri",
+        "es": "Unidad Educativa San Felipe Neri - sfelipeneri"
+    },
+    "80ccebf4a6e8d0264b055054cac4ce9b9a638a52": {
+        "en": "Pontificia Universidad Catolica del Ecuador, Sto. Domingo - pucesd",
+        "es": "Pontificia Universidad Catolica del Ecuador, Sto. Domingo - pucesd"
+    },
+    "819b7e1da5d75bac6bf4836b25d06e8fac556f21": {
+        "en": "UESTAR-Unidad Educativa Santo Tomas Apostol - Riobamba - uestar",
+        "es": "UESTAR-Unidad Educativa Santo Tomas Apostol - Riobamba - uestar"
+    },
+    "819ecfd4c346bfdcecaafd1d0bb77dd871d8ac65": {
+        "en": "Instituto Superior Tecnol\u00f3gico Vida Nueva - istvidanueva",
+        "es": "Instituto Superior Tecnol\u00f3gico Vida Nueva - istvidanueva"
+    },
+    "86e4cb7cecfab89d966b880045e24078630183a8": {
+        "en": "Escuela Superior Politecnica Agropecuaria de Manabi - espam",
+        "es": "Escuela Superior Politecnica Agropecuaria de Manabi - espam"
+    },
+    "873a39ba5897607a028baad30d608097bd45deef": {
+        "en": "Universidad del Pac\u00edfico - Estudiantes - upacifico",
+        "es": "Universidad del Pac\u00edfico - Estudiantes - upacifico"
+    },
+    "898d7e3c2bbb99e1cb242af0c46ff02b56532d44": {
+        "en": "Universidad de las Fuerzas Armadas - espe",
+        "es": "Universidad de las Fuerzas Armadas - espe"
+    },
+    "8b4e0729cc56cb1823161293aa42416048c46472": {
+        "en": "Universidad UTE - ute",
+        "es": "Universidad UTE - ute"
+    },
+    "8e2ad00dd13899a041a80e241eab981f6816f19b": {
+        "en": "Escuela Superior Politecnica de Chimborazo - espoch",
+        "es": "Escuela Superior Politecnica de Chimborazo - espoch"
+    },
+    "8eda58deb792e67face8c2a597b8236cb29d5a1a": {
+        "en": "Universidad Laica Eloy Alfaro de Manab\u00ed - uleam",
+        "es": "Universidad Laica Eloy Alfaro de Manab\u00ed - uleam"
+    },
+    "9165f318ea1e817ad9912f69f2cbadb3000896a7": {
+        "en": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio",
+        "es": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio"
+    },
+    "91d9b0c410badc064b78b257c4ad69a76c27243d": {
+        "en": "Unidad Educativa Salesiana Cardenal Spellman - spellman",
+        "es": "Unidad Educativa Salesiana Cardenal Spellman - spellman"
+    },
+    "94fdcbe9a0c8f039e3d4b5872a92f51965a39afa": {
+        "en": "Instituto Tecnol\u00f3gico Superior Rumi\u00f1ahui - ister",
+        "es": "Instituto Tecnol\u00f3gico Superior Rumi\u00f1ahui - ister"
+    },
+    "9636c11828d8bd667d591c9d34a2358d780d242b": {
+        "en": "Unidad Educativa San Juan Bosco de la ciudad de Zaruma - sjbzaruma",
+        "es": "Unidad Educativa San Juan Bosco de la ciudad de Zaruma - sjbzaruma"
+    },
+    "981acbd4558d59e8410abe8c2b6f1cad79c7c16d": {
+        "en": "Salesianos Ibarra - salesianosibarra",
+        "es": "Salesianos Ibarra - salesianosibarra"
+    },
+    "98e353c216b5a527a8efd6464ac7b10515ea60e5": {
+        "en": "Universidad T\u00e9cnica del Norte - utn",
+        "es": "Universidad T\u00e9cnica del Norte - utn"
+    },
+    "9f1c448bc0512545e73e01c1cf618bf6ddea2a0b": {
+        "en": "Universidad T\u00e9cnica de Machala - utmachala",
+        "es": "Universidad T\u00e9cnica de Machala - utmachala"
+    },
+    "a21414e238f5da3f8aff928e2aa9c738c999ce42": {
+        "en": "Universidad T\u00e9cnica de Manab\u00ed - utm",
+        "es": "Universidad T\u00e9cnica de Manab\u00ed - utm"
+    },
+    "a7cef3cdae129ece69fd0acef614e0249de89790": {
+        "en": "Escuela Polit\u00e9cnica Nacional - epn",
+        "es": "Escuela Polit\u00e9cnica Nacional - epn"
+    },
+    "b49a6f085aea60b8bc185a2dfff12f6a15c212e8": {
+        "en": "Instituto de Tecnolog\u00edas Sudamericano - sudamericano",
+        "es": "Instituto de Tecnolog\u00edas Sudamericano - sudamericano"
+    },
+    "b9615b66388c2572d3377e03f3c57692b0536c7c": {
+        "en": "Universidad de las Americas - udla",
+        "es": "Universidad de las Americas - udla"
+    },
+    "b9b2d38a9a95326262fb3b0cb097e439eca81380": {
+        "en": "Unidad Educativa Agronomico Salesiano - ueas",
+        "es": "Unidad Educativa Agronomico Salesiano - ueas"
+    },
+    "bf3c74527fd552f5361f59883e2f577d042e7e3f": {
+        "en": "Instituto Geof\u00edsico - Escuela Polit\u00e9cnica Nacional - igepn",
+        "es": "Instituto Geof\u00edsico - Escuela Polit\u00e9cnica Nacional - igepn"
+    },
+    "bf9f45dac6f83cd8670987257c748b9dd40a7092": {
+        "en": "Universidad Tecnica Estatal de Quevedo - uteq",
+        "es": "Universidad Tecnica Estatal de Quevedo - uteq"
+    },
+    "c1dc2a8f2ffb9afd749f504bf6dc9bdabe5938f8": {
+        "en": "Universidad Estatal Amaz\u00f3nica - uea",
+        "es": "Universidad Estatal Amaz\u00f3nica - uea"
+    },
+    "c26c3e8e026b2f29a735dad395b5b671764d6d57": {
+        "en": "Universidad Central del Ecuador - uce",
+        "es": "Universidad Central del Ecuador - uce"
+    },
+    "c279af79d2a52354a9cab46878fc83f7d22cdb9c": {
+        "en": "Universidad Estatal de Milagro - unemi",
+        "es": "Universidad Estatal de Milagro - unemi"
+    },
+    "c2d9458ca184b77316ce67b1cd78b4b8f22e7e3b": {
+        "en": "Universidad Estatal de Bolivar - ueb",
+        "es": "Universidad Estatal de Bolivar - ueb"
+    },
+    "c680730ac7dbd329e383ace382d6d98d788faf01": {
+        "en": "Universidad Politecnica Estatal del Carchi - upec",
+        "es": "Universidad Politecnica Estatal del Carchi - upec"
+    },
+    "c6e9bf220e989b644aaa22642d4f5695f79ca8d9": {
+        "en": "Universidad Politecnica Salesiana - ups",
+        "es": "Universidad Politecnica Salesiana - ups"
+    },
+    "c87368a890db536992144c4ff25884a458b78019": {
+        "en": "Unidad Educativa Salesiana Mar\u00eda Auxiliadora - Esmeraldas - uesmae",
+        "es": "Unidad Educativa Salesiana Mar\u00eda Auxiliadora - Esmeraldas - uesmae"
+    },
+    "ca21ee5d36fcc3e35a313e442f5144a3546abe81": {
+        "en": "Pontificia Universidad Catolica del Ecuador - Esmeraldas - pucese",
+        "es": "Pontificia Universidad Catolica del Ecuador - Esmeraldas - pucese"
+    },
+    "cc3e0339dd5123ee485ab3f535c497994a0ca0d3": {
+        "en": "Universidad Nacional de Chimborazo - unach",
+        "es": "Universidad Nacional de Chimborazo - unach"
+    },
+    "cedd7269caf34304936a14512fb9e3195d22185a": {
+        "en": "Universidad de Cuenca - ucuenca",
+        "es": "Universidad de Cuenca - ucuenca"
+    },
+    "d506d2db43496daa7373b1dae68e56472ae784d5": {
+        "en": "Unidad Educativa Salesiana San Jos\u00e9 - sanjosemanta",
+        "es": "Unidad Educativa Salesiana San Jos\u00e9 - sanjosemanta"
+    },
+    "d650c41fbe5ec6fba9e4d5b0c53ab861bc9adbde": {
+        "en": "Fundaci\u00f3n Colegio Americano Quito - fcaq",
+        "es": "Fundaci\u00f3n Colegio Americano Quito - fcaq"
+    },
+    "d71d4a2e0ef658b775bf98c9be7ae7fb8d12b3a6": {
+        "en": "Universidad Regional Autonoma de los Andes - uniandes",
+        "es": "Universidad Regional Autonoma de los Andes - uniandes"
+    },
+    "d9b05ed278d67578982c38074e8822c642ea6c07": {
+        "en": "Instituto Oceanogr\u00e1fico de la Armada - inocar",
+        "es": "Instituto Oceanogr\u00e1fico de la Armada - inocar"
+    },
+    "dab4dd2e720ea91051438cc792bd9de55fe625e6": {
+        "en": "Universidad de las Artes - uartes",
+        "es": "Universidad de las Artes - uartes"
+    },
+    "e094e05f567fdbff0918e39310da299a1ef8f166": {
+        "en": "Unidad Educativa Fiscomisional Don Bosco - Macas CONESA - donboscomacas",
+        "es": "Unidad Educativa Fiscomisional Don Bosco - Macas CONESA - donboscomacas"
+    },
+    "e11642d2a97469b021c4600da18e0622aec1d626": {
+        "en": "Universidad Nacional de Loja - unl",
+        "es": "Universidad Nacional de Loja - unl"
+    },
+    "e16d18743c4047ffd8da672734935f89f67d5679": {
+        "en": "Universidad Catolica de Cuenca - Funcionarios - ucacue",
+        "es": "Universidad Catolica de Cuenca - Funcionarios - ucacue"
+    },
+    "e4c1fdfc25482308170f4df5a8a0bcc17f861f05": {
+        "en": "Instituto Cordillera (estudiantes) - cordillera",
+        "es": "Instituto Cordillera (estudiantes) - cordillera"
+    },
+    "e75744aa8c6963fffa8fc48b449877b95d14dc19": {
+        "en": "Academia Cotopaxi - cotopaxi",
+        "es": "Academia Cotopaxi - cotopaxi"
+    },
+    "e8a3ccd0dcecbcf789105ab8d91b41c149fed251": {
+        "en": "Universidad Internacional del Ecuador - internacional",
+        "es": "Universidad Internacional del Ecuador - internacional"
+    },
     "ebd661309b1cf27038d53202fa520024989e1633": {
         "en": "Corporaci\u00f3n Ecuatoriana para el Desarrollo de la investigaci\u00f3n y la academia - cedia",
         "es": "Corporaci\u00f3n Ecuatoriana para el Desarrollo de la investigaci\u00f3n y la academia - cedia"
+    },
+    "f34da7b58d0cbdec6c40adbeeaadc89948331d58": {
+        "en": "IKIAM Universidad regional Amaz\u00f3nica - ikiam",
+        "es": "IKIAM Universidad regional Amaz\u00f3nica - ikiam"
+    },
+    "f5ad5541b4564a2625701321108411bc0396f521": {
+        "en": "Salesianos Casa Inspectorial - Quito - salesianos",
+        "es": "Salesianos Casa Inspectorial - Quito - salesianos"
+    },
+    "fdf7a43930178af65b8c3fcd9c3981bddeb48440": {
+        "en": "Unidad Educativa Borja - unidadborja",
+        "es": "Unidad Educativa Borja - unidadborja"
+    },
+    "ffd2570f6586b2543f646b0354f0459212b69c97": {
+        "en": "Instituto Tecnol\u00f3gico Superior Jos\u00e9 Chiriboga Grijalva - tecnologicoitca",
+        "es": "Instituto Tecnol\u00f3gico Superior Jos\u00e9 Chiriboga Grijalva - tecnologicoitca"
     }
 }
