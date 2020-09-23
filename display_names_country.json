@@ -1524,10 +1524,6 @@
             "de": "HEP-PH FR - P\u00e4dagogische Hochschule Freiburg",
             "en": "HEP-PH FR - University of Teacher Education Fribourg"
         },
-        "cb2c9481a84a482fb079e05f81464e855a1dbbc8": {
-            "de": "FHS St. Gallen",
-            "en": "FHS St.Gallen"
-        },
         "d0bb38c92ef202332e9a3674641d1e471d17a020": {
             "en": "Idiap Research Institute"
         },
@@ -5393,15 +5389,16 @@
     },
     "ec": {
         "4fe36d11807ebcaeb98717e39c39f01c0b8fd397": {
-            "en": "Ambato Technical University - uta",
-            "es": "Universidad Tecnica de Ambato - uta"
+            "en": "Universidad T\u00e9cnica de Ambato - uta",
+            "es": "Universidad T\u00e9cnica de Ambato - uta"
         },
         "795f12b34745e441abaa0552dd8f602c04d7f412": {
             "en": "UCuenca",
             "es": "UCuenca"
         },
         "ebd661309b1cf27038d53202fa520024989e1633": {
-            "en": "Corporaci\u00f3n Ecuatoriana para el Desarrollo de la Investigaci\u00f3n y la Academia - cedia"
+            "en": "Corporaci\u00f3n Ecuatoriana para el Desarrollo de la investigaci\u00f3n y la academia - cedia",
+            "es": "Corporaci\u00f3n Ecuatoriana para el Desarrollo de la investigaci\u00f3n y la academia - cedia"
         }
     },
     "ee": {
