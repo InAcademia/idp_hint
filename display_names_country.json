@@ -1719,6 +1719,10 @@
             "en": "Qinghai University",
             "zh": "\u9752\u6d77\u5927\u5b66(Qinghai University)"
         },
+        "12a329b9b666a20863090d9a3ba8aecc84509b2a": {
+            "en": "Qingdao University",
+            "zh": "\u9752\u5c9b\u5927\u5b66(Qingdao University)"
+        },
         "12e42e4f87f00ada0737e3ea369bf907698acc0f": {
             "en": "Nanjing University of Science and Technology",
             "zh": "\u5357\u4eac\u7406\u5de5\u5927\u5b66(Nanjing University of Science and Technology)"
@@ -8817,6 +8821,10 @@
         "0007717d0f32bb96e0486fb50917ba76abfb0b12": {
             "en": "Tokyo University of Agriculture and Technology",
             "ja": "\u6771\u4eac\u8fb2\u5de5\u5927\u5b66"
+        },
+        "07f6fe369d15c59a17e133a7890fe5f38b3987da": {
+            "en": "Tohoku University",
+            "ja": "\u6771\u5317\u5927\u5b66"
         },
         "0dc25327aeecd7afd3eb264df014db487175928a": {
             "en": "National Institute of Informatics",
