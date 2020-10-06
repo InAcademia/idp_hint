@@ -158,6 +158,9 @@
     "1933a64c5ec2f2606f9dcfb8c8b369ef1690d1f4": {
         "en": "Florida International University"
     },
+    "196c735b93ab6447f9d50b9b73b070930d505bb0": {
+        "en": "University of Massachusetts Medical School"
+    },
     "1975bbd142e92b84619d4186d09d22e45977873b": {
         "en": "University of Texas at Austin"
     },
@@ -370,6 +373,9 @@
     },
     "3a3ce110336c1daa6fb4ad8494e0d69f9c947fbf": {
         "en": "Ames Laboratory"
+    },
+    "3a92f8de485337f0c993deedc30b1b66031de768": {
+        "en": "Oak Ridge National Laboratory"
     },
     "3ac98c13ce0943e227e0da7f2439181114ab1ea0": {
         "en": "California State University, Fullerton"
@@ -611,6 +617,9 @@
     "5e7194b79da0e66196c5043ee898c5135f79f724": {
         "en": "Lehigh University"
     },
+    "5f96f987b94b819fcca3af5c3d944c6d2e3c4f2b": {
+        "en": "The Moody Bible Institute of Chicago"
+    },
     "60a5681d28b5b38bd45178a54d90451228c8e4a9": {
         "en": "Yale University"
     },
@@ -737,6 +746,9 @@
     "73036c2caaf3f57a7253ece7bdb3e5f617cb8c80": {
         "en": "California Community Colleges Chancellors Office"
     },
+    "732b149fd52be4fb5dc21423223d9b316cec452f": {
+        "en": "Lawrence Technological University"
+    },
     "734842b32565a336fbd9346d223001a069d3f862": {
         "en": "Western Washington University"
     },
@@ -811,6 +823,9 @@
     },
     "7ce4f8491912901091c3ab3c91c222ebc69a8857": {
         "en": "LCMS Plus Inc."
+    },
+    "7e3ce48587a425a0c4369b87dcfb4511b76d212d": {
+        "en": "State Center Community College District"
     },
     "7e55992a9c47b7508b829e32e3fbcc6569bd01a0": {
         "en": "Bridgewater College"
@@ -908,6 +923,9 @@
     "8ddb26681592599306d65271f0dcdd20318fbd78": {
         "en": "Boston College"
     },
+    "8dfaaae56ec242d6f8b638b1a1e0bcb8f8d17b87": {
+        "en": "Northern Michigan University"
+    },
     "8e5dfb3dc4707870a2f91aa93ba42cd69ad920cc": {
         "en": "Owens Community College"
     },
@@ -955,6 +973,9 @@
     },
     "95fbb224d65c28db71176a3b8e58c38281675884": {
         "en": "Cornell University"
+    },
+    "96387a464f5d1753736b53de51bea4e9db3428b8": {
+        "en": "Antelope Valley Community College District"
     },
     "9650b0b6a069d69268f7bb66ecb70707817623a8": {
         "en": "University of Maryland Baltimore County"
@@ -1010,6 +1031,9 @@
     "a0f5000f3f4d0d29efc82de72d5a6bd2c2b65433": {
         "en": "Northern State University"
     },
+    "a12232c452189a068a4e9a79ec8c501266531b42": {
+        "en": "Bucks County Community College"
+    },
     "a202bcd9a65b6455f0524b24882f0bb7a8fdc75e": {
         "en": "Community College of Baltimore County"
     },
@@ -1027,6 +1051,9 @@
     },
     "a52dded7a242ad2d28fe0f380668c55574dcf839": {
         "en": "University of Pittsburgh"
+    },
+    "a5993f23374a0cde941e968f34aa23bb5ee63ac3": {
+        "en": "Colorado State University - Pueblo"
     },
     "a5c5bf7c8c72dad20ef99d2d662b5146a7451f3f": {
         "en": "Arizona State University"
@@ -1250,6 +1277,9 @@
     "c692558f9607d5561010b4686ffbd87e05d78238": {
         "en": "University of West Florida"
     },
+    "c6b54769b8150cd88de56e2deb98762bc98d1cf2": {
+        "en": "Bergen Community College"
+    },
     "c78a728fa9c0dc15be1a7ececac282acc2331b60": {
         "en": "Northeastern University"
     },
@@ -1343,6 +1373,9 @@
     "d560090ede78b7328bbacb6d0818093d94fb4686": {
         "en": "Bowling Green State University"
     },
+    "d5efaf444b59f2fc8a281ceffee56f96825b90d2": {
+        "en": "Davidson County Community College"
+    },
     "d5f3d7a85024c3d34b4d1c69d6369d8435ca6fd1": {
         "en": "SRE Carilion Clinic"
     },
@@ -1393,6 +1426,9 @@
     },
     "e164c02128173a6a666505b3eae9112d862141f1": {
         "en": "Northern Arizona University"
+    },
+    "e1972f752d40cb84df5dfbbb4001bb7d79ea23dc": {
+        "en": "Cedarville University"
     },
     "e19966b28f886db6a5a0e52105387ec853a7f905": {
         "en": "Gustavus Adolphus College"
@@ -1459,6 +1495,9 @@
     },
     "ecebe0e989d57c956d238fe5af76e6973ab0b800": {
         "en": "Lawrence Livermore National Laboratory"
+    },
+    "ed50879e02428183262a5ffb8d8a54c198923a55": {
+        "en": "National Science Foundation"
     },
     "ed840305006bbf9f8e0301eb71e0bf1d9050e0d4": {
         "en": "Albert Einstein College of Medicine"
@@ -1546,6 +1585,9 @@
     },
     "f9c8ae75a62935a2b730a1da6f6e5f0dc31f1a0e": {
         "en": "DePauw University InCommon"
+    },
+    "fa0b545d09494b281961794f39be5a39f1b271fa": {
+        "en": "Illinois Institute of Technology"
     },
     "fa152799f877ce9752784429823b376c953efbaa": {
         "en": "North Idaho College"
