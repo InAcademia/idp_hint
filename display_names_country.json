@@ -7421,6 +7421,14 @@
             "fr": "Administration centrale MENJ/MESRI/MS"
         }
     },
+    "ge": {
+        "420d93002bef801dd3b7334ba2e06b0269dd593e": {
+            "en": "GRENA Identity Provider"
+        },
+        "fe641f187cec2f886ccf091dc8165d729e29f606": {
+            "en": "National Scientific Library - Georgia"
+        }
+    },
     "gr": {
         "00d565943be4bdcb74938af04832e8e9ff2d7909": {
             "el": "HEAL-Link",
@@ -10100,6 +10108,9 @@
         },
         "329abc57d986d62461f92d58e9c4272bcfbc46dc": {
             "en": "Oman College Of Management and Technology (OM-KID)"
+        },
+        "35606163087d3bc6d25bb6141b7f710246825bdd": {
+            "en": "University of Nizwa"
         },
         "35dd1f75c9c2210e310e045ed01080810b0fb0ed": {
             "en": "Nizwa College of Technology (OM-KID)"
