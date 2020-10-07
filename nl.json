@@ -343,10 +343,6 @@
         "en": "Zone.College",
         "nl": "Zone.College"
     },
-    "96cd05c24eb0712851a0fe8a01913506d733c937": {
-        "en": "Academisch Ziekenhuis Maastricht",
-        "nl": "Academisch Ziekenhuis Maastricht"
-    },
     "9705b81df14a935ea0542c4e8f19532b3011a484": {
         "en": "Hogeschool de Kempel",
         "nl": "Hogeschool de Kempel"
@@ -356,8 +352,8 @@
         "nl": "Grafisch Lyceum Rotterdam"
     },
     "9af56a80fa1091f319311aeadde7e56d4f81981a": {
-        "en": "Academisch Ziekenhuis Maastricht (new)",
-        "nl": "Academisch Ziekenhuis Maastricht (nieuw)"
+        "en": "Academisch Ziekenhuis Maastricht",
+        "nl": "Academisch Ziekenhuis Maastricht"
     },
     "9b4ef0c11eb1e363072f63ef66737156c7cd13e8": {
         "en": "Grafisch Lyceum Utrecht",
