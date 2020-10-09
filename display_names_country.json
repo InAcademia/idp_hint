@@ -5524,8 +5524,8 @@
             "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
         },
         "4df486036a9f2a9a789ecac2b6df8d6afa239be0": {
-            "en": "Instituto Tecnologico Superior Honorable Consejo Provincial de Pichincha - tecnologicopichincha",
-            "es": "Instituto Tecnologico Superior Honorable Consejo Provincial de Pichincha - tecnologicopichincha"
+            "en": "Instituto Superior Tecn\u00f3logico  Honorable Consejo Provincial de Pichincha - tecnologicopichincha",
+            "es": "Instituto Superior Tecn\u00f3logico  Honorable Consejo Provincial de Pichincha - tecnologicopichincha"
         },
         "4fe36d11807ebcaeb98717e39c39f01c0b8fd397": {
             "en": "Universidad T\u00e9cnica de Ambato - uta",
@@ -6631,6 +6631,10 @@
             "en": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-Belleville",
             "fr": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-Belleville"
         },
+        "4a5bbac3d5f6dd2707e03a8b26d575f1cbd51d07": {
+            "en": "CentraleSupelec - Metz (new)",
+            "fr": "CentraleSupelec - Metz (new)"
+        },
         "4b5c07c298fd46fdd9b7f6e6e8a4d845648fb175": {
             "en": "CROUS Normandie - Employees v3",
             "fr": "CROUS Normandie - Personnels v3"
@@ -7178,6 +7182,10 @@
         "ba5fcc47fc51f383bbb5274d1fdbd1beea7a0f91": {
             "en": "GIP RENATER",
             "fr": "GIP RENATER"
+        },
+        "bc69d8a57c3f00feb1c63efa2d69bf7b0ec74d0a": {
+            "en": "CentraleSupelec - Rennes (new)",
+            "fr": "CentraleSupelec - Rennes (new)"
         },
         "bcc9e571adae2d5098ab60429196ccb93966c38d": {
             "en": "CIEP / France Education International",
