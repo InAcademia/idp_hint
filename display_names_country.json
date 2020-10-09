@@ -9429,6 +9429,28 @@
             "en": "https://accounts.um.edu.mt/saml/saml2/idp"
         }
     },
+    "mx": {
+        "616a3356c299826b9569e65a5a622b168aa93b9d": {
+            "en": "Universidad de Guadalajara",
+            "es": "Universidad de Guadalajara"
+        },
+        "6b1b78fa7192c8916c729e46d6e32d9a7d2a4a2d": {
+            "en": "University of Colima",
+            "es": "Universidad de Colima"
+        },
+        "973880676084edd554a10661be46a29b7b6932e1": {
+            "en": "FENIX",
+            "es": "FENIX"
+        },
+        "aa9302732da47d2b4a22a48ed5233a24b63562c5": {
+            "en": "CUDI",
+            "es": "CUDI"
+        },
+        "e9bef3885edf6822cb799ea5a8cf286cdf7edcb2": {
+            "en": "UNAM",
+            "es": "UNAM"
+        }
+    },
     "my": {
         "284e80135a3807054edf709a72fc7f9a67de7777": {
             "en": "Universiti Malaysia Pahang"
