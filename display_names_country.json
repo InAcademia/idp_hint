@@ -9729,10 +9729,6 @@
             "en": "SURFmarket",
             "nl": "SURFmarket"
         },
-        "51678ae1e544b76b1b3e298a7e8b66241acfcb01": {
-            "en": "Open Universiteit",
-            "nl": "Open Universiteit"
-        },
         "58f44eb4100a4c6520f2631ae2f6002131d23649": {
             "en": "Netherlands eScience Center",
             "nl": "Netherlands eScience Center"
@@ -9830,8 +9826,8 @@
             "nl": "Academisch Medisch Centrum (AMC)"
         },
         "8db9c621e55ba583fd2dcfa4a9e9718e8163591c": {
-            "en": "Open Universiteit (new)",
-            "nl": "Open Universiteit (nieuw)"
+            "en": "Open Universiteit",
+            "nl": "Open Universiteit"
         },
         "8fb7259d44b2b5a34ab222c87aa3eeb85e34c9be": {
             "en": "Royal Tropical Institute",
@@ -10148,9 +10144,6 @@
         },
         "0fa255765ce142989ea79598db54b0aaaf7cffe0": {
             "en": "Mazoon College (OM-KID)"
-        },
-        "170dc13f77b341c691889fdb5cffa2d16fea2941": {
-            "en": "Shinas College of Technology"
         },
         "1af8f77dd1a6e2928a47db40604a5b093a7dea40": {
             "en": "Arab Open University (OM-KID)"
