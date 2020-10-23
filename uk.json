@@ -926,9 +926,6 @@
     "8619aa7f87fe12ad82b32df5d85d4f84b4e599d4": {
         "en": "Stockport Libraries"
     },
-    "868703c9f75aaf1f9451c42ac92f9f182ef2eaf4": {
-        "en": "Matthew Slowe (mafoo.org.uk)"
-    },
     "86b62e247cf7d4aefb7fe6c4a396e4832eaa1f25": {
         "en": "Birkbeck College"
     },
@@ -1604,9 +1601,6 @@
     "e532d9dc382154cd41b10d855227a06fee85b3e8": {
         "en": "St Charles Catholic Sixth Form College"
     },
-    "e545efa8e2f00337e000cc8c857879955675fd62": {
-        "en": "Dev r IdP for idp.r.mafoo.org.uk"
-    },
     "e561026bbfed5dfc758c67c42c477d8936cbbfe5": {
         "en": "Pearson College London"
     },
@@ -1768,6 +1762,9 @@
     },
     "fc0ed3d094cc28e03e1b069dbf668879c0003b28": {
         "en": "The College of West Anglia"
+    },
+    "fc4d8a493efec918cc7fac7d180b74f772d9e46a": {
+        "en": "mafoo.org.uk"
     },
     "fc4ff1f15531e7990184e2616b441f736861c393": {
         "en": "LSE - London School of Economics and Political Science"
