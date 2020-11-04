@@ -83,6 +83,10 @@
         "en": "National Library of Foreign Literature",
         "hu": "Orsz\u00e1gos Idegennyelv\u0171 K\u00f6nyvt\u00e1r"
     },
+    "9812d3b1c8f9548daf33b36d83e8ca5223e71bc1": {
+        "en": "Kodol\u00e1nyi J\u00e1nos University",
+        "hu": "Kodol\u00e1nyi J\u00e1nos Egyetem"
+    },
     "9bfdd23f2aca26ecd346e3728664989ce3e5b6b9": {
         "en": "MTA, Institutes of Hungarian Academy of Sciences",
         "hu": "MTA, Magyar Tudom\u00e1nyos Akad\u00e9miai Int\u00e9zetei"
@@ -94,10 +98,6 @@
     "b12a2ca05751f9b272b3bf32c877a4e0fda83044": {
         "en": "Szent Istv\u00e1n University",
         "hu": "Szent Istv\u00e1n Egyetem"
-    },
-    "b17bc088266ba4217a4bca2da93d34bb9c0fccd1": {
-        "en": "Kodol\u00e1nyi J\u00e1nos University",
-        "hu": "Kodol\u00e1nyi J\u00e1nos Egyetem"
     },
     "b267df549f28ab9c07b9233c833345b897534c1f": {
         "en": "University of Szeged",
