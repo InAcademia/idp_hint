@@ -11081,8 +11081,14 @@
         "3beb10faac5ef8f75c98088ac65cb70db7d52abc": {
             "en": "Singapore Institutions (Please use your home institution entry instead e.g. NUS, NTU, A-STAR, etc)"
         },
+        "470fd4f36dd5c60ba72b84400b57bad3c30e8a42": {
+            "en": "SP - Singapore Polytechnic"
+        },
         "8ea383d640d27bcf4d3b7eb666037d7ca1f0b167": {
             "en": "NUS - National University of Singapore"
+        },
+        "a8d292ad39984242c0202be49eeb225887f243ac": {
+            "en": "TP - Temasek Polytechnic"
         },
         "b8471dd49bf11a4b6eb9aee2686ddb18c525ca17": {
             "en": "SUTD - Singapore University of Technology and Design"
