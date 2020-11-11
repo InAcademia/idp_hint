@@ -2053,6 +2053,10 @@
             "en": "Shanghai Polytechnic University",
             "zh": "\u4e0a\u6d77\u7b2c\u4e8c\u5de5\u4e1a\u5927\u5b66(Shanghai Polytechnic University)"
         },
+        "3e8ad6693b329cbf6398cd9caa39db8fc3b687c1": {
+            "en": "Capital Normal University",
+            "zh": "\u9996\u90fd\u5e08\u8303\u5927\u5b66(Capital Normal University)"
+        },
         "3f176efb1aa72b1e40b368ac13d28e44a4af0411": {
             "en": "Jimei University",
             "zh": "\u96c6\u7f8e\u5927\u5b66(Jimei University)"
@@ -10284,6 +10288,9 @@
         },
         "788d57309ae93681d9e7e2247f5d7bfcbbf1769b": {
             "en": "University of Buraimi"
+        },
+        "791f3d0d12db0bfef72e41ea33ca001bca3069f1": {
+            "en": "University of Technology and Applied Sciences-Nizwa"
         },
         "7ddc167cae60f1535eda9a986c7a61f7b3b6ae87": {
             "en": "Majan University College (OM-KID)"
