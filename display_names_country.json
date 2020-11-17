@@ -5614,10 +5614,6 @@
             "en": "Pontificia Universidad Catolica del Ecuador\u00a0 Ibarra - pucesi",
             "es": "Pontificia Universidad Catolica del Ecuador\u00a0 Ibarra - pucesi"
         },
-        "795f12b34745e441abaa0552dd8f602c04d7f412": {
-            "en": "UCuenca",
-            "es": "UCuenca"
-        },
         "7d1241b575bec1f1c016e4e5a59167f1fa4cea64": {
             "en": "Unidad Educativa San Felipe Neri - sfelipeneri",
             "es": "Unidad Educativa San Felipe Neri - sfelipeneri"
@@ -5745,6 +5741,10 @@
         "cc3e0339dd5123ee485ab3f535c497994a0ca0d3": {
             "en": "Universidad Nacional de Chimborazo - unach",
             "es": "Universidad Nacional de Chimborazo - unach"
+        },
+        "cedd7269caf34304936a14512fb9e3195d22185a": {
+            "en": "Universidad de Cuenca - ucuenca",
+            "es": "Universidad de Cuenca - ucuenca"
         },
         "d506d2db43496daa7373b1dae68e56472ae784d5": {
             "en": "Unidad Educativa Salesiana San Jos\u00e9 - sanjosemanta",
@@ -11462,6 +11462,9 @@
         },
         "2276cf4f6aeb9e89d3dec6ee5444576bfdf63fd7": {
             "en": "Regent's University London"
+        },
+        "22adccbacf1c33b7c7246c1c99017eba47f92130": {
+            "en": "Dudley College"
         },
         "236983dba70349cba6ea6d85e44d56813e9202bc": {
             "en": "Richard Huish College"
