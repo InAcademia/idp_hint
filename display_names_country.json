@@ -9802,8 +9802,8 @@
             "nl": "SRON Netherlands Institute for Space Research"
         },
         "3b4ef690b63e7ea4ba3d0576a928d38b49daa326": {
-            "en": "University of Amsterdam (new)",
-            "nl": "Universiteit van Amsterdam (nieuw)"
+            "en": "University of Amsterdam",
+            "nl": "Universiteit van Amsterdam"
         },
         "3e00cf93cb2ce85618e4a448060124021fae9cfc": {
             "en": "AMOLF",
@@ -10124,10 +10124,6 @@
         "c3ad60cbd44be043eb01a1634f5b5b679f6c5c27": {
             "en": "Stenden Hogeschool",
             "nl": "Stenden Hogeschool"
-        },
-        "c69b979f1dbc526bd78b96fa2a3a54326b8e55f7": {
-            "en": "University of Amsterdam",
-            "nl": "Universiteit van Amsterdam"
         },
         "c74dad3bb5bd51aced1001cded6c2f4417d5e159": {
             "en": "Huygens Instituut (KNAW)",
@@ -14127,13 +14123,16 @@
             "en": "Touro College"
         },
         "9853700e9b7a42ac3bde4e16983455de51aedb00": {
-            "en": "Northwestern University Shibboleth IdP UAT environment"
+            "en": "Northwestern University (UAT)"
         },
         "98c2c26a43bd5ec53d0a14f5f8621f2fd410a9db": {
             "en": "University of Illinois at Urbana-Champaign"
         },
         "98e5abc4447a21aa2269e8b9067bb7c1bc8ad5eb": {
             "en": "SUNY Geneseo"
+        },
+        "9a113b9cb9de518038a1f93e7cc65458be3f057c": {
+            "en": "Humboldt State University 2"
         },
         "9a8eb7629dec469c75f35c0d734e6d745b4e4f0f": {
             "en": "Hampshire College"
