@@ -3759,6 +3759,10 @@
             "cs": "Botanick\u00fd \u00fastav AV \u010cR",
             "en": "Institut of Botany ASCR"
         },
+        "83934e1771ef8d53bf677787736746e5714bdaef": {
+            "cs": "Vysok\u00e1 \u0161kola PRIGO",
+            "en": "The PRIGO University"
+        },
         "875f2c7b0201aa2dd695707d2ee847b321561bf1": {
             "cs": "M\u011bstsk\u00e1 knihovna Chodov",
             "en": "Municipal Library Chodov"
@@ -4195,7 +4199,7 @@
         },
         "1faab767dcc9c246538700395a7cb5f27c68c64e": {
             "de": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
-            "en": "Charite - Universitaetsmedizin Berlin"
+            "en": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin"
         },
         "205e44b4020eb1441ff2da9492cf7efaf80294a3": {
             "de": "Technische Universit\u00e4t Clausthal",
