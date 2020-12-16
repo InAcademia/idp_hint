@@ -1435,10 +1435,6 @@
         "en": "Hefei University of Technology",
         "zh": "\u5408\u80a5\u5de5\u4e1a\u5927\u5b66(Hefei University of Technology)"
     },
-    "d24f9d926150a11913e6ba563f940d6e69af4d90": {
-        "en": "Taiyuan University of Science and Technology",
-        "zh": "\u592a\u539f\u79d1\u6280\u5927\u5b66(Taiyuan University of Science and Technology)"
-    },
     "d2d274588cde457928f4e7cf27fbb834a63e84d3": {
         "en": "Xinjiang Normal University",
         "zh": "\u65b0\u7586\u5e08\u8303\u5927\u5b66(Xinjiang Normal University)"
@@ -1639,6 +1635,10 @@
         "en": "MinJiang University",
         "zh": "\u95fd\u6c5f\u5b66\u9662(MinJiang University)"
     },
+    "ea4a8ede53c1c138a3fd778c6f493b1589ccdd41": {
+        "en": "Jining University",
+        "zh": "\u6d4e\u5b81\u5b66\u9662(Jining University)"
+    },
     "eb8f7972dee9f9a60930a87e868f127f93149d34": {
         "en": "Shenyang Pharmaceutical University",
         "zh": "\u6c88\u9633\u836f\u79d1\u5927\u5b66(Shenyang Pharmaceutical University)"
@@ -1658,10 +1658,6 @@
     "ed881f01dd405dc6ab327119854c2a1ecfc957c2": {
         "en": "HeFei Technological College",
         "zh": "\u5408\u80a5\u804c\u4e1a\u6280\u672f\u5b66\u9662(HeFei Technological College)"
-    },
-    "ed9e9dce319673af5982b9f095c8ffd8847542db": {
-        "en": "zhejiang university city college",
-        "zh": "\u6d59\u6c5f\u5927\u5b66\u57ce\u5e02\u5b66\u9662(zhejiang university city college )"
     },
     "ef9f059b481d60a2ab7c161f70705ff847840586": {
         "en": "Jiangsu University",
