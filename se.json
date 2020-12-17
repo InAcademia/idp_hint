@@ -55,6 +55,10 @@
         "en": "Halmstad University",
         "sv": "H\u00f6gskolan i Halmstad"
     },
+    "3ee819ede295ac36ab4f178e5923d4a44d37e9c7": {
+        "en": "The Swedish Research Council",
+        "sv": "Vetenskapsr\u00e5det"
+    },
     "589378517675f3d08a8f08e6bbe60428cba6d89d": {
         "en": "University of Sk\u00f6vde",
         "sv": "H\u00f6gskolan i Sk\u00f6vde"
@@ -170,10 +174,6 @@
     "e917cfbf4f62a5ca1d23418f224a42da886fb8a8": {
         "en": "Lund University",
         "sv": "Lunds universitet"
-    },
-    "ec74e05806e194e8515be2b00c83d46671c46de8": {
-        "en": "The Swedish Research Council",
-        "sv": "Vetenskapsr\u00e5det"
     },
     "ef6b8c62830804b61ce9c823db3856b99588e4ba": {
         "en": "National Library of Sweden",
