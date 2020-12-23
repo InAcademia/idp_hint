@@ -300,8 +300,8 @@
         "zh": "\u91cd\u5e86\u4ea4\u901a\u5927\u5b66(Chongqing Jiaotong University)"
     },
     "2d5128664f42578d5581818ae80d3cd4ae5e1116": {
-        "en": "Zhejiang Yuexiu University of Foreign Languages",
-        "zh": "\u6d59\u6c5f\u8d8a\u79c0\u5916\u56fd\u8bed\u5b66\u9662(Zhejiang Yuexiu University of Foreign Languages)"
+        "en": "Zhejiang Yuexiu University",
+        "zh": "\u6d59\u6c5f\u8d8a\u79c0\u5916\u56fd\u8bed\u5b66\u9662(Zhejiang Yuexiu University)"
     },
     "2da8c4934ed44a41e6e1b07f96e3215f7e03b1da": {
         "en": "Weifang Medical University",
@@ -1443,6 +1443,10 @@
         "en": "Hefei University of Technology",
         "zh": "\u5408\u80a5\u5de5\u4e1a\u5927\u5b66(Hefei University of Technology)"
     },
+    "d24f9d926150a11913e6ba563f940d6e69af4d90": {
+        "en": "Taiyuan University of Science and Technology",
+        "zh": "\u592a\u539f\u79d1\u6280\u5927\u5b66(Taiyuan University of Science and Technology)"
+    },
     "d2d274588cde457928f4e7cf27fbb834a63e84d3": {
         "en": "Xinjiang Normal University",
         "zh": "\u65b0\u7586\u5e08\u8303\u5927\u5b66(Xinjiang Normal University)"
@@ -1666,6 +1670,10 @@
     "ed881f01dd405dc6ab327119854c2a1ecfc957c2": {
         "en": "HeFei Technological College",
         "zh": "\u5408\u80a5\u804c\u4e1a\u6280\u672f\u5b66\u9662(HeFei Technological College)"
+    },
+    "eef8afaaa960606052ddc7894f364499321fb243": {
+        "en": "Changshu Institute of Technology",
+        "zh": "\u5e38\u719f\u7406\u5de5\u5b66\u9662(Changshu Institute of Technology)"
     },
     "ef9f059b481d60a2ab7c161f70705ff847840586": {
         "en": "Jiangsu University",
