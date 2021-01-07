@@ -1,8 +1,4 @@
 {
-    "00d565943be4bdcb74938af04832e8e9ff2d7909": {
-        "el": "HEAL-Link",
-        "en": "HEAL-Link"
-    },
     "0197436d46fe2667df45c6ae2617a79077a447e3": {
         "el": "\u0399\u03cc\u03bd\u03b9\u03bf \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf",
         "en": "Ionian University"
@@ -170,10 +166,6 @@
     "780c302de5a01ded20784bdc7e18e9dc2a3d2847": {
         "el": "\u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
         "en": "University of West Attica"
-    },
-    "785ca3d5f499542e350e2b7590213723898224bd": {
-        "el": "\u0395\u03b9\u03ba\u03bf\u03bd\u03b9\u03ba\u03cc\u03c2 \u039f\u03b9\u03ba\u03b5\u03af\u03bf\u03c2 \u03a6\u03bf\u03c1\u03ad\u03b1\u03c2 (VHO) \u03c4\u03bf\u03c5 \u0395\u0394\u0395\u03a4 \u03b3\u03b9\u03b1 \u03c4\u03bf G\u00c9ANT",
-        "en": "GRNET Virtual Home Organization (VHO) for G\u00c9ANT"
     },
     "7905847ea95b1ef2fcb2f15fa959707f2f5e9f6b": {
         "el": "\u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2",
