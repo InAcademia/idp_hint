@@ -35,10 +35,6 @@
         "en": "Anqing Normal University",
         "zh": "\u5b89\u5e86\u5e08\u8303\u5927\u5b66(Anqing Normal University)"
     },
-    "04a784c9d519a262fd1f192fea79435754cfbd4b": {
-        "en": "Hunan University of Information Technology",
-        "zh": "\u6e56\u5357\u4fe1\u606f\u5b66\u9662(Hunan University of Information Technology)"
-    },
     "053594c7856978af6b7b27307bbc8ef13a394b2e": {
         "en": "Inner Mongolia Normal University",
         "zh": "\u5185\u8499\u53e4\u5e08\u8303\u5927\u5b66(Inner Mongolia Normal University)"
@@ -62,10 +58,6 @@
     "079d32006dd62b8e68f6f94ab2bcccb112b96253": {
         "en": "BaiCheng Normal University",
         "zh": "\u767d\u57ce\u5e08\u8303\u5b66\u9662(BaiCheng Normal University)"
-    },
-    "092d7b1d4263e7d6df400abb132c29c0c00c601a": {
-        "en": "Guangdong Women's Polytechnic College",
-        "zh": "\u5e7f\u4e1c\u5973\u5b50\u804c\u4e1a\u6280\u672f\u5b66\u9662(Guangdong Women's Polytechnic College)"
     },
     "0a0703b052ce91e5bae41879904cbb3d22356997": {
         "en": "Henan Polytechnic University",
@@ -130,10 +122,6 @@
     "0f6ec70583974dc3899b9a9e1cf8f3404f97296d": {
         "en": "Central South University of Forestry and Technology",
         "zh": "\u4e2d\u5357\u6797\u4e1a\u79d1\u6280\u5927\u5b66(Central South University of Forestry and Technology)"
-    },
-    "10fd0e04646d4fd1d9561899ba41a4497d4b39f1": {
-        "en": "Shanghai Civil Aviation College",
-        "zh": "\u4e0a\u6d77\u6c11\u822a\u804c\u4e1a\u6280\u672f\u5b66\u9662(Shanghai Civil Aviation College)"
     },
     "119ff75078ea75dcd94c93ea4ec154e4be032f7e": {
         "en": "Zhejiang University of Finance and Economics DongFang College",
@@ -615,10 +603,6 @@
         "en": "Henan University of Science and Technology",
         "zh": "\u6cb3\u5357\u79d1\u6280\u5927\u5b66(Henan University of Science and Technology)"
     },
-    "519a54ef5b256aa6c7d557d90cd2d4abe9cb13b7": {
-        "en": "Shandong Jiaotong University",
-        "zh": "\u5c71\u4e1c\u4ea4\u901a\u5b66\u9662(Shandong Jiaotong University)"
-    },
     "5249be965fa5ae17baa54791eb8fbee7c2d04052": {
         "en": "China Agricultural University",
         "zh": "\u4e2d\u56fd\u519c\u4e1a\u5927\u5b66(China Agricultural University)"
@@ -819,6 +803,10 @@
         "en": "Shandong Medical College Jinan",
         "zh": "\u5c71\u4e1c\u533b\u5b66\u9ad8\u7b49\u4e13\u79d1\u5b66\u6821\uff08\u6d4e\u5357\uff09(Shandong Medical College Jinan)"
     },
+    "6981d03aafb73bb74aa0fe0fa82d9280a2c2cb28": {
+        "en": "Shaanxi University of Science and Technology",
+        "zh": "\u9655\u897f\u79d1\u6280\u5927\u5b66(Shaanxi University of Science and Technology)"
+    },
     "6c23d9f2dce011503da45b7f57a3be545f1e69de": {
         "en": "Fujian Normal University",
         "zh": "\u798f\u5efa\u5e08\u8303\u5927\u5b66(Fujian Normal University)"
@@ -926,6 +914,10 @@
     "822455187593663d829bf99eb70c7c049b3573e6": {
         "en": "Lanzhou Universiy of Art and Science",
         "zh": "\u5170\u5dde\u6587\u7406\u5b66\u9662(Lanzhou Universiy of Art and Science)"
+    },
+    "83489468ada1555136d74b6e6ea597a0e4d5d9b0": {
+        "en": "PuTian University",
+        "zh": "\u8386\u7530\u5b66\u9662(PuTian University)"
     },
     "84474282bef4f3ec932bd54f4fc03e5a59895cc3": {
         "en": "Nanjing Institute of Technology",
@@ -1495,6 +1487,10 @@
         "en": "Hangzhou Normal University",
         "zh": "\u676d\u5dde\u5e08\u8303\u5927\u5b66(Hangzhou Normal University )"
     },
+    "d4ac44d066d16b8f2ee2d1b8e454a7effe80adaa": {
+        "en": "Sichuan Normal University",
+        "zh": "\u56db\u5ddd\u5e08\u8303\u5927\u5b66(Sichuan Normal University)"
+    },
     "d4efc3c19bc90d520e3ff6fa3e7cbf22a620bbe9": {
         "en": "Shanghai Jiao Tong University",
         "zh": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66(Shanghai Jiao Tong University)"
@@ -1542,10 +1538,6 @@
     "dc99051b385e9ca45c12b4a22dc30219b50b87a8": {
         "en": "Zhejiang Gongshang University",
         "zh": "\u6d59\u6c5f\u5de5\u5546\u5927\u5b66(Zhejiang Gongshang University)"
-    },
-    "dcf9653a20f75101f5f35b574c7580ed557d2bc7": {
-        "en": "Zhengzhou  Institute of  Technology",
-        "zh": "\u90d1\u5dde\u5de5\u7a0b\u6280\u672f\u5b66\u9662(Zhengzhou  Institute of  Technology)"
     },
     "de089c4f969f30157c90d1d8188f4bad935052a6": {
         "en": "Tianjin University of Technology",
@@ -1719,6 +1711,10 @@
         "en": "Beijing Engineering Research Center of NGI",
         "zh": "\u4e0b\u4e00\u4ee3\u4e92\u8054\u7f51\u91cd\u5927\u5e94\u7528\u6280\u672f\u5317\u4eac\u5e02\u5de5\u7a0b\u7814\u7a76\u4e2d\u5fc3(Beijing Engineering Research Center of NGI)"
     },
+    "f39aae7ab882b8afe8e4e3ac9c0d58e14178a07b": {
+        "en": "Taizhou University of Jiangsu",
+        "zh": "\u6cf0\u5dde\u5b66\u9662(Taizhou University of Jiangsu)"
+    },
     "f42d8d8361a1901b39c36c2652ed9d8315ea161d": {
         "en": "Pingxiang University",
         "zh": "\u840d\u4e61\u5b66\u9662(Pingxiang University)"
@@ -1766,10 +1762,6 @@
     "fb57635f40dcae2be2d49646b1b7141e5f0b31a7": {
         "en": "Wuyi University",
         "zh": "\u6b66\u5937\u5b66\u9662(Wuyi University)"
-    },
-    "fbcb261aca120de1f7ff61aa548c29be013f3ac1": {
-        "en": "TianJin Foreign Studies University",
-        "zh": "\u5929\u6d25\u5916\u56fd\u8bed\u5927\u5b66(TianJin Foreign Studies University)"
     },
     "fc6d58b6f3ef0dfaf1db8e111454110fb8d9b729": {
         "en": "Sun Yat-sen University",
