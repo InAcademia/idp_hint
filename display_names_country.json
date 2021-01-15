@@ -527,6 +527,10 @@
             "en": "IFTM - Instituto Federal do Triangulo Mineiro",
             "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
         },
+        "320d63a4863bfcad216e7cc33984ac5cfb6fb5e0": {
+            "en": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste",
+            "pt-br": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste"
+        },
         "33af2f3fb53c2625352f7657672e1ec2e0ae86d1": {
             "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
             "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
@@ -14606,9 +14610,6 @@
         },
         "ccea919a48b59aa504b9a987aed9b30a202f61db": {
             "en": "Penn State"
-        },
-        "ccfdaac4769425731f149726940fc8d22f8abc8e": {
-            "en": "LSU Health Sciences Center - Shreveport"
         },
         "cd26d13ab013c4ab1c6f69e524797a827ba8233c": {
             "en": "California State University, Los Angeles"
