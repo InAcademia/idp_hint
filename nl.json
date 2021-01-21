@@ -55,10 +55,6 @@
         "en": "National Institute for Public Health and the Environment",
         "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
     },
-    "1a2691ab7475d61f8336c5a492121f0a8574093f": {
-        "en": "Studielink",
-        "nl": "Stichting Studielink"
-    },
     "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
         "en": "EGI Foundation",
         "nl": "EGI Foundation"
@@ -548,8 +544,8 @@
         "nl": "Centrum Wiskunde & Informatica"
     },
     "e118fcbaa59c19374d0cfe36cfd66f836e66ad8c": {
-        "en": "Studielink (Azure AD)",
-        "nl": "Stichting Studielink (Azure AD)"
+        "en": "Studielink",
+        "nl": "Stichting Studielink"
     },
     "e1f9587dbb43249bdc37ae806db00552f46a2058": {
         "en": "University of Humanistic Studies",
