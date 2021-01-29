@@ -395,10 +395,6 @@
         "en": "Koninklijke Bibliotheek",
         "nl": "Koninklijke Bibliotheek"
     },
-    "a6bc247fe0518b561680c44aba618fb39761024e": {
-        "en": "Avans University of Applied Sciences",
-        "nl": "Avans Hogeschool"
-    },
     "a8312c6924de5b9a4317e35a475e1719f81f1ec4": {
         "en": "ROC Midden Nederland",
         "nl": "ROC Midden Nederland"
@@ -608,8 +604,8 @@
         "nl": "Politieacademie"
     },
     "f7d9fcc9c911649260e00273576d96f022bddf4d": {
-        "en": "Avans University of Applied Sciences (Azure AD)",
-        "nl": "Avans Hogeschool (Azure AD)"
+        "en": "Avans University of Applied Sciences",
+        "nl": "Avans Hogeschool"
     },
     "f8ef9b7e9fc2187b44004ca6b10cc20085ebe8c7": {
         "en": "Windesheim University of Applied Sciences",
