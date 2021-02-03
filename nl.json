@@ -108,8 +108,8 @@
         "nl": "Koninklijk Conservatorium"
     },
     "2c681f9ec865f516b694895124911d4c405069f7": {
-        "en": "UMC Groningen [Azure AD]",
-        "nl": "UMC Groningen [Azure AD]"
+        "en": "UMC Groningen",
+        "nl": "UMC Groningen"
     },
     "2d0c4f653340bada20eeac6c35017b055d89d8d9": {
         "en": "Data Archiving and Networked Services (KNAW)",
@@ -290,10 +290,6 @@
     "7a2f0c9483bb529d23a80cf744f24aa6984e24ef": {
         "en": "Meertens Instituut (KNAW)",
         "nl": "Meertens Instituut (KNAW)"
-    },
-    "7b878b4410d32df9f57f8daf499472f0dd908d45": {
-        "en": "UMC Groningen",
-        "nl": "UMC Groningen"
     },
     "7d8542dc0398b4cd49c2ec9f94294641088ebda2": {
         "en": "Rijn IJssel",
