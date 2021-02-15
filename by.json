@@ -2,10 +2,11 @@
     "361087b7d2eb1127971771d2bb0ba6bfc40434e9": {
         "en": "UIIP NASB / BASNET"
     },
-    "40caeffbfbfad3213694bb9c0ad12f378595de62": {
-        "en": "Belarusian NREN Gate"
-    },
     "584cf0eb16cb3761de35254225a8b0c238541d20": {
-        "en": "BSU"
+        "en": "BSU",
+        "ru": "BSU"
+    },
+    "9a7f05f4a736f08579f902f720e9ca0215816093": {
+        "en": "Belarusian NREN SAML Gate"
     }
 }
