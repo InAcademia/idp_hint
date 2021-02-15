@@ -9854,10 +9854,6 @@
         }
     },
     "nl": {
-        "007e40ebd5fc9d06d02e562e73b9bdbdc21b4be0": {
-            "en": "Onderwijsgroep Tilburg",
-            "nl": "Onderwijsgroep Tilburg"
-        },
         "0398e55d62f39d4d642221ab70d9e279c9cdff03": {
             "en": "Rotterdam University of Applied Sciences",
             "nl": "Hogeschool Rotterdam"
@@ -9963,8 +9959,8 @@
             "nl": "Koninklijk Conservatorium"
         },
         "2c00a9edf655b0b88965d794991c7d1ce0b2a952": {
-            "en": "Onderwijsgroep Tilburg (Azure AD)",
-            "nl": "Onderwijsgroep Tilburg (Azure AD)"
+            "en": "Onderwijsgroep Tilburg",
+            "nl": "Onderwijsgroep Tilburg"
         },
         "2c681f9ec865f516b694895124911d4c405069f7": {
             "en": "UMC Groningen",
