@@ -12044,6 +12044,9 @@
         "3fb9592cccc09f98e24c58c1a9ffcc7b72007ebd": {
             "en": "IEG Peterborough College"
         },
+        "40bd9698caec0fcef5e3b4da68cadf90f49668ac": {
+            "en": "Activate Learning"
+        },
         "41610dc1fd9caa4a4151c8db045254b49b5a4d8c": {
             "en": "The Sixth Form College, Farnborough"
         },
@@ -12268,9 +12271,6 @@
         },
         "62404318f9156616867c455d1714dc9532fabf85": {
             "en": "Richard Taunton Sixth Form College"
-        },
-        "62ecd0b978a3572a7bd3d4f35560c96db1e4903e": {
-            "en": "Ulster University: Shibboleth 3"
         },
         "6304ce70708840bec2b06edb5b10b09c8304b2ce": {
             "en": "North Shropshire College"
@@ -12585,7 +12585,7 @@
             "en": "New Era Education"
         },
         "8d33eddbf66aa199e2d6cad1b8f76642e9b90101": {
-            "en": "Activate Learning"
+            "en": "Activate Learning Old (OALA)"
         },
         "8d4bc764a9b28d6c445d5ab8ef4954db2a85215c": {
             "en": "Babraham Institute"
