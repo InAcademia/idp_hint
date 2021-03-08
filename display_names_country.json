@@ -9089,6 +9089,10 @@
             "en": "https://idp.eurac.edu/idp/shibboleth",
             "it": "EURAC"
         },
+        "978d44ab674d4a6ca54400b943705fdb46f2a6ce": {
+            "en": "University of Milano-Bicocca",
+            "it": "Università di Milano-Bicocca"
+        },
         "990617621c8e67fb1d6422c271f5b7db34422783": {
             "en": "ISS - Istituto Superiore di Sanità",
             "it": "ISS - Istituto Superiore di Sanità"
@@ -9200,10 +9204,6 @@
         "e67a81e4f2ff9834777b50f435b2cb7fe813c67a": {
             "en": "Sapienza University of Rome",
             "it": "Sapienza Università di Roma"
-        },
-        "e67fa3ab62e9b2c1786fd97b56b9d043d5071a18": {
-            "en": "University of Milano-Bicocca",
-            "it": "Università di Milano-Bicocca"
         },
         "e6c3dc3fa6b722f5dd4831d5f88b918a6d911e63": {
             "en": "IRCCS INRCA - Ancona",
