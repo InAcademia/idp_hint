@@ -739,6 +739,10 @@
         "de": "Badische Landesbibliothek",
         "en": "Badische Landesbibliothek"
     },
+    "8e65d8d3788e86fcc42ea5b4eb73bd2edef27c9e": {
+        "de": "Universität Münster",
+        "en": "Universität Münster"
+    },
     "8ec907d0214dca5838f9a569f9a2600bfd28f8af": {
         "de": "Technische Hochschule Mittelhessen",
         "en": "Technische Hochschule Mittelhessen"
@@ -1192,8 +1196,8 @@
         "en": "UNIVERSITY OF VETERINARY MEDICINE HANNOVER, FOUNDATION"
     },
     "efdecbcbbbafcc9bdaa1e26de07279baa03a5175": {
-        "de": "Helmholtz Zentrum München GmbH",
-        "en": "Helmholtz Zentrum Muenchen GmbH"
+        "de": "Helmholtz Zentrum München GmbH (HMGU)",
+        "en": "Helmholtz Zentrum Muenchen GmbH (HMGU)"
     },
     "f0494d65c85fab1abc82a08c654edb3eca61fd3e": {
         "de": "Helmholtz-Zentrum Dresden-Rossendorf e.V.",
