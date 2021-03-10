@@ -4940,10 +4940,6 @@
             "de": "Badische Landesbibliothek",
             "en": "Badische Landesbibliothek"
         },
-        "8e65d8d3788e86fcc42ea5b4eb73bd2edef27c9e": {
-            "de": "Universität Münster",
-            "en": "Universität Münster"
-        },
         "8ec907d0214dca5838f9a569f9a2600bfd28f8af": {
             "de": "Technische Hochschule Mittelhessen",
             "en": "Technische Hochschule Mittelhessen"
@@ -6243,6 +6239,10 @@
         "343a65b14022fc6075d92664e0733b4b2e26bcb7": {
             "en": "Universidad Politecnica de Cartagena",
             "es": "Universidad Politécnica de Cartagena"
+        },
+        "37aeffa6f99f2d1d33881a359eb303e1aec56145": {
+            "en": "Universidad Catolica San Antonio de Murcia",
+            "es": "Universidad Católica San Antonio de Murcia"
         },
         "3966e3fa3b187ea5e8bfe240863a272b79c52ab1": {
             "en": "Centro de Supercomputacion de Galicia",
