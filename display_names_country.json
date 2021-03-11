@@ -5090,7 +5090,7 @@
         },
         "aa5349741ce827c0692ba14e0518e99d653852bd": {
             "de": "Universität Paderborn",
-            "en": "University of Paderborn"
+            "en": "Paderborn University"
         },
         "ab78bb1a9832ffd7b9769fd516623ecdd83c3af5": {
             "de": "Universität Konstanz",
@@ -6368,6 +6368,10 @@
             "en": "ALBA Synchrotron Light facility",
             "es": "Sincrotrón ALBA"
         },
+        "71b86c6f1d218942213383d61483067e077d42c2": {
+            "en": "Universidad Catolica de Valencia",
+            "es": "Universidad Católica de Valencia"
+        },
         "7b6c7121ae8c088ac9ab560ad1ac3402aff4b610": {
             "en": "University of the Basque Country",
             "es": "Universidad del País Vasco"
@@ -6915,6 +6919,10 @@
         "36e9e7308741586e8a733af06e1b1cde691a9c5e": {
             "en": "Ecole Nationale Supérieure d’Architecture de Normandie",
             "fr": "Ecole Nationale Supérieure d’Architecture de Normandie"
+        },
+        "36f80fd59f4d8d6d1692cc5e1911763e4cd3f426": {
+            "en": "INSA-LYON",
+            "fr": "INSA-LYON"
         },
         "3a3d1451ae8150ffa72de807bc39e001ec600fc7": {
             "en": "INSA de Rouen",
