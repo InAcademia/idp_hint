@@ -731,6 +731,10 @@
             "en": "SES-GO - Secretaria de Estado de Saude de Goias",
             "pt-br": "SES-GO - Secretaria de Estado de Saude de Goias"
         },
+        "741da6321fddeca918a67adf5cb3f232badc0c3e": {
+            "en": "UFC - Universidade Federal do Ceara",
+            "pt-br": "UFC - Universidade Federal do Ceara"
+        },
         "74211fef4e2eee216993008971fb13aff43516c6": {
             "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
             "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
@@ -1663,13 +1667,13 @@
             "en": "Funcionarios REUNA",
             "es": "Funcionarios REUNA"
         },
+        "9e0faa2a4d9723e33030d5123a7fdd63d308fa21": {
+            "en": "RedCLARA Proxy IdP",
+            "es": "RedCLARA Proxy IdP"
+        },
         "adaefb55e354545de94fb0bd982977e93191460b": {
             "en": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas",
             "es": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas"
-        },
-        "bfa9c842646aeecaa1f9dd54da225c40c00bffad": {
-            "en": "REUNA",
-            "es": "REUNA"
         }
     },
     "cn": {
