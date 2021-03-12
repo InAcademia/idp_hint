@@ -67,10 +67,6 @@
         "en": "Savonia University of Applied Sciences",
         "sv": "Savonia Yrkeshögskola"
     },
-    "935a4bc67df39138bfacf9b9b9dfa5a24ddff2e7": {
-        "en": "University of Tampere",
-        "sv": "Tammerfors universitet"
-    },
     "9e1a7233a730388fa2ae9af5e9612bcfcfab6261": {
         "en": "University of Oulu",
         "sv": "Uleåborgs universitet"
@@ -118,9 +114,5 @@
     "ed1f4beef2d81b5bebd2725c7bab8c067a578efb": {
         "en": "CSC - IT Center for Science Ltd.",
         "sv": "CSC - Tieteen tietotekniikan keskus Oy"
-    },
-    "f77a7d0a58f7b169a250d2eb2f64aa630e79453c": {
-        "en": "Tampere University of Technology",
-        "sv": "Tammerfors tekniska universitet"
     }
 }
