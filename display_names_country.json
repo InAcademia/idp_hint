@@ -1131,6 +1131,10 @@
             "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
             "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
         },
+        "f86dec42bf57ea1d509a9108271702fbff767006": {
+            "en": "USP - Universidade de Sao Paulo",
+            "pt-br": "USP - Universidade de Sao Paulo"
+        },
         "fd0574512ad24c834525f6e007af1e48912dc31f": {
             "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
             "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
@@ -10396,6 +10400,10 @@
         "b6de89c397c4cd83b7c59e8ad98944a7e5917e63": {
             "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)",
             "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
+        },
+        "b71cde622d86ca7e8b6a2c434fb3f2213a955112": {
+            "en": "ROC van Twente (ADFS)",
+            "nl": "ROC van Twente (ADFS)"
         },
         "b7c6ecd229b5b0cad5e355cd690d5e0abd367309": {
             "en": "SURFsara",
