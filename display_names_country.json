@@ -1288,6 +1288,9 @@
             "en": "Université du Québec à Rimouski (UQAR)",
             "fr": "Université du Québec à Rimouski (UQAR)"
         },
+        "6ede94e7d6e0e798ae5d2f57543157702752e325": {
+            "en": "Z- ADFSToolkit IdP - adfs4-01"
+        },
         "726a17714ab6e4aa5e1d4cec415569ad6d69f665": {
             "en": "University of Quebec at Trois-Rivieres",
             "fr": "Université du Québec à Trois-Rivières"
@@ -1399,6 +1402,9 @@
         "dce9e25faab0e27d4d83fe4c4e17fc1335b04aab": {
             "en": "Maritime College of Forest Technology",
             "fr": "College de Technologie Forestiere des Maritimes"
+        },
+        "deef773de97b379d33bc94a9d62d532e286bc034": {
+            "en": "Z- ADFSToolkit IdP - adfs"
         },
         "e0059a4ecccbd6a2a41b743cb0231f334777e9de": {
             "en": "Ryerson University"
