@@ -187,6 +187,10 @@
         "de": "Charité - Universitätsmedizin Berlin",
         "en": "Charite - Universitaetsmedizin Berlin"
     },
+    "1ffea02dcf07c664c90cdf81f86bc67a613edd85": {
+        "de": "Hochschule für Musik und Theater Leipzig (neu)",
+        "en": "University for music and theatre Leipzig (neu)"
+    },
     "205e44b4020eb1441ff2da9492cf7efaf80294a3": {
         "de": "Technische Universität Clausthal",
         "en": "Technische Universität Clausthal"
@@ -739,6 +743,10 @@
         "de": "Badische Landesbibliothek",
         "en": "Badische Landesbibliothek"
     },
+    "8e3e03f6c9ceda02f3f3fc0148d38660feaa1eb1": {
+        "de": "Evangelische Hochschule Dresden",
+        "en": "Evangelische Hochschule Dresden"
+    },
     "8e65d8d3788e86fcc42ea5b4eb73bd2edef27c9e": {
         "de": "Universität Münster",
         "en": "Universität Münster"
@@ -955,6 +963,10 @@
         "de": "Deutsches Elektronen-Synchrotron DESY",
         "en": "Deutsches Elektronen-Synchrotron DESY"
     },
+    "bacbf41cb22afd620eeda36fb632f78860d46f2e": {
+        "de": "Kiel Institut für Weltwirtschaft",
+        "en": "Kiel Institute for the world economy"
+    },
     "bba82723833c0f20457538181d98457dbc7e367f": {
         "de": "DFnconf Zoom SSO",
         "en": "DFnconf Zoom SSO"
@@ -1052,8 +1064,8 @@
         "en": "Max Planck Institute for Marine  Microbiology"
     },
     "d0d18a3b9a3fce52fba9354ec194422bcfd6e7c5": {
-        "de": "Hochschule Ulm",
-        "en": "Hochschule Ulm"
+        "de": "Technische Hochschule Ulm",
+        "en": "Technische Hochschule Ulm"
     },
     "d16ad7784e9f9b3145bad8cfc320a5038eef077b": {
         "de": "GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel",

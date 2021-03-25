@@ -1,4 +1,8 @@
 {
+    "001d298634494f05047200f7fb81c535464c7e50": {
+        "en": "University of Theatre and Film Arts Budapest",
+        "hu": "Színház- és Filmművészeti Egyetem"
+    },
     "034d0e5fe5afa94e3b35bb669da2c73900b22a6d": {
         "en": "National Széchényi Library",
         "hu": "Országos Széchényi Könyvtár"
@@ -150,6 +154,10 @@
     "da1942ec7876ba804318e1ab48fce35d1dd3f5e9": {
         "en": "SZTAKI staff",
         "hu": "SZTAKI Munkatársak"
+    },
+    "dc9734cf49c1a977a7a8be6f79ec42c9f409e0dc": {
+        "en": "Károli Gáspár University of the Reformed Church in Hungary",
+        "hu": "Károli Gáspár Református Egyetem"
     },
     "e1713ddc96e1b4eeac6218d35b1d2cbe41f5aea8": {
         "en": "University of Pécs",

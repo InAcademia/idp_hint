@@ -239,10 +239,6 @@
         "en": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao",
         "pt-br": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao"
     },
-    "463769814a2862188c14b0614e0967f6fc517e75": {
-        "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
-        "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
-    },
     "47a3043f5063497337688f17271a52458f524778": {
         "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
         "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
@@ -746,6 +742,10 @@
     "f86dec42bf57ea1d509a9108271702fbff767006": {
         "en": "USP - Universidade de Sao Paulo",
         "pt-br": "USP - Universidade de Sao Paulo"
+    },
+    "f8ffb0c8cef579a3dfc841ec429607d64c7dfb0c": {
+        "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
+        "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
     },
     "fd0574512ad24c834525f6e007af1e48912dc31f": {
         "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",

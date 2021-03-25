@@ -619,10 +619,6 @@
             "en": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao",
             "pt-br": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao"
         },
-        "463769814a2862188c14b0614e0967f6fc517e75": {
-            "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
-            "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
-        },
         "47a3043f5063497337688f17271a52458f524778": {
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
             "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
@@ -1126,6 +1122,10 @@
         "f86dec42bf57ea1d509a9108271702fbff767006": {
             "en": "USP - Universidade de Sao Paulo",
             "pt-br": "USP - Universidade de Sao Paulo"
+        },
+        "f8ffb0c8cef579a3dfc841ec429607d64c7dfb0c": {
+            "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
+            "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
         },
         "fd0574512ad24c834525f6e007af1e48912dc31f": {
             "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
@@ -2770,8 +2770,8 @@
             "zh": "重庆工商大学(Chongqing Technology and Business University)"
         },
         "9bfbcc0320cae7f158f1a061c236c2188fc05215": {
-            "en": "Liaoning Shihua University",
-            "zh": "辽宁石油化工大学(Liaoning Shihua University)"
+            "en": "Liaoning Petrochemical University",
+            "zh": "辽宁石油化工大学(Liaoning Petrochemical University)"
         },
         "9c28997aa66d43b04fdef0a0f88d21264aab6e84": {
             "en": "Guilin Medical University",
@@ -4194,6 +4194,10 @@
             "cs": "Ústav jaderné fyziky AV ČR",
             "en": "Nuclear Physics Institute of the ASCR"
         },
+        "f9f2c616e18dd9078b5dc6ee79e8899d4fff4aa5": {
+            "cs": "Technologická agentura České republiky",
+            "en": "Technology Agency of the Czech Republic"
+        },
         "fc546945cdbc68c2d18f2fdb2d0701e2519a35fe": {
             "cs": "Městská knihovna v Českém Krumlově",
             "en": "Municipal Library in Cesky Krumlov"
@@ -4399,6 +4403,10 @@
         "1faab767dcc9c246538700395a7cb5f27c68c64e": {
             "de": "Charité - Universitätsmedizin Berlin",
             "en": "Charite - Universitaetsmedizin Berlin"
+        },
+        "1ffea02dcf07c664c90cdf81f86bc67a613edd85": {
+            "de": "Hochschule für Musik und Theater Leipzig (neu)",
+            "en": "University for music and theatre Leipzig (neu)"
         },
         "205e44b4020eb1441ff2da9492cf7efaf80294a3": {
             "de": "Technische Universität Clausthal",
@@ -4952,6 +4960,10 @@
             "de": "Badische Landesbibliothek",
             "en": "Badische Landesbibliothek"
         },
+        "8e3e03f6c9ceda02f3f3fc0148d38660feaa1eb1": {
+            "de": "Evangelische Hochschule Dresden",
+            "en": "Evangelische Hochschule Dresden"
+        },
         "8e65d8d3788e86fcc42ea5b4eb73bd2edef27c9e": {
             "de": "Universität Münster",
             "en": "Universität Münster"
@@ -5168,6 +5180,10 @@
             "de": "Deutsches Elektronen-Synchrotron DESY",
             "en": "Deutsches Elektronen-Synchrotron DESY"
         },
+        "bacbf41cb22afd620eeda36fb632f78860d46f2e": {
+            "de": "Kiel Institut für Weltwirtschaft",
+            "en": "Kiel Institute for the world economy"
+        },
         "bba82723833c0f20457538181d98457dbc7e367f": {
             "de": "DFnconf Zoom SSO",
             "en": "DFnconf Zoom SSO"
@@ -5265,8 +5281,8 @@
             "en": "Max Planck Institute for Marine  Microbiology"
         },
         "d0d18a3b9a3fce52fba9354ec194422bcfd6e7c5": {
-            "de": "Hochschule Ulm",
-            "en": "Hochschule Ulm"
+            "de": "Technische Hochschule Ulm",
+            "en": "Technische Hochschule Ulm"
         },
         "d16ad7784e9f9b3145bad8cfc320a5038eef077b": {
             "de": "GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel",
@@ -5649,6 +5665,10 @@
         "734b8513664b119aa9ebad0b221f2e130fdf4726": {
             "da": "TEC",
             "en": "TEC"
+        },
+        "735c40df2349be20234d9b4a63a2e6dbc756b540": {
+            "da": "Alexandra Instituttet",
+            "en": "Alexandra Institute"
         },
         "73c3e60b0b0f627772a9434b9c579b675055725d": {
             "da": "SIMAC",
@@ -7276,10 +7296,6 @@
             "en": "EHESP - Ecole des hautes études en santé publique",
             "fr": "EHESP - Ecole des hautes études en santé publique"
         },
-        "8abda073b5f19da94dfba90cfaf31bb7bb12dd44": {
-            "en": "Idp-lab.martinique.univ-antilles.fr",
-            "fr": "Idp-lab.martinique.univ-antilles.fr"
-        },
         "8bdccc451ee099e13726b448c5e91eb66811d25b": {
             "en": "CPE Lyon",
             "fr": "CPE Lyon"
@@ -8188,6 +8204,10 @@
         }
     },
     "hu": {
+        "001d298634494f05047200f7fb81c535464c7e50": {
+            "en": "University of Theatre and Film Arts Budapest",
+            "hu": "Színház- és Filmművészeti Egyetem"
+        },
         "034d0e5fe5afa94e3b35bb669da2c73900b22a6d": {
             "en": "National Széchényi Library",
             "hu": "Országos Széchényi Könyvtár"
@@ -8339,6 +8359,10 @@
         "da1942ec7876ba804318e1ab48fce35d1dd3f5e9": {
             "en": "SZTAKI staff",
             "hu": "SZTAKI Munkatársak"
+        },
+        "dc9734cf49c1a977a7a8be6f79ec42c9f409e0dc": {
+            "en": "Károli Gáspár University of the Reformed Church in Hungary",
+            "hu": "Károli Gáspár Református Egyetem"
         },
         "e1713ddc96e1b4eeac6218d35b1d2cbe41f5aea8": {
             "en": "University of Pécs",
@@ -10173,6 +10197,10 @@
             "en": "Netherlands Institute of Ecology NIOO (KNAW)",
             "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
         },
+        "50ef41bb23cfce2d5ac8c5507440f977c06fafd7": {
+            "en": "SURFmarket",
+            "nl": "SURFmarket"
+        },
         "58f44eb4100a4c6520f2631ae2f6002131d23649": {
             "en": "Netherlands eScience Center",
             "nl": "Netherlands eScience Center"
@@ -10196,6 +10224,10 @@
         "5d1b06e00b7c2bd0a04697806df217628d0d5228": {
             "en": "STC-Group",
             "nl": "STC-Group"
+        },
+        "5f05a1b03abd3bac0d62bd4778f7fba4fde37816": {
+            "en": "ROC Ter AA",
+            "nl": "ROC Ter AA"
         },
         "600f3309e2d4808eda8cb9bd7cef7528005b2b27": {
             "en": "Codarts University of the Arts",
@@ -10533,6 +10565,10 @@
             "en": "Summa College",
             "nl": "Summa College"
         },
+        "efe99fffb47e3c5dd0373ed501416addae986cd3": {
+            "en": "MBO Amersfoort",
+            "nl": "MBO Amersfoort"
+        },
         "f4fbc268b9a6fe830e3fb8531737cbf610812faa": {
             "en": "Christian University of Applied Sciences (CHE)",
             "nl": "Christelijke Hogeschool Ede (CHE)"
@@ -10781,7 +10817,7 @@
             "en": "The Research Council (OM-KID)"
         },
         "de2e5beade923be22574165e56b23b8c30467c33": {
-            "en": "AlKhabourah Vocational College of Marine Sciences"
+            "en": "Al Khaborah Vocational College of Marine Science"
         },
         "ea18154a494a5525aaecf1e9b73767675367e44a": {
             "en": "Sur University College (OM-KID)"
@@ -11721,6 +11757,9 @@
         },
         "0219ee2b19a72906c2b33c9df91adf030fe1f3d9": {
             "en": "North West Regional College"
+        },
+        "023637fd7fd5a751d9f05a2c1c4cff93e42bac21": {
+            "en": "Atomwide Limited: USO"
         },
         "02a46dd105467c7d612e38309c1ff34764b4c5ce": {
             "en": "Southern Regional College"
@@ -14333,9 +14372,6 @@
         },
         "79ebfa18b689f5db5fd71717e2e49dc30fb2d542": {
             "en": "Miami University"
-        },
-        "79f6e13d0eecf95bc892c034e243da5892ac380b": {
-            "en": "Palomar Community College District"
         },
         "7a2d7e96bfdfbd7648efec7a77e494c972b7ff4d": {
             "en": "Swarthmore College"
