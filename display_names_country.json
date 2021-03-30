@@ -4832,6 +4832,10 @@
             "de": "Universität Heidelberg",
             "en": "Universität Heidelberg"
         },
+        "7081a1238b650e55f0f2ddf54643dd177854969f": {
+            "de": "Helmholtz-Zentrum hereon GmbH",
+            "en": "Helmholtz-Zentrum hereon GmbH"
+        },
         "7085476f60e36a851aabe6688ca4245a465d7f0b": {
             "de": "Max-Planck-Institut für Mathematik in den Naturwissenschaften",
             "en": "Max Planck Institute for Mathematics in the Sciences"
@@ -5383,6 +5387,10 @@
         "dfb722b2778700c6425a9fb48167d6ffbe296717": {
             "de": "Hochschule Kempten",
             "en": "Kempten University of Applied Sciences"
+        },
+        "dfe1ac98f9b7338268fdad2ac0c96cf4cfec6db9": {
+            "de": "Hochschule Landshut",
+            "en": "University of Applied Sciences Landshut"
         },
         "e28cb2d4173df8ec8b3f59471bb2df16248110a2": {
             "de": "BA Dresden",
