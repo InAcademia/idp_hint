@@ -6948,6 +6948,10 @@
             "en": "Aix Marseille Université",
             "fr": "Aix Marseille Université"
         },
+        "30665e4eaa6474bd172236dcda341afbb21093f3": {
+            "en": "University of Franche-Comte",
+            "fr": "Université de Franche-Comté"
+        },
         "34ba8bdf12e22cae7ed364f9d6019cd33edeed07": {
             "en": "CEA-Extra",
             "fr": "CEA-Extra"
@@ -7419,10 +7423,6 @@
         "9b076a52aa69874645be52e33372c5a29398fddc": {
             "en": "ENS de Lyon",
             "fr": "ENS de Lyon"
-        },
-        "9baa94d1618222b87a52f39ff80d904c49cba809": {
-            "en": "University of Franche-Comte",
-            "fr": "Université de Franche-Comté"
         },
         "9c7fe87fecdef22e9c0db8d638037775696c6c88": {
             "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis",
