@@ -11,6 +11,10 @@
         "el": "Τεχνολογικό Εκπαιδευτικό Ίδρυμα Στερεάς Ελλάδας",
         "en": "Technological Educational Institute of Sterea Ellada"
     },
+    "05b959320aae7774b25770bbacec0f1e62a6dd44": {
+        "el": "ΤΕΙ Θεσσαλίας",
+        "en": "TEI of Thessaly"
+    },
     "0c23fcebb18b7df8fbe68a372b608bfac1105fc3": {
         "el": "ΕΚΕΦΕ ΔΗΜΟΚΡΙΤΟΣ",
         "en": "NCSR DEMOKRITOS"
@@ -19,13 +23,39 @@
         "el": "Πανεπιστήμιο Μακεδονίας",
         "en": "University of Macedonia"
     },
+    "0d2f2b76ad6eeec3860e1e50365ea6eb2fc67efa": {
+        "en": "https://idp.aeaa.gr/idp/shibboleth"
+    },
     "0da2776bb1220a109e849742f740804ecab6d99b": {
         "el": "Χαροκόπειο Πανεπιστήμιο",
         "en": "Harokopio University"
     },
+    "11f62f78e03554247127dc67376176d0e3665612": {
+        "en": "https://idp.nosthorpatras.hidm-grnet.gr/idp/shibboleth"
+    },
+    "13a3eb6d1077912f27445fa690d032654db85ab0": {
+        "en": "https://idp.vostanio.gr/idp/shibboleth"
+    },
     "14faa1028065f29a70109342017e18a1c6f2c560": {
         "el": "Οικονομικό Πανεπιστήμιο Αθηνών",
         "en": "Athens University of Economics and Business"
+    },
+    "17f98ce8345dbd2bee7dab583f1737669f19c3ac": {
+        "en": "https://idp.hosp-xanthi.gr/idp/shibboleth"
+    },
+    "19683289a07c3fa7c8771978ac3ba4a8caf802ce": {
+        "en": "https://idp.dramahospital.gr/idp/shibboleth"
+    },
+    "19b412dcb1707cfa85d4e9c73d17f3751906b191": {
+        "el": "ΕΛ.ΙΝ.Υ.Α.Ε.",
+        "en": "EL.IN.Y.A.E."
+    },
+    "1e6015d78f2762e83235ba7d15291efb0b263cc2": {
+        "en": "https://idp.uhl.gr/idp/shibboleth"
+    },
+    "1e6bcb0199e6aa94de92005f1c1401e824bf009a": {
+        "el": "Σχολή Ικάρων",
+        "en": "Hellenic Air Force Academy"
     },
     "2445a6e4c841bca8384853047aedd47ce66977a3": {
         "el": "Διεθνές Πανεπιστήμιο της Ελλάδος-Καβάλα (πρώην Τεχνολογικό Εκπαιδευτικό Ίδρυμα Ανατολικής Μακεδονίας και Θράκης)",
@@ -43,13 +73,31 @@
         "el": "Τεχνολογικό Εκπαιδευτικό Ίδρυμα Κρήτης",
         "en": "Technological Educational Institute of Crete"
     },
+    "35e4750a0338bd61de2ab65c816deae3566d8b73": {
+        "el": "Ελληνικό Ινστιτούτο Παστέρ",
+        "en": "Hellenic Pasteur Institute"
+    },
+    "389cbba300b36764e807067139d32bc491f404ca": {
+        "el": "Ινστιτούτο Εκπαιδευτικής Πολιτικής",
+        "en": "Institute of Educational Policy"
+    },
     "47b024ffc402ef57fd085f643e2e6472de9b5e00": {
         "el": "Πανεπιστήμιο Δυτικής Μακεδονίας (πρώην Τεχνολογικό Εκπαιδευτικό Ίδρυμα Δυτικής Μακεδονίας)",
         "en": "University of Western Macedonia (former Technological Educational Institute of Western Macedonia)"
     },
+    "4bd0c44ebc021083f9433cf65522240869d717d5": {
+        "en": "https://idp.karamandaneio.hidm-grnet.gr/idp/shibboleth"
+    },
+    "4fa997fca61d925b520cccac7235918fe05ab5de": {
+        "en": "https://idp.messolonghihospital.hidm-grnet.gr/idp/shibboleth"
+    },
     "5316009e5b1f30d293aff17d4aec6dd74c7b3a99": {
         "el": "Διεθνές Πανεπιστήμιο της Ελλάδος-Θέρμη",
         "en": "International Hellenic University-Thermi"
+    },
+    "53308fc4069a4fb14d60084b806805ccaf5a7d90": {
+        "el": "Ακαδημία Αθηνών",
+        "en": "Academy of Athens"
     },
     "550e9b21b100a59c85fe8b681ce1103ae9ebae10": {
         "el": "Εθνικό Ίδρυμα Ερευνών",
@@ -59,17 +107,57 @@
         "el": "Ε.ΚΕ.Β.Ε. Αλέξανδρος Φλέμινγκ",
         "en": "Alexander Fleming Biomedical Sciences Research Center"
     },
+    "5623ae8f12e7d8e9544c58e90301384031202a59": {
+        "el": "Μπενάκειο Φυτοπαθολογικό Ινστιτούτο - ΜΦΙ",
+        "en": "Benaki Phytopathological Institute - BPI"
+    },
+    "57922af8ff9e6e62a227ec0ef426176b6b43b9e8": {
+        "el": "Πατριαρχική Ανώτατη Εκκλησιαστική Ακαδημία Κρήτης",
+        "en": "Patriarchal University Ecclesiastical Academy of Crete"
+    },
+    "58127730cd61e39f452c1d68e8e91854418ee904": {
+        "en": "https://idp.kavalahospital.gr/idp/shibboleth"
+    },
+    "58553d63d0e0f29d54f719af275500d2b58009c2": {
+        "en": "https://idp.aenmak.edu.gr/idp/shibboleth"
+    },
     "59e8c6a08e776d5328398a076a883e2386586427": {
         "el": "Εθνικό Κέντρο Έρευνας και Τεχνολογικής Ανάπτυξης.",
         "en": "Centre for Research and Technology Hellas."
+    },
+    "5cd0a181e326bb5df3472a40b809167a7977b96b": {
+        "en": "https://idp.panarkadiko.eu/idp/shibboleth"
+    },
+    "623ba5905a6611ec25a91e856de641f6ff60b4af": {
+        "el": "Ανώτατη Εκκλησιαστική Ακαδημία Θεσσαλονίκης",
+        "en": "University Ecclesiastical Academy of Thessaloniki"
+    },
+    "65454bb33d9526860b469113c2f00b58b96da79c": {
+        "en": "https://idp.komotini-hospital.gr/idp/shibboleth"
+    },
+    "674c63d5f2e589c0e6a198ee102f2a3c4d8f9c1f": {
+        "el": "Ανωτάτη Σχολή Καλών Τεχνών",
+        "en": "Athens School of Fine Arts"
+    },
+    "6da1d9b0f2ee8d597d5008cb166975ec151d2b61": {
+        "el": "Ιόνιο Πανεπιστήμιο (πρώην ΤΕΙ Ιονίων Νήσων)",
+        "en": "Ionian University (former TEI of Ionian Islands)"
     },
     "6de8529356527b65eb3f5d6d4cbc67a1dcaf2f12": {
         "el": "ΚΠΙΣΝ",
         "en": "SNFCC"
     },
+    "70552cba62dc942457c5ce96558c4d08bf9fd353": {
+        "el": "Ίδρυμα Ευγενίδου",
+        "en": "Eugenides Foundation"
+    },
     "74e1270c87237bdbf135c40f92ca12193dd6e0c3": {
         "el": "Εθνικό Δίκτυο Υποδομών Τεχνολογίας και Έρευνας - ΕΔΥΤΕ",
         "en": "National Infrastructures for Research and Technology - GRNET"
+    },
+    "7532faf16da87b21914d50920cc36ff07ed51aae": {
+        "el": "Ανώτατη Εκκλησιαστική Ακαδημία Βελλάς Ιωαννίνων",
+        "en": "University Ecclesiastical Academy of Vella of Ioannina"
     },
     "7534505fb4dde8bac5599f606ad9cf5817891474": {
         "el": "Ίδρυμα Ιατροβιολογικών Ερευνών Ακαδημίας Αθηνών",
@@ -91,9 +179,22 @@
         "el": "Πανεπιστήμιο Πειραιώς",
         "en": "University of Piraeus"
     },
+    "796e7748e4fdba539865e3ff8776e57864c8fee7": {
+        "en": "https://idp.venizeleio.gr/idp/shibboleth"
+    },
+    "7dba1920da75286205ecef7c7daa33237faaec9b": {
+        "el": "Στρατιωτική Σχολή Ευελπίδων",
+        "en": "Hellenic Army Academy"
+    },
     "80a442b02267c4e285d7377c15b8717adcb1b8b2": {
         "el": "Εθνικό Κέντρο Τεκμηρίωσης",
         "en": "National Documentation Centre"
+    },
+    "81a8315afffb8380798fbb8a53396b5868816a11": {
+        "en": "https://idp.hospital-agrinio.gr/idp/shibboleth"
+    },
+    "86499dbec3fa20f4e2a97751b8f9d8212dc0c686": {
+        "en": "https://idp.gnkerkyras.gr/idp/shibboleth"
     },
     "86f0ae40bcf5d15ff079a797e57ae129a0b2e732": {
         "el": "Ελληνικό Ανοικτό Πανεπιστήμιο",
@@ -102,6 +203,9 @@
     "8d603b14540d27e5425ef23d1c3b81756532ad94": {
         "el": "Πανεπιστήμιο Πατρών",
         "en": "University of Patras"
+    },
+    "8ecc06adcf721e00a4059aefffa73ef22e43a2a3": {
+        "en": "https://idp.pgnp.gr/idp/shibboleth"
     },
     "90721fd32ee1a9e5a04f34915cde8dd0cd9b592b": {
         "el": "Διεθνές Πανεπιστήμιο της Ελλάδος-Σέρρες (πρώην Τεχνολογικό Εκπαιδευτικό Ίδρυμα Κεντρικής Μακεδονίας)",
@@ -134,29 +238,74 @@
         "el": "Πανεπιστήμιο Ιωαννίνων",
         "en": "University of Ioannina"
     },
+    "a541074d51ba7da1fad626d33bd35fb2839ba488": {
+        "en": "https://idp.hospkorinthos.gr/idp/shibboleth"
+    },
+    "a94ea0bd5aac9b5775e73b5bdbf3e499988c9fce": {
+        "en": "https://idp.agandreashosp.gr/idp/shibboleth"
+    },
+    "ac37f099d4f829025b4f416bb5c7c0ed800ff5fb": {
+        "el": "Οργανισμός Ανοιχτών Τεχνολογιών",
+        "en": "Open Technologies Alliance"
+    },
+    "acf50586e401ff80669e218b12f53f961aa4336a": {
+        "en": "https://idp.chaniahospital.gr/idp/shibboleth"
+    },
     "b3e66d6ba6df415b1efcf6ad5bc8ce780e09dcc3": {
         "el": "Ινστιτούτο Επιταχυντικών Συστημάτων και Εφαρμογών - ΙΕΣΕ",
         "en": "Institute of Accelerating Systems and Applications - IASA"
+    },
+    "b57d1982770c023299d40fedc69be33608151605": {
+        "en": "https://idp.gnartas.gr/idp/shibboleth"
+    },
+    "b6e9fb599be8e0caad75e8943737e33e4b70574d": {
+        "en": "https://idp.pgna.gr/idp/shibboleth"
     },
     "ba9fe1e94b80160515399f45b664358b820f426e": {
         "el": "ΙΤΥΕ \"Διόφαντος\"",
         "en": "CTI \"Diophantus\""
     },
+    "c0dc15d32d25ef1fa7def664274ded6772a193e5": {
+        "el": "Σχολή Ναυτικών Δοκίμων",
+        "en": "Hellenic Naval Academy"
+    },
+    "c0eacb209826097fb2075e1c6bde47d700992b4e": {
+        "en": "https://idp.trikalahospital.gr/idp/shibboleth"
+    },
+    "c1589d93b57eba0bd28104dcef9f2db9e0c6a4aa": {
+        "el": "CEDEFOP",
+        "en": "CEDEFOP"
+    },
     "c15972d26dacab665549e7d2ac709a2fab7aa289": {
         "el": "Δημοκρίτειο Πανεπιστήμιο Θράκης",
         "en": "Democritus University of Thrace"
+    },
+    "c3c285de1084293de059743fd6db667acf872578": {
+        "en": "https://idp.nosokomeiokalamatas.gr/idp/shibboleth"
     },
     "c5a693245d55fb5c775a03b748ba79bf45724c45": {
         "el": "Διεθνές Πανεπιστήμιο της Ελλάδος-Σίνδος ( πρώην Αλεξάνδρειο Τεχνολογικό Εκπαιδευτικό Ίδρυμα Θεσσαλονίκης)",
         "en": "International Hellenic University-Sindos ( former Alexander Technological Educational Institute of Thessaloniki)"
     },
+    "c5f6dfd3c0bf8eaf193f66553c893190880d727c": {
+        "en": "https://idp.limnoshospital.hidm-grnet.gr/idp/shibboleth"
+    },
     "c96dfc78542ca6f723ccbaf518e193d690a8548c": {
         "el": "Ανώτατη Σχολή Παιδαγωγικής και Τεχνολογικής Εκπαίδευσης",
         "en": "School of Pedagogical and Technological Education"
     },
+    "cad468293d8a58a9282b886d2fff48611c212a18": {
+        "en": "https://idp.uhi.gr/idp/shibboleth"
+    },
+    "d832d070186b7663d57d6fb9b2b5c04a57449639": {
+        "en": "https://idp.ghl.gr/idp/shibboleth"
+    },
     "d888334064c70ba906506fb6333590dff748b1c1": {
         "el": "Εθνικό Μετσόβιο Πολυτεχνείο",
         "en": "National Technical University of Athens"
+    },
+    "d88f871cbbabe944d8fd84b1519cd27bac31b423": {
+        "en": "https://vho.grnet.gr/idp/shibboleth"
     },
     "d8c199dcc13c7d889f0e1073988dda64aa9fbb0f": {
         "el": "Ινστιτούτο Τεχνικής Σεισμολογίας και Αντισεισμικών Κατασκευών",
@@ -170,6 +319,9 @@
         "el": "Πανεπιστήμιο Δυτικής Μακεδονίας",
         "en": "University of Western Macedonia"
     },
+    "e0aadbcd184867e1d17e60fe264ab227516b3997": {
+        "en": "https://idp.pagni.gr/idp/shibboleth"
+    },
     "e6b742ac42d471385b39a76025a535cf827e1bd1": {
         "el": "Πανεπιστήμιο Πελοποννήσου",
         "en": "University of the Peloponnese"
@@ -182,9 +334,31 @@
         "el": "Ελληνικό Κέντρο Θαλασσίων Ερευνών",
         "en": "Hellenic Centre for Marine Research"
     },
+    "ed7ea132c6646c1cbc35dfb951de134069ab3a77": {
+        "en": "https://idp.xioshosp.gr/idp/shibboleth"
+    },
     "f03db673a4a418aed61169131046d24028e59835": {
         "el": "Πανεπιστήμιο Αιγαίου",
         "en": "University of the Aegean"
+    },
+    "f21a8983434bf261fe91211358284ccd567b88b5": {
+        "en": "https://idp.ghv.gr/idp/shibboleth"
+    },
+    "f3c31a9f14e65ef4f7e602f8d4c8890f44cb3eb7": {
+        "en": "https://idp.noskard.gr/idp/shibboleth"
+    },
+    "f40c15a29964695b672089515280d817862fc640": {
+        "en": "https://idp.rethymnohospital.gr/idp/shibboleth"
+    },
+    "f69a4c6dfc9c5bab0a0152d03dea4ecda01b7511": {
+        "en": "https://idp.gni-hatzikosta.gr/idp/shibboleth"
+    },
+    "f8ce3ebbaea1f4771dc36f9e77f5bf53a33f2b21": {
+        "en": "https://idp.zante-hospital.gr/idp/shibboleth"
+    },
+    "f9512ac2539ce2cc8771f6936172d3f87dfe16c2": {
+        "el": "Κέντρο Ελληνικής Γλώσσας",
+        "en": "Centre for the Greek Language"
     },
     "fa9584c0d02c52d8f3cabc9dce71c441e2686d57": {
         "el": "Πανεπιστήμιο Θεσσαλίας",
@@ -197,5 +371,13 @@
     "fe0d30baa0c30ced9526a81c98b2f919fdbaf77e": {
         "el": "Ίδρυμα Τεχνολογίας και Έρευνας",
         "en": "Foundation for Research and Technology - Hellas"
+    },
+    "fe78b7e3757fde635b2d8e286eeef378b02fce13": {
+        "el": "Πάντειο Πανεπιστήμιο Κοινωνικών και Πολιτικών Επιστημών",
+        "en": "Panteion University of social and political sciences"
+    },
+    "ff6108f1ba60f86a664ef68f844156efd87a9589": {
+        "el": "Ελληνικός Γεωργικός Οργανισμός ΔΗΜΗΤΡΑ",
+        "en": "Hellenic Agricultural Organization DEMETER"
     }
 }
