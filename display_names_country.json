@@ -3064,10 +3064,6 @@
             "en": "Zhejiang University of Finance and Economics",
             "zh": "浙江财经大学(Zhejiang University of Finance and Economics)"
         },
-        "be9a315f530348f7282006653f2a56049b6589a1": {
-            "en": "University Town of Shenzhen",
-            "zh": "深圳大学城管理办公室(University Town of Shenzhen)"
-        },
         "bebaa4ad9843011b5ead3f9ab04223c8813030b1": {
             "en": "Jiaying University",
             "zh": "嘉应学院(Jiaying University)"
@@ -4113,6 +4109,10 @@
             "cs": "Městská knihovna Znojmo",
             "en": "Municipal library in Znojmo"
         },
+        "bf13e14a3b36d6fc9e78262200b70bb6e1a62289": {
+            "cs": "Městská knihovna a infocentrum Dolní Bousov",
+            "en": "Municipal Library and Infocentre in Dolni Bousov"
+        },
         "bfc56284508928164b55b1bb6e9adbf808c70456": {
             "cs": "Masarykův ústav a archiv AV ČR",
             "en": "Masaryk Institute and Archives of the CAS"
@@ -4236,6 +4236,10 @@
         "f22fb34d6d5e911d10af43d0d073d71095fd0155": {
             "cs": "Slovanský ústav AV ČR",
             "en": "Institute of Slavonic Studies of the CAS"
+        },
+        "f267d6d33f3abd6803b21437653f3c1ae910097e": {
+            "cs": "K3 Bohumín, p.o. - středisko KNIHOVNA",
+            "en": "K3 Bohumin - LIBRARY"
         },
         "f3f303f07ebe95492bddf2d47002ea23f9fcb686": {
             "cs": "Ústav jaderné fyziky AV ČR",
@@ -11058,6 +11062,10 @@
         "9cf1e08f2309702b13cc6d0199531f9058d7b56f": {
             "en": "Adam Mickiewicz University",
             "pl": "Uniwersytet im. Adama Mickiewicza w Poznaniu"
+        },
+        "b34e3e1dd4487cca9499d16a9acd71d0bc7d229a": {
+            "en": "University School of Physical Education in Wroclaw",
+            "pl": "Akademia Wychowania Fizycznego we Wrocławiu"
         },
         "e1f93ead179530e8650c5e4cfb4496c94933b8f9": {
             "en": "Czestochowa University of Technology",
