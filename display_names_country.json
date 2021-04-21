@@ -3869,6 +3869,10 @@
             "cs": "Studijní a vědecká knihovna v Hradci Králové",
             "en": "The Research Library in Hradec Králové"
         },
+        "5be81c5b20ce9d85d5c9dcbe04d8c25a40bedb6b": {
+            "cs": "University of New York in Prague",
+            "en": "University of New York in Prague"
+        },
         "5db882bce4530ae44ad9fd9dc02c2de4660c82e7": {
             "cs": "Geofyzikální ústav AV ČR, v.v.i.",
             "en": "Institute of Geophysics of the CAS, v.v.i."
@@ -5286,10 +5290,6 @@
         "c556cae865df243c78a4ce2fd94989d82005cffd": {
             "de": "Universität München (LMU)",
             "en": "University of Munich (LMU)"
-        },
-        "c6abe7b9118e137c535418c1bbf2a5a3471b8c80": {
-            "de": "Helmholtz Zentrum Geesthacht HZG IdP - Prod",
-            "en": "Helmholtz Zentrum Geesthacht HZG IdP - Prod"
         },
         "c7fc0db971893cff21663643d9362aa91107f222": {
             "de": "Hochschule Geisenheim University",
