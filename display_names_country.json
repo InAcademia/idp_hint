@@ -4763,6 +4763,10 @@
             "de": "Hochschule für Musik Dresden",
             "en": "Hochschule fuer Musik Dresden"
         },
+        "5a3b81a5855a2e6c31a6be3bcafc6d92e103d64f": {
+            "de": "BTU Cottbus - Senftenberg IdP",
+            "en": "BTU Cottbus - Senftenberg IdP"
+        },
         "5b11818dcf09ac03539630a6a7de26eacfe1637d": {
             "de": "Hochschule der Medien Stuttgart",
             "en": "Hochschule der Medien Stuttgart"
@@ -6217,6 +6221,10 @@
         "518dd7ce33d1efde258e7daf2d6656f3389eb500": {
             "en": "Tartu Healthcare College",
             "et": "Tartu Tervishoiu Kõrgkool"
+        },
+        "73699c4b9c3b43544b3a1ec2806d4bdb9da4b9e1": {
+            "en": "Estonian Business School",
+            "et": "Estonian Business School"
         },
         "cc4402e2322b3b7c111f037b31b5e274aefb0775": {
             "en": "KBFI",
