@@ -395,10 +395,6 @@
         "en": "FEI - Fundacao Educacional Inaciana Pe. Saboia de Medeiros",
         "pt-br": "FEI - Fundacao Educacional Inaciana Pe. Saboia de Medeiros"
     },
-    "837f325edbd001d7fd517409d176fe23671a0993": {
-        "en": "FAMPECT - Fundacao Wilson Picler de Amparo a Educacao, Ciencia e Tecnologia.",
-        "pt-br": "FAMPECT - Fundacao Wilson Picler de Amparo a Educacao, Ciencia e Tecnologia."
-    },
     "83daf8eafeaa373b58e560ff450f2ca4f734e3b8": {
         "en": "ASCES-UNITA - Centro Universitario Tabosa de Almeida",
         "pt-br": "ASCES-UNITA - Centro Universitario Tabosa de Almeida"
@@ -594,6 +590,10 @@
     "c5a965304b155193ba35fdfe07e7decc213c5794": {
         "en": "UFR - Universidade Federal de Rondonopolis",
         "pt-br": "UFR - Universidade Federal de Rondonopolis"
+    },
+    "c63e7f346a4bf9d6d8d1c3907f934b9d07403f02": {
+        "en": "FWP - Fundacao Wilson Picler",
+        "pt-br": "FWP - Fundacao Wilson Picler"
     },
     "c6b78eef4301253ee5f2fb5a58a647b16c6e569c": {
         "en": "UFMS - Universidade Federal de Mato Grosso do Sul",
