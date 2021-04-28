@@ -95,9 +95,6 @@
     "0f1bd7062c6f0b3918b05f12476cf04755ee896c": {
         "en": "Pennsylvania College of Technology"
     },
-    "0f4a0a1750ef457538e5dcd494874a3524fb3a17": {
-        "en": "University of St. Thomas"
-    },
     "0fbdb7506d1eb6fd9f29366c03d3445ca7fb391e": {
         "en": "University of Wisconsin-Superior Login Portal"
     },
@@ -1021,6 +1018,9 @@
     },
     "9dcbc4a238c020a9ffe04417252d462356c5eeda": {
         "en": "Lock Haven University"
+    },
+    "9e4b34cc2fbd516cad8a9ec741f8207342e72e0b": {
+        "en": "DePauw University InCommon IDP"
     },
     "9e7a601f596039f962c9a7bedb07ed15cfa59373": {
         "en": "Fairleigh Dickinson University"
