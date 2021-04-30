@@ -79,6 +79,10 @@
         "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
         "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
     },
+    "10ae977b3f5904796d92ec46ba47afa6d677b7b9": {
+        "en": "UNISC - Universidade de Santa Cruz do Sul",
+        "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
+    },
     "1200e1d819829e5bb99669d058b8cb2d6b557f69": {
         "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
         "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
@@ -106,6 +110,10 @@
     "1d69a485895ddee42d63e921be558699aceb429a": {
         "en": "IFMT - Instituto Federal de Mato Grosso",
         "pt-br": "IFMT - Instituto Federal de Mato Grosso"
+    },
+    "1d7f6a8ad08e5ecb7c235a8ac5d311a2d235e221": {
+        "en": "UNIVATES - Fundacao Vale do Taquari de Educacao e Desenvolvimento Social",
+        "pt-br": "UNIVATES - Fundacao Vale do Taquari de Educacao e Desenvolvimento Social"
     },
     "1dc37be479a979660206730275401c27d081aac2": {
         "en": "UFFS - Universidade Federal da Fronteira Sul",
@@ -535,10 +543,6 @@
         "en": "CPII - Colegio Pedro II",
         "pt-br": "CPII - Colegio Pedro II"
     },
-    "b7fa00d3ead971e1b517c51578047d597cdab7da": {
-        "en": "UFU - Universidade Federal de Uberlandia",
-        "pt-br": "UFU - Universidade Federal de Uberlandia"
-    },
     "ba8204306ce7a332d4eab90e2bf399f0553750b4": {
         "en": "UFMG - Universidade Federal de Minas Gerais",
         "pt-br": "UFMG - Universidade Federal de Minas Gerais"
@@ -578,6 +582,10 @@
     "c248556e16bc06cbb1e4a2746d3553173628936e": {
         "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
         "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
+    },
+    "c308d3690cb3797d6af4c22d4a45b5f54c3cc3fb": {
+        "en": "UFU - Universidade Federal de Uberlandia",
+        "pt-br": "UFU - Universidade Federal de Uberlandia"
     },
     "c35bf644658adf85b220428d4de461fab0e237f4": {
         "en": "IFAM - Instituto Federal de Ciencia e Tecnologia do Amazonas",
