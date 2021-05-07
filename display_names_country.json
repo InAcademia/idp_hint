@@ -1103,6 +1103,10 @@
             "en": "UTFPR - Universidade Tecnologica Federal do Parana",
             "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
         },
+        "e55f317314e25d2139d32aea3d9975c9126c6205": {
+            "en": "UFPB - Universidade Federal da Paraiba",
+            "pt-br": "UFPB - Universidade Federal da Paraiba"
+        },
         "e84a7df34f6d7b1407016dea15610f467cd75def": {
             "en": "IF SERTAO-PE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
             "pt-br": "IF SERTAO-PE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
@@ -4375,8 +4379,8 @@
             "en": "University of Rostock"
         },
         "0baa2fd0b560865824fbce6502535b2a33603cf2": {
-            "de": "FZI Forschungszentrum Informatik",
-            "en": "FZI Forschungszentrum Informatik"
+            "de": "FZI Forschungszentrum Informatik (alt)",
+            "en": "FZI Forschungszentrum Informatik (old)"
         },
         "0c6cbe3e4723415fdb3720343353684e9708d161": {
             "de": "Universität Bremen",
