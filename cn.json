@@ -87,6 +87,10 @@
         "en": "Jianghan University",
         "zh": "江汉大学(Jianghan University )"
     },
+    "0bc9127f9b60ee78233c17bd921403704fd81a31": {
+        "en": "Shanghai Business School",
+        "zh": "上海商学院(Shanghai Business School)"
+    },
     "0c018a50609076f7b95eab92b91ad5547b3f7105": {
         "en": "Beijing Institute of Petrochemical Technology",
         "zh": "北京石油化工学院(Beijing Institute of Petrochemical Technology )"
@@ -490,10 +494,6 @@
     "418994b78c2f8ab9dfb0c7b07ff407a1188b9127": {
         "en": "Huaqiao University",
         "zh": "华侨大学(Huaqiao University)"
-    },
-    "42a2e23a52d44b03de27b81d2d7eab9b5e88ce6c": {
-        "en": "Wuhan Polytechnic University",
-        "zh": "武汉轻工大学(Wuhan Polytechnic University)"
     },
     "4323683eed053abaf38bb059fd4c8b8ceb6fbb59": {
         "en": "Fujian Agriculture and Forestry University",
