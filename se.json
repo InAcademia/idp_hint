@@ -115,10 +115,6 @@
         "en": "Malmö University",
         "sv": "Malmö universitet"
     },
-    "af0106685475a3434bc4f580e9d75830e1853b1f": {
-        "en": "Swedish Museum of Natural History",
-        "sv": "Naturhistoriska riksmuseet"
-    },
     "b330d17272594bb14f3780073eeb77e832873039": {
         "en": "eduID Sweden",
         "sv": "eduID Sverige"
@@ -170,6 +166,10 @@
     "e917cfbf4f62a5ca1d23418f224a42da886fb8a8": {
         "en": "Lund University",
         "sv": "Lunds universitet"
+    },
+    "ee1a8decd87b9b8d2dd503a8cac159cee6f3603f": {
+        "en": "Swedish Museum of Natural History",
+        "sv": "Naturhistoriska riksmuseet"
     },
     "f284cd84df4a8a7b5466cd56515c3592a72bfa4b": {
         "en": "Blekinge Institute of Technology",
