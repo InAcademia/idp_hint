@@ -1471,7 +1471,7 @@
         "en": "RNN Group IDP"
     },
     "d0f3ae160f527816f03450ce5b5f2054b5eca8d5": {
-        "en": "Eastleigh College"
+        "en": "Eastleigh College (Legacy)"
     },
     "d1ffe058cece28cf2400fb845fb12ec68b733cf5": {
         "en": "Wyggeston & QEI College"
@@ -1655,6 +1655,9 @@
     },
     "ef25436b2ccc5e4486d7bb20c85c309e7467816e": {
         "en": "University of Aberdeen"
+    },
+    "ef475fa266c363a3ed0ca4dcdde5e777b293b94c": {
+        "en": "Eastleigh College"
     },
     "ef8ebb47386f9475e2fa091d566cb4ade49b5301": {
         "en": "EDINA IdP (staff and trial accounts)"
