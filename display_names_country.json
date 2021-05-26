@@ -4688,7 +4688,7 @@
         },
         "41443ae8a03ec5e337f52b868e193462caa84e99": {
             "de": "Universität Mainz",
-            "en": "Universität Mainz"
+            "en": "University of Mainz"
         },
         "41ac440f6da95b6261401113c07d7107ca17fb4e": {
             "de": "Universität Bonn",
@@ -6425,6 +6425,10 @@
         "3fc4e72066b98f68ff252db14b1bddc55f6c806e": {
             "en": "Universitat de Vic - Universitat Central de Catalunya",
             "es": "Universitat de Vic - Universitat Central de Catalunya"
+        },
+        "40256dcaeea07ad41b2a3cebdbfd1d4376b33457": {
+            "ca": "Universidad de Alicante",
+            "en": "Universidad de Alicante"
         },
         "42347e0edbc9a16ad7c155b753bd19bfdc5a3746": {
             "ca": "Consorcio para el disenyo, construccion y explotacion del Sistemade Observacion Costero de las Illes Balears",
@@ -11103,6 +11107,10 @@
         "38c4e843ecbb525ee00d3345c7227b00978d04af": {
             "en": "Maria Curie-Sklodowska University",
             "pl": "Uniwersytet Marii Curie-Skłodowskiej"
+        },
+        "3b4a2de281803a2e0622f180bbd908bd93717f74": {
+            "en": "University of Gdańsk",
+            "pl": "Uniwersytet Gdański"
         },
         "4015db6fb5fa3e6a17e491baf7b0f83b68d1ffcd": {
             "en": "Silesian University of Technology",
