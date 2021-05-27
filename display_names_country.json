@@ -1731,6 +1731,10 @@
             "en": "Pontificia Universidad Católica de Chile",
             "es": "Pontificia Universidad Católica de Chile"
         },
+        "5cda4bdbb3db21781f149deae9505acc7b2d6ad8": {
+            "en": "ID REUNA",
+            "es": "ID REUNA"
+        },
         "7c1bb96df99af0f0f80f7145b5dc0778b6a8bb47": {
             "en": "Funcionarios REUNA",
             "es": "Funcionarios REUNA"
@@ -9230,6 +9234,10 @@
         "40b2f63cb58a5c2a297913c157fc1bd35db01a14": {
             "en": "University of Piemonte Orientale",
             "it": "Università degli studi del Piemonte Orientale"
+        },
+        "431a95ac9788f53c9a3449f9748fde760f70f3ca": {
+            "en": "University of Chieti-Pescara",
+            "it": "Università degli Studi G. D'Annunzio Chieti-Pescara"
         },
         "46285dc138110b6efaa03128d0e579dcdec252d3": {
             "en": "Politecnico di Bari",
