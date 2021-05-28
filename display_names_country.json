@@ -310,17 +310,6 @@
             "en": "AAF Virtual Home"
         }
     },
-    "bd": {
-        "1bcdb04d63f1dd1ac2e706dd5dea26fff65af8b0": {
-            "en": "TIGERFed Federation"
-        },
-        "39021b9ac7bdf80618e979d4b2340d10a98c53b9": {
-            "en": "Tigerfed.com.bd"
-        },
-        "77848e472b50b916cc9765bd9e527d8cb347302e": {
-            "en": "Bangladesh Research and Education Network"
-        }
-    },
     "be": {
         "03fc98f5cce6e95b7750c20316c9b05a371e30f3": {
             "en": "University of Namur",
@@ -8446,6 +8435,10 @@
         "274274550fd16b879d35d979c4d7d6d06500dc39": {
             "en": "Hungarian University of Fine Arts",
             "hu": "Magyar Képzőművészeti Egyetem"
+        },
+        "27920f81be55e826ee41fe4ec443eb67a531024c": {
+            "en": "Sárospataki Református Teológiai Akadémia",
+            "hu": "Sárospataki Református Teológiai Akadémia"
         },
         "2a5471a5d79711fa0dd3e973c9014c963a94556d": {
             "en": "Eszterházy Károly University, Eger",
