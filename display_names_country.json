@@ -3164,6 +3164,10 @@
             "en": "Nanjing Sport Institute",
             "zh": "南京体育学院(Nanjing Sport Institute)"
         },
+        "bf4aa96f0f483d77c99137f06a71d81453590321": {
+            "en": "Harbin Medical University",
+            "zh": "哈尔滨医科大学(Harbin Medical University)"
+        },
         "bfb6a8d7699e922c9fa1a50f65e955b64e58fd8b": {
             "en": "Shihezi University",
             "zh": "石河子大学(Shihezi University)"
@@ -4024,6 +4028,10 @@
             "cs": "Univerzita Palackého v Olomouci",
             "en": "Palacky University Olomouc"
         },
+        "72fa339d1a2af80450624e92fda9732a8e28d680": {
+            "cs": "Městská knihovna Frenštát pod Radhoštěm",
+            "en": "Municipal Library Frenštát pod Radhoštěm"
+        },
         "73edb08fbd9622094fd537783ae8a4e0cbfa9673": {
             "cs": "Archeologický ústav AV ČR, Brno",
             "en": "Institute of Archeology of the Czech Academy of Sciences, Brno"
@@ -4311,6 +4319,14 @@
         "e32fd0d5ae1d82048f6b7c5747fe1c7f10cb77a6": {
             "cs": "Ústav archeologické památkové péče Brno",
             "en": "Institute of Archaeological Heritage Brno"
+        },
+        "e43987438feb26997067097f0c7fb07a8efdfd23": {
+            "cs": "Městská knihovna Chrudim",
+            "en": "Municipal Library Chrudim"
+        },
+        "e4c9f758714f54b7fa7474fcd27e2ad9eea8b204": {
+            "cs": "Městská knihovna Kostelec nad Orlicí",
+            "en": "Municipal Library in Kostelec nad Orlicí"
         },
         "e5128dddf3eded95da44f96290619907997575fe": {
             "cs": "Univerzita Tomáše Bati ve Zlíně",
