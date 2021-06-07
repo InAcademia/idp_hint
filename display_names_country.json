@@ -12045,13 +12045,13 @@
         }
     },
     "sk": {
-        "5d54fa543b065287d2785a952401697433309d3f": {
-            "en": "Slovak University of Agriculture in Nitra",
-            "sk": "Slovenská poľnohospodárska univerzita v Nitre"
-        },
         "6992d53be3c49f6b74e1ff678748e195575c5fd8": {
             "en": "Technical University in Zvolen",
             "sk": "Technická univerzita vo Zvolene"
+        },
+        "6bf13d99bcf2d4b3e045de190e2f54781d233099": {
+            "en": "Constantine the Philosopher University in Nitra",
+            "sk": "Univerzita Konštantína Filozofa v Nitre"
         },
         "e803386ad05cf6be6d35620a4c87aec54f54b224": {
             "en": "Matej Bel University",
