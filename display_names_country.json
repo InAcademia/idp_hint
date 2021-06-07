@@ -5625,10 +5625,6 @@
             "de": "Hochschule Trier",
             "en": "Trier University of Applied Sciences"
         },
-        "eeb006e7840722121903af2c8edfe6a82b33a8a2": {
-            "de": "Stiftung Tierärztliche Hochschule Hannover",
-            "en": "UNIVERSITY OF VETERINARY MEDICINE HANNOVER, FOUNDATION"
-        },
         "efdecbcbbbafcc9bdaa1e26de07279baa03a5175": {
             "de": "Helmholtz Zentrum München GmbH (HMGU)",
             "en": "Helmholtz Zentrum Muenchen GmbH (HMGU)"
@@ -12052,6 +12048,10 @@
         "5d54fa543b065287d2785a952401697433309d3f": {
             "en": "Slovak University of Agriculture in Nitra",
             "sk": "Slovenská poľnohospodárska univerzita v Nitre"
+        },
+        "6992d53be3c49f6b74e1ff678748e195575c5fd8": {
+            "en": "Technical University in Zvolen",
+            "sk": "Technická univerzita vo Zvolene"
         },
         "e803386ad05cf6be6d35620a4c87aec54f54b224": {
             "en": "Matej Bel University",
