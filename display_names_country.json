@@ -11257,6 +11257,10 @@
             "en": "Rzeszow University of Technology",
             "pl": "Politechnika Rzeszowska"
         },
+        "7a4a421481c2a78ab6418f66a648255da21d40ab": {
+            "en": "Cracow University of Technology",
+            "pl": "Politechnika Krakowska im. Tadeusza Kościuszki"
+        },
         "7f10a3ef517cf557d303b8022b40111c268e3a60": {
             "en": "Nicolaus Copernicus University in Torun",
             "pl": "Uniwersytet Mikołaja Kopernika w Toruniu"
@@ -11930,8 +11934,8 @@
             "sv": "Kungliga Tekniska högskolan (KTH)"
         },
         "e917cfbf4f62a5ca1d23418f224a42da886fb8a8": {
-            "en": "Lund University",
-            "sv": "Lunds universitet"
+            "en": "Lund University (IdP v3 - decommisioned)",
+            "sv": "Lunds universitet (IdP v3 - under avveckling)"
         },
         "ee1a8decd87b9b8d2dd503a8cac159cee6f3603f": {
             "en": "Swedish Museum of Natural History",
