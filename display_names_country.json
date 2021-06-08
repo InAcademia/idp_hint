@@ -11773,6 +11773,10 @@
             "en": "Kristianstad University Sweden",
             "sv": "Högskolan Kristianstad"
         },
+        "0f286d59da8c11c61db45c08633054b4ed4a5b64": {
+            "en": "Lund University",
+            "sv": "Lunds universitet"
+        },
         "17fb42c9ed2f03897055762e53262170d3c4788a": {
             "en": "SICS",
             "sv": "SICS"
@@ -11932,10 +11936,6 @@
         "e26e5d098f073536d0351577c98c83825f0f922c": {
             "en": "KTH Royal Institute of Technology",
             "sv": "Kungliga Tekniska högskolan (KTH)"
-        },
-        "e917cfbf4f62a5ca1d23418f224a42da886fb8a8": {
-            "en": "Lund University (IdP v3 - decommisioned)",
-            "sv": "Lunds universitet (IdP v3 - under avveckling)"
         },
         "ee1a8decd87b9b8d2dd503a8cac159cee6f3603f": {
             "en": "Swedish Museum of Natural History",
