@@ -8804,10 +8804,6 @@
             "en": "University College Cork",
             "ga": "Coláiste na hOllscoile Corcaigh"
         },
-        "9454b4963fd8a71064a4e61d475bb4c8de480607": {
-            "en": "TU Dublin -Tallaght Campus",
-            "ga": "OT Baile Átha Cliath - Campas Tamhlacht"
-        },
         "96cbc65474b6c7889ca2e45597bc2d1c9032346d": {
             "en": "Griffith College"
         },
@@ -15200,6 +15196,9 @@
         },
         "b851d121a97e4bcdfadebfd1523d40fd6efdcca7": {
             "en": "MyResearchID"
+        },
+        "b8b4e735af62b3c69965773c0b8525e2b5a41c16": {
+            "en": "Children's Hospital of Philadelphia"
         },
         "b8d9808d1a09a1acb7d6c56423a23434210a5bf1": {
             "en": "Boston University"
