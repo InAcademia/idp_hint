@@ -10479,8 +10479,8 @@
             "nl": "ROC van Amsterdam - Flevoland"
         },
         "34932e8e1f6abd0bf79c5eb8daeb1de10515f69e": {
-            "en": "Driestar Educatief",
-            "nl": "Driestar Educatief"
+            "en": "Driestar educatief",
+            "nl": "Driestar educatief"
         },
         "3ae2721c7505f508d0db41d324c76e35c0d8e2d9": {
             "en": "SRON Netherlands Institute for Space Research",
@@ -10890,6 +10890,10 @@
             "en": "Summa College",
             "nl": "Summa College"
         },
+        "eec26d1fa1b5694d1dc3fef30b7f52b460173c95": {
+            "en": "Codarts University of the Arts (MS Azure AD)",
+            "nl": "Codarts Hogeschool voor de Kunsten (MS Azure AD)"
+        },
         "efe99fffb47e3c5dd0373ed501416addae986cd3": {
             "en": "MBO Amersfoort",
             "nl": "MBO Amersfoort"
@@ -11012,7 +11016,7 @@
             "en": "Sultan Qaboos University"
         },
         "4a646ff036fe755dbd1e8050fa34caba9f78500b": {
-            "en": "University of Technology and Applied Sciences - Ibra"
+            "en": "University of Technology and Applied Sciences (Ibra)"
         },
         "4f14a6e3554ee744580ee4dbf1781888207fe7fd": {
             "en": "Shinas Vocational College"

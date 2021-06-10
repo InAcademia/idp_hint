@@ -132,8 +132,8 @@
         "nl": "ROC van Amsterdam - Flevoland"
     },
     "34932e8e1f6abd0bf79c5eb8daeb1de10515f69e": {
-        "en": "Driestar Educatief",
-        "nl": "Driestar Educatief"
+        "en": "Driestar educatief",
+        "nl": "Driestar educatief"
     },
     "3ae2721c7505f508d0db41d324c76e35c0d8e2d9": {
         "en": "SRON Netherlands Institute for Space Research",
@@ -542,6 +542,10 @@
     "ed92ad43f783d70678b9c405edcd6b802ec05e0d": {
         "en": "Summa College",
         "nl": "Summa College"
+    },
+    "eec26d1fa1b5694d1dc3fef30b7f52b460173c95": {
+        "en": "Codarts University of the Arts (MS Azure AD)",
+        "nl": "Codarts Hogeschool voor de Kunsten (MS Azure AD)"
     },
     "efe99fffb47e3c5dd0373ed501416addae986cd3": {
         "en": "MBO Amersfoort",
