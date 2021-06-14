@@ -231,10 +231,6 @@
         "en": "ROC Ter AA",
         "nl": "ROC Ter AA"
     },
-    "600f3309e2d4808eda8cb9bd7cef7528005b2b27": {
-        "en": "Codarts University of the Arts",
-        "nl": "Codarts Hogeschool voor de Kunsten"
-    },
     "6260d3a304d7a21100e5d6e8bbbb5f6af00ac2c9": {
         "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",
         "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
@@ -544,8 +540,8 @@
         "nl": "Summa College"
     },
     "eec26d1fa1b5694d1dc3fef30b7f52b460173c95": {
-        "en": "Codarts University of the Arts (MS Azure AD)",
-        "nl": "Codarts Hogeschool voor de Kunsten (MS Azure AD)"
+        "en": "Codarts University of the Arts",
+        "nl": "Codarts Hogeschool voor de Kunsten"
     },
     "efe99fffb47e3c5dd0373ed501416addae986cd3": {
         "en": "MBO Amersfoort",
