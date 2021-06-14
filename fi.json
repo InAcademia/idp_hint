@@ -47,10 +47,6 @@
         "en": "University of Helsinki",
         "sv": "Helsingfors universitet"
     },
-    "4671dbc5c5c0b28551925eded3155a21ea9ca928": {
-        "en": "Lahti University of Applied Sciences",
-        "sv": "Lahtis yrkeshögskola"
-    },
     "5b88784d0fbf530d98b964d4c97eb36033692e0b": {
         "en": "University of Vaasa",
         "sv": "Vasa Universitet"
@@ -102,6 +98,10 @@
     "a26be58d6d9a3f89f0f2bed57549a2bb4d1ff36d": {
         "en": "Tampere Universities",
         "sv": "Tampere Universities"
+    },
+    "aff014ca1b8f6358d639ae971752575c5503e2eb": {
+        "en": "Oulu University of Applied Sciences",
+        "sv": "Yrkeshögskolan i Uleåborg"
     },
     "b13e61a7512b46cd75e41e62e4275e23a2fd9733": {
         "en": "Finnish Environment Institute",
