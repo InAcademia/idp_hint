@@ -5440,6 +5440,10 @@
             "de": "Internationale Psychoanalytische Universität Berlin (IPU)",
             "en": "International Psychoanalytic University Berlin (IPU)"
         },
+        "b731a8a9314f62f9320c9ea1f402140bc42def2f": {
+            "de": "NORDAKADEMIE Elmshorn",
+            "en": "NORDAKADEMIE Elmshorn"
+        },
         "b7be0ae7904627ec23261785340a7754f1978dd5": {
             "de": "Max-Planck-Institut für Informatik",
             "en": "Max Planck Institute for Informatics"
@@ -5575,10 +5579,6 @@
         "d4d86ee028ae4ff3f98ffd7e700a20709c026b12": {
             "de": "Hochschule Düsseldorf (Generation 1)",
             "en": "Hochschule Düsseldorf (Gen 1)"
-        },
-        "d6a9b6f6e5d10f8dcb34f01c153560fd3c04fc86": {
-            "de": "(do not yet use) Hochschule Karlsruhe - Technik und Wirtschaft",
-            "en": "(do not yet use) University of Applied Sciences Karlsruhe, Germany"
         },
         "d88fe7722d496e6ce00645e8b2a7ff56c8b5e33f": {
             "de": "Hochschule für Musik Freiburg",
@@ -8123,6 +8123,10 @@
         "f6a059dab40b8813389547662102e7612acd5b27": {
             "en": "ENIB - Ecole Nationale d'Ingénieurs de Brest",
             "fr": "ENIB - Ecole Nationale d'Ingénieurs de Brest"
+        },
+        "f75c3e90cd9ae5275022b6894ef6b300abdd65d5": {
+            "en": "Ecole Nationale Supérieure de Paysage Versailles-Marseille",
+            "fr": "Ecole Nationale Supérieure de Paysage Versailles-Marseille"
         },
         "f76db532f54ad6e3d8d747d9d2793ce694c649b0": {
             "en": "IHES - Institut des Hautes Études Scientifiques",
