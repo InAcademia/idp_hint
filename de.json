@@ -183,6 +183,10 @@
         "de": "Technische Universität Clausthal",
         "en": "Technische Universität Clausthal"
     },
+    "212ab5e00600db24b34af3e59b333f37fd2db0ae": {
+        "de": "DHBW Karlsruhe",
+        "en": "DHBW Karlsruhe"
+    },
     "21d3289c305efda574d286241b393a1523ce0596": {
         "de": "Universität Kassel",
         "en": "Universität Kassel"
@@ -234,10 +238,6 @@
     "270ea905968070367b8b2f23fbb0b69c63c1d74d": {
         "de": "Hochschule Albstadt-Sigmaringen",
         "en": "Albstadt-Sigmaringen University of Applied Sciences"
-    },
-    "2731090c506fedf7af76686662c5f98caab177e2": {
-        "de": "DHBW Karlsruhe",
-        "en": "DHBW Karlsruhe"
     },
     "283050220a8abace51559e6babb37fa76859c62a": {
         "de": "Fritz-Haber-Institut",
@@ -1310,6 +1310,10 @@
     "fc00a9618c2dbdf380d407372e32510bbb9383ec": {
         "de": "MfN - Berlin",
         "en": "MfN - Berlin"
+    },
+    "fc2bad58c418dd813d98aa976687170c8b00c4cc": {
+        "de": "Folkwang Universität der Künste",
+        "en": "Folkwang University of the Arts"
     },
     "fe2821e8d6a88c5b48aec2add29fad84a86c5feb": {
         "de": "Hochschule Bremen",
