@@ -888,6 +888,10 @@
             "en": "ITA - Instituto Tecnologico de Aeronautica",
             "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
         },
+        "91343cae85ef3ff737667c1af0163f7ea32fd7cc": {
+            "en": "IFAC - Instituto Federal do Acre",
+            "pt-br": "IFAC - Instituto Federal do Acre"
+        },
         "926213059b5f7fd0a7151f802951811a976e01da": {
             "en": "SOBERANA - Faculdade de Saude de Petrolina",
             "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
@@ -1173,8 +1177,8 @@
             "pt-br": "UFPB - Universidade Federal da Paraiba"
         },
         "e84a7df34f6d7b1407016dea15610f467cd75def": {
-            "en": "IF SERTAO-PE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
-            "pt-br": "IF SERTAO-PE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
+            "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
+            "pt-br": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
         },
         "e8cc9ae0cb1e8028a42e6faafb2c466a609638e8": {
             "en": "ENAP - Escola Nacional de Administracao Publica",
@@ -1223,6 +1227,10 @@
         "f569edcfafd4fd03e0473b6e1a4c574e975be205": {
             "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - IPEN",
             "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - IPEN"
+        },
+        "f727fe17e7745c8fa165e9d05ac19d8cdc28940f": {
+            "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
+            "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
         },
         "f7a7bd1d75db7b10370d15c0c5d29b78223cc73d": {
             "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
@@ -2619,6 +2627,10 @@
             "en": "Guangdong Pharmaceutical University",
             "zh": "广东药科大学(Guangdong Pharmaceutical University)"
         },
+        "62d7d398b66e1c7086c3b571b49da791df63b0ba": {
+            "en": "Xi'an University of Finance and Economics",
+            "zh": "西安财经大学(Xi'an University of Finance and Economics)"
+        },
         "630b397d3750f2a92fe323956053671871214b0d": {
             "en": "Tongling University",
             "zh": "铜陵学院(Tongling University)"
@@ -3767,6 +3779,9 @@
             "el": "ΚΕΑΔ",
             "en": "CYNET"
         },
+        "4aafd699055c4eeb751e86247fcd52bcf233c653": {
+            "en": "Cyprus University of Technology"
+        },
         "582e7f47d824d4c879c5bcd28787e961c4292693": {
             "en": "Neapolis University Pafos"
         },
@@ -4635,6 +4650,10 @@
         "1c4e6387a1fdb7935dc35ae4871309351633b627": {
             "de": "Bundesinstitut für Arzneimittel und Medizinprodukte",
             "en": "Federal Institute for Drugs and Medical Devices"
+        },
+        "1cec219c8cc5baf8187ac7d4990a6e654e182524": {
+            "de": "DHBW Heilbronn",
+            "en": "DHBW Heilbronn"
         },
         "1cee774d9a3938fad439becbca8e7d085ceace1a": {
             "de": "Technische Hochschule Lübeck",
@@ -9241,6 +9260,9 @@
         "db6683c356837376295f8c74389de624d6200261": {
             "en": "Vellalar College For Women"
         },
+        "e90b6dd9b69f830db529259f086086ed277d4f6b": {
+            "en": "Birla Vishvakarma Mahavidyalaya (BVM) Engineering College"
+        },
         "ea085bf79791d21b771c1c2e83ce3f7afa136fab": {
             "en": "CEPT University"
         },
@@ -12230,6 +12252,10 @@
             "en": "Technical University of Košice",
             "sk": "Technická univerzita v Košiciach"
         },
+        "5d54fa543b065287d2785a952401697433309d3f": {
+            "en": "Slovak University of Agriculture in Nitra",
+            "sk": "Slovenská poľnohospodárska univerzita v Nitre"
+        },
         "6992d53be3c49f6b74e1ff678748e195575c5fd8": {
             "en": "Technical University in Zvolen",
             "sk": "Technická univerzita vo Zvolene"
@@ -14770,6 +14796,9 @@
         },
         "5f96f987b94b819fcca3af5c3d944c6d2e3c4f2b": {
             "en": "The Moody Bible Institute of Chicago"
+        },
+        "603ecefe958eac02f11c7f71790a7490a81f084c": {
+            "en": "University of Louisville (New)"
         },
         "60a5681d28b5b38bd45178a54d90451228c8e4a9": {
             "en": "Yale University"
