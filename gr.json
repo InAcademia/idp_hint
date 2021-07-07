@@ -1,4 +1,8 @@
 {
+    "00d565943be4bdcb74938af04832e8e9ff2d7909": {
+        "el": "HEAL-Link",
+        "en": "HEAL-Link"
+    },
     "0197436d46fe2667df45c6ae2617a79077a447e3": {
         "el": "Ιόνιο Πανεπιστήμιο",
         "en": "Ionian University"
@@ -158,6 +162,10 @@
     "780c302de5a01ded20784bdc7e18e9dc2a3d2847": {
         "el": "Πανεπιστήμιο Δυτικής Αττικής",
         "en": "University of West Attica"
+    },
+    "785ca3d5f499542e350e2b7590213723898224bd": {
+        "el": "Εικονικός Οικείος Φορέας (VHO) του ΕΔΕΤ για το GÉANT",
+        "en": "GRNET Virtual Home Organization (VHO) for GÉANT"
     },
     "7905847ea95b1ef2fcb2f15fa959707f2f5e9f6b": {
         "el": "Πανεπιστήμιο Πειραιώς",
