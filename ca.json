@@ -18,9 +18,6 @@
     "21945dc111120263c3eb88151fb7aa7d58be81d3": {
         "en": "College of the Rockies"
     },
-    "22f47254950c65028660baaf5913da7e65fe9ea1": {
-        "en": "Tele-Universite (TELUQ) (du Quebec)"
-    },
     "25ae6cd7d8ad0a7ab65aba47b9e66a116bff82fc": {
         "en": "Confederation College of Applied Arts and Technology"
     },
@@ -294,6 +291,10 @@
     },
     "f3a3954defde26a103157276bda5335467ba28c9": {
         "en": "University of Ottawa"
+    },
+    "f56b68a0e15afa25c94d5240dc0fca392fe1fd2e": {
+        "en": "TELUQ University",
+        "fr": "Université TELUQ"
     },
     "f5f420ac81d9d8e1d38a2b783e0bfdd95d9d3ed7": {
         "en": "BCNET"
