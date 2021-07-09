@@ -279,6 +279,10 @@
         "en": "Antoni van Leeuwenhoek - Netherlands Cancer Institute",
         "nl": "Antoni van Leeuwenhoek - Nederlands Kanker Instituut"
     },
+    "852a417caadd2225496b583962c432ec8b84212e": {
+        "en": "SURFnet bv",
+        "nl": "SURFnet bv"
+    },
     "85432a8ea72ea549693bc5d15f6e7887c3bf045b": {
         "en": "Academisch Medisch Centrum (AMC)",
         "nl": "Academisch Medisch Centrum (AMC)"
@@ -314,6 +318,9 @@
     "9705b81df14a935ea0542c4e8f19532b3011a484": {
         "en": "Hogeschool de Kempel",
         "nl": "Hogeschool de Kempel"
+    },
+    "989f8ec9fa9840e812fc60275c66595e84829d3d": {
+        "en": "http://sts.deltares.nl/adfs/services/trust"
     },
     "99ecf1c75e35375947a698b71cdf7f61e9303b6b": {
         "en": "Grafisch Lyceum Rotterdam",
