@@ -12307,6 +12307,10 @@
         }
     },
     "tr": {
+        "09050469efcaa4e80c3e4aa5ee7144fc812bc367": {
+            "en": "Sivas University Of Science And Technology",
+            "tr": "Sivas Bilim ve Teknoloji Üniversitesi"
+        },
         "3517a12a9400d426cf085a4055fdb92cd081daf5": {
             "en": "TED University",
             "tr": "TED Üniversitesi"
@@ -12322,10 +12326,6 @@
         "801e04cdf18ad62d882d2ea7e9cb69d62aad5b27": {
             "en": "ULAKBIM",
             "tr": "ULAKBİM"
-        },
-        "8ee1069a36114563feb6147e58361057ca1fb4bb": {
-            "en": "Sivas University Of Science And Technology",
-            "tr": "Sivas Bilim ve Teknoloji Üniversitesi"
         },
         "c151a78b2680068cecf194d978aa6a0baa591f07": {
             "en": "Burdur Mehmet Akif Ersoy University",
