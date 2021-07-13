@@ -19,10 +19,6 @@
         "en": "National Institute for Public Health and the Environment",
         "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
     },
-    "1b3fdeb6eebe5d7f8bbdcafa5119c530f922cc92": {
-        "en": "NHL Hogeschool",
-        "nl": "NHL Hogeschool"
-    },
     "1d51a4f3089f048c8bcd9bbb2846e0738a191ad5": {
         "en": "University of Twente",
         "nl": "Universiteit Twente"
@@ -139,6 +135,10 @@
         "en": "The Hague University of Applied Science (THUAS)",
         "nl": "De Haagse Hogeschool (HHS)"
     },
+    "9058c1b1f7a7b079edf082e96ec4a2f5dd09e01b": {
+        "en": "SURF (New)",
+        "nl": "SURF (Nieuw)"
+    },
     "9601dd87ccbed673ad79e6efdd3266d9241c05af": {
         "en": "Royal Academy of Art",
         "nl": "Koninklijke Academie van Beeldende Kunsten"
@@ -183,10 +183,6 @@
         "en": "University of Groningen",
         "nl": "Rijksuniversiteit Groningen"
     },
-    "c3ad60cbd44be043eb01a1634f5b5b679f6c5c27": {
-        "en": "Stenden Hogeschool",
-        "nl": "Stenden Hogeschool"
-    },
     "c755a79adb776c7c1a1338819282cb4657e5dde9": {
         "en": "Van Hall Larenstein, University of Applied Sciences",
         "nl": "Hogeschool Van Hall Larenstein"
@@ -230,6 +226,10 @@
     "ecf58424b1ab9ef5bf798534ca9189132077e2b4": {
         "en": "Hogeschool Utrecht",
         "nl": "Hogeschool Utrecht"
+    },
+    "eec26d1fa1b5694d1dc3fef30b7f52b460173c95": {
+        "en": "Codarts University of the Arts",
+        "nl": "Codarts Hogeschool voor de Kunsten"
     },
     "efe99fffb47e3c5dd0373ed501416addae986cd3": {
         "en": "MBO Amersfoort",
