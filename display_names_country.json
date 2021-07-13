@@ -175,6 +175,10 @@
             "de": "Naturhistorisches Museum Wien (NHM)",
             "en": "Natural History Museum Vienna (NHM)"
         },
+        "b5e9e165112915268770518cc01e106bf33cbb31": {
+            "de": "KHM-Museumsverband",
+            "en": "KHM-Museumsverband"
+        },
         "b77bf8d27da5110011b63da4e0e3b2664f870904": {
             "de": "Fachhochschule Kufstein",
             "en": "University of Applied Science Kufstein"
@@ -3479,6 +3483,10 @@
         "dc28b79f1eb1aa227d59c8ff57636f75ad4e5184": {
             "en": "Hebei University of Technology",
             "zh": "河北工业大学(Hebei University of Technology)"
+        },
+        "dc4566e6760325f7807b2806248a84164b3f8027": {
+            "en": "Nanjing  Medical University",
+            "zh": "南京医科大学(Nanjing  Medical University)"
         },
         "dc99051b385e9ca45c12b4a22dc30219b50b87a8": {
             "en": "Zhejiang Gongshang University",
@@ -12328,6 +12336,10 @@
             "en": "ULAKBIM",
             "tr": "ULAKBİM"
         },
+        "8fb256ec405a162a86721527a8ea13505fdfaeff": {
+            "en": "Manisa Celal Bayar University",
+            "tr": "Manisa Celal Bayar Üniversitesi"
+        },
         "c151a78b2680068cecf194d978aa6a0baa591f07": {
             "en": "Burdur Mehmet Akif Ersoy University",
             "tr": "Burdur Mehmet Akif Ersoy Üniversitesi"
@@ -14332,9 +14344,6 @@
         "15f7d75ee9ae3434674dce73ba4ae1d6983e1738": {
             "en": "University of Houston-Downtown"
         },
-        "163dd542cded9b5e9f6deb42b29238071c8b95a3": {
-            "en": "SUNY The College at Brockport"
-        },
         "167bdf11e61ac16c6a58e644f73f08834543e4c8": {
             "en": "Fort Lewis College"
         },
@@ -14970,9 +14979,6 @@
         },
         "740f0e79278750b2aabfb4c032a3e33849e42f01": {
             "en": "Texas Tech University"
-        },
-        "7441de422da7a6766b4d5614a54536f8a1dd886f": {
-            "en": "Drew University"
         },
         "745374f9041e3a9e90b8594939442da709ee5294": {
             "en": "University of Texas Health Science Center At Tyler"
